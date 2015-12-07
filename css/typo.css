@@ -1,0 +1,29 @@
+body{
+    color:#333333;
+    /*Шрифт  Lato сюда нужно подключить*/
+}
+/* DEFAULT */
+.bold{font-weight: bold;}
+.italic{font-style: italic;}
+.underline{text-decoration: underline;}
+.cursor-pointer{cursor:pointer;}
+.text-left{text-align: left;}
+.text-center{text-align: center;}
+.text-right{text-align: right;}
+.text-justify{text-align: justify;}
+.smallcaps{font-variant: small-caps;}
+.uppercase{text-transform:uppercase;}
+.lowercase{text-transform:lowercase;}
+.capitalize{text-transform:capitalize;}
+.ls-0{letter-spacing: 0px;}
+.ls-1{letter-spacing: 1px;}
+.ls-2{letter-spacing: 2px;}
+/* CUSTOM */
+.color-teal{color:#008080;}/*Именование цветов по стандартным css-именам*/
+.color-white{color:#fff;}
+.size-1{font-size:18px;}
+.size-2{font-size:14px;}
+.size-3{font-size:12px;}
+.size-4{font-size:10px;}
+.size-5{font-size:8px;}
+.line-h1{line-height:24px;}
