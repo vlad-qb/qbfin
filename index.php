@@ -5,6 +5,7 @@
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <title>QBF - Guideline</title>
+      <link href="css/reset.css" rel="stylesheet">
       <link href="css/grid.css" rel="stylesheet">
       <link href="css/typo.css" rel="stylesheet">
       <link href="css/icons.css" rel="stylesheet">
