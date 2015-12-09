@@ -2,3 +2,48 @@
     width:33px;
     height:33px;
 }
+
+.icon-menu{
+    width:45px;
+    height:40px;
+}
+
+.icon-main{
+    width:50px;
+    height:50px;
+}
+
+.icon-contacts{
+    width:60px;
+    height:60px;
+}
+
+.icon-portfolio{
+	width:70px;
+    height:70px;
+}
+
+.icon-mission{
+    width:230px;
+    height:100px;
+}
+
+.icon-archive{
+    width:115px;
+    height:115px;
+}
+
+.icon-services{
+	width:100px;
+    height:100px;
+}
+
+.arrow{
+    width:90px;
+    height:70px;
+}
+
+.color-lines{
+    width:330px;
+    height:8px;
+}

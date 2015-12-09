@@ -1,0 +1,14 @@
+.header{
+    background-color: white;
+    opacity: 0.95;
+}
+#menu-mobile{
+    background-color: white;
+    opacity: 0.95;
+}
+.border-grey-top{
+    border-top:1px solid #ebeceb;
+}
+.border-grey-bottom{
+    border-bottom:1px solid #ebeceb;
+}

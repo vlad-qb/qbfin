@@ -9,6 +9,7 @@
       <link href="css/grid.css" rel="stylesheet">
       <link href="css/typo.css" rel="stylesheet">
       <link href="css/icons.css" rel="stylesheet">
+      <link href="css/bg.css" rel="stylesheet">
       <link href="css/gallery.css" rel="stylesheet">
       <link href="css/blocks.css" rel="stylesheet">
       <link href="css/forms.css" rel="stylesheet">
@@ -20,13 +21,13 @@
       <![endif]-->
       <style type="text/css">
         body{
-          font-family: 'LatoRegular', sans-serif;
+          font-family: 'LatoLight', sans-serif;
           @font-face {
-              font-family: 'LatoRegular';
-              src: url('fonts/LatoRegular/LatoRegular.eot');
-              src: url('fonts/LatoRegular/LatoRegular.eot?#iefix')format('embedded-opentype'),
-              url('fonts/LatoRegular/LatoRegular.woff') format('woff'),
-              url('fonts/LatoRegular/LatoRegular.ttf') format('truetype');
+              font-family: 'LatoLight';
+              src: url('fonts/LatoLight/LatoLight.eot');
+              src: url('fonts/LatoLight/LatoLight.eot?#iefix')format('embedded-opentype'),
+              url('fonts/LatoLight/LatoLight.woff') format('woff'),
+              url('fonts/LatoLight/LatoLight.ttf') format('truetype');
               font-style: normal;
               font-weight: normal;
           }
@@ -34,13 +35,29 @@
       </style>
     </head>
     <body>
-      <div class="container">
-        <a href="index.php?grid">Сетка</a>
+      <div id="menu-mobile" class="size-3 uppercase">
+        <a class="active" href="index.php?grid">Сетка</a>
         <a href="index.php?typo">Типография</a>
         <a href="index.php?icons">Иконки</a>
         <a href="index.php?gallery">Галерея</a>
         <a href="index.php?blocks">Блоки</a>
         <a href="index.php?forms">Формы</a>
+      </div>
+      <div class="header">
+        <div id="logo">
+          <img src="img/logo.jpg" alt="QBF Investment" />
+        </div>
+        <div id="menu" class="size-3 uppercase">
+          <a class="active" href="index.php?grid">Сетка</a>
+          <a href="index.php?typo">Типография</a>
+          <a href="index.php?icons">Иконки</a>
+          <a href="index.php?gallery">Галерея</a>
+          <a href="index.php?blocks">Блоки</a>
+          <a href="index.php?forms">Формы</a>
+        </div>
+      </div>
+      <div class="header-placeholder"></div>
+      <div class="container">
         <p>
             <?php
                 if(isset($_GET['grid'])) include 'grid.html';

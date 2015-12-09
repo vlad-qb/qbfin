@@ -34,3 +34,28 @@ a:hover{color:#008080;}
 .inverse a:hover{color:#ccc;}
 .gray-hover:hover{color:#999;}
 .dark-gray-hover:hover{color:#999;}
+
+
+.line-h2{line-height:60px;}
+#menu{line-height: 80px;padding-top: 4px;}
+#menu a{padding: 0 10px;}
+#menu-mobile a{
+    display:block;
+    text-align: center;
+    line-height: 60px;
+}
+#menu-bottom{
+    padding-top: 20px;
+}
+#company{
+    padding-top: 15px;
+    padding-bottom: 10px;
+}
+#menu-bottom a{
+    text-align: center;
+    padding: 0 10px;
+    margin-bottom: 10px;
+
+}
+a.active{color:#008080;}
+
