@@ -21,7 +21,7 @@
       <![endif]-->
       <style type="text/css">
         body{
-          font-family: 'LatoLight', sans-serif;
+          font-family: 'LatoLight',Helvetica, sans-serif;
           @font-face {
               font-family: 'LatoLight';
               src: url('fonts/LatoLight/LatoLight.eot');
@@ -35,41 +35,22 @@
       </style>
     </head>
     <body>
-      <div id="menu-mobile" class="size-3 uppercase">
-        <a class="active" href="index.php?grid">Сетка</a>
-        <a href="index.php?typo">Типография</a>
-        <a href="index.php?icons">Иконки</a>
-        <a href="index.php?gallery">Галерея</a>
-        <a href="index.php?blocks">Блоки</a>
-        <a href="index.php?forms">Формы</a>
-      </div>
-      <div class="header">
-        <div id="logo">
-          <img src="img/logo.jpg" alt="QBF Investment" />
-        </div>
-        <div id="menu" class="size-3 uppercase">
-          <a class="active" href="index.php?grid">Сетка</a>
-          <a href="index.php?typo">Типография</a>
-          <a href="index.php?icons">Иконки</a>
-          <a href="index.php?gallery">Галерея</a>
-          <a href="index.php?blocks">Блоки</a>
-          <a href="index.php?forms">Формы</a>
-        </div>
-      </div>
-      <div class="header-placeholder"></div>
-      <div class="container">
+      <?php include 'html/header.html';?>
+      <div class="column-container">
         <p>
             <?php
-                if(isset($_GET['grid'])) include 'grid.html';
-                elseif(isset($_GET['typo'])) include 'typo.html';
-                elseif(isset($_GET['icons'])) include 'icons.html';
-                elseif(isset($_GET['gallery'])) include 'gallery.html';
-                elseif(isset($_GET['blocks'])) include 'blocks.html';
-                elseif(isset($_GET['forms'])) include 'forms.html';
-                else include 'grid.html';
+                if(isset($_GET['grid'])) include 'html/guideline/grid.html';
+                elseif(isset($_GET['typo'])) include 'html/guideline/typo.html';
+                elseif(isset($_GET['icons'])) include 'html/guideline/icons.html';
+                elseif(isset($_GET['gallery'])) include 'html/guideline/gallery.html';
+                elseif(isset($_GET['blocks'])) include 'html/guideline/blocks.html';
+                elseif(isset($_GET['forms'])) include 'html/guideline/forms.html';
+                else include 'html/guideline/grid.html';
             ?>
         </p>
       </div>
+      <?php include 'html/footer.html';?>
       <script src="js/jquery.min.js"></script>
+      <script src="js/main.js"></script>
     </body>
   </html>

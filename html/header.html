@@ -1,0 +1,99 @@
+<style type="text/css">
+.header{
+    position: fixed;
+    width: 100%;
+    height: 80px;
+}
+.header-placeholder{
+   width: 100%;
+   height: 80px;
+}
+#logo{
+    float: left;
+}
+#logo img{
+  width: 350px;
+  margin-top: 20px;
+  margin-left: 40px;
+}
+#menu{
+    margin-right: 30px;
+    float: right;
+}
+#menu-mobile{
+    position: absolute;
+    width: 100%;
+    top:-800px;
+    height:800px;
+}
+#menu{line-height: 80px;padding-top: 4px;}
+#menu a{padding: 0 10px;}
+#menu-mobile a{
+display:block;
+text-align: center;
+line-height: 60px;
+}
+@media screen and (min-width: 1200px) {
+    #logo img{width: 350px;}
+    #menu{display: block;}
+    #menuMobile{display: none;}
+}
+@media screen and (max-width: 1200px) {
+    #logo img{width: 350px;}
+    #menu{display: none;}
+    #menuMobile{display: block;}
+}
+@media screen and (max-width: 768px) {
+    #logo img{width: 350px;}
+    #menuMobile{display: block;}
+    #menu{display: none;}
+}
+@media screen and (max-width: 480px) {
+    #logo img{
+        width: 300px;
+        margin-top: 20px;
+        margin-left: 10px;
+    }
+    #menuMobile{display: block;}
+    #menu{display: none;}
+}
+@media screen and (max-width: 375px) {
+    #logo img{
+        width: 250px;
+        margin-top: 20px;
+        margin-left: 20px;
+    }
+    #menuMobile{display: block;}
+    #menu{display: none;}
+}
+</style>
+<div id="menu-mobile" class="size-12 uppercase">
+  <div class="w100r">
+    <img class="icon icon-main w30 h30 r mt30 mr30 cursor-pointer" src="img/icons/close-icon.png" onClick="menu.slideUp();">
+  </div>
+  <div class="clearfix"></div>
+  <a class="active" href="index.php?grid">Сетка</a>
+  <a href="index.php?typo">Типография</a>
+  <a href="index.php?icons">Иконки</a>
+  <a href="index.php?gallery">Галерея</a>
+  <a href="index.php?blocks">Блоки</a>
+  <a href="index.php?forms">Формы</a>
+</div>
+<div class="header">
+  <div id="logo">
+    <img src="img/logo.jpg" alt="QBF Investment" />
+  </div>
+  <div id="menuMobile" class="r mt20 mr30 cursor-pointer" onClick="menu.slideDown();">
+    <img class="icon icon-main w30 h30" src="img/icons/menu-icon.png">
+  </div>
+  <div id="menu" class="size-12 uppercase">
+    <a class="active" href="index.php?grid">Сетка</a>
+    <a href="index.php?typo">Типография</a>
+    <a href="index.php?icons">Иконки</a>
+    <a href="index.php?gallery">Галерея</a>
+    <a href="index.php?blocks">Блоки</a>
+    <a href="index.php?forms">Формы</a>
+  </div>
+  <div class="clearfix"></div>
+</div>
+<div class="header-placeholder"></div>

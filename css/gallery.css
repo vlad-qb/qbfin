@@ -1,0 +1,534 @@
+/*styles*/
+/*.fixed{
+    background-attachment: fixed;
+}
+
+.contain{
+    background-size: contain;
+}*/
+
+/* company.html */
+.img-company-1{
+    background: url(/img/bg/company-1.jpg);
+}
+.img-company-2{
+    background: url(/img/bg/company-2.jpeg);
+}
+.img-company-3{
+    background: url(/img/bg/company-3.jpeg);
+}
+.img-company-4{
+    background: url(/img/bg/company-4.jpeg);
+}
+.img-company-5{
+    background: url(/img/bg/company-5.jpeg);
+}
+.img-company-6{
+    background: url(/img/bg/company-6.jpeg);
+}
+.img-company-7{
+    background: url(/img/bg/company-7.jpeg);
+}
+.img-company-8{
+    background: url(/img/bg/company-8.jpeg);
+}
+.img-company-9{
+    background: url(/img/bg/company-9.jpeg);
+}
+
+
+/* about.html */
+.img-about-1{
+    background: url(/img/bg/about-1.jpeg);
+}
+.img-about-2{
+    background: url(/img/bg/about-2.jpeg);
+}
+.img-about-3{
+    background: url(/img/bg/about-3.jpeg);
+}
+.img-about-4{
+    background: url(/img/bg/about-4.jpeg);
+}
+.img-about-5{
+    background: url(/img/bg/about-5.jpeg);
+}
+.img-about-6{
+    background: url(/img/bg/about-ava-1.png);
+}
+.img-about-7{
+    background: url(/img/bg/about-ava-2.png);
+}
+.img-about-8{
+    background: url(/img/bg/about-ava-3.png);
+}
+.img-about-9{
+    background: url(/img/bg/about-ava-4.png);
+}
+
+/* mission.html */
+.img-mission-1{
+    background: url(/img/bg/mission-1.jpg);
+}
+.img-mission-2{
+    background: url(/img/bg/mission-2.jpeg);
+}
+.img-mission-3{
+    background: url(/img/bg/mission-3.jpeg);
+}
+.img-mission-4{
+    background: url(/img/bg/mission-4.jpeg);
+}
+
+/* history.html */
+.img-history-1{
+    background: url(/img/bg/history-1.jpg);
+}
+.img-history-2{
+    background: url(/img/bg/history-2.jpeg);
+}
+
+/* team.html */
+.img-team-1{
+    background: url(/img/bg/team-1.jpg);
+}
+.img-team-2{
+    background: url(/img/bg/team-2.png);
+}
+.img-team-3{
+    background: url(/img/bg/team-3.png);
+}
+.img-team-4{
+    background: url(/img/bg/team-4.png);
+}
+.img-team-5{
+    background: url(/img/bg/team-5.png);
+}
+.img-team-6{
+    background: url(/img/bg/team-6.png);
+}
+.img-team-7{
+    background: url(/img/bg/team-7.png);
+}
+.img-team-8{
+    background: url(/img/bg/team-8.png);
+}
+.img-team-9{
+    background: url(/img/bg/team-9.png);
+}
+
+/* clients-and-partners.html */
+.img-clients-1{
+    background: url(/img/bg/clients-1.jpeg);
+}
+.img-clients-2{
+    background: url(/img/bg/clients-2.jpeg);
+}
+
+/* awards-and-ratings.html */
+.img-awards-1{
+    background: url(/img/bg/awards-1.jpg);
+}
+.img-awards-2{
+    background: url(/img/bg/awards-2.jpg);
+}
+.img-awards-3{
+    background: url(/img/bg/awards-3.jpg);
+}
+.img-awards-4{
+    background: url(/img/bg/awards-4.jpg);
+}
+.img-awards-5{
+    background: url(/img/bg/awards-5.jpg);
+}
+.img-awards-6{
+    background: url(/img/bg/awards-6.jpg);
+}
+.img-awards-7{
+    background: url(/img/bg/awards-7.jpg);
+}
+
+/* branch-office.html */
+.img-branch-office-1{
+    background: url(/img/bg/branch-office-1.jpeg);
+}
+.img-branch-office-2{
+    background: url(/img/bg/branch-office-2.png);
+}
+.img-branch-office-3{
+    background: url(/img/bg/branch-office-3.png);
+}
+.img-branch-office-4{
+    background: url(/img/bg/branch-office-4.png);
+}
+.img-branch-office-5{
+    background: url(/img/bg/branch-office-5.png);
+}
+
+/* documents.html */
+.img-documents-1{
+    background: url(/img/bg/documents-1.jpeg);
+}
+.img-documents-2{
+    background: url(/img/bg/documents-2.jpeg);
+}
+.img-documents-3{
+    background: url(/img/bg/documents-3.jpeg);
+}
+.img-documents-4{
+    background: url(/img/bg/documents-4.jpeg);
+}
+.img-documents-5{
+    background: url(/img/bg/documents-5.jpeg);
+}
+.img-documents-6{
+    background: url(/img/bg/documents-6.jpeg);
+}
+.img-documents-7{
+    background: url(/img/bg/documents-7.jpeg);
+}
+
+/* service.html */
+.img-service-1{
+    background: url(/img/bg/service-1.jpeg);
+}
+.img-service-2{
+    background: url(/img/bg/service-2.jpg);
+}
+.img-service-3{
+    background: url(/img/bg/service-3.jpg);
+}
+.img-service-4{
+    background: url(/img/bg/service-4.jpeg);
+}
+
+/* asset-management.html */
+.img-asset-management-1{
+    background: url(/img/bg/asset-management-1.jpeg);
+}
+.img-asset-management-2{
+    background: url(/img/bg/asset-management-2.jpeg);
+}
+
+/* consulting-management.html */
+.img-consulting-management-1{
+    background: url(/img/bg/consulting-management-1.jpeg);
+}
+.img-consulting-management-2{
+    background: url(/img/bg/consulting-management-2.jpeg);
+}
+.img-consulting-management-3{
+    background: url(/img/bg/consulting-management-3.jpeg);
+}
+.img-consulting-management-4{
+    background: url(/img/bg/consulting-management-4.jpeg);
+}
+
+/* real-estate.html */
+.img-real-estate-1{
+    background: url(/img/bg/real-estate-1.jpeg);
+}
+.img-real-estate-2{
+    background: url(/img/bg/real-estate-2.jpeg);
+}
+
+/* analytics.html */
+.img-analytics-1{
+    background: url(/img/bg/analytics-1.jpeg);
+}
+.img-analytics-2{
+    background: url(/img/bg/analytics-2.jpeg);
+}
+.img-analytics-3{
+    background: url(/img/bg/analytics-3.jpeg);
+}
+.img-analytics-4{
+    background: url(/img/bg/analytics-4.jpeg);
+}
+.img-analytics-5{
+    background: url(/img/bg/analytics-5.jpeg);
+}
+
+/* markets.html */
+.img-markets-1{
+    background: url(/img/bg/markets-1.jpeg);
+}
+.img-markets-2{
+    background: url(/img/bg/markets-2.jpeg);
+}
+.img-markets-3{
+    background: url(/img/bg/markets-3.jpeg);
+}
+.img-markets-4{
+    background: url(/img/bg/markets-4.jpeg);
+}
+.img-markets-5{
+    background: url(/img/bg/markets-5.jpeg);
+}
+
+/* shares.html */
+.img-shares-1{
+    background: url(/img/bg/shares-1.jpeg);
+}
+.img-shares-2{
+    background: url(/img/bg/shares-2.jpeg);
+}
+.img-shares-3{
+    background: url(/img/bg/shares-3.jpeg);
+}
+.img-shares-4{
+    background: url(/img/bg/shares-4.jpeg);
+}
+.img-shares-5{
+    background: url(/img/bg/shares-5.jpeg);
+}
+.img-shares-6{
+    background: url(/img/bg/shares-6.jpeg);
+}
+.img-shares-7{
+    background: url(/img/bg/shares-7.jpeg);
+}
+
+/* reviews.html */
+.img-reviews-1{
+    background: url(/img/bg/reviews-1.jpeg);
+}
+.img-reviews-2{
+    background: url(/img/bg/reviews-2.jpg);
+}
+.img-reviews-3{
+    background: url(/img/bg/reviews-3.jpg);
+}
+.img-reviews-4{
+    background: url(/img/bg/reviews-4.jpg);
+}
+.img-reviews-5{
+    background: url(/img/bg/reviews-5.jpg);
+}
+.img-reviews-6{
+    background: url(/img/bg/reviews-6.jpg);
+}
+.img-reviews-7{
+    background: url(/img/bg/reviews-7.jpg);
+}
+
+/* expert.html */
+.img-expert-1{
+    background: url(/img/bg/expert-1.jpeg);
+}
+.img-expert-2{
+    background: url(/img/bg/expert-2.jpeg);
+}
+.img-expert-3{
+    background: url(/img/bg/expert-3.jpg);
+}
+.img-expert-4{
+    background: url(/img/bg/expert-4.jpg);
+}
+.img-expert-5{
+    background: url(/img/bg/expert-5.jpg);
+}
+.img-expert-6{
+    background: url(/img/bg/expert-6.jpg);
+}
+.img-expert-7{
+    background: url(/img/bg/expert-7.jpg);
+}
+.img-expert-8{
+    background: url(/img/bg/expert-8.jpg);
+}
+.img-expert-9{
+    background: url(/img/bg/expert-9.jpg);
+}
+
+/* archive-analytics.html */
+.img-archive-analytics-1{
+    background: url(/img/bg/archive-analytics-1.jpeg);
+}
+
+/* news.html */
+.img-news-1{
+    background: url(/img/bg/news-1.jpeg);
+}
+.img-news-2{
+    background: url(/img/bg/news-2.jpeg);
+}
+.img-news-3{
+    background: url(/img/bg/news-3.jpeg);
+}
+.img-news-4{
+    background: url(/img/bg/news-4.jpeg);
+}
+.img-news-5{
+    background: url(/img/bg/news-5.jpeg);
+}
+
+/* events.html */
+.img-events-1{
+    background: url(/img/bg/events-1.jpeg);
+}
+.img-events-2{
+    background: url(/img/bg/events-2.jpg);
+}
+.img-events-3{
+    background: url(/img/bg/events-3.jpg);
+}
+.img-events-4{
+    background: url(/img/bg/events-4.jpg);
+}
+.img-events-5{
+    background: url(/img/bg/events-5.jpg);
+}
+.img-events-6{
+    background: url(/img/bg/events-6.jpg);
+}
+.img-events-7{
+    background: url(/img/bg/events-7.jpg);
+}
+
+/* laws.html */
+.img-laws-1{
+    background: url(/img/bg/laws-1.jpeg);
+}
+
+/* press-about-us.html */
+.img-press-1{
+    background: url(/img/bg/press-1.jpeg);
+}
+
+/* press-company.html */
+.img-press-company-1{
+    background: url(/img/bg/press-company-1.jpeg);
+}
+.img-press-company-2{
+    background: url(/img/bg/press-company-2.jpeg);
+}
+.img-press-company-3{
+    background: url(/img/bg/press-company-3.jpeg);
+}
+.img-press-company-4{
+    background: url(/img/bg/press-company-4.jpeg);
+}
+.img-press-company-5{
+    background: url(/img/bg/press-company-5.jpeg);
+}
+
+/* archive-news.html */
+.img-archive-news-1{
+    background: url(/img/bg/archive-news-1.jpeg);
+}
+
+/* career.html */
+.img-career-1{
+    background: url(/img/bg/career-1.jpeg);
+}
+.img-career-2{
+    background: url(/img/bg/career-2.jpeg);
+}
+.img-career-3{
+    background: url(/img/bg/career-3.jpeg);
+}
+.img-career-4{
+    background: url(/img/bg/career-4.jpeg);
+}
+.img-career-5{
+    background: url(/img/bg/career-5.jpeg);
+}
+
+/* culture.html */
+.img-culture-1{
+    background: url(/img/bg/culture-1.jpeg);
+}
+.img-culture-2{
+    background: url(/img/bg/culture-2.jpeg);
+}
+.img-culture-3{
+    background: url(/img/bg/culture-3.jpeg);
+}
+.img-culture-4{
+    background: url(/img/bg/culture-4.jpeg);
+}
+.img-culture-5{
+    background: url(/img/bg/culture-5.jpeg);
+}
+.img-culture-6{
+    background: url(/img/bg/culture-6.jpeg);
+}
+
+/* colleague.html */
+.img-colleague-1{
+    background: url(/img/bg/colleague-1.jpeg);
+}
+.img-colleague-2{
+    background: url(/img/bg/colleague-2.png);
+}
+.img-colleague-3{
+    background: url(/img/bg/colleague-3.png);
+}
+.img-colleague-4{
+    background: url(/img/bg/colleague-4.png);
+}
+.img-colleague-5{
+    background: url(/img/bg/colleague-5.png);
+}
+.img-colleague-6{
+    background: url(/img/bg/colleague-6.png);
+}
+.img-colleague-7{
+    background: url(/img/bg/colleague-7.jpeg);
+}
+.img-colleague-8{
+    background: url(/img/bg/colleague-8.jpeg);
+}
+.img-colleague-9{
+    background: url(/img/bg/colleague-9.jpeg);
+}
+.img-colleague-10{
+    background: url(/img/bg/colleague-10.jpeg);
+}
+
+/* departments.html */
+.img-departments-1{
+    background: url(/img/bg/departments-1.jpeg);
+}
+
+/* vacancies.html */
+.img-vacancies-1{
+    background: url(/img/bg/vacancies-1.jpeg);
+}
+.img-vacancies-2{
+    background: url(/img/bg/vacancies-2.jpeg);
+}
+
+/* connect.html */
+.img-connect-1{
+    background: url(/img/bg/connect-1.jpeg);
+}
+.img-connect-2{
+    background: url(/img/bg/connect-2.jpeg);
+}
+.img-connect-3{
+    background: url(/img/bg/connect-3.jpeg);
+}
+
+/* offices.html */
+.img-offices-1{
+    background: url(/img/bg/offices-1.jpeg);
+}
+.img-offices-2{
+    background: url(/img/bg/offices-2.jpeg);
+}
+.img-offices-3{
+    background: url(/img/bg/offices-3.jpeg);
+}
+.img-offices-4{
+    background: url(/img/bg/offices-4.jpeg);
+}
+.img-offices-5{
+    background: url(/img/bg/offices-5.jpeg);
+}
+
+/* quality-control.html */
+.img-quality-control-1{
+    background: url(/img/bg/quality-control-1.jpeg);
+}

@@ -1,104 +1,150 @@
+@media screen and (min-width: 1200px) {
     .container-wide {
         width: 100%;
     }
-    .footer-center{
-        width: 86%;
-        margin:auto;
+    .column-container{
+        width:90%;
+        margin:0 5%;
     }
-    .footer-center .left{
+    .column{
         float:left;
+        width:100%;
     }
-    .footer-center .right{
-        float:right;
+    .column .column-offset{
+        margin:2.5%;
     }
-@media screen and (min-width: 1200px) {
-    #menu-mobile{display: none;}
-    #menu{display: block;}
-    .header{display:block;}
-    .container-center,.container-center-3col {
-        width: 86%;
-        margin:auto;
+    .column-2{
+        float:left;
+        width:50%;
     }
-    .container-center .offset{
-        margin: 2%;
+    .column-2 .column-offset{
+        margin:5%;
     }
-    .container-center-3col .offset{
-        margin: 2%;
+    .column-3{
+        float:left;
+        width:33.333%;
     }
-    .container-center .left{
-        width:47.5%;
-        float: left;
-    }
-    .container-center .right{
-        width:47.5%;
-        float: right;
-    }
-    .container-center-3col .left{
-        width:32%;
-        float: left;
-    }
-    .container-center-3col .center{
-        width:32%;
-        float: left;
-    }
-    .container-center-3col .right{
-        width:32%;
-        float: right;
+    .column-3 .column-offset{
+        margin:7.5%;
     }
 }
 @media screen and (max-width: 1200px) {
-    #menu-mobile{display:block;}
-    #menu{display: none;}
-    .header{display:none;}
-    .container-center {
-        width: 86%;
-        margin:auto;
+    .container-wide {
+        width: 100%;
     }
-    .container-center .offset{
-        margin: 2%;
+    .column-container{
+        width:90%;
+        margin:0 5%;
     }
-    .container-center .left{
-        width:47.5%;
-        float: left;
+    .column{
+        float:left;
+        width:100%;
     }
-    .container-center .right{
-        width:47.5%;
-        float: right;
+    .column .column-offset{
+        margin:2.5%;
+    }
+    .column-2{
+        float:left;
+        width:50%;
+    }
+    .column-2 .column-offset{
+        margin:5%;
+    }
+    .column-3{
+        float:left;
+        width:33.333%;
+    }
+    .column-3 .column-offset{
+        margin:7.5%;
     }
 }
 @media screen and (max-width: 768px) {
-    #menu-mobile{display:block;}
-    #menu{display: none;}
-    .header{display:none;}
-    .container-center {
-        width: 86%;
-        margin:auto;
+    .container-wide {
+        width: 100%;
     }
-    .container-center .offset{
-        margin: 2% 0;
+    .column-container{
+        width:90%;
+        margin:0 5%;
     }
-    .container-center .left{
+    .column{
+        float:left;
         width:100%;
-        float: left;
     }
-    .container-center .right{
+    .column .column-offset{
+        margin:2.5%;
+    }
+    .column-2{
+        float:left;
         width:100%;
-        float: right;
+    }
+    .column-2 .column-offset{
+        margin:2.5%;
+    }
+    .column-3{
+        float:left;
+        width:100%;
+    }
+    .column-3 .column-offset{
+        margin:2.5%;
     }
 }
 @media screen and (max-width: 480px) {
-    #menu-mobile{display:block;}
-    #menu{display: none;}
-    .header{display:none;}
-    .container-center .offset{
-        margin: 2%;
+    .container-wide {
+        width: 100%;
+    }
+    .column-container{
+        width:90%;
+        margin:0 5%;
+    }
+    .column{
+        float:left;
+        width:100%;
+    }
+    .column .column-offset{
+        margin:2.5%;
+    }
+    .column-2{
+        float:left;
+        width:100%;
+    }
+    .column-2 .column-offset{
+        margin:2.5%;
+    }
+    .column-3{
+        float:left;
+        width:100%;
+    }
+    .column-3 .column-offset{
+        margin:2.5%;
     }
 }
 @media screen and (max-width: 375px) {
-    #menu-mobile{display:block;}
-    #menu{display: none;}
-    .header{display:none;}
-    .container-center .offset{
-        margin: 2%;
+    .container-wide {
+        width: 100%;
+    }
+    .column-container{
+        width:90%;
+        margin:0 5%;
+    }
+    .column{
+        float:left;
+        width:100%;
+    }
+    .column .column-offset{
+        margin:2.5%;
+    }
+    .column-2{
+        float:left;
+        width:100%;
+    }
+    .column-2 .column-offset{
+        margin:2.5%;
+    }
+    .column-3{
+        float:left;
+        width:100%;
+    }
+    .column-3 .column-offset{
+        margin:2.5%;
     }
 }
