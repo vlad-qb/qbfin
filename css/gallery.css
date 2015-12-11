@@ -1,8 +1,9 @@
 /*styles*/
-/*.fixed{
+.fixed{
     background-attachment: fixed;
+	width: 100%;
 }
-
+/*
 .contain{
     background-size: contain;
 }*/

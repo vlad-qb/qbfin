@@ -35,6 +35,7 @@
     </head>
     <body>
       <?php include 'html/header.html';?>
+      <div class="img-about-1 w100r h400"></div>
       <div class="column-container">
         <p>
 
