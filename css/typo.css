@@ -34,6 +34,7 @@ a.active{color:#008080;}
 .color-whitesmoke{color:#ebeceb;}
 .color-lightgray{color:#ccc;}
 .color-gray{color:#7f7f7f;}
+.color-grey1{color:#333;}
 .color-grey2{color:#4c4c4c;}
 .color-yellow{color: #c7a71c;}
 .color-paleturquoise{color:#a7c5bd;}
@@ -44,9 +45,14 @@ a.active{color:#008080;}
 .size-11{font-size:11px;}
 .size-10{font-size:10px;}
 .size-8{font-size:8px;}
+.line-h16{line-height:16px;}
+.line-h20{line-height:20px;}
 .line-h24{line-height:24px;}
 .line-h60{line-height:60px;}
+.line-h70{line-height:70px;}
 .line-h80{line-height:80px;}
+.line-h110{line-height:110px;}
+.line-h120{line-height:120px;}
 .inverse a:hover{color:#ccc;}
 .gray-hover:hover{color:#999;}
 .dark-gray-hover:hover{color:#999;}

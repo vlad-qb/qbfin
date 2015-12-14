@@ -20,17 +20,12 @@
         <script src="js/respond.min.js"></script>
       <![endif]-->
       <style type="text/css">
-        body{
-          font-family: 'LatoLight',Helvetica, sans-serif;
-          @font-face {
-              font-family: 'LatoLight';
-              src: url('fonts/LatoLight/LatoLight.eot');
-              src: url('fonts/LatoLight/LatoLight.eot?#iefix')format('embedded-opentype'),
-              url('fonts/LatoLight/LatoLight.woff') format('woff'),
-              url('fonts/LatoLight/LatoLight.ttf') format('truetype');
-              font-style: normal;
-              font-weight: normal;
-          }
+        @font-face {
+          font-family: 'lato-light';
+          src: local('lato-light'), url(fonts/lato-light.woff) format('woff');
+        }
+        body {
+            font-family: lato-light;
         }
       </style>
     </head>

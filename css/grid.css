@@ -57,6 +57,7 @@
     .column-3 .column-offset{
         margin:7.5%;
     }
+    .no-tablet-h{display:none;}
 }
 @media screen and (max-width: 768px) {
     .container-wide {
@@ -87,6 +88,7 @@
     .column-3 .column-offset{
         margin:2.5%;
     }
+    .no-tablet-v{display:none;}
 }
 @media screen and (max-width: 480px) {
     .container-wide {
@@ -117,6 +119,7 @@
     .column-3 .column-offset{
         margin:2.5%;
     }
+    .no-mobile{display:none;}
 }
 @media screen and (max-width: 375px) {
     .container-wide {
@@ -147,4 +150,5 @@
     .column-3 .column-offset{
         margin:2.5%;
     }
+    .no-mobile{display:none;}
 }
