@@ -5,6 +5,7 @@
 .clearfix{clear: both;}
 .overflow-hidden{overflow: hidden;}
 .clip{text-overflow: clip;}
+.ellipsis{text-overflow: ellipsis;}
 
 .w5{width: 5px;}
 .w10{width: 10px;}
@@ -166,4 +167,5 @@
 .mr100r{margin-right:100%;}
 
 .h10r{height:10%;}
+.mt-35{margin-top: -35px;}
 .mt-80{margin-top: -80px;}
