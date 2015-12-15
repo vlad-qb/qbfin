@@ -124,6 +124,109 @@
           </div>
       </div>
       <div class="clearfix"></div>
+	  
+<!-- CONTENT -->
+<div id="gallery" class="column-container mt60">
+  <div class="column-3">
+    <div class="gallery-offset w93r ml07r">
+      <div class="img-shares-2 w93r h250 cover bg-center">
+      </div>
+    </div>
+  </div>
+  <div class="column-3">
+    <div class="gallery-offset w93r ml07r">
+      <div class="img-shares-3 w93r h250 cover bg-center">
+      </div>
+    </div>
+  </div>
+  <div class="column-3">
+    <div class="gallery-offset w93r ml07r">
+      <div class="img-shares-4 w93r h250 cover bg-center">
+      </div>
+    </div>
+  </div>
+  <div class="column-3 mt10">
+   <div class="gallery-offset w87r ml07r border-grey-top">
+       <div class="w100r h200 overflow-hidden">
+        <h2 class="size-12 uppercase line-h50 ml10 mr20"><a href="/reviews-1.html" class="gray-hover bold">ОБЗОР КОМПАНИИ ALIBABA GROUP </a><span class="color-teal weight-300">></span></h2>
+        <h4 class="size-12 line-h16 ml10 mr20"><span class="color-teal weight-300">08.05.2015 </span><span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span><a href="/archive-news.php" class="gray-hover"> архив</a></h4>
+        <br/>
+        <h4 class="size-14 line-h20 ml10 h100 overflow-hidden"><a href="/reviews-1.html" class="gray-hover h60 ellipsis">Holding Alibaba Group Holding - крупнейшая в Китае компания, специализирующаяся на интернет - торговле. В 2013 году корпорация реализовала 11,3 млрд. заказов на общую сумму более $248 млрд... </a><span class="color-teal weight-300">></span></h4>
+      </div>
+    </div>
+   </div>
+   <div class="column-3 mt10">
+    <div class="gallery-offset w87r ml07r border-grey-top">
+       <div class="w100r h200 overflow-hidden">
+        <h2 class="size-12 uppercase line-h50 ml10 mr20"><a href="/reviews-1.html" class="gray-hover bold">ОБЗОР КОМПАНИИ ALIBABA GROUP </a><span class="color-teal weight-300">></span></h2>
+        <h4 class="size-12 line-h16 ml10 mr20"><span class="color-teal weight-300">08.05.2015 </span><span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span><a href="/archive-news.php" class="gray-hover"> архив</a></h4>
+        <br/>
+        <h4 class="size-14 line-h20 ml10 h100 overflow-hidden"><a href="/reviews-1.html" class="gray-hover h60 ellipsis">Holding Alibaba Group Holding - крупнейшая в Китае компания, специализирующаяся на интернет - торговле. В 2013 году корпорация реализовала 11,3 млрд. заказов на общую сумму более $248 млрд... </a><span class="color-teal weight-300">></span></h4>
+      </div>
+    </div>
+   </div>
+   <div class="column-3 mt10">
+    <div class="gallery-offset w87r ml07r border-grey-top">
+       <div class="w100r h200 overflow-hidden">
+        <h2 class="size-12 uppercase line-h50 ml10 mr20"><a href="/reviews-1.html" class="gray-hover bold">ОБЗОР КОМПАНИИ ALIBABA GROUP </a><span class="color-teal weight-300">></span></h2>
+        <h4 class="size-12 line-h16 ml10 mr20"><span class="color-teal weight-300">08.05.2015 </span><span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span><a href="/archive-news.php" class="gray-hover"> архив</a></h4>
+        <br/>
+        <h4 class="size-14 line-h20 ml10 h100 overflow-hidden"><a href="/reviews-1.html" class="gray-hover h60 ellipsis">Holding Alibaba Group Holding - крупнейшая в Китае компания, специализирующаяся на интернет - торговле. В 2013 году корпорация реализовала 11,3 млрд. заказов на общую сумму более $248 млрд... </a><span class="color-teal weight-300">></span></h4>
+      </div>
+    </div>
+   </div>
+  <div class="clearfix"></div>
+  <div class="column-3">
+    <div class="gallery-offset w93r ml07r">
+      <div class="img-shares-5 w93r h250 cover bg-center">
+      </div>
+    </div>
+  </div>
+  <div class="column-3">
+    <div class="gallery-offset w93r ml07r">
+      <div class="img-shares-6 w93r h250 cover bg-center">
+      </div>
+    </div>
+  </div>
+  <div class="column-3">
+    <div class="gallery-offset w93r ml07r">
+      <div class="img-shares-7 w93r h250 cover bg-center">
+      </div>
+    </div>
+  </div>
+  <div class="column-3 mt10">
+   <div class="gallery-offset w87r ml07r border-grey-top">
+       <div class="w100r h200 overflow-hidden">
+        <h2 class="size-12 uppercase line-h50 ml10 mr20"><a href="/reviews-1.html" class="gray-hover bold">ОБЗОР КОМПАНИИ ALIBABA GROUP </a><span class="color-teal weight-300">></span></h2>
+        <h4 class="size-12 line-h16 ml10 mr20"><span class="color-teal weight-300">08.05.2015 </span><span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span><a href="/archive-news.php" class="gray-hover"> архив</a></h4>
+        <br/>
+        <h4 class="size-14 line-h20 ml10 h100 overflow-hidden"><a href="/reviews-1.html" class="gray-hover h60 ellipsis">Holding Alibaba Group Holding - крупнейшая в Китае компания, специализирующаяся на интернет - торговле. В 2013 году корпорация реализовала 11,3 млрд. заказов на общую сумму более $248 млрд... </a><span class="color-teal weight-300">></span></h4>
+      </div>
+    </div>
+   </div>
+   <div class="column-3 mt10">
+    <div class="gallery-offset w87r ml07r border-grey-top">
+       <div class="w100r h200 overflow-hidden">
+        <h2 class="size-12 uppercase line-h50 ml10 mr20"><a href="/reviews-1.html" class="gray-hover bold">ОБЗОР КОМПАНИИ ALIBABA GROUP </a><span class="color-teal weight-300">></span></h2>
+        <h4 class="size-12 line-h16 ml10 mr20"><span class="color-teal weight-300">08.05.2015 </span><span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span><a href="/archive-news.php" class="gray-hover"> архив</a></h4>
+        <br/>
+        <h4 class="size-14 line-h20 ml10 h100 overflow-hidden"><a href="/reviews-1.html" class="gray-hover h60 ellipsis">Holding Alibaba Group Holding - крупнейшая в Китае компания, специализирующаяся на интернет - торговле. В 2013 году корпорация реализовала 11,3 млрд. заказов на общую сумму более $248 млрд... </a><span class="color-teal weight-300">></span></h4>
+      </div>
+    </div>
+   </div>
+   <div class="column-3 mt10">
+    <div class="gallery-offset w87r ml07r border-grey-top">
+       <div class="w100r h200 overflow-hidden">
+        <h2 class="size-12 uppercase line-h50 ml10 mr20"><a href="/reviews-1.html" class="gray-hover bold">ОБЗОР КОМПАНИИ ALIBABA GROUP </a><span class="color-teal weight-300">></span></h2>
+        <h4 class="size-12 line-h16 ml10 mr20"><span class="color-teal weight-300">08.05.2015 </span><span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span><a href="/archive-news.php" class="gray-hover"> архив</a></h4>
+        <br/>
+        <h4 class="size-14 line-h20 ml10 h100 overflow-hidden"><a href="/reviews-1.html" class="gray-hover h60 ellipsis">Holding Alibaba Group Holding - крупнейшая в Китае компания, специализирующаяся на интернет - торговле. В 2013 году корпорация реализовала 11,3 млрд. заказов на общую сумму более $248 млрд... </a><span class="color-teal weight-300">></span></h4>
+      </div>
+    </div>
+   </div>
+  <div class="clearfix"></div>
+</div>
+<!-- CONTENT -->
       <?php include 'html/footer.html';?>
       <script src="/js/jquery.min.js"></script>
       <script src="/js/main.js"></script>

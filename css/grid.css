@@ -64,8 +64,8 @@
         width: 100%;
     }
     .column-container{
-        width:90%;
-        margin:0 5%;
+        width:95%;
+        margin:0 2.5%;
     }
     .column{
         float:left;
@@ -94,14 +94,18 @@
         margin-left:2.5%;
         margin-right:2.5%;
     }
+    #news-list .news-list-offset{
+        margin-left: 10px;
+        margin-right: 10px;
+    }
 }
 @media screen and (max-width: 480px) {
     .container-wide {
         width: 100%;
     }
     .column-container{
-        width:90%;
-        margin:0 5%;
+        width:95%;
+        margin:0 2.5%;
     }
     .column{
         float:left;
@@ -129,6 +133,10 @@
         width:95%;
         margin-left:2.5%;
         margin-right:2.5%;
+    }
+    #news-list .news-list-offset{
+        margin-left: 10px;
+        margin-right: 10px;
     }
 }
 @media screen and (max-width: 375px) {
@@ -136,8 +144,8 @@
         width: 100%;
     }
     .column-container{
-        width:90%;
-        margin:0 5%;
+        width:95%;
+        margin:0 2.5%;
     }
     .column{
         float:left;
@@ -165,5 +173,9 @@
         width:95%;
         margin-left:2.5%;
         margin-right:2.5%;
+    }
+    #news-list .news-list-offset{
+        margin-left: 10px;
+        margin-right: 10px;
     }
 }

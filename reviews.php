@@ -230,7 +230,7 @@
 <!-- /CONTENT -->
 <div class="clearfix"></div>
       <div class="text-center mt70">
-      <a href="/archive-news.php" class="size-12 line-h30 uppercase">РАНЕЕ В РАЗДЕЛЕ: ОБЗОРЫ</a>
+	    <a href="/archive-news.php" class="size-12 line-h30 uppercase">РАНЕЕ В РАЗДЕЛЕ: ОБЗОРЫ</a>
         <div class="text-center size-18 line-h26 weight-300"><a href="/archive-news.php" class="color-teal gray-hover">2 0 1 5</a> <span class="color-whitesmoke">•︎</span> <a href="/archive-news.php" class="color-teal gray-hover">2 0 1 4</a></div>
       </div>
 <div class="clearfix"></div> 
@@ -254,15 +254,15 @@
     </div>
   </div>
 </div>
-<!-- /CONTENT -->   
+<!-- /CONTENT -->	  
 
 <div class="clearfix"></div>
 <div class="w90r border-grey-top auto">
       <div class="text-center mt40">
         <img src="img/icons/icon-lighthouse.svg" class="icon icon-main"><br>
         <a href="/analytics.php"><span class="size-14">< </span></a><a href="/analytics.php" class="size-12 line-h40 uppercase">АНАЛИТИКА</a> <span class="color-teal size-10">•︎</span> <a href="/archive-reviews-2015.php" class="size-12 line-h40 uppercase">АРХИВ: ОБЗОРЫ</a><a href="/archive-reviews-2015.php"><span class="size-14"> ></span>
-      </div>    
-</div>    
+      </div>	  
+</div>	  
 <div class="clearfix"></div>
 
 <?php include 'html/footer.html';?>

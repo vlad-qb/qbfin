@@ -130,7 +130,7 @@
         <div class="column-2">
           <div class="gallery-offset w95r ml05r border-white bg-gray">
             <div class="w100r h200">
-				<div class="img-archive-analytics-2 contain h150 bg-center">
+				<div class="img-archive-analytics-2 contain h200" style="background-position: center 20px;">
 				  <div class="bg-label-2 w50r h200">
 					<h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60"><a href="/archive-markets-weekly-1.html" class="color-whitesmoke light-gray-hover">АРХИВ:</a></h2>
 					<h2 class="size-14 color-whitesmoke uppercase line-h16 ml20 mr20 h40"><a href="/archive-markets-weekly-1.html" class="color-whitesmoke light-gray-hover">РЫНКИ</a></h2>
@@ -143,7 +143,7 @@
         <div class="column-2">
            <div class="gallery-offset w95r mr05r border-white bg-gray">
             <div class="w100r h200">
-				<div class="img-archive-analytics-3 contain h150 bg-center">
+				<div class="img-archive-analytics-3 contain h150" style="background-position: center 20px;">
 				  <div class="bg-label-2 w50r h200">
 					<h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60"><a href="/archive-shares.html" class="color-whitesmoke light-gray-hover">АРХИВ:</a></h2>
 					<h2 class="size-14 color-whitesmoke uppercase line-h16 ml20 mr20 h40"><a href="/archive-shares.html" class="color-whitesmoke light-gray-hover">АКЦИИ</a></h2>
@@ -156,7 +156,7 @@
         <div class="column-2">
           <div class="gallery-offset w95r ml05r border-white bg-gray">
             <div class="w100r h200">
-				<div class="img-archive-analytics-4 contain h150 bg-center">
+				<div class="img-archive-analytics-4 contain h150" style="background-position: center 20px;">
 				  <div class="bg-label-2 w50r h200">
                 <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60"><a href="/archive-reviews-2015.html" class="color-whitesmoke light-gray-hover">АРХИВ:</a></h2>
 				<h2 class="size-14 color-whitesmoke uppercase line-h16 ml20 mr20 h40"><a href="/archive-reviews-2015.html" class="color-whitesmoke light-gray-hover">ОБЗОРЫ</a></h2>
@@ -169,7 +169,7 @@
         <div class="column-2">
           <div class="gallery-offset w95r mr05r border-white bg-gray">
             <div class="w100r h200">
-				<div class="img-archive-analytics-5 contain h150 bg-center">
+				<div class="img-archive-analytics-5 contain h150" style="background-position: center 20px;">
 				  <div class="bg-label-2 w50r h200">
                 <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60"><a href="/archive-expert.html" class="color-whitesmoke light-gray-hover">АРХИВ:</a></h2>
 				<h2 class="size-14 color-whitesmoke uppercase line-h16 ml20 mr20 h40"><a href="/archive-expert.html" class="color-whitesmoke light-gray-hover">ЭКСПЕРТ</a></h2>
