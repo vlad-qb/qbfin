@@ -125,48 +125,47 @@
       </div>
       <div class="clearfix"></div>
 	  
-	  <div class="column-container">
-	  <div class="column-2">
-	  <div class="img-reviews-2 cover w100r h200" style="background-position: center top;"></div>
-	  </div>
-	  <div class="column-2">
-	  </div>
-	  </div>
+	  <!-- CONTENT -->
+      <div id="gallery" class="column-container mt60">
+        <div class="column-2">
+          <div class="gallery-offset w95r ml05r">
+            <div class="img-reviews-2 w95r h200 cover bg-center">
+            </div> 
+          </div>
+        </div>
+        <div class="column-2">
+          <div class="gallery-offset w90r ml05r border-grey-top">
+            <div class="w90r h200">
+                <h2 class="size-12 bold uppercase line-h60 ml40 mr20 h60 overflow-hidden clip"><a href="/reviews-1.html" class="gray-hover">ПОРА ЛИ ВКЛАДЫВАТЬСЯ В ЗОЛОТО?</a></h2>
+				<h4 class="size-12 line-h16 ml40 mr20"><span class="color-teal weight-300">03.09.2015 </span><span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span><a href="/archive-news.php" class="gray-hover"> архив</a></h4>
+				<h4 class="size-14 line-h20 ml40 mr20 h130 overflow-hidden clip"><a href="/reviews-1.html" class="gray-hover">На фоне опасений касательно замедления темпов роста экономики Китая и непрекращающейся паники на китайском фондовом рынке усилилось падение котировок промышленных металлов и возобновилось снижение стоимости нефти</a></h4>
+            </div>
+          </div>
+        </div>
+        <div class="column-2">
+          <div class="gallery-offset w95r ml05r border-white">
+            <div class="img-career-4 w100r h200 cover bg-center">
+              <div class="bg-label-2 w50r h200">
+                <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60 overflow-hidden clip"><a href="/departments.php" class="color-whitesmoke light-gray-hover">ДЕПАРТАМЕНТЫ</a></h2>
+				<a href="/departments.php"><img class="icon arrow mt40" src="/img/icons/arrow-right-white.svg"></a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="column-2">
+          <div class="gallery-offset w95r mr05r border-white">
+            <div class="img-career-5 w100r h200 cover bg-center">
+              <div class="bg-label-2 w50r h200">
+                <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60 overflow-hidden clip"><a href="/vacancies.php" class="color-whitesmoke light-gray-hover">ВАКАНСИИ</a></h2>
+				<a href="/vacancies.php"><img class="icon arrow mt40" src="/img/icons/arrow-right-white.svg"></a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
 	  
-	  <div class="column-container">
-	  <div class="column-2">
-	  </div>
-	  <div class="column-2">
-	  </div>
-	  </div>
-	  
-	  <div class="column-container">
-	  <div class="column-2">
-	  </div>
-	  <div class="column-2">
-	  </div>
-	  </div>
-	  
-	  <div class="column-container">
-	  <div class="column-2">
-	  </div>
-	  <div class="column-2">
-	  </div>
-	  </div>
-	  
-	  <div class="column-container">
-	  <div class="column-2">
-	  </div>
-	  <div class="column-2">
-	  </div>
-	  </div>
-	  
-	  <div class="column-container">
-	  <div class="column-2">
-	  </div>
-	  <div class="column-2">
-	  </div>
-	  </div>
+      <!-- /CONTENT -->
+      <div class="clearfix"></div>
 	  
       <?php include 'html/footer.html';?>
       <script src="/js/jquery.min.js"></script>
