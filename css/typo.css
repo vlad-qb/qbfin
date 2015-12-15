@@ -1,8 +1,20 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:400,300,100,700);
+
+@font-face {
+          font-family: 'HelveticaLight';
+          src: local('HelveticaLight'), url(/fonts/HelveticaLight.woff) format('woff');
+}
+@font-face {
+          font-family: 'HelveticaBold';
+          src: local('HelveticaBold'), url(/fonts/HelveticaBold.woff) format('woff');
+}
+
 body{
     color:#333333;
+	font-family: 'Lato', 'HelveticaLight', sans-serif;
 }
 /* DEFAULT */
-.bold{font-weight: bold;}
+.bold{font-family: 'HelveticaBold';}
 .weight-100{font-weight: 100;}
 .weight-200{font-weight: 200;}
 .weight-300{font-weight: 300;}
@@ -48,11 +60,14 @@ a.active{color:#008080;}
 .line-h16{line-height:16px;}
 .line-h20{line-height:20px;}
 .line-h24{line-height:24px;}
+.line-h26{line-height:26px;}
 .line-h60{line-height:60px;}
 .line-h70{line-height:70px;}
 .line-h80{line-height:80px;}
 .line-h110{line-height:110px;}
 .line-h120{line-height:120px;}
+.line-h200{line-height:200px;}
 .inverse a:hover{color:#ccc;}
+.light-gray-hover:hover{color:#ccc;}
 .gray-hover:hover{color:#999;}
-.dark-gray-hover:hover{color:#999;}
+.dark-gray-hover:hover{color:#7f7f7f;}

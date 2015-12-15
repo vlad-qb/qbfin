@@ -89,6 +89,11 @@
         margin:2.5%;
     }
     .no-tablet-v{display:none;}
+    #gallery .gallery-offset{
+        width:95%;
+        margin-left:2.5%;
+        margin-right:2.5%;
+    }
 }
 @media screen and (max-width: 480px) {
     .container-wide {
@@ -120,6 +125,11 @@
         margin:2.5%;
     }
     .no-mobile{display:none;}
+    #gallery .gallery-offset{
+        width:95%;
+        margin-left:2.5%;
+        margin-right:2.5%;
+    }
 }
 @media screen and (max-width: 375px) {
     .container-wide {
@@ -151,4 +161,9 @@
         margin:2.5%;
     }
     .no-mobile{display:none;}
+    #gallery .gallery-offset{
+        width:95%;
+        margin-left:2.5%;
+        margin-right:2.5%;
+    }
 }

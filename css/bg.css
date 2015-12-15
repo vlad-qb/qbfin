@@ -12,3 +12,16 @@
 .border-grey-bottom{
     border-bottom:1px solid #ebeceb;
 }
+.border-white{
+    border:2px solid #fff;
+}
+.bg-white{background:white;}
+.bg-label{
+    background-color: #333;
+    opacity: 0.9;
+}
+.bg-label-2{
+    background-color: #333;
+    opacity: 0.7;
+}
+.bg-gray{background-color: #ccc;}

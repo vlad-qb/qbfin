@@ -4,6 +4,8 @@
           position: fixed;
           width: 100%;
           height: 80px;
+		  z-index: 200;
+		  border-bottom: 1px solid #EBECEB;
       }
       .header-placeholder{
          width: 100%;
@@ -90,13 +92,13 @@
       </div>
       <div class="header">
         <div id="logo">
-          <img src="/img/logo.jpg" alt="QBF Investment" />
+          <a href="/index.php"><img src="/img/logo.jpg" alt="QBF Investment" /></a>
         </div>
         <div id="menuMobile" class="r mt20 mr30 cursor-pointer" onClick="menu.slideDown();">
           <img class="icon icon-main w30 h30" src="/img/icons/menu-icon.png">
         </div>
         <div id="menu" class="size-12 uppercase">
-        <a href="/index.php">Компания</a>
+        <a href="/company.php">Компания</a>
         <a href="/service.php">Услуги</a>
         <a href="/analytics.php">Аналитика</a>
         <a href="/news.php">Новости</a>
