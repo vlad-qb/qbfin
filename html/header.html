@@ -69,16 +69,21 @@
       }
       @media screen and (max-width: 375px) {
           #logo img{
-              width: 250px;
-              margin-top: 20px;
+              width: 180px;
+              margin-top: 30px;
               margin-left: 20px;
+              margin-right: 10px;
           }
-          #menuMobile{display: block;}
+          #menuMobile{
+            display: block;
+            margin-top: 27px;
+            margin-right:22px;
+          }
           #menu{display: none;}
       }
       </style>
       <!-- HEADER -->
-      <div id="menu-mobile" class="size-12 uppercase">
+      <div id="menu-mobile" class="size-12 uppercase" style="z-index:1;">
         <div class="w100r">
           <img class="icon icon-main w30 h30 r mt30 mr30 cursor-pointer" src="/img/icons/close-icon.png" onClick="menu.slideUp();">
         </div>
