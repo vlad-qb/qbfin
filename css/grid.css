@@ -11,21 +11,21 @@
         width:100%;
     }
     .column .column-offset{
-        margin:2.5%;
+        margin:0 2.5%;
     }
     .column-2{
         float:left;
         width:50%;
     }
     .column-2 .column-offset{
-        margin:5%;
+        margin:0 5%;
     }
     .column-3{
         float:left;
         width:33.333%;
     }
     .column-3 .column-offset{
-        margin:7.5%;
+        margin:0 7.5%;
     }
 }
 @media screen and (max-width: 1200px) {
@@ -41,21 +41,21 @@
         width:100%;
     }
     .column .column-offset{
-        margin:2.5%;
+        margin:0 2.5%;
     }
     .column-2{
         float:left;
         width:50%;
     }
     .column-2 .column-offset{
-        margin:5%;
+        margin:0 5%;
     }
     .column-3{
         float:left;
         width:33.333%;
     }
     .column-3 .column-offset{
-        margin:7.5%;
+        margin:0 7.5%;
     }
     .no-tablet-h{display:none;}
 }
@@ -72,21 +72,21 @@
         width:100%;
     }
     .column .column-offset{
-        margin:2.5%;
+        margin:0 2.5%;
     }
     .column-2{
         float:left;
         width:100%;
     }
     .column-2 .column-offset{
-        margin:2.5%;
+        margin:0 2.5%;
     }
     .column-3{
         float:left;
         width:100%;
     }
     .column-3 .column-offset{
-        margin:2.5%;
+        margin:0 2.5%;
     }
     .no-tablet-v{display:none;}
     #gallery .gallery-offset{
@@ -112,21 +112,21 @@
         width:100%;
     }
     .column .column-offset{
-        margin:2.5%;
+        margin:0 2.5%;
     }
     .column-2{
         float:left;
         width:100%;
     }
     .column-2 .column-offset{
-        margin:2.5%;
+        margin:0 2.5%;
     }
     .column-3{
         float:left;
         width:100%;
     }
     .column-3 .column-offset{
-        margin:2.5%;
+        margin:0 2.5%;
     }
     .no-mobile{display:none;}
     #gallery .gallery-offset{
@@ -152,21 +152,21 @@
         width:100%;
     }
     .column .column-offset{
-        margin:2.5%;
+        margin:0 2.5%;
     }
     .column-2{
         float:left;
         width:100%;
     }
     .column-2 .column-offset{
-        margin:2.5%;
+        margin:0 2.5%;
     }
     .column-3{
         float:left;
         width:100%;
     }
     .column-3 .column-offset{
-        margin:2.5%;
+        margin:0 2.5%;
     }
     .no-mobile{display:none;}
     #gallery .gallery-offset{

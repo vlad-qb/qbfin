@@ -25,3 +25,25 @@
     opacity: 0.7;
 }
 .bg-gray{background-color: #ccc;}
+.bg-dark-gray{background-color: #454548;}
+.bg-gray{background-color: #ccc;}
+.bg-gray2{background-color: #454548;}
+.title-line-grey{
+    border-bottom:1px solid #454548;
+    position:relative;
+    top:-20px;
+    z-index: -999;
+}
+.title-line-grey2{
+    border-bottom:1px solid #e6e6e6;
+    position:relative;
+    top:-20px;
+    z-index: -999;
+}
+.bg-teal{background-color: #008080;}
+.title-line-teal{
+    border-bottom:1px solid #008080;
+    position:relative;
+    top:-20px;
+    z-index: -999;
+}
