@@ -15,6 +15,7 @@
 .border-white{
     border:2px solid #fff;
 }
+.border-left-teal{border-left: 1px solid #A7C5BD;}
 .bg-white{background:white;}
 .bg-label{
     background-color: #333;
@@ -45,5 +46,11 @@
     border-bottom:1px solid #008080;
     position:relative;
     top:-20px;
+    z-index: -999;
+}
+.title-line-teal2{
+    border-bottom:1px solid #008080;
+    position:relative;
+    top:-40px;
     z-index: -999;
 }

@@ -132,9 +132,9 @@
             <div class="w100r h200">
 				<div class="img-archive-analytics-2 contain h200 bg-center">
 				  <div class="bg-label-2 w50r h200">
-					<h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60"><a href="/archive-markets-weekly-1.html" class="color-whitesmoke light-gray-hover">АРХИВ:</a></h2>
-					<h2 class="size-14 color-whitesmoke uppercase line-h16 ml20 mr20 h40"><a href="/archive-markets-weekly-1.html" class="color-whitesmoke light-gray-hover">РЫНКИ</a></h2>
-					<a href="/archive-markets-weekly-1.html"><img class="icon arrow" src="/img/icons/arrow-right-white.svg"></a>
+					<h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60"><a href="/archive-markets-weekly-1.php" class="color-whitesmoke light-gray-hover">АРХИВ:</a></h2>
+					<h2 class="size-14 color-whitesmoke uppercase line-h16 ml20 mr20 h40"><a href="/archive-markets-weekly-1.php" class="color-whitesmoke light-gray-hover">РЫНКИ</a></h2>
+					<a href="/archive-markets-weekly-1.php"><img class="icon arrow" src="/img/icons/arrow-right-white.svg"></a>
 				</div>
               </div>
             </div> 
@@ -145,9 +145,9 @@
             <div class="w100r h200">
 				<div class="img-archive-analytics-3 contain h200 bg-center">
 				  <div class="bg-label-2 w50r h200">
-					<h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60"><a href="/archive-shares.html" class="color-whitesmoke light-gray-hover">АРХИВ:</a></h2>
-					<h2 class="size-14 color-whitesmoke uppercase line-h16 ml20 mr20 h40"><a href="/archive-shares.html" class="color-whitesmoke light-gray-hover">АКЦИИ</a></h2>
-					<a href="/archive-shares.html"><img class="icon arrow" src="/img/icons/arrow-right-white.svg"></a>
+					<h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60"><a href="/archive-shares.php" class="color-whitesmoke light-gray-hover">АРХИВ:</a></h2>
+					<h2 class="size-14 color-whitesmoke uppercase line-h16 ml20 mr20 h40"><a href="/archive-shares.php" class="color-whitesmoke light-gray-hover">АКЦИИ</a></h2>
+					<a href="/archive-shares.php"><img class="icon arrow" src="/img/icons/arrow-right-white.svg"></a>
 				</div>
               </div>
             </div>
@@ -158,9 +158,9 @@
             <div class="w100r h200">
 				<div class="img-archive-analytics-4 contain h200 bg-center">
 				  <div class="bg-label-2 w50r h200">
-                <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60"><a href="/archive-reviews-2015.html" class="color-whitesmoke light-gray-hover">АРХИВ:</a></h2>
-				<h2 class="size-14 color-whitesmoke uppercase line-h16 ml20 mr20 h40"><a href="/archive-reviews-2015.html" class="color-whitesmoke light-gray-hover">ОБЗОРЫ</a></h2>
-				<a href="/archive-reviews-2015.html"><img class="icon arrow" src="/img/icons/arrow-right-white.svg"></a>
+                <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60"><a href="/archive-reviews-2015.php" class="color-whitesmoke light-gray-hover">АРХИВ:</a></h2>
+				<h2 class="size-14 color-whitesmoke uppercase line-h16 ml20 mr20 h40"><a href="/archive-reviews-2015.php" class="color-whitesmoke light-gray-hover">ОБЗОРЫ</a></h2>
+				<a href="/archive-reviews-2015.php"><img class="icon arrow" src="/img/icons/arrow-right-white.svg"></a>
 				</div>
               </div>
             </div>
@@ -171,9 +171,9 @@
             <div class="w100r h200">
 				<div class="img-archive-analytics-5 contain h200 bg-center">
 				  <div class="bg-label-2 w50r h200">
-                <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60"><a href="/archive-expert.html" class="color-whitesmoke light-gray-hover">АРХИВ:</a></h2>
-				<h2 class="size-14 color-whitesmoke uppercase line-h16 ml20 mr20 h40"><a href="/archive-expert.html" class="color-whitesmoke light-gray-hover">ЭКСПЕРТ</a></h2>
-				<a href="/archive-expert.html"><img class="icon arrow" src="/img/icons/arrow-right-white.svg"></a>
+                <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60"><a href="/archive-expert.php" class="color-whitesmoke light-gray-hover">АРХИВ:</a></h2>
+				<h2 class="size-14 color-whitesmoke uppercase line-h16 ml20 mr20 h40"><a href="/archive-expert.php" class="color-whitesmoke light-gray-hover">ЭКСПЕРТ</a></h2>
+				<a href="/archive-expert.php"><img class="icon arrow" src="/img/icons/arrow-right-white.svg"></a>
 				</div>
               </div>
             </div>

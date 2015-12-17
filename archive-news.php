@@ -130,9 +130,9 @@
         <div class="column-2">
           <div class="gallery-offset w95r ml05r border-white bg-gray">
             <div class="w100r h200">
-				<div class="img-archive-analytics-5 contain h150 bg-center">
+				<div class="img-archive-analytics-5 contain h200 bg-center">
 				  <div class="bg-label-2 w50r h200">
-					<h2 class="size-14 color-whitesmoke uppercase line-h200 ml20 mr20 h120"><a href="/archive-markets-weekly-1.html" class="color-whitesmoke light-gray-hover">СОБЫТИЯ</a></h2>
+					<h2 class="size-14 color-whitesmoke uppercase line-h200 ml20 mr20 h120"><a href="/archive-events-5.php" class="color-whitesmoke light-gray-hover">СОБЫТИЯ</a></h2>
 				</div>
               </div>
             </div> 
@@ -141,9 +141,9 @@
         <div class="column-2">
            <div class="gallery-offset w95r mr05r border-white bg-gray">
             <div class="w100r h200">
-				<div class="img-archive-analytics-2 contain h150 bg-center">
+				<div class="img-archive-analytics-2 contain h200 bg-center">
 				  <div class="bg-label-2 w50r h200">
-					<h2 class="size-14 color-whitesmoke uppercase line-h200 ml20 mr20 h60"><a href="/archive-shares.html" class="color-whitesmoke light-gray-hover">ЗАКОНОДАТЕЛЬСТВО</a></h2>
+					<h2 class="size-14 color-whitesmoke uppercase line-h200 ml20 mr20 h60"><a href="/laws.php" class="color-whitesmoke light-gray-hover">ЗАКОНОДАТЕЛЬСТВО</a></h2>
 				</div>
               </div>
             </div>
@@ -152,9 +152,9 @@
         <div class="column-2">
           <div class="gallery-offset w95r ml05r border-white bg-gray">
             <div class="w100r h200">
-				<div class="img-archive-analytics-4 contain h150 bg-center">
+				<div class="img-archive-analytics-4 contain h200 bg-center">
 				  <div class="bg-label-2 w50r h200">
-                <h2 class="size-14 color-whitesmoke uppercase line-h200 ml20 mr20 h60"><a href="/archive-reviews-2015.html" class="color-whitesmoke light-gray-hover">ПРЕССА О НАС</a></h2>
+                <h2 class="size-14 color-whitesmoke uppercase line-h200 ml20 mr20 h60"><a href="/archive-press.php" class="color-whitesmoke light-gray-hover">ПРЕССА О НАС</a></h2>
 				</div>
               </div>
             </div>
@@ -163,9 +163,9 @@
         <div class="column-2">
           <div class="gallery-offset w95r mr05r border-white bg-gray">
             <div class="w100r h200">
-				<div class="img-archive-analytics-3 contain h150 bg-center">
+				<div class="img-archive-analytics-3 contain h200 bg-center">
 				  <div class="bg-label-2 w50r h200">
-                <h2 class="size-14 color-whitesmoke uppercase line-h200 ml20 mr20 h60"><a href="/archive-expert.html" class="color-whitesmoke light-gray-hover">КОМПАНИЯ В СМИ</a></h2>
+                <h2 class="size-14 color-whitesmoke uppercase line-h200 ml20 mr20 h60"><a href="/archive-press-company-2.php" class="color-whitesmoke light-gray-hover">КОМПАНИЯ В СМИ</a></h2>
 				</div>
               </div>
             </div>

@@ -124,7 +124,73 @@
               </div>
             </div>
       </div>
-      <div class="clearfix"></div>
+	<div class="clearfix"></div>
+
+   <!-- CONTENT -->	
+	<div id="text-feed" class="column-container mt70 size-14 color-grey1 line-h26">
+    <div class="column-2">
+        <div class="column-offset">
+            <div class="h350 mt20">
+                <h3 class="text-center size-12 color-white"><div class="w250 h40 line-h40 auto bg-gray2 weight-300">INVESTORAWARDS</div></h3>
+                <div class="title-line-grey2"></div>
+                <h4 class="size-12 line-h40 text-center mt10"><span class="bold">ОБЗОР </span><span class="weight-400">QB FINANCE</span></h4>
+                <div class="line-h20 weight-300 mt5 ml30 mr30">
+                    Я продолжаю ходить по фешенебельным и не очень офисам столичных инвест-компаний в поисках интересных стратегий для инвестиций. На этот раз я наведался в центральный офис QB Finance в "Москва-Сити". Они стали лауреатами премии "Лучшая инвестиционная компания за 2014 год" в рамках SPEAR'S Russia Awards... <span class="color-teal weight-300">&gt;</span>
+                </div>
+                <div class="text-center mt10">
+                    <a class="color-gray line-h40 weight-300" href="http://trueinvestor.ru/posts/218.html">http://trueinvestor.ru/posts/218.html</a>
+                </div>
+            </div>
+            <div class="h350 mt100">
+                <h3 class="text-center size-12 color-white"><div class="w250 h40 line-h40 auto bg-gray2 weight-300">ТРИБУНА</div></h3>
+                <div class="title-line-grey2"></div>
+                <h4 class="size-12 line-h40 text-center mt10"><span class="bold">В РАМКАХ КОНКУРСА ОТОБРАНЫ ПОБЕДИТЕЛИ</span></h4>
+                <div class="line-h20 weight-300 mt5 ml30 mr30">
+                    В июле 2012 года уже в очередном ежегодном конкурсе с общим призовым фондом в 23 млрд рублей была отобрана группа организаций, уполномоченных осуществлять отбор и заключать договора подряда, с целью реализации инвестиционных проектов, получивших инвестиционное финансирование по Конкурсу. В результате решения... <span class="color-teal weight-300">&gt;</span>
+                </div>
+                <div class="text-center mt10">
+                    <a class="color-gray line-h40 weight-300" href="http://trueinvestor.ru/posts/218.html">http://trueinvestor.ru/posts/218.html</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="column-2">
+        <div class="column-offset">
+            <div class="h350 mt20">
+                <h3 class="text-center size-12 color-white"><div class="w250 h40 line-h40 auto bg-gray2 weight-300">PBWM</div></h3>
+                <div class="title-line-grey2"></div>
+                <h4 class="size-12 line-h40 text-center mt10"><span class="weight-400">QB FINANCE <span class="bold">ВЫИГРАЛА «СТАРТ ГОДА»</span></span></h4>
+                <div class="line-h20 weight-300 mt5 ml30 mr30">
+                    Специальный приз от главного редактора SPEAR'S Russia в номинации «Лучшая инвестиционная компания года» вручен QB Finance. В состав жюри Премии в этом году входят: главный редактор WATCH Russia Александр Гафин, старший партнер GHP Group Марк Гарбер, главный исполнительный директор группы Deutsche Bank... <span class="color-teal weight-300">&gt;</span>
+                </div>
+                <div class="text-center mt10">
+                    <a class="color-gray line-h40 weight-300" href="http://trueinvestor.ru/posts/218.html">http://pbwm.ru/articles/qb-finance-poluchil-premiyu</a>
+                </div>
+            </div>
+            <div class="h350 mt100">
+                <h3 class="text-center size-12 color-white"><div class="w250 h40 line-h40 auto bg-gray2 weight-300">ВЕСТИ.RU</div></h3>
+                <div class="title-line-grey2"></div>
+                <h4 class="size-12 line-h40 text-center mt10"><span class="bold">РЕЙТИНГ РАБОТОДАТЕЛЕЙ-2012</span></h4>
+                <div class="line-h20 weight-300 mt5 ml30 mr30">
+                    "Рейтинг этого года показал, что объективная система отсчета, помогающая сориентироваться работникам, очень востребована, - отметил председатель совета директоров HeadHunter Юрий Вировец. - Количество участников рейтинга значительно выросло по сравнению с прошлым годом, а значит, компании серьезно озабочены привлечением... <span class="color-teal weight-300">&gt;</span>
+                </div>
+                <div class="text-center mt10">
+                    <a class="color-gray line-h40 weight-300" href="http://trueinvestor.ru/posts/218.html">http://trueinvestor.ru/posts/218.html</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+	<!-- CONTENT -->  
+ <div class="clearfix"></div>
+  <div class="w90r auto">
+        <div class="text-center mt70">
+          <img src="img/icons/icon-lighthouse.svg" class="icon icon-main"><br>
+          <a href="/analytics.php"><span class="size-14">< </span></a><a href="/news.php" class="size-12 line-h40 uppercase">НОВОСТИ</a> <span class="color-teal size-10">•︎</span> <a href="/archive-press.php" class="size-12 line-h40 uppercase">АРХИВ: Пресса о нас</a><a href="/archive-press.php"><span class="size-14"> ></span>
+        </div>    
+  </div>    
+ <div class="clearfix"></div>
       <?php include 'html/footer.html';?>
       <script src="/js/jquery.min.js"></script>
       <script src="/js/main.js"></script>

@@ -146,6 +146,28 @@
       </div>
 	  
       <!-- /CONTENT -->
+	  
+<div id="gallery" class="column-container mt60">
+	  
+ <div class="column-2 mt50">
+  <div class="gallery-offset w85r line-h24 size-14 ml10r">
+        <div class="text-center"><img class="icon icon-contacts" src="/img/icons/icon-earth.svg"></div>
+		<h4 class="text-center size-14 line-h30 color-teal uppercase">ОФИСЫ КОМПАНИИ</h4>
+		
+		<h4 class="text-center size-12 line-h30 mt50 bold uppercase">МОСКВА</h4>
+		<h4 class="text-center size-14 line-h30">Пресненская набережная, д. 8, стр.1</h4>
+    </div>
+  </div>	  
+	  
+<div class="column-2">
+  <div class="gallery-offset w85r line-h24 size-14 ml10r">
+        
+    </div>
+  </div>
+  
+</div>
+  <div class="clearfix"></div>
+	  
       <div class="clearfix"></div>
       <?php include 'html/footer.html';?>
       <script src="/js/jquery.min.js"></script>

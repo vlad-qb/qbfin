@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>QBF ||| investment - обзоры</title>
+    <title>QBF ||| investment - эксперт</title>
     <link href="/css/reset.css" rel="stylesheet">
     <link href="/css/grid.css" rel="stylesheet">
     <link href="/css/typo.css" rel="stylesheet">
@@ -97,7 +97,7 @@
     </div>
     <div class="column-2">
       <div class="column-offset" style="background:white;height:30px;margin-top:0;">
-        <h2 class="size-18 color-teal uppercase text-center line-h110">ОБЗОРЫ</h2>
+        <h2 class="size-18 color-teal uppercase text-center line-h110">ЭКСПЕРТ</h2>
         <p class="size-11 line-h20 ml40 mr40 text-justify">
           <span class="color-teal weight-300 size-12">18.07.2014</span> <span class="color-whitesmoke">•︎</span><span class="bold"> СКОЛЬКО ДЕНЕГ ПРИДЕТСЯ НАПЕЧАТАТЬ ЕВРОПЕЙСКОМУ ЦБ, ЧТОБЫ ВОЗРОДИТЬ ЕВРОПЕЙСКУЮ ЭКОНОМИКУ</span>
         </p>

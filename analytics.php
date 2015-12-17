@@ -132,7 +132,7 @@
               <div class="bg-label w50r h230">
                 <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60 overflow-hidden clip"><a href="/markets.php" class="color-whitesmoke light-gray-hover">Рынки</a></h2>
                 <h3 class="size-12 color-paleturquoise uppercase line-h26 ml20">08 МАЯ / 2015</h3>
-                <h4 class="size-12 line-h26 ml20 mr20 h130 overflow-hidden"><a href="/markets-review-15-08-2015.html" class="color-whitesmoke light-gray-hover">Недельный обзор рынков</a></h4>
+                <h4 class="size-12 line-h26 ml20 mr20 h130 overflow-hidden"><a href="/archive-markets-weekly-1.php" class="color-whitesmoke light-gray-hover">Недельный обзор рынков</a></h4>
               </div>
             </div>
           </div>
@@ -154,7 +154,7 @@
               <div class="bg-label w50r h230">
                 <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60 overflow-hidden clip"><a href="/reviews.php" class="color-whitesmoke light-gray-hover">Обзоры</a></h2>
                 <h3 class="size-12 color-paleturquoise uppercase line-h26 ml20">12 МАЯ / 2015</h3>
-                <h4 class="size-12 line-h26 ml20 mr20 h130 overflow-hidden"><a href="/reviews.php" class="color-whitesmoke light-gray-hover">Обзор градообразующих предприятий Северодвинска</a></h4>
+                <h4 class="size-12 line-h26 ml20 mr20 h130 overflow-hidden"><a href="/reviews-1.php" class="color-whitesmoke light-gray-hover">Обзор градообразующих предприятий Северодвинска</a></h4>
               </div>
             </div>
           </div>
@@ -165,7 +165,7 @@
               <div class="bg-label w50r h230">
                 <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60 overflow-hidden clip"><a href="/expert.php" class="color-whitesmoke light-gray-hover">Эксперт</a></h2>
                 <h3 class="size-12 color-paleturquoise uppercase line-h26 ml20">15 АПРЕЛЯ / 2015</h3>
-                <h4 class="size-12 line-h26 ml20 mr20 h130 overflow-hidden"><a href="/expert.php" class="color-whitesmoke light-gray-hover">Жизнь после деофшоризации - проект: Spear's Russia</a></h4>
+                <h4 class="size-12 line-h26 ml20 mr20 h130 overflow-hidden"><a href="/expert-1.php" class="color-whitesmoke light-gray-hover">Жизнь после деофшоризации - проект: Spear's Russia</a></h4>
               </div>
             </div>
           </div>

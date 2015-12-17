@@ -133,10 +133,10 @@
   <div class="column-2">
     <div class="gallery-offset w90r ml05r border-grey-top">
        <div class="w100r h200 overflow-hidden">
-        <h2 class="size-12 bold uppercase line-h60 ml40 mr20"><a href="/reviews-1.html" class="gray-hover">ПОРА ЛИ ВКЛАДЫВАТЬСЯ В ЗОЛОТО?</a></h2>
+        <h2 class="size-12 bold uppercase line-h60 ml40 mr20"><a href="/reviews-1.php" class="gray-hover">ПОРА ЛИ ВКЛАДЫВАТЬСЯ В ЗОЛОТО?</a></h2>
         <h4 class="size-12 line-h16 ml40 mr20"><span class="color-teal weight-300">03.09.2015 </span><span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span><a href="/archive-news.php" class="gray-hover"> архив</a></h4>
         <br/>
-        <h4 class="size-14 line-h20 ml40 h60 overflow-hidden"><a href="/reviews-1.html" class="gray-hover h60 ellipsis">На фоне опасений касательно замедления темпов роста экономики Китая и непрекращающейся паники на китайском фондовом рынке усилилось падение котировок промышленных металлов и возобновилось снижение стоимости нефти, что приводит к... </a><span class="color-teal weight-300">></span></h4>
+        <h4 class="size-14 line-h20 ml40 h60 overflow-hidden"><a href="/reviews-1.php" class="gray-hover h60 ellipsis">На фоне опасений касательно замедления темпов роста экономики Китая и непрекращающейся паники на китайском фондовом рынке усилилось падение котировок промышленных металлов и возобновилось снижение стоимости нефти, что приводит к... </a><span class="color-teal weight-300">></span></h4>
       </div>
     </div>
   </div>
@@ -150,10 +150,10 @@
   <div class="column-2 mt50">
     <div class="gallery-offset w90r ml05r border-grey-top">
        <div class="w100r h200 overflow-hidden">
-        <h2 class="size-12 bold uppercase line-h60 ml40 mr20"><a href="/reviews-1.html" class="gray-hover">ОБЗОР ГРАДООБРАЗУЮЩИХ ПРЕДПРИЯТИЙ СЕВЕРОДВИНСКА</a></h2>
+        <h2 class="size-12 bold uppercase line-h60 ml40 mr20"><a href="/reviews-1.php" class="gray-hover">ОБЗОР ГРАДООБРАЗУЮЩИХ ПРЕДПРИЯТИЙ СЕВЕРОДВИНСКА</a></h2>
         <h4 class="size-12 line-h16 ml40 mr20"><span class="color-teal weight-300">28.08.2015 </span><span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span><a href="/archive-news.php" class="gray-hover"> архив</a></h4>
         <br/>
-        <h4 class="size-14 line-h20 ml40 h60 overflow-hidden"><a href="/reviews-1.html" class="gray-hover h60 ellipsis">Северодвинск - Государственный Российский центр атомного судостроения - является одним из самых перспективных моногородов России. Моногород - это населенный пункт, экономическая деятельность которого тесно связана... </a><span class="color-teal weight-300">></span></h4>
+        <h4 class="size-14 line-h20 ml40 h60 overflow-hidden"><a href="/reviews-1.php" class="gray-hover h60 ellipsis">Северодвинск - Государственный Российский центр атомного судостроения - является одним из самых перспективных моногородов России. Моногород - это населенный пункт, экономическая деятельность которого тесно связана... </a><span class="color-teal weight-300">></span></h4>
       </div>
     </div>
   </div>
@@ -167,10 +167,10 @@
   <div class="column-2 mt50">
     <div class="gallery-offset w90r ml05r border-grey-top">
        <div class="w100r h200 overflow-hidden">
-        <h2 class="size-12 bold uppercase line-h60 ml40 mr20"><a href="/reviews-1.html" class="gray-hover">ЦЕНТРОБАНКИ БОЛЬШЕ НЕ В СИЛАХ ПОДДЕРЖИВАТЬ НАЦИОНАЛЬНЫЕ ВАЛЮТЫ</a></h2>
+        <h2 class="size-12 bold uppercase line-h60 ml40 mr20"><a href="/reviews-1.php" class="gray-hover">ЦЕНТРОБАНКИ БОЛЬШЕ НЕ В СИЛАХ ПОДДЕРЖИВАТЬ НАЦИОНАЛЬНЫЕ ВАЛЮТЫ</a></h2>
         <h4 class="size-12 line-h16 ml40 mr20"><span class="color-teal weight-300">26.08.2015 </span><span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span><a href="/archive-news.php" class="gray-hover"> архив</a></h4>
         <br/>
-        <h4 class="size-14 line-h20 ml40 h60 overflow-hidden"><a href="/reviews-1.html" class="gray-hover h60 ellipsis">В августе этого года Народный Банк Китая решился на девальвацию юаня с целью поддержки экспортоориентированных компаний и стимулирования экономического роста страны. Снижение китайской валюты почти на 3% стало шоком... </a><span class="color-teal weight-300">></span></h4>
+        <h4 class="size-14 line-h20 ml40 h60 overflow-hidden"><a href="/reviews-1.php" class="gray-hover h60 ellipsis">В августе этого года Народный Банк Китая решился на девальвацию юаня с целью поддержки экспортоориентированных компаний и стимулирования экономического роста страны. Снижение китайской валюты почти на 3% стало шоком... </a><span class="color-teal weight-300">></span></h4>
       </div>
     </div>
   </div>
@@ -184,10 +184,10 @@
   <div class="column-2 mt50">
     <div class="gallery-offset w90r ml05r border-grey-top">
        <div class="w100r h200 overflow-hidden">
-        <h2 class="size-12 bold uppercase line-h60 ml40 mr20"><a href="/reviews-1.html" class="gray-hover">НАРОДНЫЙ БАНК КИТАЯ ПРОДОЛЖАЕТ ШОКИРОВАТЬ МИРОВЫЕ РЫНКИ</a></h2>
+        <h2 class="size-12 bold uppercase line-h60 ml40 mr20"><a href="/reviews-1.php" class="gray-hover">НАРОДНЫЙ БАНК КИТАЯ ПРОДОЛЖАЕТ ШОКИРОВАТЬ МИРОВЫЕ РЫНКИ</a></h2>
         <h4 class="size-12 line-h16 ml40 mr20"><span class="color-teal weight-300">24.08.2015 </span><span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span><a href="/archive-news.php" class="gray-hover"> архив</a></h4>
         <br/>
-        <h4 class="size-14 line-h20 ml40 h60 overflow-hidden"><a href="/reviews-1.html" class="gray-hover h60 ellipsis">После публикации ряда отрицательной макроэкономической статистики по китайской экономике, включая статистику по объему экспорта в июле 2015 года, Народный Банк Китая решился на девальвацию юаня. Как результат, регулятор три раза на неделе... </a><span class="color-teal weight-300">></span></h4>
+        <h4 class="size-14 line-h20 ml40 h60 overflow-hidden"><a href="/reviews-1.php" class="gray-hover h60 ellipsis">После публикации ряда отрицательной макроэкономической статистики по китайской экономике, включая статистику по объему экспорта в июле 2015 года, Народный Банк Китая решился на девальвацию юаня. Как результат, регулятор три раза на неделе... </a><span class="color-teal weight-300">></span></h4>
       </div>
     </div>
   </div>
@@ -201,10 +201,10 @@
   <div class="column-2 mt50">
     <div class="gallery-offset w90r ml05r border-grey-top">
        <div class="w100r h200 overflow-hidden">
-        <h2 class="size-12 bold uppercase line-h20 ml40 mt20 mr20 h60"><a href="/reviews-1.html" class="gray-hover">СМОЖЕТ ЛИ СЕВЕРНЫЙ МОРСКОЙ ПУТЬ СТАТЬ РЕАЛЬНЫМ КОНКУРЕНТОМ ЮЖНЫМ МАРШРУТАМ?</a></h2>
+        <h2 class="size-12 bold uppercase line-h20 ml40 mt20 mr20 h60"><a href="/reviews-1.php" class="gray-hover">СМОЖЕТ ЛИ СЕВЕРНЫЙ МОРСКОЙ ПУТЬ СТАТЬ РЕАЛЬНЫМ КОНКУРЕНТОМ ЮЖНЫМ МАРШРУТАМ?</a></h2>
         <h4 class="size-12 line-h16 ml40 mr20"><span class="color-teal weight-300">20.08.2015 </span><span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span><a href="/archive-news.php" class="gray-hover"> архив</a></h4>
         <br/>
-        <h4 class="size-14 line-h20 ml40 h60 overflow-hidden"><a href="/reviews-1.html" class="gray-hover h60 ellipsis">После публикации ряда отрицательной макроэкономической статистики по китайской экономике, включая статистику по объему экспорта в июле 2015 года, Народный Банк Китая решился на девальвацию юаня. Как результат, регулятор три раза на неделе... </a><span class="color-teal weight-300">></span></h4>
+        <h4 class="size-14 line-h20 ml40 h60 overflow-hidden"><a href="/reviews-1.php" class="gray-hover h60 ellipsis">После публикации ряда отрицательной макроэкономической статистики по китайской экономике, включая статистику по объему экспорта в июле 2015 года, Народный Банк Китая решился на девальвацию юаня. Как результат, регулятор три раза на неделе... </a><span class="color-teal weight-300">></span></h4>
       </div>
     </div>
   </div>
@@ -218,10 +218,10 @@
   <div class="column-2 mt50">
     <div class="gallery-offset w90r ml05r border-grey-top">
       <div class="w100r h200 overflow-hidden">
-        <h2 class="size-12 bold uppercase line-h60 ml40 mr20"><a href="/reviews-1.html" class="gray-hover">C2C ИЛИ «ПОТРЕБИТЕЛЬ ПОТРЕБИТЕЛЮ»</a></h2>
+        <h2 class="size-12 bold uppercase line-h60 ml40 mr20"><a href="/reviews-1.php" class="gray-hover">C2C ИЛИ «ПОТРЕБИТЕЛЬ ПОТРЕБИТЕЛЮ»</a></h2>
         <h4 class="size-12 line-h16 ml40 mr20"><span class="color-teal weight-300">19.08.2015 </span><span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span><a href="/archive-news.php" class="gray-hover"> архив</a></h4>
         <br/>
-        <h4 class="size-14 line-h20 ml40 h60 overflow-hidden"><a href="/reviews-1.html" class="gray-hover h60 ellipsis">C2C (буквально - "Потребитель Потребителю") - бизнес-модель, при которой торговля товарами (оказание услуг) происходит между конечными потребителями. Причем потребители не являются предпринимателями в юридическом смысле этого слова... </a><span class="color-teal weight-300">></span></h4>
+        <h4 class="size-14 line-h20 ml40 h60 overflow-hidden"><a href="/reviews-1.php" class="gray-hover h60 ellipsis">C2C (буквально - "Потребитель Потребителю") - бизнес-модель, при которой торговля товарами (оказание услуг) происходит между конечными потребителями. Причем потребители не являются предпринимателями в юридическом смысле этого слова... </a><span class="color-teal weight-300">></span></h4>
       </div>
     </div>
   </div>
@@ -234,14 +234,14 @@
         <div class="text-center size-18 line-h26 weight-300"><a href="/archive-news.php" class="color-teal gray-hover">2 0 1 5</a> <span class="color-whitesmoke">•︎</span> <a href="/archive-news.php" class="color-teal gray-hover">2 0 1 4</a></div>
       </div>
 <div class="clearfix"></div> 
-<div class="text-center mt70"><img class="icon icon-contacts" src="img/icons/icon-earth.svg"></div> 
+<div class="text-center mt70"><img class="icon icon-contacts" src="/img/icons/icon-earth.svg"></div> 
 <!-- CONTENT -->
 <div class="column-container mt-35">
 <div class="column-2">
     <div class="gallery-offset w95r ml05r border-grey-top">
       <div class="w100r h190 overflow-hidden">
         <h2 class="size-12 uppercase line-h60 mt50 color-teal text-center">ЗАКОНОДАТЕЛЬСТВО</h2>
-        <h4 class="size-12 line-h20 ml20 h60 overflow-hidden"><a href="/reviews-1.html" class="gray-hover h60 ellipsis"><span class="bold">ВНЕСЕНЫ ИЗМЕНЕНИЯ В КОДЕКС</span> <span class="color-whitesmoke">•︎</span> QB Finance специализируется на фондовых рынках США и Европы, работая с широким спектром финансовых инструментов - акции, облигации. </a><span class="color-teal">></span></h4>
+        <h4 class="size-12 line-h20 ml20 h60 overflow-hidden"><a href="/laws.php" class="gray-hover h60 ellipsis"><span class="bold">ВНЕСЕНЫ ИЗМЕНЕНИЯ В КОДЕКС</span> <span class="color-whitesmoke">•︎</span> QB Finance специализируется на фондовых рынках США и Европы, работая с широким спектром финансовых инструментов - акции, облигации. </a><span class="color-teal">></span></h4>
       </div>
     </div>
   </div>
@@ -249,7 +249,7 @@
     <div class="gallery-offset w95r mr05r border-grey-top">
       <div class="w100r h190 overflow-hidden">
         <h2 class="size-12 uppercase line-h60 mt50 color-teal text-center">ПРЕССА О НАС</h2>
-        <h4 class="size-12 line-h20 ml20 h60 overflow-hidden"><a href="/reviews-1.html" class="gray-hover h60 ellipsis"><span class="bold">QBF НАЗВАНА КОМПАНИЕЙ ГОДА</span> <span class="color-whitesmoke">•︎</span> QB Finance специализируется на фондовых рынках США и Европы, работая с широким спектром финансовых инструментов - акции, облигации. </a><span class="color-teal">></span></h4>
+        <h4 class="size-12 line-h20 ml20 h60 overflow-hidden"><a href="/press-about-us.php" class="gray-hover h60 ellipsis"><span class="bold">QBF НАЗВАНА КОМПАНИЕЙ ГОДА</span> <span class="color-whitesmoke">•︎</span> QB Finance специализируется на фондовых рынках США и Европы, работая с широким спектром финансовых инструментов - акции, облигации. </a><span class="color-teal">></span></h4>
       </div>
     </div>
   </div>

@@ -13,6 +13,7 @@
       <link href="/css/gallery.css" rel="stylesheet">
       <link href="/css/blocks.css" rel="stylesheet">
       <link href="/css/forms.css" rel="stylesheet">
+      <link href="/css/guideline.css" rel="stylesheet">
       <!-- HTML5 for IE8 -->
       <!--[if lt IE 9]>
         <script src="js/html5shiv.min.js"></script>

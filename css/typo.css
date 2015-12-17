@@ -48,6 +48,7 @@ a.active{color:#008080;}
 .color-gray{color:#7f7f7f;}
 .color-grey1{color:#333;}
 .color-grey2{color:#4c4c4c;}
+.color-grey666{color:#666;}
 .color-yellow{color: #c7a71c;}
 .color-paleturquoise{color:#a7c5bd;}
 .size-18{font-size:18px;}
@@ -75,3 +76,34 @@ a.active{color:#008080;}
 .light-gray-hover:hover{color:#ccc;}
 .gray-hover:hover{color:#999;}
 .dark-gray-hover:hover{color:#7f7f7f;}
+
+@media screen and (min-width: 1200px) {
+    .text-offset{
+        margin-left:30px;
+        margin-right:30px;
+    }
+}
+@media screen and (max-width: 1200px) {
+    .text-offset{
+        margin-left:30px;
+        margin-right:30px;
+    }
+}
+@media screen and (max-width: 768px) {
+    .text-offset{
+        margin-left:30px;
+        margin-right:30px;
+    }
+}
+@media screen and (max-width: 480px) {
+    .text-offset{
+        margin-left:30px;
+        margin-right:30px;
+    }
+}
+@media screen and (max-width: 375px) {
+    .text-offset{
+        margin-left:30px;
+        margin-right:30px;
+    }
+}

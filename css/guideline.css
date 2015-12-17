@@ -1,3 +1,4 @@
+/*
 body{
 background-color: #f5f5f5;
 }
@@ -19,3 +20,103 @@ background-color: #f5f5f5;
 .col-md-1:nth-child(7){ background-color:#FFEAEA;}
 .col-md-1:nth-child(9){ background-color:#FFEAEA;}
 .col-md-1:nth-child(11){ background-color:#FFEAEA;}
+*/
+
+.w250{width: 250px;}
+.h350{height:350px;}
+.color-grey666{color:#666;}
+.border-left-teal{border-left: 1px solid #A7C5BD;}
+
+.ml15r{margin-left:15%;}
+.mr15r{margin-right:15%;}
+
+.pr10r{padding-right:10%;}
+
+.pt02r{padding-top: 2%}
+.pb02r{padding-bottom: 2%}
+.pt03r{padding-top: 3%}
+.pb03r{padding-bottom: 3%}
+.pt05r{padding-top: 5%}
+.pb05r{padding-bottom: 5%}
+
+.pt0{padding-top:0px;}
+.pt5{padding-top:5px;}
+.pt10{padding-top:10px;}
+.pt15{padding-top:15px;}
+.pt20{padding-top:20px;}
+.pt25{padding-top:25px;}
+.pt30{padding-top:30px;}
+.pt35{padding-top:35px;}
+.pt40{padding-top:40px;}
+.pt50{padding-top:50px;}
+.pt60{padding-top:60px;}
+.pt70{padding-top:70px;}
+.pt80{padding-top:80px;}
+.pt90{padding-top:90px;}
+.pt100{padding-top:100px;}
+
+.pb5{padding-bottom:5px;}
+.pb10{padding-bottom:10px;}
+.pb15{padding-bottom:15px;}
+.pb20{padding-bottom:20px;}
+.pb25{padding-bottom:25px;}
+.pb30{padding-bottom:30px;}
+.pb40{padding-bottom:40px;}
+.pb50{padding-bottom:50px;}
+.pb60{padding-bottom:60px;}
+.pb70{padding-bottom:70px;}
+.pb80{padding-bottom:80px;}
+.pb90{padding-bottom:90px;}
+.pb100{padding-bottom:100px;}
+
+#about-us .bg-center{background-position: 0 center;}
+#about-us .contain{background-size: contain}
+#about-us .cover{background-size: cover;}
+#offices .contain{background-size: contain}
+#about-us .avatar{
+    position:relative;
+    top:150px;
+    left:50px;
+}
+#gallery .planet{
+    position:relative;
+    top:255px;
+    left:50px;
+    overflow:hidden;
+}
+.bg-grey3{background-color: #4c4c4c;}
+.no-repeat{background-repeat: no-repeat;}
+.mt-50{margin-top:-50px;}
+.ml175{margin-left:175px;}
+
+@media screen and (min-width: 1200px) {
+    .text-offset{
+        margin-left:30px;
+        margin-right:30px;
+    }
+}
+@media screen and (max-width: 1200px) {
+    .text-offset{
+        margin-left:30px;
+        margin-right:30px;
+    }
+}
+@media screen and (max-width: 768px) {
+    .text-offset{
+        margin-left:30px;
+        margin-right:30px;
+    }
+}
+@media screen and (max-width: 480px) {
+    .text-offset{
+        margin-left:30px;
+        margin-right:30px;
+    }
+}
+@media screen and (max-width: 375px) {
+    .text-offset{
+        margin-left:30px;
+        margin-right:30px;
+    }
+}
+
