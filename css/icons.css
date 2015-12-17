@@ -29,13 +29,18 @@
 }
 
 .icon-mission{
-    width:230px;
-    height:100px;
+    width:250px;
+    height:120px;
 }
 
 .icon-archive{
     width:115px;
     height:115px;
+}
+
+.icon-round{
+    width:130px;
+    height:130px;
 }
 
 .icon-services{

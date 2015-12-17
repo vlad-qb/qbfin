@@ -130,7 +130,96 @@
               </div>
             </div>
       </div>
-      <div class="clearfix"></div>
+	  <div class="clearfix"></div>
+	  
+<!-- CONTENT -->
+<div id="gallery" class="column-container mt60">
+  <div class="column-3 w28r ml03r mb30 border-grey-top">
+    <div class="gallery-offset ml10r" style="margin: 0 auto; margin-top: 18px;">
+      <div class="img-team-2 w200 h200 cover bg-center" style="margin: 0 auto;">
+      </div>
+	  <h4 class="size-12 text-center uppercase line-h26 mt15 color-teal">Владимир Фролов</h4>
+	  <h4 class="size-12 text-center uppercase line-h26">Генеральный директор</h4>
+	  <h2 class="text-center mt5"><img class="icon icon-mini" src="img/icons/icon-mail.svg"> &nbsp &nbsp <a href="#"><img class="icon icon-mini" src="img/icons/arrow-right.svg"></a></h2>
+	</div>
+  </div>
+  <div class="column-3 w28r ml05r mb30 border-grey-top">
+    <div class="gallery-offset ml10r" style="margin: 0 auto; margin-top: 18px;">
+      <div class="img-team-3 w200 h200 cover bg-center" style="margin: 0 auto;">
+      </div>
+	  <h4 class="size-12 text-center uppercase line-h26 mt15 color-teal">РОМАН ШПАКОВ</h4>
+	  <h4 class="size-12 text-center uppercase line-h26">Председатель Совета директоров</h4>
+	  <h2 class="text-center mt5"><img class="icon icon-mini" src="img/icons/icon-mail.svg"> &nbsp &nbsp <a href="#"><img class="icon icon-mini" src="img/icons/arrow-right.svg"></a></h2>
+	</div>
+  </div>
+  <div class="column-3 w28r ml05r mb30 border-grey-top">
+    <div class="gallery-offset ml10r" style="margin: 0 auto; margin-top: 18px;">
+      <div class="img-team-4 w200 h200 cover bg-center" style="margin: 0 auto;">
+      </div>
+	  <h4 class="size-12 text-center uppercase line-h26 mt15 color-teal">ВЛАДИМИР ПАХОМОВ</h4>
+	  <h4 class="size-12 text-center uppercase line-h26">Директор филиальной сети</h4>
+	  <h2 class="text-center mt5"><img class="icon icon-mini" src="img/icons/icon-mail.svg"> &nbsp &nbsp <a href="#"><img class="icon icon-mini" src="img/icons/arrow-right.svg"></a></h2>
+	</div>
+  </div>
+  <div class="clearfix"></div>
+  
+  <div class="column-3 w28r ml03r mb30 border-grey-top">
+    <div class="gallery-offset ml10r" style="margin: 0 auto; margin-top: 18px;">
+      <div class="img-team-5 w200 h200 cover bg-center" style="margin: 0 auto;">
+      </div>
+	  <h4 class="size-12 text-center uppercase line-h26 mt15 color-teal">ЗЕЛИМХАН МУНАЕВ</h4>
+	  <h4 class="size-12 text-center uppercase line-h26">Директор департамента продаж</h4>
+	  <h2 class="text-center mt5"><img class="icon icon-mini" src="img/icons/icon-mail.svg"> &nbsp &nbsp <a href="#"><img class="icon icon-mini" src="img/icons/arrow-right.svg"></a></h2>
+	</div>
+  </div>
+  <div class="column-3 w28r ml05r mb30 border-grey-top">
+    <div class="gallery-offset ml10r" style="margin: 0 auto; margin-top: 18px;">
+      <div class="img-team-6 w200 h200 cover bg-center" style="margin: 0 auto;">
+      </div>
+	  <h4 class="size-12 text-center uppercase line-h26 mt15 color-teal">МАРГО ГОРШЕНЕВА</h4>
+	  <h4 class="size-12 text-center uppercase line-h26">Директор по развитию</h4>
+	  <h2 class="text-center mt5"><img class="icon icon-mini" src="img/icons/icon-mail.svg"> &nbsp &nbsp <a href="#"><img class="icon icon-mini" src="img/icons/arrow-right.svg"></a></h2>
+	</div>
+  </div>
+  <div class="column-3 w28r ml05r mb30 border-grey-top">
+    <div class="gallery-offset ml10r" style="margin: 0 auto; margin-top: 18px;">
+      <div class="img-team-7 w200 h200 cover bg-center" style="margin: 0 auto;">
+      </div>
+	  <h4 class="size-12 text-center uppercase line-h26 mt15 color-teal">НИКОЛАЙ МИХАЙЛОВ</h4>
+	  <h4 class="size-12 text-center uppercase line-h26">Директор департамента корпоративных финансов</h4>
+	  <h2 class="text-center mt5"><img class="icon icon-mini" src="img/icons/icon-mail.svg"> &nbsp &nbsp <a href="#"><img class="icon icon-mini" src="img/icons/arrow-right.svg"></a></h2>
+	</div>
+  </div>
+  <div class="clearfix"></div>
+  <div class="column-3 w28r ml03r mb30 border-grey-top">
+    <div class="gallery-offset ml10r" style="margin: 0 auto; margin-top: 18px;">
+      <div class="img-team-8 w200 h200 cover bg-center" style="margin: 0 auto;">
+      </div>
+	  <h4 class="size-12 text-center uppercase line-h26 mt15 color-teal">НИКИТА СЕЛИВАНОВ</h4>
+	  <h4 class="size-12 text-center uppercase line-h26">Руководитель департамента международного трейдинга</h4>
+	  <h2 class="text-center mt5"><img class="icon icon-mini" src="img/icons/icon-mail.svg"> &nbsp &nbsp <a href="#"><img class="icon icon-mini" src="img/icons/arrow-right.svg"></a></h2>
+	</div>
+  </div>
+  <div class="column-3 w28r ml05r mb30 border-grey-top">
+    <div class="gallery-offset ml10r" style="margin: 0 auto; margin-top: 18px;">
+      <div class="img-team-9 w200 h200 cover bg-center" style="margin: 0 auto;">
+      </div>
+	  <h4 class="size-12 text-center uppercase line-h26 mt15 color-teal">ДМИТРИЙ КИПА</h4>
+	  <h4 class="size-12 text-center uppercase line-h26">Руководитель аналитического департамента</h4>
+	  <h2 class="text-center mt5"><img class="icon icon-mini" src="img/icons/icon-mail.svg"> &nbsp &nbsp <a href="#"><img class="icon icon-mini" src="img/icons/arrow-right.svg"></a></h2>
+	</div>
+  </div>
+  <div class="clearfix"></div>
+</div>
+<!-- CONTENT -->
+ 
+<div class="w100r">
+      <div class="text-center mt35">
+        <img src="img/icons/icon-lighthouse.svg" class="icon icon-main"><br>
+        <a href="/company.php" class="size-12 line-h40 uppercase">Компания</a>
+      </div>	  
+</div>	  
+<div class="clearfix"></div>
       <?php include 'html/footer.html';?>
       <script src="/js/jquery.min.js"></script>
       <script src="/js/main.js"></script>

@@ -122,6 +122,47 @@
               </div>
             </div>
       </div>
+<div class="clearfix"></div>
+	  
+<!-- /departments -->	
+<div class="column-container w87r auto">
+    <div class="column mt100">
+        <div class="column-offset">
+            <h3 class="text-center size-12 color-white"><div class="w320 h40 line-h40 auto bg-teal">ДЕПАРТАМЕНТ ИНВЕСТИЦИОННЫХ УСЛУГ</div></h3>
+            <div class="title-line-teal"></div>
+			<h3 class="text-center size-12 mt60 bold color-teal">ФИНАНСОВЫЙ СОВЕТНИК</h3>
+        </div>
+    </div>
+</div>
+<div class="column-container size-14 color-grey1 line-h26">
+    <div class="column-2">
+        <div class="column-offset">
+            <p class="mt60"></p>
+                <div class="line-h20 ml30 bold mr30">требования:</div>
+            <p class="mt15">
+                </p><div class="line-h20 weight-300 ml30 mr30">высшее образование экономических и финансовых вузов <span class="color-teal size-11">•︎</span> аналитический склад ума <span class="color-teal size-11">•︎</span> английский язык <span class="color-teal size-11">•︎</span> презентабельная внешность <span class="color-teal size-11">•︎</span> дисциплина <span class="color-teal size-11">•︎</span> стрессоустойчивость <span class="color-teal size-11">•︎</span> коммуникабельность</div>
+			<p class="mt15"></p>
+                <div class="line-h20 ml30 bold mr30">приветствуется:</div>
+            <p class="mt15">
+                </p><div class="line-h20 weight-300 ml30 mr30">опыт работы в банковской и инвестиционной сфере <span class="color-teal size-11">•︎</span> сертификаты и дипломы о повышении квалификации</div>
+        </div>
+    </div>
+    <div class="column-2">
+       <div class="column-offset">
+            <p class="mt60"></p>
+                <div class="line-h20 ml30 bold mr30">обязанности:</div>
+            <p class="mt15">
+                </p><div class="line-h20 weight-300 ml30 mr30">подбор инвестиционных и финансовых программ в соответсвии с потребностями инвестора <span class="color-teal size-11">•︎</span> профессиональная консультация при формировании инвестиционного портфеля <span class="color-teal size-11">•︎</span> предоставление рекомендаций и аналитических справок по запросу инвестора <span class="color-teal size-11">•︎</span> сопровождение и контроль предоставляемых инвестору привилегированных услуг</div>
+				
+			<div class="column-offset">
+            <h3 class="text-center size-12"><div class="w80r h40 line-h40 auto bg-lightgray"><a class="gray-hover" href="/vacancies.php">НАПРАВЬТЕ РЕЗЮМЕ НА ПОЧТУ: STAFF@QBFIN.RU</a></div></h3>
+        </div>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+<!-- /departments -->
+
       <div class="clearfix"></div>
       <?php include 'html/footer.html';?>
       <script src="/js/jquery.min.js"></script>

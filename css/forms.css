@@ -1,22 +1,24 @@
 #form-1{
-    width: 41.56%;
+	width: 80%;
     float: right;
     clear: right;
 	font-size:12px;
-    padding: 3%;
     line-height: 26px;
 }
 
 .form-item{
-    width: 90%;
+    width: 100%;
     padding: 1%;
-    color: #999;
-    font-size: 12px;
-	text-align: center;
+    color: #333;
+    font-size: 13px;
+	text-align: left;
     background: #fff;
     border: 1px solid #d8d9da;
 }
 
 #Send2{
     width: 30%;
+	color: #999;
+	font-size:12px;
+	text-align: center;
 }

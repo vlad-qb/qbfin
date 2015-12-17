@@ -130,6 +130,159 @@
               </div>
             </div>
       </div>
+<div class="clearfix"></div>
+
+<!-- /contragents -->	
+<div class="column-container w87r auto">
+    <div class="column mt100">
+        <div class="column-offset">
+            <h3 class="text-center size-12 color-white"><div class="w288 h40 line-h40 auto bg-teal">КОНТРАГЕНТЫ КОМПАНИИ</div></h3>
+            <div class="title-line-teal"></div>
+        </div>
+    </div>
+</div>
+<div class="column-container size-14 color-grey1 line-h26">
+    <div class="column-2">
+        <div class="column-offset">
+            <p class="mt60"></p>
+                <div class="line-h26 ml30 size-18 mr30 color-teal">Альфа-Банк</div>
+            <p class="mt15">
+                </p><div class="line-h20 weight-300 ml30 mr30">Основной российский контрагент по расчетным операциям и брокерскому обслуживанию. </div>
+            <p class="mt15">
+                </p><div class="line-h20 weight-300 ml30 mr30">Россия, Москва, 107078 | ул. Каланчевская, 27</div>
+			<p class="mt15">
+                </p><div class="line-h20 weight-300 ml30 mr30">тел: 8 495 630 91 91</div>
+			<p class="mt15">
+                </p><div class="line-h20 weight-300 ml30 mr30">сайт: <a href="http://alfabank.ru/" class="color-gray">http://alfabank.ru/</a></div>
+        </div>
+    </div>
+    <div class="column-2">
+       <div class="column-offset">
+            <p class="mt60"></p>
+                <div class="line-h26 ml30 size-18 mr30 color-teal">JP Morgan Chase&Co. </div>
+            <p class="mt15">
+                </p><div class="line-h20 weight-300 ml30 mr30">270 Park Ave. | New York, NY 10017-2070 | USA</div>
+            <p class="mt15">
+                </p><div class="line-h20 weight-300 ml30 mr30">Phone: 212 270 60 00</div>
+			<p class="mt15">
+                </p><div class="line-h20 weight-300 ml30 mr30">сайт: <a href="http://www.jpmorgan.com/pages/jpmorgan" class="color-gray">http://www.jpmorgan.com/pages/jpmorgan</a></div>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+<!-- /contragents -->	  
+
+<!-- /partners -->	
+<div class="column-container w87r auto">
+    <div class="column mt100">
+        <div class="column-offset">
+            <h3 class="text-center size-12 color-white"><div class="w288 h40 line-h40 auto bg-teal">ПАРТНЕРЫ КОМПАНИИ</div></h3>
+            <div class="title-line-teal"></div>
+        </div>
+    </div>
+</div>
+<div class="column-container size-14 color-grey1 line-h26">
+    <div class="column-2">
+        <div class="column-offset">
+            <p class="mt60"></p>
+                <div class="line-h26 ml30 size-18 mr30 color-teal">Lek Securities</div>
+            <p class="mt15">
+                </p><div class="line-h20 weight-300 ml30 mr30">140 Broadway, 29 | New York, NY 10006 | USA</div>
+            <p class="mt15">
+                </p><div class="line-h20 weight-300 ml30 mr30">Phone: 212 509 23 00</div>
+			<p class="mt15">
+                </p><div class="line-h20 weight-300 ml30 mr30">сайт: <a href="http://www.leksecurities.com/" class="color-gray">http://www.leksecurities.com/</a></div>
+        </div>
+    </div>
+    <div class="column-2">
+       <div class="column-offset">
+            <p class="mt60"></p>
+                <div class="line-h26 ml30 size-18 mr30 color-teal">Piraeus Bank</div>
+            <p class="mt15">
+                </p><div class="line-h20 weight-300 ml30 mr30">25700, 1 Spyrou Kyprianou Ave. | 1065 Nicosia | Cyprus</div>
+            <p class="mt15">
+                </p><div class="line-h20 weight-300 ml30 mr30">Phone: +357 22 57 55 55</div>
+			<p class="mt15">
+                </p><div class="line-h20 weight-300 ml30 mr30">сайт: <a href="http://www.piraeusbank.gr/" class="color-gray">http://www.piraeusbank.gr/</a></div>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+	
+	<div class="column-2">
+        <div class="column-offset">
+            <p class="mt90"></p>
+                <div class="line-h26 ml30 size-18 mr30 color-teal">«Агропромстрах»</div>
+            <p class="mt15">
+                </p><div class="line-h20 weight-300 ml30 mr30">Один из крупнейших союзов профессиональных страховщиков, образованных по инициативе Минсельхоза России в 1995 году. Ассоциация призвана осуществлять координацию работы компаний и их филиалов в сфере страхования рисков сельскохозяйственного производства. Президент Ассоциации «Агропромстрах» - Виктор Владимирович Щербаков.</div>
+            <p class="mt15">
+                </p><div class="line-h20 weight-300 ml30 mr30">Основные члены ассоциации - страховые компании города Москвы: «Авангард-Полис», «Межбанковская Региональная Страховая Компания», «Инвестиции и Финансы», «Национальный Страховой Дом», «Исла», «Строительная страховая компания»</div>
+			<p class="mt15">
+                </p><div class="line-h20 weight-300 ml30 mr30">«Агропромстрах» - 107139, Россия, Москва | Орликов переулок, 1/11</div>
+			<p class="mt15">
+                </p><div class="line-h20 weight-300 ml30 mr30">тел: +7 (495) 258 86 63, +7 (495) 258 86 64</div>
+			<p class="mt15">
+                </p><div class="line-h20 weight-300 ml30 mr30">сайт: <a href="http://www.apstrah.ru" class="color-gray">http://www.apstrah.ru</a></div>
+        </div>
+    </div>
+    <div class="column-2">
+       <div class="column-offset">
+            <p class="mt90"></p>
+                <div class="line-h26 ml30 size-18 mr30 color-teal">APEX Capital Partners Corp.</div>
+            <p class="mt15">
+                </p><div class="line-h20 weight-300 ml30 mr30">Международная финансово-консалтинговая компания, оказывающая услуги по вопросам планирования гражданства, инвестиций, налогообложения и подбора недвижимости за рубежом. Офисы компании расположены в Монреале (Канада), Москве и на о. Невис.</div>
+            <p class="mt15">
+                </p><div class="line-h20 weight-300 ml30 mr30">тел: +7 (495) 221 41 70 | почта: info@apexcap.org</div>
+			<p class="mt15">
+                </p><div class="line-h20 weight-300 ml30 mr30">сайт: <a href="http://www.apexcap.org" class="color-gray">http://www.apexcap.org</a></div>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+	
+	<div class="column-2">
+        <div class="column-offset">
+            <p class="mt90"></p>
+                <div class="line-h26 ml30 size-18 mr30 color-teal">«Институт развития финансовых рынков» (ИРФР)</div>
+            <p class="mt15">
+                </p><div class="line-h20 weight-300 ml30 mr30">Решает задачи подготовки и обучения высококвалифицированных специалистов, отвечающих современным потребностям рынка в таких направлениях, как: Подготовка и сертификация специалистов по связям с инвесторами (CIR, IR), Обучение и повышение квалификации участников финансовых рынков.</div>
+            <p class="mt15">
+                </p><div class="line-h20 weight-300 ml30 mr30">адрес: 109147, Россия, Москва | ул. Марксистская, 34 корп. 4</div>
+			<p class="mt15">
+                </p><div class="line-h20 weight-300 ml30 mr30">тел: +7 (495) 911 67 00</div>
+			<p class="mt15">
+                </p><div class="line-h20 weight-300 ml30 mr30">сайт: <a href="http://www.irfr.ru/" class="color-gray">http://www.irfr.ru/</a></div>
+        </div>
+    </div>
+    <div class="column-2">
+       <div class="column-offset">
+            <p class="mt90"></p>
+                <div class="line-h26 ml30 size-18 mr30 color-teal">RJ O'Brien & Associates LLC</div>
+            <p class="mt15">
+                </p><div class="line-h20 weight-300 ml30 mr30">Крупнейшая и старейшая американская брокерская компания, основанная в 1914 году. Изначально компания функционировала дилером на Чикагской товарной бирже. На сегодняшний день RJO предоставляет брокерские и клиринговые услуги на международных финансовых площадках. Компания является учредителем CME.</div>
+            <p class="mt15">
+                </p><div class="line-h20 weight-300 ml30 mr30">Офис компании RJ O'Brien находится в Чикаго, штат Иллинойс, США. Также функционируют офисы в Канаде, Великобритании, Гонконге.</div>
+			<p class="mt15">
+                </p><div class="line-h20 weight-300 ml30 mr30">сайт: <a href="https://www.rjobrien.com/" class="color-gray">https://www.rjobrien.com/</a></div>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+<!-- /partners -->	
+
+<div class="img-clients-2 w100r h300 mt60 fixed" style="background-attachment: fixed;">
+<h4 class="line-h40 color-white uppercase size-16 text-center bold pt70">ВЫСОКОКВАЛИФИЦИРОВАННАЯ КОМАНДА<br/>
+МЕНЕДЖЕРОВ И ПОРТФЕЛЬНЫХ УПРАВЛЯЮЩИХ,<br/>
+ИМЕЮЩАЯ ЗНАЧИТЕЛЬНЫЙ ОПЫТ РАБОТЫ<br/>
+НА РЫНКЕ ЦЕННЫХ БУМАГ.
+</h4>
+</div>
+<div class="clearfix"></div>
+<div class="w100r">
+      <div class="text-center mt35">
+        <img src="img/icons/icon-lighthouse.svg" class="icon icon-main"><br>
+        <a href="/company.php" class="size-12 line-h40 uppercase">Компания</a>
+      </div>	  
+</div>	    
+	  
       <div class="clearfix"></div>
       <?php include 'html/footer.html';?>
       <script src="/js/jquery.min.js"></script>

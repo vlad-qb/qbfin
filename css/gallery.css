@@ -7,10 +7,32 @@
 #cover{background-size:cover;}
 #gallery .cover{background-size:cover;}
 #gallery .bg-center{background-position: center center;}
+#about-us .bg-center{background-position: 0 center;}
+#about-us .contain{background-size: contain}
+#about-us .cover{background-size: cover;}
+#offices .contain{background-size: contain}
+#about-us .avatar{
+    position:relative;
+    top:150px;
+    left:50px;
+}
+#gallery .planet{
+    position:relative;
+    top:255px;
+    left:50px;
+    overflow:hidden;
+}
+#gallery .planet2{
+    position:relative;
+    top:145px;
+    left:50px;
+    overflow:hidden;
+}
 
 .contain{
     background-size: contain;
 }
+.no-repeat{background-repeat: no-repeat;}
 
 /* index.html */
 .img-index-1{

@@ -154,16 +154,65 @@
         <div class="text-center"><img class="icon icon-contacts" src="/img/icons/icon-earth.svg"></div>
 		<h4 class="text-center size-14 line-h30 color-teal uppercase">ОФИСЫ КОМПАНИИ</h4>
 		
-		<h4 class="text-center size-12 line-h30 mt50 bold uppercase">МОСКВА</h4>
+		<h4 class="text-center size-12 line-h40 mt50 bold uppercase">МОСКВА</h4>
 		<h4 class="text-center size-14 line-h30">Пресненская набережная, д. 8, стр.1</h4>
+		<h4 class="text-center size-14 line-h30 weight-300 color-teal">+7 (495) 988 98 21 •︎ e-mail: invest@qbfin.ru</h4>
+		
+		<h4 class="text-center size-12 line-h40 mt10 bold uppercase">САНКТ-ПЕТЕРБУРГ</h4>
+		<h4 class="text-center size-14 line-h30">Малоохтинский проспект, д. 64, литера Б </h4>
+		<h4 class="text-center size-14 line-h30 weight-300 color-teal">+7 (812) 644 01 44 •︎ e-mail: invest@qbfin.ru</h4>
+		
+		<h4 class="text-center size-12 line-h40 mt10 bold uppercase">БЕЛГОРОД</h4>
+		<h4 class="text-center size-14 line-h30">ул. Преображенская, д. 42 </h4>
+		<h4 class="text-center size-14 line-h30 weight-300 color-teal">+7 (961) 179 63 07 •︎ e-mail: at@qbfin.ru</h4>
+		
+		<h4 class="text-center size-12 line-h40 mt10 bold uppercase">ЕКАТЕРИНБУРГ</h4>
+		<h4 class="text-center size-14 line-h30">ул. Бориса Ельцина, 1а</h4>
+		<h4 class="text-center size-14 line-h30 weight-300 color-teal">+7 (343) 312 22 00 •︎ e-mail: invest@qbfin.ru</h4>
+		
+		<h4 class="text-center size-12 line-h40 mt10 bold uppercase">КИЕВ</h4>
+		<h4 class="text-center size-14 line-h30">ул. Мечникова, д. 2</h4>
+		<h4 class="text-center size-14 line-h30 weight-300 color-teal">+380 (44) 390 22 22 •︎ e-mail: invest@qbfin.ru</h4>
     </div>
   </div>	  
 	  
-<div class="column-2">
-  <div class="gallery-offset w85r line-h24 size-14 ml10r">
-        
-    </div>
-  </div>
+ 
+ <div class="column-2 mt50">
+ <div class="text-center"><img class="icon icon-contacts" src="/img/icons/icon-earth.svg"></div>
+	<h4 class="text-center size-14 line-h30 color-teal uppercase">ОБРАТНАЯ СВЯЗЬ</h4>
+        <div id="form-1" class="mr10r mt50">
+
+		<div class="text-center mb20">
+		<p>имя</p>
+		<p><input id="Name2" class="form-item" name="Name2" placeholder="Full Name" required="required" type="text"></p>
+		</div>
+
+		<div class="text-center mb20">
+		<p>mail</p>
+		<p><input id="Email2" class="form-item" name="Email2" placeholder="address@domain.com" required="required" type="email"></p>
+		</div>
+
+		<div class="text-center mb20">
+		<p>телефон</p>
+		<p><input id="Telephone2" class="form-item" name="Telephone2" placeholder="01234 567890" required="required" type="tel"></p>
+		</div>
+
+		<div class="text-center mb20">
+		<p>тема сообщения</p>
+		<p><input id="Subject2" class="form-item" name="Subject2" placeholder="Email subject" required="required" type="text"></p>
+		</div>
+
+		<div class="text-center mb15">
+		<p>сообщение</p>
+		<p><textarea id="Message2" class="form-item" rows="9" name="Message2" placeholder="Please enter your message!" required="required"></textarea></p>
+		</div>
+
+		<div class="text-center">
+		<p><input id="Send2" class="form-item" value="отправить" type="submit"></p>
+		</div>
+							
+		</div>
+</div>
   
 </div>
   <div class="clearfix"></div>

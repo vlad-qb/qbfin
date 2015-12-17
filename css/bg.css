@@ -12,17 +12,16 @@
 .border-grey-bottom{
     border-bottom:1px solid #ebeceb;
 }
-.border-grey2-top{
-    border-top:1px solid #4c4c4c;
-}
-.border-grey2-bottom{
-    border-bottom:1px solid #4c4c4c;
-}
 .border-white{
     border:2px solid #fff;
 }
-.border-left-teal{border-left: 1px solid #A7C5BD;}
+.border-bottom-white{
+    border-bottom:2px solid #fff;
+}
+.border-left-lightgray{border-left: 1px solid #EBECEB;}
+.border-right-lightgray{border-right: 1px solid #EBECEB;}
 .bg-white{background:white;}
+.bg-lightgray{background:#f9f9f9;}
 .bg-label{
     background-color: #333;
     opacity: 0.9;
@@ -35,6 +34,7 @@
 .bg-dark-gray{background-color: #454548;}
 .bg-gray{background-color: #ccc;}
 .bg-gray2{background-color: #454548;}
+.bg-grey3{background-color: #4c4c4c;}
 .title-line-grey{
     border-bottom:1px solid #454548;
     position:relative;
@@ -60,3 +60,53 @@
     top:-40px;
     z-index: -999;
 }
+.title-line-gray{
+	border-bottom: 1px solid #D8D9DA;
+	position:relative;
+    top:-40px;
+    z-index: -999;
+}
+.title-line-gray2{
+	border-bottom: 1px solid #D8D9DA;
+	position:relative;
+    top:-20px;
+    z-index: -999;
+}	
+.title-line-lightgray{
+	border-bottom: 1px solid #E6E6E6;
+	position:relative;
+    top:-20px;
+    z-index: -999;
+}	
+.blue-block-hover:hover{
+    background-color: #4982ad;
+    cursor:pointer;
+    -webkit-transition:all 0.4s ease-out;
+    -moz-transition:all 0.4s ease-out;
+    -o-transition:all 0.4s ease-out;
+    transition:all 0.4s ease-out
+}
+.green-block-hover:hover{
+    background-color: #5fa238;
+    cursor:pointer;
+    -webkit-transition:all 0.4s ease-out;
+    -moz-transition:all 0.4s ease-out;
+    -o-transition:all 0.4s ease-out;
+    transition:all 0.4s ease-out
+}
+.orange-block-hover:hover{
+    background-color: #f5cd22;
+    cursor:pointer;
+    -webkit-transition:all 0.4s ease-out;
+    -moz-transition:all 0.4s ease-out;
+    -o-transition:all 0.4s ease-out;
+    transition:all 0.4s ease-out
+}
+.grey-block-hover:hover{
+    background-color: #999;
+    cursor:pointer;
+    -webkit-transition:all 0.4s ease-out;
+    -moz-transition:all 0.4s ease-out;
+    -o-transition:all 0.4s ease-out;
+    transition:all 0.4s ease-out
+}	

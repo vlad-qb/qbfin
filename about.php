@@ -130,6 +130,153 @@
               </div>
             </div>
       </div>
+<div class="clearfix"></div>
+
+<!-- Content-->	  
+<div id="about-us" class="column-container mt80">
+  <div class="column-2">
+    <div class="column-offset">
+      <div class="img-about-2 w100r h200 cover bg-center">
+        <div class="avatar l img-about-6 contain w100 h100"></div>
+      </div>
+      <div class="w100r">
+        <div class="line-h24 mt15">
+          <div class="ml175 h50">
+            <div class="w90r pb10 size-12 color-gray line-h24 border-grey-bottom">
+              Роман Шпаков - председатель совета директоров
+            </div>
+          </div>
+        </div>
+        <div class="clearfix"></div>
+      </div>
+    </div>
+  </div>
+  <div class="column-2">
+    <div class="column-offset">
+      <div class="img-about-3 w100r h200 cover bg-center">
+        <div class="avatar l img-about-7 contain w100 h100"></div>
+      </div>
+      <div class="w100r">
+        <div class="line-h24 mt15">
+          <div class="ml175 h50">
+            <div class="w90r pb10 size-12 color-gray line-h24 border-grey-bottom">
+              Владимир Пахомов - директор филиальной сети
+            </div>
+          </div>
+        </div>
+        <div class="clearfix"></div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="clearfix"></div>
+<!-- Content-->
+
+<!-- Text-->	  
+<div class="column-container">	
+<div class="column-offset w100r auto line-h20 size-14">  
+	<div class="column-2">
+		<p class="mt20 ml05r mr05r size-14"><span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span> Вот уже 7 лет мы успешно развиваем инвестиционную культуру в России и странах СНГ, консультируя их резидентов и увеличивая благосостояние семей.</p>
+		
+		<p class="mt20 ml05r mr05r size-14">Наш опыт и понимание тенденций в индустрии позволяет предлагать самые актуальные инвестиционные решения, а процесс инвестирования делать простым и эффективным.</p>
+	</div>	
+	<div class="column-2">
+		<p class="mt20 ml05r mr05r size-14"><span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span> В создании финансовых продуктов мы ориентируемся на скорость их реализации - ликвидность, доходность, сохранность нашего капитала и капитала наших клиентов. </p>
+		
+		<p class="mt20 ml05r mr05r size-14">Сотрудничая с международными партнерами и выбирая в команду первоклассных специалистов, мы следуем высочайшим стандартам качества и компетентности в обслуживании и управлении капиталом.</p>
+	</div>
+</div>
+</div>
+<div class="clearfix"></div>
+<!-- Text-->
+
+<!-- Content-->	  
+<div id="about-us" class="column-container mt60">
+  <div class="column-2">
+    <div class="column-offset">
+      <div class="img-about-4 w100r h200 cover bg-center">
+        <div class="avatar l img-about-8 contain w100 h100"></div>
+      </div>
+      <div class="w100r">
+        <div class="line-h24 mt15">
+          <div class="ml175 h50">
+            <div class="w90r pb10 size-12 color-gray line-h24 border-grey-bottom">
+              Александр Зайцев - директор по всему на свете
+            </div>
+          </div>
+        </div>
+        <div class="clearfix"></div>
+      </div>
+    </div>
+  </div>
+  <div class="column-2">
+    <div class="column-offset">
+      <div class="img-about-5 w100r h200 cover bg-center">
+        <div class="avatar l img-about-9 contain w100 h100"></div>
+      </div>
+      <div class="w100r">
+        <div class="line-h24 mt15">
+          <div class="ml175 h50">
+            <div class="w90r pb10 size-12 color-gray line-h24 border-grey-bottom">
+              Дмитрий Лепешкин - директор по инвестициям
+            </div>
+          </div>
+        </div>
+        <div class="clearfix"></div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="clearfix"></div>
+<!-- Content-->
+
+<!-- Text-->	  
+<div class="column-container">	
+<div class="column-offset w100r auto line-h20 size-14">  
+	<div class="column-2">
+		<p class="mt20 ml05r mr05r size-14 weight-300"><span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span> По итогам 2014 года компания признана лауреатом премии Spear's Russia Wealth Management Awards в номинации «Лучшая инвестиционная компания года».</p>
+		
+		<p class="mt20 ml05r mr05r size-14 weight-300">В индустрии частного банковского обслуживания и управления крупными состояниями наша компания защитила рейтинг кредитоспособности на уровне "А" от РА "Эксперт" и вошла в топ-30 лучших работадателей РФ по версии HeadHunter.</p>
+	</div>	
+	<div class="column-2">
+		<p class="mt20 ml05r mr05r size-14 weight-300"><span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span> На сегодняшний день филиалы и представительства QBF ||| investment расположены в городах России: Москва, Санкт-Петербург, Белгород, Екатеринбург, Казань, а также на территории Украины - Киев и Казахстана - Алматы.</p>
+	</div>
+</div>
+</div>
+<div class="clearfix"></div>
+<!-- Text-->
+
+<!-- /ALERT -->
+<div class="text-alert column-container mt70 w70r auto line-h20 size-12 uppercase">
+    <div class="column">
+        <div class="column-offset">
+            <div class="ml15r mr15r border-left-lightgray border-right-lightgray text-center bold">
+                <div class="ml05r mr05r pt03r pb03r">
+                    <p class="ml025r">
+                        МЫ СОЗДАЕМ НОВЫЕ ВОЗМОЖНОСТИ ДЛЯ ТЕХ, КТО ВСЕГДА СТРЕМИТСЯ К БОЛЬШЕМУ И ПОМОГАЕМ КЛИЕНТАМ ВЫБРАТЬ ЦЕННОЕ И ВАЖНОЕ ИМЕННО ДЛЯ НИХ, А ИНДУСТРИЯ ПОЗВОЛЯЕТ ВИДЕТЬ РЕЗУЛЬТАТ МГНОВЕННО.
+                    </p>
+					<p class="ml025r mt20">
+                        ИМЕННО ПОЭТОМУ НАШИ СПЕЦИАЛИСТЫ ВЕСЬМА НАСТОЯТЕЛЬНЫ НА ТЕХ АСПЕКТАХ, КОТОРЫЕ ПРОФЕССИЛНАЛЬНО СЧИТАЮТ ЛУЧШИМИ В РЕШЕНИИ ЗАДАЧ ИНВЕСТОРА. 
+                    </p>
+					<p class="ml025r mt20">
+                        ВСЕ ЭТО ПОЗВОЛЯЕТ НАМ ДОСТИГАТЬ, ПОСТАВЛЕННЫХ ЦЕЛЕЙ И ВСТУПАТЬ В ДОЛГОСРОЧНОЕ СОТРУДНИЧЕСТВО С КЛИЕНТОМ, ПРИНИМАЯ С КАЖДЫМ ГОДОМ БОЛЬШЕЕ УЧАСТИЕ В ВАЖНЫХ ДЛЯ НЕГО ВОПРОСАХ. 
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+<!-- /ALERT -->
+
+
+<div class="clearfix"></div>
+<div class="w100r">
+      <div class="text-center mt80">
+        <img src="img/icons/icon-lighthouse.svg" class="icon icon-main"><br>
+        <a href="/company.php" class="size-12 line-h40 uppercase">Компания</a>
+      </div>	  
+</div>		
       <div class="clearfix"></div>
       <?php include 'html/footer.html';?>
       <script src="/js/jquery.min.js"></script>

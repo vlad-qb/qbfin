@@ -119,8 +119,17 @@
                 </div>
               </div>
             </div>
-      </div>
-      <div class="clearfix"></div>
+      </div> 
+	  
+<div class="clearfix"></div>
+<div class="mt80">
+<div class="img-service-2 w100r h300 fixed border-bottom-white" style="background-attachment: fixed;"></div>
+<div class="img-service-3 w100r h300 fixed border-bottom-white" style="background-attachment: fixed;"></div>
+<div class="img-service-4 w100r h300 fixed border-bottom-white" style="background-attachment: fixed;"></div>
+</div>
+
+	  
+	  <div class="clearfix"></div>
       <?php include 'html/footer.html';?>
       <script src="/js/jquery.min.js"></script>
       <script src="/js/main.js"></script>

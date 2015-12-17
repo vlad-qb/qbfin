@@ -130,6 +130,106 @@
               </div>
             </div>
       </div>
+	  <div class="clearfix"></div>
+
+<!-- BRANCH-OFFICE -->
+<div id="offices" class="CUSTOM-1 column-container">
+
+    <div class="column">
+        <div class="column-offset">
+            <h3 class="mt60 text-center size-14"><div class="w250 h40 line-h40 auto bg-white uppercase">Москва</div></h3>
+            <div class="title-line-lightgray"></div>
+        </div>
+    </div>
+
+    <div class="clearfix"></div>
+
+    <div class="column">
+        <div class="column-offset">
+
+    <div class="column-20r mt70" style="padding-top:2%;">
+        <div class="img-branch-office-2 contain w200 auto h200"></div>
+    </div>
+
+    <div class="column-40r mt70" style="padding-top:2%;">
+      <div class="column-offset">
+        <div class="text-center weight-300 size-14 line-h40">
+            123317, Москва<br>
+            Пресненская набережная, д.8, стр1<br>
+            ММДЦ «Москва-Сити»<br>
+            тел: +7 (495) 988 98 21<br>
+            e-mail:<a href="mailto:invest@qbfin.ru" class="color-teal">invest@qbfin.ru</a><br>
+            <a href="https://maps.yandex.ru/-/CVvQNJ37" class="color-teal">маршрут на Яндекс.Картах</a>
+        </div>
+        <div class="clearfix"></div>
+      </div>
+    </div>
+
+    <div class="column-40r mt70" style="padding-top:2%;">
+      <div class="column-offset">
+        <div class="size-14 line-h24 ml01r mr05r">
+          <p class="weight-300">Штаб-квартира QBF расположена в эпицентре деловой России - Московском Международном Деловом Центре «Москва-Сити», в башне «Город Столиц</p>
+          <p class="mt30 weight-300">Именно здесь сосредоточены основные кадровые ресурсы и стратегические направления бизнеса. Московский офис всегда рад видеть в гостях клиентов и партнеров QBF.</p>
+        </div>
+      </div>
+    </div>
+
+    </div></div>
+
+</div>
+<div class="clearfix h200">
+
+</div>
+
+<!-- BRANCH-OFFICE -->
+<div id="offices" class="CUSTOM-1 column-container">
+
+    <div class="column">
+        <div class="column-offset">
+            <h3 class="mt60 text-center size-14"><div class="w250 h40 line-h40 auto bg-white uppercase">САНКТ-ПЕТЕРБУРГ</div></h3>
+            <div class="title-line-lightgray"></div>
+        </div>
+    </div>
+
+    <div class="clearfix"></div>
+
+    <div class="column">
+        <div class="column-offset">
+
+    <div class="column-20r mt70" style="padding-top:2%;">
+        <div class="img-branch-office-2 contain w200 auto h200"></div>
+    </div>
+
+    <div class="column-40r mt70" style="padding-top:2%;">
+      <div class="column-offset">
+        <div class="text-center weight-300 size-14 line-h40">
+            195112, Санкт-Петербург<br>
+            Малоохтинский проспект, д.64, литера Б<br>
+            БЦ «Санкт-Петербург Плаза»<br>
+            тел: +7 (812) 644 01 44<br>
+            e-mail:<a href="mailto:invest@qbfin.ru" class="color-teal">invest@qbfin.ru</a><br>
+            <a href="https://maps.yandex.ru/-/CVvQNJ37" class="color-teal">маршрут на Яндекс.Картах</a>
+        </div>
+        <div class="clearfix"></div>
+      </div>
+    </div>
+
+    <div class="column-40r mt70" style="padding-top:2%;">
+      <div class="column-offset">
+        <div class="size-14 line-h24 ml01r mr05r">
+          <p class="weight-300">Рынок Северной Столицы всегда рассматривался нашей компанией как перспективное место для открытия филиала: низкая насыщенность инвестиционными компаниями позволила QBF занять заметную нишу Санкт-Петербурга в сфере управления капиталом на зарубежных рынках.</p>
+          <p class="mt30 weight-300">Филиал расположен в бизнес-центре «Санкт-Петербург Плаза» на Малоохотинском проспекте.</p>
+        </div>
+      </div>
+    </div>
+
+    </div></div>
+
+</div>
+<div class="clearfix h200">
+
+</div>
+
       <div class="clearfix"></div>
       <?php include 'html/footer.html';?>
       <script src="/js/jquery.min.js"></script>
