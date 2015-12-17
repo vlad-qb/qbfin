@@ -84,39 +84,86 @@ background-color: #f5f5f5;
     left:50px;
     overflow:hidden;
 }
+
 .bg-grey3{background-color: #4c4c4c;}
 .no-repeat{background-repeat: no-repeat;}
 .mt-50{margin-top:-50px;}
 .ml175{margin-left:175px;}
+
+.line-h18{line-height:18px;}
+.h240{height:240px;}
+
+.blue-block-hover:hover{
+    background-color: #4982ad;
+    cursor:pointer;
+    -webkit-transition:all 0.4s ease-out;
+    -moz-transition:all 0.4s ease-out;
+    -o-transition:all 0.4s ease-out;
+    transition:all 0.4s ease-out
+}
+.green-block-hover:hover{
+    background-color: #5fa238;
+    cursor:pointer;
+    -webkit-transition:all 0.4s ease-out;
+    -moz-transition:all 0.4s ease-out;
+    -o-transition:all 0.4s ease-out;
+    transition:all 0.4s ease-out
+}
+.orange-block-hover:hover{
+    background-color: #f5cd22;
+    cursor:pointer;
+    -webkit-transition:all 0.4s ease-out;
+    -moz-transition:all 0.4s ease-out;
+    -o-transition:all 0.4s ease-out;
+    transition:all 0.4s ease-out
+}
+.grey-block-hover:hover{
+    background-color: #999;
+    cursor:pointer;
+    -webkit-transition:all 0.4s ease-out;
+    -moz-transition:all 0.4s ease-out;
+    -o-transition:all 0.4s ease-out;
+    transition:all 0.4s ease-out
+}
 
 @media screen and (min-width: 1200px) {
     .text-offset{
         margin-left:30px;
         margin-right:30px;
     }
+    #parallax-menu{height:240px;}
+    #parallax-menu .label{height:240px;}
 }
 @media screen and (max-width: 1200px) {
     .text-offset{
         margin-left:30px;
         margin-right:30px;
     }
+    #parallax-menu{height:240px;}
+    #parallax-menu .label{height:240px;}
 }
 @media screen and (max-width: 768px) {
     .text-offset{
         margin-left:30px;
         margin-right:30px;
     }
+    #parallax-menu{height:820px;}
+    #parallax-menu .label{height:820px;}
 }
 @media screen and (max-width: 480px) {
     .text-offset{
         margin-left:30px;
         margin-right:30px;
     }
+    #parallax-menu{height:860px;}
+    #parallax-menu .label{height:860px;}
 }
 @media screen and (max-width: 375px) {
     .text-offset{
         margin-left:30px;
         margin-right:30px;
     }
+    #parallax-menu{height:860px;}
+    #parallax-menu .label{height:860px;}
 }
 

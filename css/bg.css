@@ -12,6 +12,12 @@
 .border-grey-bottom{
     border-bottom:1px solid #ebeceb;
 }
+.border-grey2-top{
+    border-top:1px solid #4c4c4c;
+}
+.border-grey2-bottom{
+    border-bottom:1px solid #4c4c4c;
+}
 .border-white{
     border:2px solid #fff;
 }
