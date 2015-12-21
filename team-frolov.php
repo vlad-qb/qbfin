@@ -4,7 +4,7 @@
       <meta charset="utf-8">
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
       <meta name="viewport" content="width=device-width, initial-scale=1">
-      <title>QBF ||| investment - руководство</title>
+      <title>QBF ||| investment - руководство - Владимир Фролов</title>
       <link href="/css/reset.css" rel="stylesheet">
       <link href="/css/grid.css" rel="stylesheet">
       <link href="/css/typo.css" rel="stylesheet">
@@ -21,7 +21,7 @@
     </head>
     <body>
       <?php include 'html/header.html';?>
-      <div id="cover" class="img-team-1 cover w100r h480 mt-80" style="background-position: center top;">
+      <div id="cover" class="img-team-frolov-1 cover w100r h480 mt-80" style="background-position: right top;">
         <div class="column-container h30" style="position:relative;top:450px;">
           <div class="column-2">
             <div class="column-offset h30 mt0 bg-white" style="margin-top:0;">
@@ -108,8 +108,8 @@
             <div class="column-offset h30 bg-white" style="margin-top:0;">
               <div class="w85r auto">
                 <h2 class="size-18 color-teal uppercase text-center line-h110">РУКОВОДСТВО</h2>
-                <p class="size-11 line-h20 text-justify">
-                  <span class="color-teal size-12 weight-300"> QBF ||| investment</span> - <span class="bold"> ВЫСОКОКВАЛИФИЦИРОВАННАЯ КОМАНДА МЕНЕДЖЕРОВ И ПОРТФЕЛЬНЫХ УПРАВЛЯЮЩИХ, ИМЕЮЩАЯ ЗНАЧИТЕЛЬНЫЙ ОПЫТ РАБОТЫ НА РЫНКЕ ЦЕННЫХ БУМАГ.</span>
+                <p class="size-11 line-h20 bold text-center">
+                  ВЛАДИМИР ФРОЛОВ - ГЕНЕРАЛЬНЫЙ ДИРЕКТОР КОМПАНИИ
                 </p>
                 <div class="w70r mt50 text-center auto">
                   <p class="w20r ml025r mr025r l auto">
@@ -131,92 +131,36 @@
             </div>
       </div>
 	  <div class="clearfix"></div>
-	  
-<!-- CONTENT -->
-<div id="gallery" class="column-container mt60">
-  <div class="column-3 w28r ml03r mb30 border-grey-top">
-    <div class="gallery-offset ml10r" style="margin: 0 auto; margin-top: 18px;">
-      <div class="img-team-2 w200 h200 cover bg-center" style="margin: 0 auto;">
-      </div>
-	  <h4 class="size-12 text-center uppercase line-h26 mt15 color-teal">Владимир Фролов</h4>
-	  <h4 class="size-12 text-center uppercase line-h26">Генеральный директор</h4>
-	  <h2 class="text-center mt5"><img class="icon icon-mini" src="img/icons/icon-mail.svg"> &nbsp &nbsp <a href="/team-frolov.php"><img class="icon icon-mini" src="img/icons/arrow-right.svg"></a></h2>
-	</div>
-  </div>
-  <div class="column-3 w28r ml05r mb30 border-grey-top">
-    <div class="gallery-offset ml10r" style="margin: 0 auto; margin-top: 18px;">
-      <div class="img-team-3 w200 h200 cover bg-center" style="margin: 0 auto;">
-      </div>
-	  <h4 class="size-12 text-center uppercase line-h26 mt15 color-teal">РОМАН ШПАКОВ</h4>
-	  <h4 class="size-12 text-center uppercase line-h26">Председатель Совета директоров</h4>
-	  <h2 class="text-center mt5"><img class="icon icon-mini" src="img/icons/icon-mail.svg"> &nbsp &nbsp <a href="/team-shpakov.php"><img class="icon icon-mini" src="img/icons/arrow-right.svg"></a></h2>
-	</div>
-  </div>
-  <div class="column-3 w28r ml05r mb30 border-grey-top">
-    <div class="gallery-offset ml10r" style="margin: 0 auto; margin-top: 18px;">
-      <div class="img-team-4 w200 h200 cover bg-center" style="margin: 0 auto;">
-      </div>
-	  <h4 class="size-12 text-center uppercase line-h26 mt15 color-teal">ВЛАДИМИР ПАХОМОВ</h4>
-	  <h4 class="size-12 text-center uppercase line-h26">Директор филиальной сети</h4>
-	  <h2 class="text-center mt5"><img class="icon icon-mini" src="img/icons/icon-mail.svg"> &nbsp &nbsp <a href="/team-pahomov.php"><img class="icon icon-mini" src="img/icons/arrow-right.svg"></a></h2>
-	</div>
-  </div>
-  <div class="clearfix"></div>
-  
-  <div class="column-3 w28r ml03r mb30 border-grey-top">
-    <div class="gallery-offset ml10r" style="margin: 0 auto; margin-top: 18px;">
-      <div class="img-team-5 w200 h200 cover bg-center" style="margin: 0 auto;">
-      </div>
-	  <h4 class="size-12 text-center uppercase line-h26 mt15 color-teal">ЗЕЛИМХАН МУНАЕВ</h4>
-	  <h4 class="size-12 text-center uppercase line-h26">Директор департамента продаж</h4>
-	  <h2 class="text-center mt5"><img class="icon icon-mini" src="img/icons/icon-mail.svg"> &nbsp &nbsp <a href="/team-munaev.php"><img class="icon icon-mini" src="img/icons/arrow-right.svg"></a></h2>
-	</div>
-  </div>
-  <div class="column-3 w28r ml05r mb30 border-grey-top">
-    <div class="gallery-offset ml10r" style="margin: 0 auto; margin-top: 18px;">
-      <div class="img-team-6 w200 h200 cover bg-center" style="margin: 0 auto;">
-      </div>
-	  <h4 class="size-12 text-center uppercase line-h26 mt15 color-teal">МАРГО ГОРШЕНЕВА</h4>
-	  <h4 class="size-12 text-center uppercase line-h26">Директор по развитию</h4>
-	  <h2 class="text-center mt5"><img class="icon icon-mini" src="img/icons/icon-mail.svg"> &nbsp &nbsp <a href="/team-gorsheneva.php"><img class="icon icon-mini" src="img/icons/arrow-right.svg"></a></h2>
-	</div>
-  </div>
-  <div class="column-3 w28r ml05r mb30 border-grey-top">
-    <div class="gallery-offset ml10r" style="margin: 0 auto; margin-top: 18px;">
-      <div class="img-team-7 w200 h200 cover bg-center" style="margin: 0 auto;">
-      </div>
-	  <h4 class="size-12 text-center uppercase line-h26 mt15 color-teal">НИКОЛАЙ МИХАЙЛОВ</h4>
-	  <h4 class="size-12 text-center uppercase line-h26">Директор департамента корпоративных финансов</h4>
-	  <h2 class="text-center mt5"><img class="icon icon-mini" src="img/icons/icon-mail.svg"> &nbsp &nbsp <a href="/team-michailov.php"><img class="icon icon-mini" src="img/icons/arrow-right.svg"></a></h2>
-	</div>
-  </div>
-  <div class="clearfix"></div>
-  <div class="column-3 w28r ml03r mb30 border-grey-top">
-    <div class="gallery-offset ml10r" style="margin: 0 auto; margin-top: 18px;">
-      <div class="img-team-8 w200 h200 cover bg-center" style="margin: 0 auto;">
-      </div>
-	  <h4 class="size-12 text-center uppercase line-h26 mt15 color-teal">НИКИТА СЕЛИВАНОВ</h4>
-	  <h4 class="size-12 text-center uppercase line-h26">Руководитель департамента международного трейдинга</h4>
-	  <h2 class="text-center mt5"><img class="icon icon-mini" src="img/icons/icon-mail.svg"> &nbsp &nbsp <a href="/team-selivanov.php"><img class="icon icon-mini" src="img/icons/arrow-right.svg"></a></h2>
-	</div>
-  </div>
-  <div class="column-3 w28r ml05r mb30 border-grey-top">
-    <div class="gallery-offset ml10r" style="margin: 0 auto; margin-top: 18px;">
-      <div class="img-team-9 w200 h200 cover bg-center" style="margin: 0 auto;">
-      </div>
-	  <h4 class="size-12 text-center uppercase line-h26 mt15 color-teal">ДМИТРИЙ КИПА</h4>
-	  <h4 class="size-12 text-center uppercase line-h26">Руководитель аналитического департамента</h4>
-	  <h2 class="text-center mt5"><img class="icon icon-mini" src="img/icons/icon-mail.svg"> &nbsp &nbsp <a href="/team-kipa.php"><img class="icon icon-mini" src="img/icons/arrow-right.svg"></a></h2>
-	</div>
-  </div>
-  <div class="clearfix"></div>
+<!--Text-->
+<div class="column-container size-14 line-h20">
+    <div class="column-2">
+        <p class="mt100 ml07r mr10r size-14 weight-300"><span class="bold">З</span>адача сохранения и приумножения капитала остается одной из самых важных для каждого из нас и, принимая решение о размещении средств, мы хотим быть уверены в правильности своего выбора.</p>
+		<p class="mt20 ml07r mr10r size-14 weight-300">Проанализировав российский рынок инвестиционных услуг, с полной уверенностью могу сказать, что начало работы с нашей компанией - правильный выбор для клиента. Почему? Вот несколько из основных причин:</p>
+		
+		<p class="mt50 ml10r mr10r size-12 color-teal uppercase line-h16 weight-300">ОПТИМАЛЬНЫЙ ПЕРЕЧЕНЬ УСЛУГ, АБСОЛЮТНО КАЖДЫЙ ЖЕЛАЮЩИЙ СМОЖЕТ ПОДОБРАТЬ ДЛЯ СЕБЯ ПОДХОДЯЩИЕ УСЛОВИЯ</p>
+		<p class="mt10 ml10r mr10r size-12 color-teal uppercase line-h16 weight-300">ВЫГОДНЫЙ КУРС ОБМЕНА ВАЛЮТЫ ПО ИНВЕСТИЦИОННЫМ ПОРТФЕЛЯМ ДЕЙСТВУЮЩИХ КЛИЕНТОВ</p>
+		<p class="mt10 ml10r mr10r size-12 color-teal uppercase line-h16 weight-300">НЕЗАВИСИМОСТЬ ОТ ПОЛИТИЧЕСКОЙ КОНЪЮНКТУРЫ</p>
+		<p class="mt10 ml10r mr10r size-12 color-teal uppercase line-h16 weight-300">ВОЗМОЖНОСТЬ РЕШЕНИЯ ИНДИВИДУАЛЬНЫХ ЗАДАЧ ДЛЯ КЛИЕНТА</p>
+		<p class="mt10 ml10r mr10r size-12 color-teal uppercase line-h16 weight-300">НАДЕЖНАЯ ЗАЩИТА КАПИТАЛА, ЗАКРЕПЛЕННАЯ В КЛИЕНТСКИХ ДОГОВОРАХ И ИМЕЮЩАЯ ПРОЗРАЧНОЕ ПРАВОВОЕ РЕГУЛИРОВАНИЕ</p>
+		<p class="mt10 ml10r mr10r size-12 color-teal uppercase line-h16 weight-300">ПОЛОЖИТЕЛЬНЫЙ ФИНАНСОВЫЙ РЕЗУЛЬТАТ ДЛЯ КЛИЕНТА ПО ИТОГУ ПЕРИОДА УПРАВЛЕНИЯ</p>
+		<p class="mt10 ml10r mr10r size-12 color-teal uppercase line-h16 weight-300">МАСШТАБНЫЕ ДОЛГОСРОЧНЫЕ ЦЕЛИ, КОТОРЫЕ СТАВИТ ПЕРЕД СОБОЙ РУКОВОДСТВО КОМПАНИИ</p>
+    </div>
+    <div class="column-2">
+        <p class="mt100 ml07r mr10r size-14 weight-300">Тот, кто выбирает нас, не сомневается в том, что в его интересах действуют специалисты, заинтересованные в положительном результате для клиента. Мы не стремимся предлагать массовый продукт, ведь у каждого из нас финансовое планирование зависит в первую очередь от наших целей и потребностей.</p>
+		<p class="mt20 ml07r mr10r size-14 weight-300">Нам важны комфорт и уверенность клиентов в вопросе выбора направления (способа, стратегии) размещения средств, будь то консервативная, средневзвешенная либо высокодоходная стратегии в рамках услуг доверительного и консультационного управления, услуг по инвестициям в недвижимость, иных услуг компании.</p>
+		<p class="mt20 ml07r mr10r size-14 weight-300">Взаимодействие с нашими клиентами и работа сотрудников внутри коллектива компании основываются на искренних и справедливых взаимоотношениях. Мы знаем, что заинтересованность и профессионализм работают на положительный результат для наших клиентов, а, следовательно, и для нас.</p>
+		<p class="mt20 ml07r mr10r size-14 weight-300">Успех наших клиентов - наш успех. Вне зависимости от того, в чью пользу Вы в итоге сделаете выбор, дам один совет: выбирайте для себя тех, кто добивается результата. <span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span></p>
+		<p class="mt40 ml07r mr10r size-14 weight-300 line-h30 r text-right">С уважением,<br/>
+		<span class="bold">Владимир Фролов</span>, Генеральный директор</p>
+    </div>
 </div>
-<!-- CONTENT -->
- 
+<div class="clearfix"></div>
+<!--Text-->	  
+
 <div class="w100r">
-      <div class="text-center mt35">
+      <div class="text-center mt80">
         <img src="img/icons/icon-lighthouse.svg" class="icon icon-main"><br>
-        <a href="/company.php" class="size-12 line-h40 uppercase">Компания</a>
+        <a href="/company.php"><span class="size-14">< </span></a><a href="/company.php" class="size-12 line-h40 uppercase">Компания</a> <span class="color-teal size-10">•︎</span> <a href="/team.php" class="size-12 line-h40 uppercase">Руководство</a><a href="/team.php"><span class="size-14"> ></span>
       </div>	  
 </div>	  
 <div class="clearfix"></div>
