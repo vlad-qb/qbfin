@@ -44,21 +44,24 @@
           </div>
         </div>
       </div>
-	  <div class="column-container">
-          <div class="column-3 text-center">
+	  <div class="column-container w90r mt-35">
+          <div class="column-3 w28r ml025r text-center">
 		    <h3 class="size-18 color-teal line-h70">СТРАТЕГИИ</h3>
 		    <div class="auto line-black line-h70"></div>
 			<h3><a href="/asset-management.php" class="size-14 dark-gray-hover line-h70">УПРАВЛЕНИЕ АКТИВАМИ</a></h3>
+			<div class="img-index-2 h300 cover" style="background-position: center center;"></div>
 		  </div>
-		  <div class="column-3 text-center">
+		  <div class="column-3 w28r ml025r text-center">
 		    <h3 class="size-18 color-teal line-h70">КОНСУЛЬТАЦИИ</h3>
 		    <div class="auto line-gray line-h70"></div>
 			<h3><a href="/asset-management.php" class="size-14 dark-gray-hover line-h70">ИНВЕСТИЦИИ И СТРАТЕГИИ</a></h3>
+			<div class="img-index-3 h300 cover" style="background-position: center center;"></div>
 		  </div>
-		  <div class="column-3 text-center">
+		  <div class="column-3 w28r ml025r text-center">
 		    <h3 class="size-18 color-teal line-h70">НЕДВИЖИМОСТЬ</h3>
 		    <div class="auto line-gray line-h70"></div>
 			<h3><a href="/asset-management.php" class="size-14 dark-gray-hover line-h70">РЕАЛЬНЫЙ СЕКТОР</a></h3>
+			<div class="img-index-4 h300 cover" style="background-position: center center;"></div>
 		  </div>
       <div class="clearfix"></div>
 	  

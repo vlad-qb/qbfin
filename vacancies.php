@@ -163,6 +163,179 @@
 </div>
 <!-- /departments -->
 
+<!-- /PORTFOLIO -->	
+<div class="column-container w87r auto">
+    <div class="column mt100">
+        <div class="column-offset">
+            <h3 class="text-center size-12 color-white"><div class="w320 h40 line-h40 auto bg-teal">ДЕПАРТАМЕНТ МЕЖДУНАРОДНОГО ТРЕЙДИНГА</div></h3>
+            <div class="title-line-teal"></div>
+			<h3 class="text-center size-12 mt60 bold color-teal">PORTFOLIO MANAGER</h3>
+        </div>
+    </div>
+</div>
+<div class="column-container size-14 color-grey1 line-h26">
+    <div class="column-2">
+        <div class="column-offset">
+            <p class="mt60"></p>
+                <div class="line-h20 ml30 bold mr30">qualifications:</div>
+			<p class="mt15">
+			</p><div class="line-h20 weight-300 mt15 ml30 mr30">meaningful investment experience in investment management and/or portfolio management experience managing sizable portfolios for total return</div>
+            <p class="mt15">
+                </p><div class="line-h20 weight-300 ml30 mr30">direct experience in managing investment portfolios, using a quantitative and qualitative investment process <span class="color-teal size-11">•︎</span> extensive knowledge of portfolio construction and investment risk management approaches</div>
+			<p class="mt15"></p>
+                <div class="line-h20 ml30 weight-300 mr30">experience with optimizers and risk models <span class="color-teal size-11">•︎</span> strong research, quantitative and analytical skills <span class="color-teal size-11">•︎</span> ability to improve portfolio management with a strong process orientation</div>
+            <p class="mt15">
+                </p><div class="line-h20 weight-300 ml30 mr30">knowledge of financial markets, portfolio management concepts, investment strategies and economics <span class="color-teal size-11">•︎</span> ability to work well in a team oriented environment</div>
+			<p class="mt15">
+                </p><div class="line-h20 weight-300 ml30 mr30">an advanced degree from a top-tier institution, preferably in business, financial economics, engineering, mathematics, physics, statistics or a related field <span class="color-teal size-11">•︎</span> good statement</div>
+        </div>
+    </div>
+    <div class="column-2">
+       <div class="column-offset">
+			<p class="mt60"></p>
+                <div class="line-h20 ml30 bold mr30">responsibilities:</div>
+            <p class="mt15">
+                </p><div class="line-h20 weight-300 ml30 mr30">regularly meeting with investment analysts and company managers to discuss financial matters <span class="color-teal size-11">•︎</span> raise orders to implement and maintain securitized assets positions <span class="color-teal size-11">•︎</span> work with trading to monitor execution</div>
+			<p class="mt15"></p>
+                <div class="line-h20 ml30 weight-300 mr30">experience with optimizers and risk models <span class="color-teal size-11">•︎</span> strong research, quantitative and analytical skills <span class="color-teal size-11">•︎</span> ability to improve portfolio management with a strong process orientation</div>
+            <p class="mt15">
+                </p><div class="line-h20 weight-300 ml30 mr30">knowledge of financial markets, portfolio management concepts, investment strategies and economics <span class="color-teal size-11">•︎</span> ability to work well in a team oriented environment</div>
+			<div class="column-offset">
+            <h3 class="text-center size-12"><div class="w80r h40 line-h40 auto bg-lightgray"><a class="gray-hover" href="/vacancies.php">НАПРАВЬТЕ РЕЗЮМЕ НА ПОЧТУ: STAFF@QBFIN.RU</a></div></h3>
+        </div>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+<!-- /PORTFOLIO -->
+
+<!-- /PORTFOLIO -->	
+<div class="column-container w87r auto">
+    <div class="column mt100">
+        <div class="column-offset">
+			<h3 class="text-center size-12 bold color-teal">СПЕЦИАЛИСТ РЫНКА ПРОИЗВОДНЫХ ФИНАНСОВЫХ ИНСТРУМЕНТОВ</h3>
+        </div>
+    </div>
+</div>
+<div class="column-container size-14 color-grey1 line-h26">
+    <div class="column-2">
+        <div class="column-offset">
+            <p class="mt60"></p>
+                <div class="line-h20 ml30 bold mr30">требования:</div>
+            <p class="mt15">
+                </p><div class="line-h20 weight-300 ml30 mr30">высшее или неоконченное высшее (4-5 курс) образование экономических и технических вузов <span class="color-teal size-11">•︎</span> опыт работы трейдером на рынке деривативов <span class="color-teal size-11">•︎</span> понимание международных рынков <span class="color-teal size-11">•︎</span> собственные эффективные торговые стратегии</div>
+			<p class="mt15"></p>
+                <div class="line-h20 ml30 bold mr30">приветствуется:</div>
+            <p class="mt15">
+                </p><div class="line-h20 weight-300 ml30 mr30">наличие сертификатов о прохождении специализированного обучениия <span class="color-teal size-11">•︎</span> наличие успешного торгового опыта на рынке деривативов</div>
+        </div>
+    </div>
+    <div class="column-2">
+       <div class="column-offset">
+			<p class="mt60"></p>
+                <div class="line-h20 ml30 bold mr30">обязанности:</div>
+            <p class="mt15">
+                </p><div class="line-h20 weight-300 ml30 mr30">построение эффективных инвестиционных стратегий <span class="color-teal size-11">•︎</span> анализ рынка производных инструментов <span class="color-teal size-11">•︎</span> торговля на международных финансовых площадках</div>
+			<div class="column-offset">
+            <h3 class="text-center size-12"><div class="w80r h40 line-h40 auto bg-lightgray"><a class="gray-hover" href="/vacancies.php">НАПРАВЬТЕ РЕЗЮМЕ НА ПОЧТУ: STAFF@QBFIN.RU</a></div></h3>
+        </div>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+<!-- /PORTFOLIO -->
+
+<!-- /PORTFOLIO -->	
+<div class="column-container w87r auto">
+    <div class="column mt100">
+        <div class="column-offset">
+            <h3 class="text-center size-12 color-white"><div class="w320 h40 line-h40 auto bg-teal">ДЕПАРТАМЕНТ АЛГОРИТМИЧЕСКОГО ТРЕЙДИНГА</div></h3>
+            <div class="title-line-teal"></div>
+			<h3 class="text-center size-12 mt60 bold color-teal">РАЗРАБОТЧИК В ОТДЕЛ АЛГОРИТМИЧЕСКОГО ТРЕЙДИНГА</h3>
+        </div>
+    </div>
+</div>
+<div class="column-container size-14 color-grey1 line-h26">
+    <div class="column-2">
+        <div class="column-offset">
+            <p class="mt60"></p>
+                <div class="line-h20 ml30 bold mr30">требования:</div>
+			<p class="mt15">
+			</p><div class="line-h20 weight-300 mt15 ml30 mr30">высшее техническое образование или студенты старших курсов <span class="color-teal size-11">•︎</span> математическая подготовка <span class="color-teal size-11">•︎</span> знание основ теории вероятностей и математической статистики <span class="color-teal size-11">•︎</span> навыки программирования на С - подобных языках <span class="color-teal size-11">•︎</span> базовый уровень знаний в области финансовых рынков <span class="color-teal size-11">•︎</span> аналитический склад ума и ориентированность на результат</div>
+            <p class="mt15"></p>
+                <div class="line-h20 ml30 bold mr30">приветствуется:</div>
+            <p class="mt15">
+                </p><div class="line-h20 weight-300 ml30 mr30">дипломы олимпиад по математике и программированию <span class="color-teal size-11">•︎</span> знания и практические навыки в области систем искусственного интеллекта</div>
+        </div>
+    </div>
+    <div class="column-2">
+       <div class="column-offset">
+			<p class="mt60"></p>
+                <div class="line-h20 ml30 bold mr30">мы предлагаем:</div>
+            <p class="mt15">
+                </p><div class="line-h20 weight-300 ml30 mr30">работу в развивающейся компании, с людьми, знающими и любящими свое дело <span class="color-teal size-11">•︎</span> гибкий график работы (не менее 20 часов в неделю) <span class="color-teal size-11">•︎</span> трудоустройство, согласно тк рф <span class="color-teal size-11">•︎</span> оплачиваемый испытательный срок - до 3 месяцев <span class="color-teal size-11">•︎</span> з/п по итогам испытательного срока (оклад + %)</div>
+			<div class="column-offset">
+            <h3 class="text-center size-12"><div class="w80r h40 line-h40 auto bg-lightgray"><a class="gray-hover" href="/vacancies.php">НАПРАВЬТЕ РЕЗЮМЕ НА ПОЧТУ: STAFF@QBFIN.RU</a></div></h3>
+        </div>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+<!-- /PORTFOLIO -->
+
+
+<!-- /PORTFOLIO -->	
+<div class="column-container w87r auto">
+    <div class="column mt100">
+        <div class="column-offset">
+			<h3 class="text-center size-12 bold color-teal">СТАЖЕР: «РАЗРАБОТЧИК АЛГОРИТМИЧЕСКИХ СИСТЕМ»</h3>
+        </div>
+    </div>
+</div>
+<div class="column-container size-14 color-grey1 line-h26">
+    <div class="column-2">
+        <div class="column-offset">
+            <p class="mt60"></p>
+                <div class="line-h20 ml30 bold mr30">требования:</div>
+            <p class="mt15">
+                </p><div class="line-h20 weight-300 ml30 mr30">студенты технических вузов 2-5 курс <span class="color-teal size-11">•︎</span> высокая математическая подготовка (рекомендации преподавателей) <span class="color-teal size-11">•︎</span> опыт программирования</div>
+			<p class="mt15"></p>
+                <div class="line-h20 ml30 bold mr30">приветствуется:</div>
+            <p class="mt15">
+                </p><div class="line-h20 weight-300 ml30 mr30">дипломы олимпиад по математике и программированию <span class="color-teal size-11">•︎</span> знания и практические навыки в области систем искусственного интеллекта</div>
+        </div>
+    </div>
+    <div class="column-2">
+       <div class="column-offset">
+			<p class="mt60"></p>
+                <div class="line-h20 ml30 bold mr30">обязанности:</div>
+            <p class="mt15">
+                </p><div class="line-h20 weight-300 ml30 mr30">разработка алгоритмических торговых систем на финансовых рынках <span class="color-teal size-11">•︎</span> интеграция алгоритмов в существующие программы компании</div>
+			<div class="column-offset">
+            <h3 class="text-center size-12"><div class="w80r h40 line-h40 auto bg-lightgray"><a class="gray-hover" href="/vacancies.php">НАПРАВЬТЕ РЕЗЮМЕ НА ПОЧТУ: STAFF@QBFIN.RU</a></div></h3>
+        </div>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+<!-- /PORTFOLIO -->
+
+<div class="clearfix"></div>
+
+<div class="img-vacancies-2 w100r h400 mt60 cover" style="background-attachment: fixed; background-position: center bottom;">
+<h4 class="line-h50 color-white uppercase size-16 text-center bold pt150">ВЫБОР В ПОЛЬЗУ ЛУЧШЕГО<br/>
+ФИНАНСОВОГО БУДУЩЕГО!
+</h4>
+</div>
+
+<div class="clearfix"></div>
+<div class="w100r">
+      <div class="text-center mt80">
+        <img src="img/icons/icon-lighthouse.svg" class="icon icon-main"><br>
+        <a href="/career.php" class="size-12 line-h40 uppercase">Карьера</a>
+      </div>	  
+</div>	 
+
       <div class="clearfix"></div>
       <?php include 'html/footer.html';?>
       <script src="/js/jquery.min.js"></script>

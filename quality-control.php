@@ -118,6 +118,57 @@
               </div>
             </div>
       </div>
+<div class="clearfix"></div>
+<!-- /CONTENT -->
+	  
+<div id="gallery" class="column-container mt60">
+	  
+ <div class="column-2 mt50">
+  <div class="gallery-offset w85r line-h24 size-14 ml10r">
+        
+		<h4 class="size-14 line-h20">Воспользуйтесь формой обратной связи, чтобы задать интересующий Вас вопрос по инвестиционному бизнесу или свяжитесь с нашими специалистами в конкренном офисе по телефону или электронной почте. </h4>
+		<div class="text-center mt40 mb40"><img class="icon icon-contacts" src="/img/icons/icon-earth.svg"></div>
+		<h4 class="size-14 line-h20">Воспользуйтесь формой обратной связи, чтобы задать интересующий Вас вопрос по инвестиционному бизнесу или свяжитесь с нашими специалистами в конкренном офисе по телефону или электронной почте. </h4>
+    </div>
+  </div>	  
+	  
+ 
+ <div class="column-2">
+        <div id="form-1" class="mr10r mt40">
+
+		<div class="text-center mb20">
+		<p>имя</p>
+		<p><input id="Name2" class="form-item text-center" name="Name2" placeholder="Full Name" required="required" type="text"></p>
+		</div>
+
+		<div class="text-center mb20">
+		<p>mail</p>
+		<p><input id="Email2" class="form-item text-center" name="Email2" placeholder="address@domain.com" required="required" type="email"></p>
+		</div>
+
+		<div class="text-center mb20">
+		<p>телефон</p>
+		<p><input id="Telephone2" class="form-item text-center" name="Telephone2" placeholder="01234 567890" required="required" type="tel"></p>
+		</div>
+
+		<div class="text-center mb20">
+		<p>тема сообщения</p>
+		<p><input id="Subject2" class="form-item text-center" name="Subject2" placeholder="Email subject" required="required" type="text"></p>
+		</div>
+
+		<div class="text-center mb15">
+		<p>сообщение</p>
+		<p><textarea id="Message2" class="form-item" rows="9" name="Message2" placeholder="Please enter your message!" required="required"></textarea></p>
+		</div>
+
+		<div class="text-center">
+		<p><input id="Send2" class="form-item" value="отправить" type="submit"></p>
+		</div>
+							
+		</div>
+</div>
+  
+</div>
       <div class="clearfix"></div>
       <?php include 'html/footer.html';?>
       <script src="/js/jquery.min.js"></script>

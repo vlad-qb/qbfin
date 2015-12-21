@@ -24,6 +24,7 @@ body{
 .uppercase{text-transform:uppercase;}
 .lowercase{text-transform:lowercase;}
 .capitalize{text-transform:capitalize;}
+.italic{font-style: italic;}
 .cursor-pointer{cursor:pointer;}
 .text-left{text-align: left;}
 .text-center{text-align: center;}
@@ -62,7 +63,7 @@ a.active{color:#008080;}
 .line-h18{line-height:18px;}
 .line-h20{line-height:20px;}
 .line-h24{line-height:24px;}
-.line-h30{line-height:30px;}
+.line-h22{line-height:22px;}
 .line-h26{line-height:26px;}
 .line-h30{line-height:30px;}
 .line-h40{line-height:40px;}
@@ -74,6 +75,7 @@ a.active{color:#008080;}
 .line-h120{line-height:120px;}
 .line-h200{line-height:200px;}
 .inverse a:hover{color:#ccc;}
+.white-hover:hover{color:#fff;}
 .light-gray-hover:hover{color:#ccc;}
 .gray-hover:hover{color:#999;}
 .dark-gray-hover:hover{color:#7f7f7f;}

@@ -124,6 +124,107 @@
               </div>
             </div>
       </div>
+<div class="clearfix"></div>
+
+<!-- Text-->	  
+<div class="column-container mt80">	
+<div class="column-offset w93r auto line-h20 size-14">  
+	<div class="column-2">
+		<p class="mt20 ml05r mr05r size-14 weight-300">Корпоративная культура QBF стимулирует чувство ответственности, вызывает осознание преемственности, помогает правильно реагировать на события, происходящие в финансовом холдинге, и создаёт чувство безопасности. </p>
+		
+		<p class="mt20 ml05r mr05r size-14 weight-300">Каждый из нас чувствует, что за ним стоит компания, которая не только завоевала себе место на рынке, но еще и нацелена на быстрое развитие.</p>
+	</div>	
+	<div class="column-2">
+		<p class="mt20 ml12r mr05r size-14 weight-300">Кто такие сотрудники QBF ||| Investment? Это, в первую очередь, незаурядные и целеустремленные люди.</p>
+		
+		<p class="mt20 ml12r mr05r size-14 weight-300">Своей первой задачей мы видим раскрытие профессионального потенциала и развитие в сотруднике самых лучших качеств.</p>
+	</div>
+</div>
+</div>
+<div class="clearfix"></div>
+<!-- Text-->
+
+<!-- image-->	  
+<div class="column-container mt90">	
+<div class="column-offset w95r auto line-h20 size-14"> 
+<div class="img-culture-2 w100r h400 cover" style="background-position: center center;"></div>
+</div>
+</div>
+<div class="clearfix"></div>
+<!-- image-->
+
+<!-- Text-->	  
+<div class="column-container mt70">	
+<div class="column-offset w93r auto line-h20 size-14">  
+	<div class="column-2">
+		<p class="mt20 ml05r mr05r size-14 weight-300">Люди - это фундамент, на котором строится хороший бизнес. Мы уделяем большое внимание качественному подбору кадров и реализации профессионального обучения, проводя регулярные внутрикорпоративные тренинги.</p>
+		
+		<p class="mt20 ml05r mr05r size-14 weight-300">Мы всегда делали ставку именно на людей - и поэтому сегодня имеем в штате хорошо обученных, опытных и конкурентоспособных профессионалов, которые очень высоко ценятся на рынке труда.</p>
+		
+		<p class="mt20 ml05r mr05r size-14 weight-300">Рабочие процессы и системы поощрений выстроены так, что высокая мотивация обеспечивается естественным образом, и только в исключительных случаях требует давления внешних факторов.</p>
+	</div>	
+	<div class="column-2">
+		<p class="mt20 ml12r mr05r size-14 weight-300">Мы регулярно сталкиваемся со сложными задачами. Иногда некоторые из них кажутся невыполнимыми. Но трудности нас не пугают, а стимулируют становиться лучше. Постоянно возникающие возможности проявить себя - это и есть привилегия находиться в компании QBF ||| investment.</p>
+		
+		<p class="mt20 ml12r mr05r size-14 weight-300">Деловая атмосфера в коллективе очень важна для нас, и на собеседовании мы обращаем внимание не только на компетентность кандидатов, но и на их личностные качества, адекватность и порядочность. Важно знать, как сотрудник себя поведет в той или иной ситуации, будет ли коллегам комфортно рядом с ним находиться. Благодаря такому подходу нам удалось создать превосходный деловой климат.</p>
+	</div>
+</div>
+</div>
+<div class="clearfix"></div>
+<!-- Text-->
+
+<!-- IMAGES-->	  
+<div class="column-container mt90">	
+<div class="column-offset auto line-h20 size-14">  
+	<div class="column-2">
+		<div class="column-offset w95r auto line-h20 size-14"> 
+		<div class="img-culture-3 w100r h427 cover" style="background-position: top left;"></div>
+		</div>
+	</div>	
+	<div class="column-2 line-h30">
+		<div>
+		<div class="img-culture-4 w120 h120 cover ml12r mr05r l" style="background-position: center center;"></div><span class="size-11 weight-300">МЫ СЛЕДУЕМ ВЫСОЧАЙШИМ СТАНДАРТАМ КАЧЕСТВА И КОМПЕТЕНТНОСТИ В СЕРВИСЕ УПРАВЛЕНИЯ КАПИТАЛОМ.</span>
+		</div>
+		<div class="clearfix"></div>
+		<div class="mt33">
+		<div class="img-culture-5  w120 h120 cover ml12r mr05r l" style="background-position: center top;"></div><span class="mt33  size-11 weight-300">СОТРУДНИКИ - ДРАЙВЕР КОМПАНИИ. МЫ ИНВЕСТИРУЕМ В ЛЮДЕЙ И ВИДИМ КАК ПОВЫШАЕТСЯ НАША ЭФФЕКТИВНОСТЬ.</span>
+		</div>
+		<div class="clearfix"></div>
+		<div class="mt33">
+		<div class="img-culture-6 w120 h120 cover ml12r mr05r l" style="background-position: center center;"></div><span class="size-11 weight-300">МЫ СЛЕДУЕМ ВЫСОЧАЙШИМ СТАНДАРТАМ КАЧЕСТВА И КОМПЕТЕНТНОСТИ В СЕРВИСЕ УПРАВЛЕНИЯ КАПИТАЛОМ.</span>
+		</div>
+	</div>
+</div>
+</div>
+<div class="clearfix"></div>
+<!-- IMAGES-->
+	  
+<!-- /ALERT -->
+<div class="text-alert column-container mt70 w60r auto line-h20 size-14">
+    <div class="column">
+        <div class="column-offset">
+            <div class="ml15r mr15r border-left-lightgray border-right-lightgray text-center">
+                <div class="ml05r mr05r pt03r pb03r">
+                    <p class="ml025r">
+                        Компания QBF заинтересована в привлечении профессиональных и талантливых специалистов. Мы рассматриваем своих сотрудников как партнеров по общему делу, команду единомышленников, ориентированных на реализацию общей задачи.
+                    </p>
+					<p class="ml025r mt20 size-11">
+                        <span class="bold">ПРИСОЕДИНЯЙТЕСЬ К НАШЕЙ КОМАНДЕ! НАЧНИТЕ СОЗДАВАТЬ СВОЕ БУДУЩЕЕ УЖЕ СЕГОДНЯ. ЖДЕМ ВАШИ РЕЗЮМЕ ПО АДРЕСУ: </span><a class="color-teal weight-300" href="mailto:HR@QBFIN.RU">HR@QBFIN.RU</a>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+<!-- /ALERT -->
+<div class="clearfix"></div>
+<div class="w100r">
+      <div class="text-center mt80">
+        <img src="img/icons/icon-lighthouse.svg" class="icon icon-main"><br>
+        <a href="/career.php" class="size-12 line-h40 uppercase">Карьера</a>
+      </div>	  
+</div>	 
       <div class="clearfix"></div>
       <?php include 'html/footer.html';?>
       <script src="/js/jquery.min.js"></script>

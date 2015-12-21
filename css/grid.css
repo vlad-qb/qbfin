@@ -223,6 +223,8 @@
     }
     #parallax-menu{height:240px;}
     #parallax-menu .label{height:240px;}
+	#parallax-menu2{height:300px;}
+    #parallax-menu2 .label{height:300px;}
 }
 @media screen and (max-width: 1200px) {
     .text-offset{
@@ -231,6 +233,8 @@
     }
     #parallax-menu{height:240px;}
     #parallax-menu .label{height:240px;}
+	#parallax-menu2{height:300px;}
+    #parallax-menu2 .label{height:300px;}
 }
 @media screen and (max-width: 768px) {
     .text-offset{
@@ -239,6 +243,8 @@
     }
     #parallax-menu{height:820px;}
     #parallax-menu .label{height:820px;}
+	#parallax-menu2{height:860px;}
+    #parallax-menu2 .label{height:860px;}
 }
 @media screen and (max-width: 480px) {
     .text-offset{
@@ -247,6 +253,8 @@
     }
     #parallax-menu{height:860px;}
     #parallax-menu .label{height:860px;}
+	#parallax-menu2{height:900px;}
+    #parallax-menu2 .label{height:900px;}
 }
 @media screen and (max-width: 375px) {
     .text-offset{
@@ -255,11 +263,17 @@
     }
     #parallax-menu{height:860px;}
     #parallax-menu .label{height:860px;}
+	#parallax-menu2{height:900px;}
+    #parallax-menu2 .label{height:900px;}
 }
 
 .CUSTOM-1 .column-20r{width:20%;float:left;}
-.CUSTOM-1 .column-40r{width:40%;float:left}
+.CUSTOM-1 .column-30r{width:30%;float:left;}
+.CUSTOM-1 .column-40r{width:40%;float:left;}
+.CUSTOM-1 .column-50r{width:50%;float:left;}
 @media screen and (max-width: 768px) {
 .CUSTOM-1 .column-20r{width:100%;}
+.CUSTOM-1 .column-30r{width:100%;}
 .CUSTOM-1 .column-40r{width:100%;}
+.CUSTOM-1 .column-50r{width:100%;}
 }

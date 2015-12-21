@@ -120,13 +120,46 @@
               </div>
             </div>
       </div> 
-	  
+<div class="clearfix"></div>	  
+<div id="parallax-menu2" class="img-service-2 mt70 w100r h300 border-bottom-white fixed" style="background-attachment: fixed;">
+    <div class="label w28r bg bg-label-2 text-center color-white uppercase">
+        <div class="column">
+            <div class="ml05r mr05r mt90">
+                <img class="icon icon-services" src="img/icons/icon-umbrella.svg">
+                <div class="mt10">
+                    <div class="size-14 line-h18 mt20 mb20 ml05r mr05r"><a class="color-white light-gray-hover" href="/asset-management.php">ДОВЕРИТЕЛЬНОЕ УПРАВЛЕНИЕ</a></div>
+                </div>
+            </div>
+        </div>
+     </div>
+</div> 
 <div class="clearfix"></div>
-<div class="mt80">
-<div class="img-service-2 w100r h300 fixed border-bottom-white" style="background-attachment: fixed;"></div>
-<div class="img-service-3 w100r h300 fixed border-bottom-white" style="background-attachment: fixed;"></div>
-<div class="img-service-4 w100r h300 fixed border-bottom-white" style="background-attachment: fixed;"></div>
+<div id="parallax-menu2" class="img-service-3 w100r h300 border-bottom-white fixed" style="background-attachment: fixed;">
+    <div class="label w28r bg bg-label-2 text-center color-white uppercase r">
+        <div class="column">
+            <div class="ml05r mr05r mt90">
+                <img class="icon icon-services" src="img/icons/icon-horse.svg">
+                <div class="mt10">
+                    <div class="size-14 line-h18 mt20 mb20 ml05r mr05r"><a class="color-white light-gray-hover" href="/consulting-management.php">КОНСУЛЬТАЦИОННОЕ УПРАВЛЕНИЕ</a></div>
+                </div>
+            </div>
+        </div>
+    </div>
 </div>
+<div class="clearfix"></div>
+<div id="parallax-menu2" class="img-service-4 w100r h300 border-bottom-white fixed mb30" style="background-attachment: fixed;">
+    <div class="label w28r bg bg-label-2 text-center color-white uppercase">
+        <div class="column">
+            <div class="ml05r mr05r mt90">
+                <img class="icon icon-services" src="img/icons/icon-leaves.svg">
+                <div class="mt10">
+                    <div class="size-14 line-h18 mt20 mb20 ml05r mr05r"><a class="color-white light-gray-hover" href="/real-estate.php">ИНВЕСТИЦИИ В НЕДВИЖИМОСТЬ</a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="clearfix"></div>
 
 	  
 	  <div class="clearfix"></div>

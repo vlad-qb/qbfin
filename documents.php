@@ -187,7 +187,7 @@
           <div class="gallery-offset mr10r border-white">
             <div class="img-documents-7 w100r h200 cover bg-center">
               <div class="bg-label-2 w60r h200">
-                <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60 overflow-hidden clip"><a href="/privacy-policy.php" class="color-whitesmoke light-gray-hover">ПОЛИТИКА КОНФИДЕНЦИАЛЬНОСТИ</a></h2>
+                <h2 class="size-14 color-whitesmoke uppercase pt20 line-h24 ml20 mr20 h60 overflow-hidden clip"><a href="/privacy-policy.php" class="color-whitesmoke light-gray-hover">ПОЛИТИКА КОНФИДЕНЦИАЛЬНОСТИ</a></h2>
 				<a href="/privacy-policy.php"><img class="icon arrow" src="/img/icons/arrow-right-white.svg"></a>
               </div>
             </div>

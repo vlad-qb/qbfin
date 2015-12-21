@@ -167,17 +167,14 @@
 
     <div class="column-40r mt70" style="padding-top:2%;">
       <div class="column-offset">
-        <div class="size-14 line-h24 ml01r mr05r">
+        <div class="size-14 line-h20 ml01r mr05r">
           <p class="weight-300">Штаб-квартира QBF расположена в эпицентре деловой России - Московском Международном Деловом Центре «Москва-Сити», в башне «Город Столиц</p>
-          <p class="mt30 weight-300">Именно здесь сосредоточены основные кадровые ресурсы и стратегические направления бизнеса. Московский офис всегда рад видеть в гостях клиентов и партнеров QBF.</p>
+          <p class="mt20 weight-300">Именно здесь сосредоточены основные кадровые ресурсы и стратегические направления бизнеса. Московский офис всегда рад видеть в гостях клиентов и партнеров QBF.</p>
         </div>
       </div>
     </div>
 
     </div></div>
-
-</div>
-<div class="clearfix h200">
 
 </div>
 
@@ -197,7 +194,7 @@
         <div class="column-offset">
 
     <div class="column-20r mt70" style="padding-top:2%;">
-        <div class="img-branch-office-2 contain w200 auto h200"></div>
+        <div class="img-branch-office-3 contain w200 auto h200"></div>
     </div>
 
     <div class="column-40r mt70" style="padding-top:2%;">
@@ -216,9 +213,9 @@
 
     <div class="column-40r mt70" style="padding-top:2%;">
       <div class="column-offset">
-        <div class="size-14 line-h24 ml01r mr05r">
+        <div class="size-14 line-h20 ml01r mr05r">
           <p class="weight-300">Рынок Северной Столицы всегда рассматривался нашей компанией как перспективное место для открытия филиала: низкая насыщенность инвестиционными компаниями позволила QBF занять заметную нишу Санкт-Петербурга в сфере управления капиталом на зарубежных рынках.</p>
-          <p class="mt30 weight-300">Филиал расположен в бизнес-центре «Санкт-Петербург Плаза» на Малоохотинском проспекте.</p>
+          <p class="mt20 weight-300">Филиал расположен в бизнес-центре «Санкт-Петербург Плаза» на Малоохотинском проспекте.</p>
         </div>
       </div>
     </div>
@@ -226,10 +223,110 @@
     </div></div>
 
 </div>
-<div class="clearfix h200">
+
+<!-- BRANCH-OFFICE -->
+<div id="offices" class="CUSTOM-1 column-container">
+
+    <div class="column">
+        <div class="column-offset">
+            <h3 class="mt60 text-center size-14"><div class="w250 h40 line-h40 auto bg-white uppercase">ЕКАТЕРИНБУРГ</div></h3>
+            <div class="title-line-lightgray"></div>
+        </div>
+    </div>
+
+    <div class="clearfix"></div>
+
+    <div class="column">
+        <div class="column-offset">
+
+    <div class="column-20r mt70" style="padding-top:2%;">
+        <div class="img-branch-office-4 contain w200 auto h200"></div>
+    </div>
+
+    <div class="column-40r mt70" style="padding-top:2%;">
+      <div class="column-offset">
+        <div class="text-center weight-300 size-14 line-h40">
+            620014, Екатеринбург<br>
+            ул. Бориса Ельцина, 1а<br>
+            БЦ «Президент»<br>
+            тел: +7 (903) 100 60 27<br>
+            e-mail:<a href="mailto:invest@qbfin.ru" class="color-teal">invest@qbfin.ru</a><br>
+            <a href="https://maps.yandex.ru/-/CVvQNJ37" class="color-teal">маршрут на Яндекс.Картах</a>
+        </div>
+        <div class="clearfix"></div>
+      </div>
+    </div>
+
+    <div class="column-40r mt70" style="padding-top:2%;">
+      <div class="column-offset">
+        <div class="size-14 line-h20 ml01r mr05r">
+          <p class="weight-300">Екатеринбург стал одной из стратегических точек в развитии бизнеса QB Finance в 2015 году. В мае компания открыла представительский офис в одном из самых престижных бизнес-центров города - БЦ «Президент». Зная предпочтения и традиции состоятельной аудитории региона, cовет директоров QB Finance принял решение предоставить клиентам Урала сервис в соответствии с самыми высокими требованиями.</p>
+          <p class="mt20 weight-300">Премиальные инвестиционные услуги для многих консервативных инвесторов сейчас как никогда актуальны. Перенасыщение квадратных метров жилой и торговой недвижимости в Екатеринбурге, непростая экономическая ситуации в стране внесли коррективы во взгляды инвесторов.</p>
+		  <p class="mt20 weight-300">«Мы знаем, что недвижимость и банковский депозит всегда отвечали требованиям сохранности капитала, но за последнее время эти инструменты потеряли свои позиции в плане ликвидности и уровня процентных ставок.</p>
+		  <p class="mt20 weight-300">Поэтому ключевым моментом для нас стало познакомить состоятельных жителей Екатеринбурга с возможностью высокой защиты инвестиций, к которой они привыкли, и вместе с этим обеспечить стабильный доход и гарантированную ликвидность», - отмечает директор филиальной сети Владимир Пахомов.</p>
+        </div>
+      </div>
+    </div>
+
+    </div></div>
 
 </div>
 
+<!-- BRANCH-OFFICE -->
+<div id="offices" class="CUSTOM-1 column-container">
+
+    <div class="column">
+        <div class="column-offset">
+            <h3 class="mt60 text-center size-14"><div class="w250 h40 line-h40 auto bg-white uppercase">КИЕВ</div></h3>
+            <div class="title-line-lightgray"></div>
+        </div>
+    </div>
+
+    <div class="clearfix"></div>
+
+    <div class="column">
+        <div class="column-offset">
+
+    <div class="column-20r mt70" style="padding-top:2%;">
+        <div class="img-branch-office-5 contain w200 auto h200"></div>
+    </div>
+
+    <div class="column-40r mt70" style="padding-top:2%;">
+      <div class="column-offset">
+        <div class="text-center weight-300 size-14 line-h40">
+            01601, Киев<br>
+            ул. Мечникова, д.2<br>
+            БЦ «Парус»<br>
+            тел: +380 (44) 390 22 22<br>
+            e-mail:<a href="mailto:invest@qbfin.ru" class="color-teal">invest@qbfin.ru</a><br>
+            <a href="https://maps.yandex.ru/-/CVvQNJ37" class="color-teal">маршрут на Яндекс.Картах</a>
+        </div>
+        <div class="clearfix"></div>
+      </div>
+    </div>
+
+    <div class="column-40r mt70" style="padding-top:2%;">
+      <div class="column-offset">
+        <div class="size-14 line-h20 ml01r mr05r">
+          <p class="weight-300">Открытие клиентского офиса в Киеве стало решающим шагом для компании QBF при выходе на международный уровень. Инвестиционный рынок Украины на момент открытия офиса был сопоставим с российским рынком 2000-х, в связи с чем совет директоров спрогнозировал весьма динамичный рост в сегменте профессионального управления частным капиталом в последующие несколько лет.</p>
+          <p class="mt20 weight-300">Украинский филиал QBF расположен в самом центре культурной, социальной, экономической жизни столицы, в престижном бизнес-центре «Парус». Бизнес-центр «Парус» относится к классу "А" и представляет собой очаг бизнес элиты Украины. В нем расположены офисы самых престижных компаний в сфере финансов, строительства, рекламы, IT, а так же локации известных политиков и меценатов.</p>
+		  <p class="mt20 weight-300">Киевский филиал гордится своим дружным коллективом и всегда рад видеть новые лица.</p>
+        </div>
+      </div>
+    </div>
+
+    </div></div>
+
+</div>
+
+
+<div class="clearfix"></div>
+<div class="w100r">
+      <div class="text-center mt80">
+        <img src="img/icons/icon-lighthouse.svg" class="icon icon-main"><br>
+        <a href="/company.php" class="size-12 line-h40 uppercase">Компания</a>
+      </div>	  
+</div>	 
       <div class="clearfix"></div>
       <?php include 'html/footer.html';?>
       <script src="/js/jquery.min.js"></script>

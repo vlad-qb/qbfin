@@ -120,6 +120,128 @@
               </div>
             </div>
       </div>
+<div class="clearfix"></div>	  
+<!-- Text-->	  
+<div class="column-container mt80">	
+<div class="column-offset w93r auto line-h20 size-14">  
+	<div class="column-2">
+		<p class="mt20 ml05r mr05r size-14 weight-300">Инвестициями в недвижимость закладывается возможность получения прибыли либо от инвестирования в строительство объекта и его дальнейшей реализации либо от приобретения и последующей сдачи площадей в аренду.</p>
+		
+		<p class="mt20 ml05r mr05r size-14 weight-300">В данном вопросе большинство инвесторов полагается на услуги профессионалов рынка недвижимости, понимая, что для самостоятельной оценки всего того изобилия предложений на рынке потребуются колоссальные ресурсы.</p>
+	</div>	
+	<div class="column-2">
+		<p class="mt20 ml12r mr05r size-14 weight-300">В зависимости от интереса клиента QBF ||| investment может предложить различные варианты эффективного вложения средств. </p>
+		
+		<p class="mt20 ml12r mr05r size-14 weight-300">Это могут быть как инвестиции в девелоперские проекты, ориентированные на получение существенной единоразовой прибыли от инвестиций, так и инвестиции в фонды недвижимости с целью получения ежемесячного дохода.</p>
+	</div>
+</div>
+</div>
+<div class="clearfix"></div>
+<!-- Text-->
+
+<!-- IMAGES-->	  
+<div class="column-container mt100">	
+<div class="column-offset auto line-h20 size-14">  
+	<div class="column-2">
+		<div class="column-offset w90r auto line-h20 size-14"> 
+		<div class="img-real-estate-2 w100r h427 cover" style="background-position: top center;"></div>
+		</div>
+	</div>	
+	<div class="column-2">
+		<div class="column-offset bg-lightgray2">
+			<div class="l w120 h120 bg-dark-gray mr20">
+			  <div class="w80 auto pt20">
+				<img src="img/icons/icon-reit-sentence.svg" class="icon icon-services w80">
+			  </div>
+			</div>
+			<div class="size-12 uppercase line-h26 mb20">
+				ПРЕДЛОЖЕНИЕ В РАМКАХ КОНСУЛЬТАЦИОННОГО УПРАВЛЕНИЯ: 
+			</div>
+			<div class="line-h26 mb33"><a href="#" class="size-12 color-teal gray-hover weight-300">REIT портфель</a>
+			<div class="clearfix"></div>
+			</div>
+		</div>
+		
+		<div class="column-offset bg-lightgray2">
+			<div class="l w120 h120 bg-dark-gray mr20">
+			  <div class="w80 auto pt20">
+				<img src="img/icons/icon-cogwheel.svg" class="icon icon-services w80">
+			  </div>
+			</div>
+			<div class="size-12 uppercase line-h26 mb20">
+				ДЕВЕЛОПЕРСКИЕ ПРОЕКТЫ УПРАВЛЯЮЩЕЙ КОМПАНИИ: 
+			</div>
+			<div class="line-h26 mb33"><a href="#" class="size-12 color-teal gray-hover weight-300">QBF ||| asset management</a>
+			<div class="clearfix"></div>
+			</div>
+		</div>
+		
+		<div class="column-offset bg-lightgray2">
+			<div class="l w120 h120 bg-dark-gray mr20">
+			  <div class="w80 auto pt20">
+				<img src="img/icons/icon-marker.svg" class="icon icon-services w80">
+			  </div>
+			</div>
+			<div class="size-12 uppercase line-h26 mb20">
+				ПРЕДЛОЖЕНИЕ ЗПИФ "КЬЮБИЭФ НЕДВИЖИМОСТЬ":
+			</div>
+			<div class="line-h26 mb33 weight-300"><a href="#" class="size-12 color-teal gray-hover weight-300">Жилой комплекс комфорт-класса "Грибовский лес"</a>
+			<div class="clearfix"></div>
+			</div>
+		</div>
+		
+	</div>
+</div>
+</div>
+<div class="clearfix"></div>
+<!-- IMAGES-->
+
+<!-- /ALERT -->
+<div class="text-alert column-container mt50 w70r auto line-h16 size-14">
+    <div class="column">
+        <div class="column-offset">
+            <div class="ml15r mr15r border-left-lightgray border-right-lightgray">
+                <div class="ml05r mr05r pt03r pb03r size-12 color-teal">
+                    <p class="ml025r">
+                        СИНЕРГЕТИЧЕСКИЙ ЭФФЕКТ ОТ СЛИЯНИЯ ЛИКВИДНОСТИ ФИНАНСОВОГО РЫНКА И НАДЕЖНОСТИ РЕАЛЬНОГО СЕКТОРА ПРАКТИЧЕСКИ НЕ ИМЕЕТ АНАЛОГОВ. 
+                    </p>
+					<p class="ml025r mt15 weight-300">
+					ПРИ ДЛИННОМ ГОРИЗОНТЕ ИНВЕСТИРОВАНИЯ ФОНДЫ НЕДВИЖИМОСТИ (REIT И ИХ ОТЕЧЕСТВЕННЫЙ АНАЛОГ ЗПИФ) ПОКАЗЫВАЮТ БОЛЕЕ ВЫСОКУЮ ДОХОДНОСТЬ ДАЖЕ ПО СРАВНЕНИЮ С АКЦИЯМИ.
+					</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+<!-- /ALERT -->
+
+<!-- Text-->	  
+<div class="column-container mt80">	
+<div class="column-offset w93r auto line-h20 size-14">  
+	<div class="column-2">
+		<p class="mt20 ml05r mr05r size-14 weight-300">С точки зрения сохранности капитала и ликвидности наиболее удобными инструментами для инвестирования в недвижимость являются ЗПИФы и их американских аналоги - фонды REIT.</p>
+		
+		<p class="mt20 ml05r mr05r size-14 weight-300">Мы проанализировали динамику фондов недвижимости и других популярных инструментов для инвестирования с 2000 года и пришли к выводу, что, действительно, покупка акций REIT и паев ЗПИФов дает инвесторам стабильно высокий доход, который опережает темпы инфляции.</p>
+	</div>	
+	<div class="column-2">
+		<p class="mt20 ml12r mr05r size-14 weight-300">На протяжении последних 14,5 лет инвестиции в REIT оказывались крайне успешными. Кумулятивный доход от вложений в REIT за данный период составил более 400%. </p>
+		
+		<p class="mt20 ml12r mr05r size-14 weight-300">Этому способствует постоянный рост цен на жилье и коммерческие объекты, а также повышение арендных ставок. До и после кризиса REIT значительно обыгрывали индекс S&P 500, облигации и сырье. </p>
+		
+		<p class="mt20 ml12r mr05r size-14 weight-300">С 2008 года покупка акций фондов REIT приносит инвесторам стабильный доход, который, оказывался даже выше, чем прирост по индексу S&P 500.</p>
+	</div>
+</div>
+</div>
+<div class="clearfix"></div>
+<!-- Text-->
+
+<div class="w100r">
+      <div class="text-center mt90">
+        <img src="img/icons/icon-lighthouse.svg" class="icon icon-main"><br>
+        <a href="/service.php" class="size-12 line-h40 uppercase">УСЛУГИ</a>
+      </div>	  
+</div>	
       <div class="clearfix"></div>
       <?php include 'html/footer.html';?>
       <script src="/js/jquery.min.js"></script>

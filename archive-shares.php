@@ -128,7 +128,7 @@
   <div class="gallery-offset w90r auto line-h24 size-14">
         <div class="text-center"><img class="icon icon-portfolio" src="/img/bg/archive-shares-1.gif"></div>
         <div class="title-line-teal2"></div>
-	</div>
+  </div>
   </div>
   <div class="clearfix"></div>
   <div class="column-2 mt50">

@@ -179,3 +179,25 @@ background-color: #f5f5f5;
     .CUSTOM-1 .column-20r{width:100%;}
     .CUSTOM-1 .column-40r{width:100%;}
 }
+.bg-light-gray{background-color: #f9fafa;}
+.bg-lightgray2{background:#e7e7e7;}
+.w280{width:280px;}
+.h25{height:25px;}
+.ml35{margin-left:35px;}
+.mr35{margin-right:35px;}
+.line-h22{line-height: 22px;}
+
+.pl08r{padding-left:8%;}
+.pr08r{padding-right: 8%;}
+.pl12r{padding-left:12%;}
+.pr12r{padding-right: 12%;}
+.pl16r{padding-left:16%;}
+.pr16r{padding-right: 16%;}
+.pt04r{padding-top:4%;}
+.pb04r{padding-bottom: 4%;}
+.pt06r{padding-top:6%;}
+.pb06r{padding-bottom: 6%;}
+
+.border-darkgray2-bottom{
+    border-bottom:1px solid #7f7f7f;
+}
