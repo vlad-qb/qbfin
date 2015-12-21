@@ -58,6 +58,11 @@
     height:8px;
 }
 
+.icon-arrow-big{
+    width:180px;
+    height:180px;
+}
+
 table{width: 100%; height: 4px;}
 td {vertical-align: top;}
 .line-black{width: 33%; border-right: 4px solid white; height: 4px; background: #333;}

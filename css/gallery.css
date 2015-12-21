@@ -707,6 +707,75 @@
     background: url(/img/bg/ipo-portfolio-3.jpeg);
 }
 
+/* high-yielding-portfolio.html */
+.img-high-yielding-portfolio-1{
+    background: url(/img/bg/high-yielding-portfolio-1.jpeg);
+}
+.img-high-yielding-portfolio-2{
+    background: url(/img/bg/high-yielding-portfolio-2.jpg);
+}
+
+/* high-yielding-currency-portfolio.html */
+.img-high-yielding-currency-portfolio-1{
+    background: url(/img/bg/high-yielding-currency-portfolio-1.jpeg);
+}
+.img-high-yielding-currency-portfolio-2{
+    background: url(/img/bg/high-yielding-currency-portfolio-2.jpg);
+}
+
+/* deposit-weighted-average-portfolio.html */
+.img-deposit-weighted-average-portfolio-1{
+    background: url(/img/bg/deposit-weighted-average-portfolio-1.jpeg);
+}
+.img-deposit-weighted-average-portfolio-2{
+    background: url(/img/bg/deposit-weighted-average-portfolio-2.jpeg);
+}
+.img-deposit-weighted-average-portfolio-3{
+    background: url(/img/bg/deposit-weighted-average-portfolio-3.jpeg);
+}
+
+/* hedging-the-risk-of-ruble.html */
+.img-hedging-the-risk-of-ruble-1{
+    background: url(/img/bg/hedging-the-risk-of-ruble-1.jpeg);
+}
+.img-hedging-the-risk-of-ruble-2{
+    background: url(/img/bg/hedging-the-risk-of-ruble-2.jpeg);
+}
+
+/* index-portfolio.html */
+.img-index-portfolio-1{
+    background: url(/img/bg/index-portfolio-1.jpeg);
+}
+.img-index-portfolio-2{
+    background: url(/img/bg/index-portfolio-2.jpeg);
+}
+.img-index-portfolio-3{
+    background: url(/img/bg/index-portfolio-3.png);
+}
+.img-index-portfolio-4{
+    background: url(/img/bg/index-portfolio-4.png);
+}
+.img-index-portfolio-5{
+    background: url(/img/bg/index-portfolio-5.png);
+}
+
+
+/* weighted-average-portfolio.html */
+.img-weighted-average-portfolio-1{
+    background: url(/img/bg/weighted-average-portfolio-1.jpeg);
+}
+.img-weighted-average-portfolio-2{
+    background: url(/img/bg/weighted-average-portfolio-2.jpg);
+}
+
+/* weighted-currency-portfolio.html */
+.img-weighted-currency-portfolio-1{
+    background: url(/img/bg/weighted-currency-portfolio-1.jpeg);
+}
+.img-weighted-currency-portfolio-2{
+    background: url(/img/bg/weighted-currency-portfolio-2.jpg);
+}
+
 /* team-frolov.html */
 .img-team-frolov-1{
     background: url(/img/bg/team-frolov-1.jpeg);

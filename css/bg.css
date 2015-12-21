@@ -59,6 +59,8 @@
 .border-right-lightgray{border-right: 1px solid #EBECEB;}
 .bg-white{background:white;}
 .bg-lightgray{background:#f9f9f9;}
+.bg-lightgreen{background:#70BF40;}
+.bg-lightyellow{background:#F5CD22;}
 .bg-label{
     background-color: #333;
     opacity: 0.9;
@@ -76,6 +78,7 @@
 .bg-gray{background-color: #ccc;}
 .bg-gray2{background-color: #454548;}
 .bg-grey3{background-color: #4c4c4c;}
+.bg-lightblue{background-color: #589DC8;}
 .title-line-grey{
     border-bottom:1px solid #454548;
     position:relative;

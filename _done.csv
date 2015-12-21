@@ -36,7 +36,7 @@ conservative-strategy;1
 consulting-management;1
 culture;1
 departments;1
-deposit-weighted-average-portfolio;0
+deposit-weighted-average-portfolio;1
 documents;1
 events-1;1
 events;1
@@ -44,15 +44,15 @@ expert-1;1
 expert;1
 hedging-the-risk-of-ruble;0
 high-yield-strategy;1
-high-yielding-currency-portfolio;0
-high-yielding-portfolio;0
+high-yielding-currency-portfolio;1
+high-yielding-portfolio;1
 history;1
 index-portfolio;0
 index;1
-ipo-portfolio;0
+ipo-portfolio;1
 laws;1
 licence;0
-markets-review-1-quarter-2015;0
+markets-review-1-quarter-2015;1
 markets-review-08-2015;1
 markets-review-15-08-2015;0
 markets-review-2014;0
@@ -83,6 +83,6 @@ team-selivanov;1
 team-shpakov;1
 team;1
 vacancies;1
-weighted-average-portfolio;0
+weighted-average-portfolio;1
 weighted-average-strategy;1
-weighted-currency-portfolio;0
+weighted-currency-portfolio;1

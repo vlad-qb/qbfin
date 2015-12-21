@@ -4,7 +4,7 @@
       <meta charset="utf-8">
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
       <meta name="viewport" content="width=device-width, initial-scale=1">
-      <title>QBF ||| investment - высокодоходная стратегия | IPO портфель</title>
+      <title>QBF ||| investment - стратегия защиты рублевых активов | депозитный средневзвешенный портфель</title>
       <link href="/css/reset.css" rel="stylesheet">
       <link href="/css/grid.css" rel="stylesheet">
       <link href="/css/typo.css" rel="stylesheet">
@@ -21,7 +21,7 @@
     </head>
     <body>
       <?php include 'html/header.html';?>
-       <div id="cover" class="img-ipo-portfolio-1 cover w100r h480 mt-80" style="background-position: center top;">
+       <div id="cover" class="img-deposit-weighted-average-portfolio-1 cover w100r h480 mt-80" style="background-position: center top;">
         <div class="column-container h30" style="position:relative;top:450px;">
           <div class="column-2">
             <div class="column-offset h30 mt0 bg-white" style="margin-top:0;">
@@ -97,10 +97,13 @@
           <div class="column-2">
             <div class="column-offset h30 bg-white" style="margin-top:0;">
               <div class="w85r auto">
-                <h2 class="size-18 color-teal uppercase text-center line-h110">IPO ПОРТФЕЛЬ</h2>
+                <h2 class="size-18 color-teal uppercase text-center line-h110">ДЕПОЗИТНЫЙ СРЕДНЕВЗВЕШЕННЫЙ ПОРТФЕЛЬ</h2>
                 <p class="size-11 line-h20 text-justify">
                   <span class="bold">
-					СТРАТЕГИЯ В РАМКАХ ПОРТФЕЛЯ ПОЗВОЛЯЕТ ИЗВЛЕКАТЬ ПРИБЫЛЬ ИЗ РОСТА КАПИТАЛИЗАЦИИ КОМПАНИЙ, ПРОВОДЯЩИХ ПЕРВИЧНОЕ ПУБЛИЧНОЕ РАЗМЕЩЕНИЕ (IPO) НА ФОНДОВОМ РЫНКЕ.</span>
+					С НАЧАЛА ЯНВАРЯ 2014 ГОДА ДО КОНЦА ОКТЯБРЯ 2014 ГОДА КУРС РУБЛЯ ПО ОТНОШЕНИЮ К ДОЛЛАРУ ОСЛАБ БОЛЕЕ ЧЕМ НА 20% И ДОСТИГ 43 РУБЛЕЙ ЗА 1 ДОЛЛАР США. ОДНАКО ДАЛЬНЕЙШЕЕ УКРЕПЛЕНИЕ ДОЛЛАРА ВЫЗЫВАЕТ У АНАЛИТИКОВ ОПРЕДЕЛЕННЫЕ СОМНЕНИЯ.
+					<br/><br/>
+					В ЭТОЙ СВЯЗИ ИНВЕСТИЦИИ В ДОЛЛАРОВЫЕ АКТИВЫ (ВАЛЮТА, АКЦИИ, ОБЛИГАЦИИ И ETF) ПОСРЕДСТВОМ ОБМЕНА РУБЛЕЙ НА ДОЛЛАРЫ МОГУТ ОКАЗАТЬСЯ РИСКОВАННЫМИ ИЗ-ЗА ВОЗМОЖНОСТИ СТАБИЛИЗАЦИИ РУБЛЯ ПО ОТНОШЕНИЮ К АМЕРИКАНСКОМУ ДОЛЛАРУ.
+					</span>
                 </p>
                 <div class="w70r mt50 text-center auto">
                   <p class="w20r ml025r mr025r l auto">
@@ -134,14 +137,10 @@
 </div>
 <div class="column-container size-14 color-grey1 line-h26">
     <div class="column-2">
-        <p class="mt70 ml07r mr10r size-14 weight-300"><span class="bold">С</span>тратегия реализуется через покупку акций компаний, выходящих на IPO, по цене размещения, что позволяет заложить максимальный потенциал роста в короткий период. </p>
-		
-		<p class="mt20 ml07r mr10r size-14 weight-300">Позиции по выбранному активу могут быть закрыты в первые дни торгов, если за это время была достигнута целевая доходность.</p>
+        <p class="mt70 ml07r mr10r size-14 weight-300"><span class="bold">В</span> такой ситуации наиболее эффективным решением является депонирование денежных средств инвестора в рублях и открытие инвестиционной компанией долларового счета на американских фондовых рынках под обеспечение данных средств, что и осуществляется за счёт депозитного средневзвешенного портфеля в рамках стратегии хеджирования риска падения доллара к рублю.</p>
     </div>
     <div class="column-2">
-        <p class="mt70 ml07r mr10r size-14 weight-300"><span class="bold">П</span>ринцип стратегии очень прост. Участники рынка в ходе размещения закладывают в стоимость акций будущие перспективы компании, благодаря чему спрос на бумаги эмитента в начале торгов чрезвычайно велик. </p>
-		
-		<p class="mt20 ml07r mr10r size-14 weight-300">В результате возникает значительное превосходство спроса над предложением, и стоимость акции поднимается.</p>
+        <p class="mt70 ml07r mr10r size-14 weight-300"><span class="bold">В</span> данной стратегии клиент не берет на себя валютные риски, связанные с тем, что вложение рублёвых денежных средств осуществляется по высокому курсу по отношению к доллару, а по окончании срока инвестирования конвертация долларовых активов в рубли происходит по более низкому курсу.</p>
     </div>
     <div class="clearfix"></div>
 </div>
@@ -150,36 +149,36 @@
 
 <!--Parallax-text-->
 <div class="clearfix"></div>
-<div id="parallax-menu" class="img-ipo-portfolio-2 w100r mt80 cover fixed" style="background-attachment: fixed; background-position: center bottom;">
-    <div class="label w90r auto bg bg-blue-label line-h40 text-center">
+<div id="parallax-menu" class="img-deposit-weighted-average-portfolio-2 w100r mt80 cover fixed" style="background-attachment: fixed; background-position: center center;">
+    <div class="label w90r auto bg bg-gray-label line-h40 text-center">
         <div class="column-3">
             <div class="ml05r mr05r mt30">
 				<div class="border-white2 auto w100 mb10"></div>
 				<p class="size-12 color-white weight-300">СУММА ИНВЕСТИЦИЙ</p>
-				<p class="size-12 color-white weight-300">от $100.000 тыс</p>
+				<p class="size-12 color-white weight-300">от 1.000.000 млн. руб</p>
 				<div class="border-white2 auto w100 mt10 mb10"></div>
 				<p class="size-12 color-white weight-300">УРОВЕНЬ ЗАЩИТЫ КАПИТАЛА</p>
-				<p class="size-12 color-white weight-300">50%</p>
+				<p class="size-12 color-white weight-300">75%</p>
             </div>
         </div>
         <div class="column-3">
             <div class="ml05r mr05r mt30">
 				<div class="border-white2 auto w100 mb10"></div>
 				<p class="size-12 color-white weight-300">ЛИКВИДНОСТЬ</p>
-				<p class="size-12 color-white weight-300">15 дней</p>
+				<p class="size-12 color-white weight-300">30 дней</p>
 				<div class="border-white2 auto w100 mt10 mb10"></div>
 				<p class="size-12 color-white weight-300">МИНИМАЛЬНЫЙ СРОК ИНВЕСТИРОВАНИЯ</p>
-				<p class="size-12 color-white weight-300">3 месяца</p>
+				<p class="size-12 color-white weight-300">1 год</p>
             </div>
         </div>
         <div class="column-3">
             <div class="ml05r mr05r mt30">
 				<div class="border-white2 auto w100 mb10"></div>
 				<p class="size-12 color-white weight-300">ЦЕЛЕВАЯ ДОХОДНОСТЬ, $</p>
-				<p class="size-12 color-white weight-300">10-70%</p>
+				<p class="size-12 color-white weight-300">22-29%</p>
 				<div class="border-white2 auto w100 mt10 mb10"></div>
 				<p class="size-12 color-white weight-300">ВОЗНАГРАЖДЕНИЕ УПРАВЛЯЯЮЩЕГО</p>
-				<p class="size-12 color-white weight-300">комиссия за успех: 30% + комиссия за вход: 2%</p>
+				<p class="size-12 color-white weight-300">30% от прибыли</p>
             </div>
         </div>
     </div>
@@ -191,10 +190,10 @@
 <div class="column-container size-14 line-h26">
 	<h3 class="text-center bold mt60">Структура портфеля</h3>
     <div class="column-2">
-        <p class="mt70 ml07r mr10r size-14 weight-300"><span class="bold">О</span>сновными фильтрами для отбора инструментов в портфель являются фондовые биржи NYSE, NASDAQ, LSE. Здесь происходят размещения как денежных средств так и пакетов акций.</p>
+        <p class="mt70 ml07r mr10r size-14 weight-300">RUB - российский рубль / USD - акции, облигации компаний входящих в STOXX Global 150, DJIA, S&P500, NASDAQ Composite, EURO STOXX 50, DAX, FTSE 100, CAC40 и ETF с содержанием 25% структуры указанных выше индексов.</p>
     </div>
     <div class="column-2">
-        <p class="mt70 ml07r mr10r size-14 weight-300"><span class="bold">О</span>бъем привлекаемых денежных средств по IPO можно считать крупным от $150 млн, а объем размещаемого пакета акций - не меньше 10% от акционерного капитала компании. Коэффициенты P/E, P/S не должны превосходить средние значения по сектору более чем на 60%.</p>
+        <p class="mt70 ml07r mr10r size-14 weight-300"><span class="bold">В</span> зависимости от рыночной конъюнктуры веса финансовых инструментов в портфеле могут варьироваться. Так, доля акций может составлять 65 - 85%, облигаций - 15 - 35%, ETF - 5-15%.</p>
     </div>
 </div>
 <div class="clearfix"></div>
@@ -203,7 +202,7 @@
 <!--Image-->
 <div class="column-container mt20">
 	<div class="column">
-	<div class="img-ipo-portfolio-3 h400 contain mt30 mb50" style="background-size: contain; background-repeat: no-repeat; background-position: center center;"></div>
+	<div class="img-deposit-weighted-average-portfolio-3 h400 contain mt30 mb50" style="background-size: contain; background-repeat: no-repeat; background-position: center center;"></div>
 	</div>
     <div class="clearfix"></div>
 </div>
@@ -212,12 +211,10 @@
 <!--Text-->
 <div class="column-container size-14 line-h26">
     <div class="column-2">
-        <p class="mt20 ml07r mr10r size-14 weight-300"><span class="bold">В</span> ближайшие 2 - 3 года будет расти интерес инвесторов к размещениям высокотехнологичных компаний, корпораций потребительского сектора и нефтегазовой отрасли. </p>
-		<p class="mt20 ml07r mr10r size-14 weight-300">Такие направления представляют собой наиболее передовые и быстроразвивающиеся сегменты экономики. </p>
+        <p class="mt20 ml07r mr10r size-14 weight-300"><span class="bold">Р</span>еализация данной стратегии осуществляется в рамках средневзвешенной стратегии управления капиталом на фондовых рынках. Помимо вышеуказанных условий, еще одной особенностью данного продукта, является то, что управляющий ежемесячно проводит расчет прибыли клиента с учетом актуального валютного курса USD/RUB по FOREX.</p>
     </div>
     <div class="column-2">
-        <p class="mt20 ml07r mr10r size-14 weight-300"><span class="bold">Э</span>то делает компании этих отраслей очень перспективными для вложений крупных инвесторов.</p>
-		<p class="mt20 ml07r mr10r size-14 weight-300">Как следствие, такой актив почти никогда не теряет в цене в краткосрочной перспективе и открывает хорошие возможности для получения дохода от его роста.</p>
+        <p class="mt20 ml07r mr10r size-14 weight-300"><span class="bold">П</span>люсом стратегии является следующее: в случае если стоимость рубля продолжит снижаться, клиент получит дополнительный доход в виде курсовой разницы.</p>
     </div>
 </div>
 <div class="clearfix"></div>
@@ -234,47 +231,27 @@
 
 <!-- Double parallax menu -->
 <div class="img-high-yield-strategy-2 w100r fixed" style="background-attachment: fixed;">
-    <div class="bg-blue-label w90r auto bg bg-label text-center color-white uppercase">
+    <div class="bg-gray-label w90r auto bg bg-label text-center color-white uppercase">
         <div class="title-block-offset-2">
-            <h2 class="size-12 line-h22 uppercase">ВАРИАНТЫ ВЫСОКОДОХОДНОЙ СТРАТЕГИИ</h2>
+            <h2 class="size-12 line-h22 uppercase">ВАРИАНТЫ СТРАТЕГИИ ЗАЩИТЫ РУБЛЕВЫХ АКТИВОВ</h2>
         </div>
         <div class="pl02r pr02r pt02r pb02r">
-            <div class="column-3">
-                <div class="column-offset">
-                    <img class="icon icon-services pt03r pb03r" src="img/icons/icon-reit-sentence.svg">
-                    <div class="border-blue-top border-blue-bottom bg-lightblue">
-                        <div class="mt20 mb20 mt20 mb20 ml20r mr20r">
-                            <span class="size-12 line-h18">
-                                <a class="color-white white-hover" href="/ipo-portfolio.php">IPO портфель</a>
-                            </span>
-                        </div>
-                    </div>
+            <div class="column-2">
+            <div class="ml05r mr05r mt30">
+                <img src="img/icons/icon-reit-sentence.svg" class="icon icon-services w90 h90">
+                <div class="mt10 border-gray-top border-gray-bottom bg-gray">
+                    <div class="size-12 line-h18 mt20 mb20 ml25r mr25r"><a class="color-white white-hover" href="/deposit-weighted-average-portfolio.php">ДЕПОЗИТНЫЙ СРЕДНЕВЗВЕШЕННЫЙ ПОРТФЕЛЬ</a></div>
                 </div>
             </div>
-            <div class="column-3">
-                <div class="column-offset">
-                    <img class="icon icon-services pt03r pb03r" src="img/icons/icon-cogwheel.svg">
-                    <div class="border-blue-top border-blue-bottom lightblue-block-hover">
-                        <div class="mt20 mb20 mt20 mb20 ml20r mr20r">
-                            <span class="size-12 line-h18">
-                                <a class="color-white white-hover" href="/high-yielding-currency-portfolio.php">высокодоходный валютный портфель</a>
-                            </span>
-                        </div>
-                    </div>
+        </div>
+        <div class="column-2">
+            <div class="ml05r mr05r mt30">
+                <img src="img/icons/icon-cogwheel.svg" class="icon icon-services w90 h90">
+                <div class="mt10 border-gray-top border-gray-bottom lightgray-block-hover">
+                    <div class="size-12 line-h18 mt20 mb20 ml25r mr25r"><a class="color-white white-hover" href="/hedging-the-risk-of-ruble.php">ХЕДЖИРОВАНИЕ РУБЛЕВЫХ РИСКОВ</a></div>
                 </div>
             </div>
-            <div class="column-3">
-                <div class="column-offset">
-                    <img class="icon icon-services pt03r pb03r" src="img/icons/icon-strongbox.svg">
-                    <div class="border-blue-top border-blue-bottom lightblue-block-hover">
-                        <div class="mt20 mb20 mt20 mb20 ml20r mr20r">
-                            <span class="size-12 line-h18">
-                                <a class="color-white white-hover" href="/high-yielding-portfolio.php">высокодоходный портфель</a>
-                            </span>
-                        </div>
-                    </div>
-                </div>
-            </div>
+        </div>
             <div class="clearfix"></div>
         </div>
     </div>
@@ -321,7 +298,6 @@
 </div>
 <div class="clearfix"></div>
 <!-- Double parallax menu -->
-
 
 <div class="clearfix"></div>
 <div class="w100r">

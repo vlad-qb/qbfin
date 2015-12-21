@@ -4,7 +4,7 @@
       <meta charset="utf-8">
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
       <meta name="viewport" content="width=device-width, initial-scale=1">
-      <title>QBF ||| investment - высокодоходная стратегия | IPO портфель</title>
+      <title>QBF ||| investment - высокодоходная стратегия | высокодоходный портфель</title>
       <link href="/css/reset.css" rel="stylesheet">
       <link href="/css/grid.css" rel="stylesheet">
       <link href="/css/typo.css" rel="stylesheet">
@@ -21,7 +21,7 @@
     </head>
     <body>
       <?php include 'html/header.html';?>
-       <div id="cover" class="img-ipo-portfolio-1 cover w100r h480 mt-80" style="background-position: center top;">
+       <div id="cover" class="img-high-yielding-portfolio-1 cover w100r h480 mt-80" style="background-position: center top;">
         <div class="column-container h30" style="position:relative;top:450px;">
           <div class="column-2">
             <div class="column-offset h30 mt0 bg-white" style="margin-top:0;">
@@ -97,10 +97,10 @@
           <div class="column-2">
             <div class="column-offset h30 bg-white" style="margin-top:0;">
               <div class="w85r auto">
-                <h2 class="size-18 color-teal uppercase text-center line-h110">IPO ПОРТФЕЛЬ</h2>
+                <h2 class="size-18 color-teal uppercase text-center line-h110">ВЫСОКОДОХОДНЫЙ ПОРТФЕЛЬ</h2>
                 <p class="size-11 line-h20 text-justify">
                   <span class="bold">
-					СТРАТЕГИЯ В РАМКАХ ПОРТФЕЛЯ ПОЗВОЛЯЕТ ИЗВЛЕКАТЬ ПРИБЫЛЬ ИЗ РОСТА КАПИТАЛИЗАЦИИ КОМПАНИЙ, ПРОВОДЯЩИХ ПЕРВИЧНОЕ ПУБЛИЧНОЕ РАЗМЕЩЕНИЕ (IPO) НА ФОНДОВОМ РЫНКЕ.</span>
+					ЭТА ВЫСОКОДОХОДНАЯ СТРАТЕГИЯ ПРЕДПОЛАГАЕТ ГЕОГРАФИЧЕСКУЮ ДИВЕРСИФИКАЦИЮ И ШИРОКИЙ ВЫБОР ФИНАНСОВЫХ ИНСТРУМЕНТОВ. ОСНОВНЫМ ИНСТРУМЕНТОМ В ПОРТФЕЛЕ ВЫСТУПАЮТ АКЦИИ ЭМИТЕНТОВ СО ВСЕГО МИРА И БИРЖЕВЫЕ ФОНДЫ, НАЦЕЛЕННЫЕ НА РАЗЛИЧНЫЕ РЕГИОНЫ И СЕКТОРЫ ЭКОНОМИКИ.</span>
                 </p>
                 <div class="w70r mt50 text-center auto">
                   <p class="w20r ml025r mr025r l auto">
@@ -134,14 +134,14 @@
 </div>
 <div class="column-container size-14 color-grey1 line-h26">
     <div class="column-2">
-        <p class="mt70 ml07r mr10r size-14 weight-300"><span class="bold">С</span>тратегия реализуется через покупку акций компаний, выходящих на IPO, по цене размещения, что позволяет заложить максимальный потенциал роста в короткий период. </p>
+        <p class="mt70 ml07r mr10r size-14 weight-300"><span class="bold">Д</span>ля хеджирования возможных рисков в портфель включены опционы, валюты и корпоративные облигации. </p>
 		
-		<p class="mt20 ml07r mr10r size-14 weight-300">Позиции по выбранному активу могут быть закрыты в первые дни торгов, если за это время была достигнута целевая доходность.</p>
+		<p class="mt20 ml07r mr10r size-14 weight-300">Благодаря такому набору активов перед инвестором открываются возможности заработка на любом тренде в любом регионе мира, в том числе и на падающих рынках.</p>
     </div>
     <div class="column-2">
-        <p class="mt70 ml07r mr10r size-14 weight-300"><span class="bold">П</span>ринцип стратегии очень прост. Участники рынка в ходе размещения закладывают в стоимость акций будущие перспективы компании, благодаря чему спрос на бумаги эмитента в начале торгов чрезвычайно велик. </p>
+        <p class="mt70 ml07r mr10r size-14 weight-300"><span class="bold">С</span>реди самых перспективных направлений в рамках стратегии - секторы, связанные с новыми технологиями: интернет-сервисы, 3D-печать, хранение информации и альтернативные источники энергии. </p>
 		
-		<p class="mt20 ml07r mr10r size-14 weight-300">В результате возникает значительное превосходство спроса над предложением, и стоимость акции поднимается.</p>
+		<p class="mt20 ml07r mr10r size-14 weight-300">Настоящая золотая жила для инвестора - американские энергетические компании малой капитализации, растущие на фоне сланцевой революции.</p>
     </div>
     <div class="clearfix"></div>
 </div>
@@ -156,7 +156,7 @@
             <div class="ml05r mr05r mt30">
 				<div class="border-white2 auto w100 mb10"></div>
 				<p class="size-12 color-white weight-300">СУММА ИНВЕСТИЦИЙ</p>
-				<p class="size-12 color-white weight-300">от $100.000 тыс</p>
+				<p class="size-12 color-white weight-300">от $300.000 тыс</p>
 				<div class="border-white2 auto w100 mt10 mb10"></div>
 				<p class="size-12 color-white weight-300">УРОВЕНЬ ЗАЩИТЫ КАПИТАЛА</p>
 				<p class="size-12 color-white weight-300">50%</p>
@@ -169,7 +169,7 @@
 				<p class="size-12 color-white weight-300">15 дней</p>
 				<div class="border-white2 auto w100 mt10 mb10"></div>
 				<p class="size-12 color-white weight-300">МИНИМАЛЬНЫЙ СРОК ИНВЕСТИРОВАНИЯ</p>
-				<p class="size-12 color-white weight-300">3 месяца</p>
+				<p class="size-12 color-white weight-300">1 год</p>
             </div>
         </div>
         <div class="column-3">
@@ -179,7 +179,7 @@
 				<p class="size-12 color-white weight-300">10-70%</p>
 				<div class="border-white2 auto w100 mt10 mb10"></div>
 				<p class="size-12 color-white weight-300">ВОЗНАГРАЖДЕНИЕ УПРАВЛЯЯЮЩЕГО</p>
-				<p class="size-12 color-white weight-300">комиссия за успех: 30% + комиссия за вход: 2%</p>
+				<p class="size-12 color-white weight-300">комиссия за успех: 30%</p>
             </div>
         </div>
     </div>
@@ -191,10 +191,10 @@
 <div class="column-container size-14 line-h26">
 	<h3 class="text-center bold mt60">Структура портфеля</h3>
     <div class="column-2">
-        <p class="mt70 ml07r mr10r size-14 weight-300"><span class="bold">О</span>сновными фильтрами для отбора инструментов в портфель являются фондовые биржи NYSE, NASDAQ, LSE. Здесь происходят размещения как денежных средств так и пакетов акций.</p>
+        <p class="mt70 ml07r mr10r size-14 weight-300"><span class="bold">Ч</span>тобы актив был отобран в портфель, он как минимум должен входить в один из крупнейших региональных фондовых индексов: STOXX Global 150, DJIA, S&P500, NASDAQ Composite, Russell 2000, STOXX Europe 600, DAX, FTSE 100, FTSE 350, CAC40, STOXX Asia/Pacific 600.</p>
     </div>
     <div class="column-2">
-        <p class="mt70 ml07r mr10r size-14 weight-300"><span class="bold">О</span>бъем привлекаемых денежных средств по IPO можно считать крупным от $150 млн, а объем размещаемого пакета акций - не меньше 10% от акционерного капитала компании. Коэффициенты P/E, P/S не должны превосходить средние значения по сектору более чем на 60%.</p>
+        <p class="mt70 ml07r mr10r size-14 weight-300"><span class="bold">В</span> зависимости от рыночной конъюнктуры, веса финансовых инструментов в портфеле могут варьироваться. Так, доля акций может составлять 55 - 65%, облигаций - 5 - 15%, валюты - 0 - 10%, опционов - 0 - 10%, ETF - 15 - 25%.</p>
     </div>
 </div>
 <div class="clearfix"></div>
@@ -203,7 +203,7 @@
 <!--Image-->
 <div class="column-container mt20">
 	<div class="column">
-	<div class="img-ipo-portfolio-3 h400 contain mt30 mb50" style="background-size: contain; background-repeat: no-repeat; background-position: center center;"></div>
+	<div class="img-high-yielding-portfolio-2 h400 contain mt30 mb50" style="background-size: contain; background-repeat: no-repeat; background-position: center center;"></div>
 	</div>
     <div class="clearfix"></div>
 </div>
@@ -212,12 +212,10 @@
 <!--Text-->
 <div class="column-container size-14 line-h26">
     <div class="column-2">
-        <p class="mt20 ml07r mr10r size-14 weight-300"><span class="bold">В</span> ближайшие 2 - 3 года будет расти интерес инвесторов к размещениям высокотехнологичных компаний, корпораций потребительского сектора и нефтегазовой отрасли. </p>
-		<p class="mt20 ml07r mr10r size-14 weight-300">Такие направления представляют собой наиболее передовые и быстроразвивающиеся сегменты экономики. </p>
+        <p class="mt20 ml07r mr10r size-14 weight-300"><span class="bold">Э</span>ти инвестиции интересны в перспективе 2 - 4 лет. Большие возможности откроются перед инвесторами в связи с начавшимся восстановлением финансового сектора проблемных стран Еврозоны (PIGS), которое продолжится еще 1-2 года.</p>
     </div>
     <div class="column-2">
-        <p class="mt20 ml07r mr10r size-14 weight-300"><span class="bold">Э</span>то делает компании этих отраслей очень перспективными для вложений крупных инвесторов.</p>
-		<p class="mt20 ml07r mr10r size-14 weight-300">Как следствие, такой актив почти никогда не теряет в цене в краткосрочной перспективе и открывает хорошие возможности для получения дохода от его роста.</p>
+        <p class="mt20 ml07r mr10r size-14 weight-300"><span class="bold">К</span>роме того, инвестиционной привлекательностью обладают телекоммуникационные компании из новых азиатских экономик: Вьетнама, Бангладеша и Таиланда.</p>
     </div>
 </div>
 <div class="clearfix"></div>
@@ -242,7 +240,7 @@
             <div class="column-3">
                 <div class="column-offset">
                     <img class="icon icon-services pt03r pb03r" src="img/icons/icon-reit-sentence.svg">
-                    <div class="border-blue-top border-blue-bottom bg-lightblue">
+                    <div class="border-blue-top border-blue-bottom lightblue-block-hover">
                         <div class="mt20 mb20 mt20 mb20 ml20r mr20r">
                             <span class="size-12 line-h18">
                                 <a class="color-white white-hover" href="/ipo-portfolio.php">IPO портфель</a>
@@ -266,7 +264,7 @@
             <div class="column-3">
                 <div class="column-offset">
                     <img class="icon icon-services pt03r pb03r" src="img/icons/icon-strongbox.svg">
-                    <div class="border-blue-top border-blue-bottom lightblue-block-hover">
+                    <div class="border-blue-top border-blue-bottom bg-lightblue">
                         <div class="mt20 mb20 mt20 mb20 ml20r mr20r">
                             <span class="size-12 line-h18">
                                 <a class="color-white white-hover" href="/high-yielding-portfolio.php">высокодоходный портфель</a>
@@ -321,7 +319,6 @@
 </div>
 <div class="clearfix"></div>
 <!-- Double parallax menu -->
-
 
 <div class="clearfix"></div>
 <div class="w100r">

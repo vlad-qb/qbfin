@@ -4,7 +4,7 @@
       <meta charset="utf-8">
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
       <meta name="viewport" content="width=device-width, initial-scale=1">
-      <title>QBF ||| investment - высокодоходная стратегия | IPO портфель</title>
+      <title>QBF ||| investment - средневзвешенная стратегия | индексный ETF портфель</title>
       <link href="/css/reset.css" rel="stylesheet">
       <link href="/css/grid.css" rel="stylesheet">
       <link href="/css/typo.css" rel="stylesheet">
@@ -21,7 +21,7 @@
     </head>
     <body>
       <?php include 'html/header.html';?>
-       <div id="cover" class="img-ipo-portfolio-1 cover w100r h480 mt-80" style="background-position: center top;">
+       <div id="cover" class="img-index-portfolio-1 cover w100r h480 mt-80" style="background-position: center top;">
         <div class="column-container h30" style="position:relative;top:450px;">
           <div class="column-2">
             <div class="column-offset h30 mt0 bg-white" style="margin-top:0;">
@@ -97,10 +97,10 @@
           <div class="column-2">
             <div class="column-offset h30 bg-white" style="margin-top:0;">
               <div class="w85r auto">
-                <h2 class="size-18 color-teal uppercase text-center line-h110">IPO ПОРТФЕЛЬ</h2>
+                <h2 class="size-18 color-teal uppercase text-center line-h110">ИНДЕКСНЫЙ ETF ПОРТФЕЛЬ</h2>
                 <p class="size-11 line-h20 text-justify">
                   <span class="bold">
-					СТРАТЕГИЯ В РАМКАХ ПОРТФЕЛЯ ПОЗВОЛЯЕТ ИЗВЛЕКАТЬ ПРИБЫЛЬ ИЗ РОСТА КАПИТАЛИЗАЦИИ КОМПАНИЙ, ПРОВОДЯЩИХ ПЕРВИЧНОЕ ПУБЛИЧНОЕ РАЗМЕЩЕНИЕ (IPO) НА ФОНДОВОМ РЫНКЕ.</span>
+					В РАМКАХ ЭТОЙ СТРАТЕГИИ ПЕРЕД ИНВЕСТОРОМ ОТКРЫВАЮТСЯ ВОЗВОЖНОСТИ ПО РАЗМЕЩЕНИЮ КАПИТАЛА В КРУПНЕЙШИЕ ИНДЕКСНЫЕ РЕГИОНАЛЬНЫЕ, СЫРЬЕВЫЕ И СЕКТОРНЫЕ ФОНДЫ МИРА. ТАКИЕ ВОЗМОЖНОСТИ РЕАЛИЗУЮТСЯ ПОСРЕДСТВОМ ETF.</span>
                 </p>
                 <div class="w70r mt50 text-center auto">
                   <p class="w20r ml025r mr025r l auto">
@@ -123,6 +123,7 @@
       </div>
 <div class="clearfix"></div>
 
+
 <!--Text-->
 <div class="column-container">
     <div class="column mt60">
@@ -134,14 +135,12 @@
 </div>
 <div class="column-container size-14 color-grey1 line-h26">
     <div class="column-2">
-        <p class="mt70 ml07r mr10r size-14 weight-300"><span class="bold">С</span>тратегия реализуется через покупку акций компаний, выходящих на IPO, по цене размещения, что позволяет заложить максимальный потенциал роста в короткий период. </p>
+        <p class="mt70 ml07r mr10r size-14 weight-300"><span class="bold">ETF</span> - Exchange Traded Fund (публично торгуемый фонд) - фонд, специализирующийся на инвестициях в определенный вид активов.</p>
 		
-		<p class="mt20 ml07r mr10r size-14 weight-300">Позиции по выбранному активу могут быть закрыты в первые дни торгов, если за это время была достигнута целевая доходность.</p>
     </div>
     <div class="column-2">
-        <p class="mt70 ml07r mr10r size-14 weight-300"><span class="bold">П</span>ринцип стратегии очень прост. Участники рынка в ходе размещения закладывают в стоимость акций будущие перспективы компании, благодаря чему спрос на бумаги эмитента в начале торгов чрезвычайно велик. </p>
+        <p class="mt70 ml07r mr10r size-14 weight-300"><span class="bold">П</span>оскольку такие фонды свободно обращаются на фондовой бирже NYSE ARCA, то ETF-инструменты зачастую имеют более высокий по отношению к рынку уровень ликвидности.</p>
 		
-		<p class="mt20 ml07r mr10r size-14 weight-300">В результате возникает значительное превосходство спроса над предложением, и стоимость акции поднимается.</p>
     </div>
     <div class="clearfix"></div>
 </div>
@@ -150,13 +149,13 @@
 
 <!--Parallax-text-->
 <div class="clearfix"></div>
-<div id="parallax-menu" class="img-ipo-portfolio-2 w100r mt80 cover fixed" style="background-attachment: fixed; background-position: center bottom;">
-    <div class="label w90r auto bg bg-blue-label line-h40 text-center">
+<div id="parallax-menu" class="img-index-portfolio-2 w100r mt80 cover fixed" style="background-attachment: fixed; background-position: center center;">
+    <div class="label w90r auto bg bg-green-label line-h40 text-center">
         <div class="column-3">
             <div class="ml05r mr05r mt30">
 				<div class="border-white2 auto w100 mb10"></div>
 				<p class="size-12 color-white weight-300">СУММА ИНВЕСТИЦИЙ</p>
-				<p class="size-12 color-white weight-300">от $100.000 тыс</p>
+				<p class="size-12 color-white weight-300">от $300.000 тыс</p>
 				<div class="border-white2 auto w100 mt10 mb10"></div>
 				<p class="size-12 color-white weight-300">УРОВЕНЬ ЗАЩИТЫ КАПИТАЛА</p>
 				<p class="size-12 color-white weight-300">50%</p>
@@ -169,7 +168,7 @@
 				<p class="size-12 color-white weight-300">15 дней</p>
 				<div class="border-white2 auto w100 mt10 mb10"></div>
 				<p class="size-12 color-white weight-300">МИНИМАЛЬНЫЙ СРОК ИНВЕСТИРОВАНИЯ</p>
-				<p class="size-12 color-white weight-300">3 месяца</p>
+				<p class="size-12 color-white weight-300">1 год</p>
             </div>
         </div>
         <div class="column-3">
@@ -179,7 +178,7 @@
 				<p class="size-12 color-white weight-300">10-70%</p>
 				<div class="border-white2 auto w100 mt10 mb10"></div>
 				<p class="size-12 color-white weight-300">ВОЗНАГРАЖДЕНИЕ УПРАВЛЯЯЮЩЕГО</p>
-				<p class="size-12 color-white weight-300">комиссия за успех: 30% + комиссия за вход: 2%</p>
+				<p class="size-12 color-white weight-300">комиссия за успех: 30%</p>
             </div>
         </div>
     </div>
@@ -187,37 +186,62 @@
 <div class="clearfix"></div>
 <!--Parallax-text-->
 
+
+<!-- Investition-->	  
+<div class="column-container">
+<h3 class="text-center size-14 bold mt60">Инвестиции в фонды ETF имеют ряд преимуществ</h3>	
+<div class="gallery-offset w100r auto mt90 line-h20 size-14">  
+	<div class="column-3 w28r pt10 pb10 ml03r border-left-lightgray border-right-lightgray">
+	<h4 class="text-center"><img class="icon w25r" src="img/bg/index-portfolio-3.png"></h4>
+		<p class="mt25 size-14 ml07r mr07r mb15 weight-300"><span class="bold">П</span>ри понимании инвестиционный привлекательности того или иного сектора или региона не нужно выбирать и анализировать определенные его составляющие и тем самым брать на себя дополнительный риск. Фонд объединяет в себе все самые крупные и ликвидные составляющие сектора или региона.</p>
+	</div>	
+	
+	<div class="column-3 w28r pt10 pb10 ml03r border-left-lightgray border-right-lightgray">
+	<h4 class="text-center"><img class="icon w25r" src="img/bg/index-portfolio-4.png"></h4>
+		<p class="mt25 size-14 ml07r mr07r mb15 weight-300"><span class="bold">Е</span>сли речь идет об инвестициях в различные регионы мира, то это отсутствие необходимости открытия дополнительных брокерских счетов, а также необходимости выбора актива и его анализа, что порой затруднено языковыми преградами.</p>
+	</div>
+	
+	<div class="column-3 w28r pt10 pb10 ml03r border-left-lightgray border-right-lightgray">
+	<h4 class="text-center"><img class="icon w25r" src="img/bg/index-portfolio-5.png"></h4>
+		<p class="mt25 size-14 ml07r mr07r mb15 weight-300"><span class="bold">Д</span>ля инвестиций в сырье это отсутствие необходимости покупать срочные контракты, что само по себе проблематично даже для профессионального инвестора. Фонд самостоятельно инвестирует в срочные контракты на те виды сырья, на которых специализируется.</p>
+	</div>	
+</div>
+</div>
+ <div class="clearfix"></div>
+<!-- Investition-->	
+
+<!-- Table-->	
+<div class="column-container">
+<h3 class="text-center size-14 bold mt60">Список ETF, используемых в рамках стратегии</h3>	
+<h3 class="text-center size-14 color-white mt40"><div class="w100r h50 line-h50 auto bg-green-label">индексные тикеры</div></h3>
+</div>
+<div class="column-container mt30 text-center">
+<div class="w100r auto line-h26 size-14">  
+	<div class="column-3 weight-300">
+	SPY<span class="size-11 color-green"> •︎ </span> индекс S&P 500
+	</div>	
+	
+	<div class="column-3 weight-300">
+	QQQ<span class="size-11 color-green"> •︎ </span>индекс NASDAQ 100
+	</div>
+	
+	<div class="column-3 weight-300">
+	DIA<span class="size-11 color-green"> •︎ </span> индекс DJIA
+	</div>	
+</div>
+</div>
+ <div class="clearfix"></div>
+<!--Table-->
+
 <!--Text-->
 <div class="column-container size-14 line-h26">
 	<h3 class="text-center bold mt60">Структура портфеля</h3>
     <div class="column-2">
-        <p class="mt70 ml07r mr10r size-14 weight-300"><span class="bold">О</span>сновными фильтрами для отбора инструментов в портфель являются фондовые биржи NYSE, NASDAQ, LSE. Здесь происходят размещения как денежных средств так и пакетов акций.</p>
+        <p class="mt70 ml07r mr10r size-14 weight-300"><span class="bold">В</span> рамках стратегии выбираются наиболее ликвидные фонды, дневной объем торгов акциями которых превышает 5 млн. акций в день. </p>
+		<p class="mt20 ml07r mr10r size-14 weight-300">Вместе с этим в портфель попадают лишь фонды, управляющие компании которых имеют под управлением не менее 15 инвестиционных фондов. </p>
     </div>
     <div class="column-2">
-        <p class="mt70 ml07r mr10r size-14 weight-300"><span class="bold">О</span>бъем привлекаемых денежных средств по IPO можно считать крупным от $150 млн, а объем размещаемого пакета акций - не меньше 10% от акционерного капитала компании. Коэффициенты P/E, P/S не должны превосходить средние значения по сектору более чем на 60%.</p>
-    </div>
-</div>
-<div class="clearfix"></div>
-<!--Text-->
-
-<!--Image-->
-<div class="column-container mt20">
-	<div class="column">
-	<div class="img-ipo-portfolio-3 h400 contain mt30 mb50" style="background-size: contain; background-repeat: no-repeat; background-position: center center;"></div>
-	</div>
-    <div class="clearfix"></div>
-</div>
-<!--Image-->
-
-<!--Text-->
-<div class="column-container size-14 line-h26">
-    <div class="column-2">
-        <p class="mt20 ml07r mr10r size-14 weight-300"><span class="bold">В</span> ближайшие 2 - 3 года будет расти интерес инвесторов к размещениям высокотехнологичных компаний, корпораций потребительского сектора и нефтегазовой отрасли. </p>
-		<p class="mt20 ml07r mr10r size-14 weight-300">Такие направления представляют собой наиболее передовые и быстроразвивающиеся сегменты экономики. </p>
-    </div>
-    <div class="column-2">
-        <p class="mt20 ml07r mr10r size-14 weight-300"><span class="bold">Э</span>то делает компании этих отраслей очень перспективными для вложений крупных инвесторов.</p>
-		<p class="mt20 ml07r mr10r size-14 weight-300">Как следствие, такой актив почти никогда не теряет в цене в краткосрочной перспективе и открывает хорошие возможности для получения дохода от его роста.</p>
+        <p class="mt70 ml07r mr10r size-14 weight-300"><span class="bold">О</span>бязательным критерием является наличие в структуре фонда минимум 25 компонентов.</p>
     </div>
 </div>
 <div class="clearfix"></div>
@@ -234,7 +258,7 @@
 
 <!-- Double parallax menu -->
 <div class="img-high-yield-strategy-2 w100r fixed" style="background-attachment: fixed;">
-    <div class="bg-blue-label w90r auto bg bg-label text-center color-white uppercase">
+    <div class="bg-green-label w90r auto bg bg-label text-center color-white uppercase">
         <div class="title-block-offset-2">
             <h2 class="size-12 line-h22 uppercase">ВАРИАНТЫ ВЫСОКОДОХОДНОЙ СТРАТЕГИИ</h2>
         </div>
@@ -242,10 +266,10 @@
             <div class="column-3">
                 <div class="column-offset">
                     <img class="icon icon-services pt03r pb03r" src="img/icons/icon-reit-sentence.svg">
-                    <div class="border-blue-top border-blue-bottom bg-lightblue">
+                    <div class="border-green-top border-green-bottom lightgreen-block-hover">
                         <div class="mt20 mb20 mt20 mb20 ml20r mr20r">
                             <span class="size-12 line-h18">
-                                <a class="color-white white-hover" href="/ipo-portfolio.php">IPO портфель</a>
+                                <a class="color-white white-hover" href="/index-portfolio.php">ИНДЕКСНЫЙ ETF ПОРТФЕЛЬ</a>
                             </span>
                         </div>
                     </div>
@@ -254,10 +278,10 @@
             <div class="column-3">
                 <div class="column-offset">
                     <img class="icon icon-services pt03r pb03r" src="img/icons/icon-cogwheel.svg">
-                    <div class="border-blue-top border-blue-bottom lightblue-block-hover">
+                    <div class="border-green-top border-green-bottom bg-lightgreen">
                         <div class="mt20 mb20 mt20 mb20 ml20r mr20r">
                             <span class="size-12 line-h18">
-                                <a class="color-white white-hover" href="/high-yielding-currency-portfolio.php">высокодоходный валютный портфель</a>
+                                <a class="color-white white-hover" href="/weighted-currency-portfolio.php">СРЕДНЕВЗВЕШЕННЫЙ ВАЛЮТНЫЙ ПОРТФЕЛЬ</a>
                             </span>
                         </div>
                     </div>
@@ -266,10 +290,10 @@
             <div class="column-3">
                 <div class="column-offset">
                     <img class="icon icon-services pt03r pb03r" src="img/icons/icon-strongbox.svg">
-                    <div class="border-blue-top border-blue-bottom lightblue-block-hover">
+                    <div class="border-green-top border-green-bottom lightgreen-block-hover">
                         <div class="mt20 mb20 mt20 mb20 ml20r mr20r">
                             <span class="size-12 line-h18">
-                                <a class="color-white white-hover" href="/high-yielding-portfolio.php">высокодоходный портфель</a>
+                                <a class="color-white white-hover" href="/weighted-average-portfolio.php">СРЕДНЕВЗВЕШЕННЫЙ портфель</a>
                             </span>
                         </div>
                     </div>
@@ -321,7 +345,6 @@
 </div>
 <div class="clearfix"></div>
 <!-- Double parallax menu -->
-
 
 <div class="clearfix"></div>
 <div class="w100r">

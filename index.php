@@ -4,7 +4,7 @@
       <meta charset="utf-8">
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
       <meta name="viewport" content="width=device-width, initial-scale=1">
-      <title>QBF ||| investment - компания</title>
+      <title>QBF ||| investment - официальный сайт</title>
       <link href="/css/reset.css" rel="stylesheet">
       <link href="/css/grid.css" rel="stylesheet">
       <link href="/css/typo.css" rel="stylesheet">
@@ -65,6 +65,18 @@
 		  </div>
       <div class="clearfix"></div>
 	  
+<div class="column-container w100r auto">
+    <div class="column mt60 mb30 text-center">
+            <div class="border-grey-top"></div>
+			<p class="size-14 uppercase line-h120 weight-300">«ЛУЧШАЯ ИНВЕСТИЦИОННАЯ КОМПАНИЯ ГОДА» ~ SPEAR'S RUSSIA AWARDS - 2014 ~ РЕЙТИНГ «А»</p>
+			<div class="border-grey-bottom"></div>
+    </div>
+</div>
+<div class="clearfix"></div>
+
+
+
+	<div class="clearfix"></div>
       <?php include 'html/footer.html';?>
       <script src="/js/jquery.min.js"></script>
       <script src="/js/main.js"></script>
