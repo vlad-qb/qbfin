@@ -19,8 +19,8 @@ archive-shares;1
 asset-management;1
 awards-and-ratings;1
 banking-information;1
-bond-option-portfolio;0
-bond-repo-portfolio;0
+bond-option-portfolio;1
+bond-repo-portfolio;1
 branch-office;1
 calculation;1
 career;1
@@ -72,7 +72,7 @@ service;1
 shares;1
 slider4;0
 strategy-for-the-protection-of-ruble-assets;1
-structured-bond-portfolio;0
+structured-bond-portfolio;1
 team-frolov;1
 team-gorsheneva;1
 team-kipa;1

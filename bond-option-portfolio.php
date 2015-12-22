@@ -3,7 +3,7 @@
     <head>
       <meta charset="utf-8">
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
-      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <meta name="viewport" content="widspan=device-widspan, initial-scale=1">
       <title>QBF ||| investment - консервативная стратегия | облигационно-опционный портфель</title>
       <link href="/css/reset.css" rel="stylesheet">
       <link href="/css/grid.css" rel="stylesheet">
@@ -154,31 +154,31 @@
     <div class="label w90r auto bg bg-yellow-label line-h40 text-center">
         <div class="column-3">
             <div class="ml05r mr05r mt30">
-				<div class="border-white2 auto w100 mb10"></div>
+				<div class="border-white2 auto w100 mb5"></div>
 				<p class="size-12 color-white weight-300">СУММА ИНВЕСТИЦИЙ</p>
 				<p class="size-12 color-white weight-300">от $500.000</p>
-				<div class="border-white2 auto w100 mt10 mb10"></div>
+				<div class="border-white2 auto w100 mt10 mb5"></div>
 				<p class="size-12 color-white weight-300">УРОВЕНЬ ЗАЩИТЫ КАПИТАЛА</p>
 				<p class="size-12 color-white weight-300">100%</p>
             </div>
         </div>
         <div class="column-3">
             <div class="ml05r mr05r mt30">
-				<div class="border-white2 auto w100 mb10"></div>
+				<div class="border-white2 auto w100 mb5"></div>
 				<p class="size-12 color-white weight-300">ЛИКВИДНОСТЬ</p>
 				<p class="size-12 color-white weight-300">15 дней</p>
-				<div class="border-white2 auto w100 mt10 mb10"></div>
+				<div class="border-white2 auto w100 mt10 mb5"></div>
 				<p class="size-12 color-white weight-300">МИНИМАЛЬНЫЙ СРОК ИНВЕСТИРОВАНИЯ</p>
 				<p class="size-12 color-white weight-300">1 год</p>
             </div>
         </div>
         <div class="column-3">
             <div class="ml05r mr05r mt30">
-				<div class="border-white2 auto w100 mb10"></div>
+				<div class="border-white2 auto w100 mb5"></div>
 				<p class="size-12 color-white weight-300">ЦЕЛЕВАЯ ДОХОДНОСТЬ, $</p>
 				<p class="size-12 color-white weight-300">8,5-25%</p>
-				<div class="border-white2 auto w100 mt10 mb10"></div>
-				<p class="size-12 color-white weight-300">ВОЗНАГРАЖДЕНИЕ УПРАВЛЯЯЮЩЕГО</p>
+				<div class="border-white2 auto w100 mt10 mb5"></div>
+				<p class="size-12 color-white weight-300">ВОЗНАГРАЖДЕНИЕ УПРАВЛЯЮЩЕГО</p>
 				<p class="size-12 color-white weight-300">комиссия за успех: 20% + за управление: от 0,5 до 1,5%</p>
             </div>
         </div>
@@ -203,32 +203,34 @@
 <!--Text-->
 
 <!--Image-->
-<div class="column-container mt20">
+<div class="column-container mt60">
+<h3 class="text-center size-14 line-h26 bold mt60 mb60">Расчет доходности портфеля</h3>
+<div class="clearfix"></div>
 	<div class="column-3">
 	<div class="img-bond-option-portfolio-2 h450 contain mt30 mb50" style="background-size: contain; background-repeat: no-repeat; background-position: center center;"></div>
 	</div>
-	<div class="column-2 size-14 line-h26 weight-300">
-	<table>
-	<tr class="border-lightgray">
-	<th>первоначальные инвестиции<br/>
-	<span class="color-yellow">•︎</span> $500 000</th></tr>
-	<tr class="border-lightgray">
-	<th>первоначальные инвестиции<br/>
-	<span class="color-yellow">•︎</span> $500 000</th></tr>
-	<tr class="border-lightgray">
-	<th>первоначальные инвестиции<br/>
-	<span class="color-yellow">•︎</span> $500 000</th></tr>
-	<td class="border-lightgray bg-lightgray text-center">результат инвестиций</td>
-	<tr class="border-lightgray">
-	<th>первоначальные инвестиции<br/>
-	<span class="color-yellow">•︎</span> $500 000</th></tr>
-	<tr class="border-lightgray">
-	<th>первоначальные инвестиции<br/>
-	<span class="color-yellow">•︎</span> $500 000</th></tr>
-	<tr class="border-lightgray">
-	<th>первоначальные инвестиции<br/>
-	<span class="color-yellow">•︎</span> $500 000</th></tr>
-	</table>
+	<div class="column-2 size-14 line-h32 w60r mr03r r">
+	<div>
+		<div class="border-lightgray text-center weight-300 mb5">
+			<span>первоначальные инвестиции<br/></span>
+			<span class="color-yellow">•︎</span> $500 000</div>
+		<div class="border-lightgray text-center weight-300 mb5">
+			<span>корпоративные облигации<br/></span>
+			<span class="color-yellow">•︎</span> 95% или $475 000</div>
+		<div class="border-lightgray text-center weight-300 mb5">
+			<span>опционы на акции<br/></span>
+			<span class="color-yellow">•︎</span> 5% или $25 000</div>
+		<div class="border-lightgray bg-lightgray text-center mb5 line-h40">результат инвестиций</div>
+		<div class="border-lightgray text-center weight-300 mb5">
+			<span>облигации<br/></span>
+			<span class="color-yellow">•︎</span> $475 000 х 6% = $503 500 (1% к сумме инвестиций)</div>
+		<div class="border-lightgray text-center weight-300 mb5">
+			<span>опционы<br/></span>
+			<span class="color-yellow">•︎</span> $25 000 х 0 - 400% = $0 - 125 000 (0 - 25% к сумме инвестиций)</div>
+		<div class="border-lightgray text-center weight-300 mb5">
+			<span>итог<br/></span>
+			<span class="color-yellow">•︎</span> $503 500 - $628 500 (3,5 - 25,6% к сумме инвестиций)</div>
+		</div>
 	</div>
     <div class="clearfix"></div>
 </div>
@@ -237,10 +239,10 @@
 <!--Text-->
 <div class="column-container size-14 line-h26">
     <div class="column-2">
-        <p class="mt20 ml07r mr10r size-14 weight-300"><span class="bold">В</span> 2014 году на глобальном рынке ожидается изменение тренда монетарной политики практически всех мировых центральных банков в сторону ужесточения. Этот процесс, связанный с постепенным переходом мировой экономики в фазу роста, вызовет рост ставок по инструментам с фиксированной доходностью на развитых рынках. </p>
+        <p class="mt20 ml07r mr10r size-14 weight-300"><span class="bold">П</span>ортфельная стратегия будет актуальна в периоды, когда монетарная политика международных регуляторов не изменяется в сторону ужесточения, что позволяет эффективно проводить сделки РЕПО, имея значительный спред между стоимостью заемного капитала и купонным доходом по облигациям. </p>
     </div>
     <div class="column-2">
-        <p class="mt20 ml07r mr10r size-14 weight-300"><span class="bold">В</span> результате приток капитала в такие активы усилится, что в перспективе 4 - 5 лет положительно скажется на капитализации консервативного портфеля.</p>
+        <p class="mt20 ml07r mr10r size-14 weight-300"><span class="bold">В</span>ажным фактором является и то, что дивидендная политика отбираемых в портфель эмитентов неизменна на протяжении многих лет, и, как правило, влиять на нее могут только серьезные изменения в финансовом состоянии компании.</p>
     </div>
 </div>
 <div class="clearfix"></div>
@@ -265,7 +267,7 @@
           <div class="column-4">
             <div class="ml05r mr05r mt30">
                 <img src="img/icons/icon-reit-sentence.svg" class="icon icon-services w90 h90">
-                <div class="mt10 border-yellow-top border-yellow-bottom bg-lightyellow">
+                <div class="mt10 border-yellow-top border-yellow-bottom lightyellow-block-hover">
                     <div class="size-12 line-h18 mt20 mb20 ml25r mr25r"><a class="color-white white-hover" href="/conservative-portfolio.php">КОНСЕРВАТИВНЫЙ ПОРТФЕЛЬ</a></div>
                 </div>
             </div>
@@ -273,7 +275,7 @@
         <div class="column-4">
             <div class="ml05r mr05r mt30">
                 <img src="img/icons/icon-cogwheel.svg" class="icon icon-services w90 h90">
-                <div class="mt10 border-yellow-top border-yellow-bottom lightyellow-block-hover">
+                <div class="mt10 border-yellow-top border-yellow-bottom bg-lightyellow">
                     <div class="size-12 line-h18 mt20 mb20 ml25r mr25r"><a class="color-white white-hover" href="/bond-option-portfolio.php">ОБЛИГАЦИОННО- ОПЦИОННЫЙ <br/>ПОРТФЕЛЬ</a></div>
                 </div>
             </div>
@@ -330,7 +332,7 @@
             <div class="ml05r mr05r mt30">
                 <img src="img/icons/icon-marker.svg" class="icon icon-services w50 h50">
                 <div class="mt10 border-darkgray-top border-darkgray-bottom grey-block-hover">
-                    <div class="size-11 line-h18 mt20 mb20 ml25r mr25r"><a class="color-white white-hover" href="/strategy-for-the-protection-of-ruble-assets.php">Стратегия защиты активов</a></div>
+                    <div class="size-11 line-h18 mt20 mb20 ml25r mr25r"><a class="color-white white-hover" href="/strategy-for-spane-protection-of-ruble-assets.php">Стратегия защиты активов</a></div>
                 </div>
             </div>
         </div>
