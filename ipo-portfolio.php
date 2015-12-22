@@ -134,12 +134,12 @@
 </div>
 <div class="column-container size-14 color-grey1 line-h26">
     <div class="column-2">
-        <p class="mt70 ml07r mr10r size-14 weight-300"><span class="bold">С</span/>тратегия реализуется через покупку акций компаний, выходящих на IPO, по цене размещения, что позволяет заложить максимальный потенциал роста в короткий период. </p>
+        <p class="mt70 ml07r mr10r size-14 weight-300"><span class="bold">С</span>тратегия реализуется через покупку акций компаний, выходящих на IPO, по цене размещения, что позволяет заложить максимальный потенциал роста в короткий период. </p>
 		
 		<p class="mt20 ml07r mr10r size-14 weight-300">Позиции по выбранному активу могут быть закрыты в первые дни торгов, если за это время была достигнута целевая доходность.</p>
     </div>
     <div class="column-2">
-        <p class="mt70 ml07r mr10r size-14 weight-300"><span class="bold">П</span/>ринцип стратегии очень прост. Участники рынка в ходе размещения закладывают в стоимость акций будущие перспективы компании, благодаря чему спрос на бумаги эмитента в начале торгов чрезвычайно велик. </p>
+        <p class="mt70 ml07r mr10r size-14 weight-300"><span class="bold">П</span>ринцип стратегии очень прост. Участники рынка в ходе размещения закладывают в стоимость акций будущие перспективы компании, благодаря чему спрос на бумаги эмитента в начале торгов чрезвычайно велик. </p>
 		
 		<p class="mt20 ml07r mr10r size-14 weight-300">В результате возникает значительное превосходство спроса над предложением, и стоимость акции поднимается.</p>
     </div>
@@ -191,10 +191,10 @@
 <div class="column-container size-14 line-h26">
 	<h3 class="text-center bold mt60">Структура портфеля</h3>
     <div class="column-2">
-        <p class="mt70 ml07r mr10r size-14 weight-300"><span class="bold">О</span/>сновными фильтрами для отбора инструментов в портфель являются фондовые биржи NYSE, NASDAQ, LSE. Здесь происходят размещения как денежных средств так и пакетов акций.</p>
+        <p class="mt70 ml07r mr10r size-14 weight-300"><span class="bold">О</span>сновными фильтрами для отбора инструментов в портфель являются фондовые биржи NYSE, NASDAQ, LSE. Здесь происходят размещения как денежных средств так и пакетов акций.</p>
     </div>
     <div class="column-2">
-        <p class="mt70 ml07r mr10r size-14 weight-300"><span class="bold">О</span/>бъем привлекаемых денежных средств по IPO можно считать крупным от $150 млн, а объем размещаемого пакета акций - не меньше 10% от акционерного капитала компании. Коэффициенты P/E, P/S не должны превосходить средние значения по сектору более чем на 60%.</p>
+        <p class="mt70 ml07r mr10r size-14 weight-300"><span class="bold">О</span>бъем привлекаемых денежных средств по IPO можно считать крупным от $150 млн, а объем размещаемого пакета акций - не меньше 10% от акционерного капитала компании. Коэффициенты P/E, P/S не должны превосходить средние значения по сектору более чем на 60%.</p>
     </div>
 </div>
 <div class="clearfix"></div>
@@ -212,11 +212,11 @@
 <!--Text-->
 <div class="column-container size-14 line-h26">
     <div class="column-2">
-        <p class="mt20 ml07r mr10r size-14 weight-300"><span class="bold">В</span/> ближайшие 2 - 3 года будет расти интерес инвесторов к размещениям высокотехнологичных компаний, корпораций потребительского сектора и нефтегазовой отрасли. </p>
+        <p class="mt20 ml07r mr10r size-14 weight-300"><span class="bold">В</span> ближайшие 2 - 3 года будет расти интерес инвесторов к размещениям высокотехнологичных компаний, корпораций потребительского сектора и нефтегазовой отрасли. </p>
 		<p class="mt20 ml07r mr10r size-14 weight-300">Такие направления представляют собой наиболее передовые и быстроразвивающиеся сегменты экономики. </p>
     </div>
     <div class="column-2">
-        <p class="mt20 ml07r mr10r size-14 weight-300"><span class="bold">Э</span/>то делает компании этих отраслей очень перспективными для вложений крупных инвесторов.</p>
+        <p class="mt20 ml07r mr10r size-14 weight-300"><span class="bold">Э</span>то делает компании этих отраслей очень перспективными для вложений крупных инвесторов.</p>
 		<p class="mt20 ml07r mr10r size-14 weight-300">Как следствие, такой актив почти никогда не теряет в цене в краткосрочной перспективе и открывает хорошие возможности для получения дохода от его роста.</p>
     </div>
 </div>
@@ -224,18 +224,69 @@
 <!--Text-->
 
 <div class="column-container">
-    <div class="column mt60">
-            <div class="title-line-grey"></div>
+    <div class="column mt60 mb30 text-center">
+            <div class="border-gray-bottom"></div>
+			<p class="mt60 size-12 color-teal uppercase line-h16 weight-300">В ЗАВИСИМОСТИ ОТ ПОСТАВЛЕННЫХ ЗАДАЧ, НАШИ СПЕЦИАЛИСТЫ ПОМОГУТ ВЫБРАТЬ НАИБОЛЕЕ ПОДХОДЯЩУЮ ДЛЯ ВАС СТРАТЕГИЮ</p>
+			<a href="/connect.php" class="size-14 line-h60 weight-300">задать вопрос специалисту </a><span class="color-teal weight-300">&gt;</span>
     </div>
 </div>
+<div class="clearfix"></div>
 
-<div id="parallax-menu" class="img-high-yield-strategy-2 w100r mt80 cover bg-center fixed" style="background-attachment: fixed;">
-    <div class="label w90r auto bg bg-label text-center uppercase">
-	<h3 class="size-12 color-white pt30">ВСЕ СТРАТЕГИИ ДОВЕРИТЕЛЬНОГО УПРАВЛЕНИЯ</h3>
-        <div class="column-4">
+<!-- Double parallax menu -->
+<div class="img-high-yield-strategy-2 w100r fixed" style="background-attachment: fixed;">
+    <div class="bg-blue-label w90r auto bg bg-label text-center color-white uppercase">
+        <div class="title-block-offset-2">
+            <h2 class="size-12 line-h22 uppercase">ВАРИАНТЫ ВЫСОКОДОХОДНОЙ СТРАТЕГИИ</h2>
+        </div>
+        <div class="pl02r pr02r pt02r pb02r">
+            <div class="column-3">
+                <div class="column-offset">
+                    <img class="icon icon-services pt03r pb03r" src="img/icons/icon-reit-sentence.svg">
+                    <div class="border-blue-top border-blue-bottom bg-lightblue">
+                        <div class="mt20 mb20 mt20 mb20 ml20r mr20r">
+                            <span class="size-12 line-h18">
+                                <a class="color-white white-hover" href="/ipo-portfolio.php">IPO портфель</a>
+                            </span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="column-3">
+                <div class="column-offset">
+                    <img class="icon icon-services pt03r pb03r" src="img/icons/icon-cogwheel.svg">
+                    <div class="border-blue-top border-blue-bottom lightblue-block-hover">
+                        <div class="mt20 mb20 mt20 mb20 ml20r mr20r">
+                            <span class="size-12 line-h18">
+                                <a class="color-white white-hover" href="/high-yielding-currency-portfolio.php">высокодоходный валютный портфель</a>
+                            </span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="column-3">
+                <div class="column-offset">
+                    <img class="icon icon-services pt03r pb03r" src="img/icons/icon-strongbox.svg">
+                    <div class="border-blue-top border-blue-bottom lightblue-block-hover">
+                        <div class="mt20 mb20 mt20 mb20 ml20r mr20r">
+                            <span class="size-12 line-h18">
+                                <a class="color-white white-hover" href="/high-yielding-portfolio.php">высокодоходный портфель</a>
+                            </span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+    <div class="label w90r auto bg bg-label text-center color-white uppercase">
+        <div class="title-block-offset-2">
+            <h2 class="size-12 line-h22 uppercase">ВСЕ СТРАТЕГИИ ДОВЕРИТЕЛЬНОГО УПРАВЛЕНИЯ</h2>
+        </div>
+        <div class="pl02r pr02r pt02r pb02r">
+            <div class="column-4">
             <div class="ml05r mr05r mt30">
                 <img src="img/icons/icon-marker.svg" class="icon icon-services w50 h50">
-                <div class="mt10 border-darkgray-top border-darkgray-bottom bg-blue-label">
+                <div class="mt10 border-darkgray-top border-darkgray-bottom blue-block-hover">
                     <div class="size-11 line-h18 mt20 mb20 ml25r mr25r"><a class="color-white white-hover" href="/high-yield-strategy.php">Высокодоходная стратегия</a></div>
                 </div>
             </div>
@@ -264,9 +315,12 @@
                 </div>
             </div>
         </div>
+            <div class="clearfix"></div>
+        </div>
     </div>
 </div>
 <div class="clearfix"></div>
+<!-- Double parallax menu -->
 
 
 <div class="clearfix"></div>

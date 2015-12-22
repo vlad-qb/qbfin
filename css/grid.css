@@ -59,7 +59,7 @@
     }
     .column-3{
         float:left;
-        width:33.333%;
+        width:100%;
     }
     .column-3 .column-offset{
         margin:0 7.5%;
