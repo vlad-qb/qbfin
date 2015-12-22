@@ -39,6 +39,10 @@ a{
     color:#333;
     text-decoration: none;
 }
+a[href^=tel]{
+    color:#008080;
+    text-decoration: none;
+}
 a:hover{color:#008080;}
 a:focus{color: #00a19a;}
 a.active{color:#008080;}
@@ -67,6 +71,7 @@ a.active{color:#008080;}
 .line-h22{line-height:22px;}
 .line-h26{line-height:26px;}
 .line-h30{line-height:30px;}
+.line-h36{line-height:36px;}
 .line-h40{line-height:40px;}
 .line-h50{line-height:50px;}
 .line-h60{line-height:60px;}
