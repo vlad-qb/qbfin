@@ -213,7 +213,7 @@
 <!-- Table-->	
 <div class="column-container">
 <h3 class="text-center size-14 bold mt60">Список ETF, используемых в рамках стратегии</h3>	
-<h3 class="text-center size-14 color-white mt40"><div class="w100r h50 line-h50 auto bg-green-label">индексные тикеры</div></h3>
+<h3 class="text-center size-14 color-white mt40"><div class="w100r h50 line-h50 auto bg-green">индексные тикеры</div></h3>
 </div>
 <div class="column-container mt30 text-center">
 <div class="w100r auto line-h26 size-14">  
@@ -230,12 +230,100 @@
 	</div>	
 </div>
 </div>
+<div class="clearfix"></div>
+<div class="column-container">
+<h3 class="text-center size-14 color-white mt30"><div class="w100r h50 line-h50 auto bg-green">сектора экономики</div></h3>
+</div>
+<div class="column-container mt30 text-center">
+<div class="w100r auto line-h26 size-14">  
+	<div class="column-3 weight-300">
+	XLF<span class="size-11 color-green"> •︎ </span>финансовый
+	</div>	
+	
+	<div class="column-3 weight-300">
+	XLE<span class="size-11 color-green"> •︎ </span> энергетический
+	</div>
+	
+	<div class="column-3 weight-300">
+	XLK<span class="size-11 color-green"> •︎ </span> технологический
+	</div>	
+</div>
+</div>
+ <div class="clearfix"></div>
+ <div class="column-container mt30 text-center">
+<div class="w100r auto line-h26 size-14">  
+	<div class="column-3 weight-300">
+	XME<span class="size-11 color-green"> •︎ </span>добыча ископаемых
+	</div>	
+	
+	<div class="column-3 weight-300">
+	IYR<span class="size-11 color-green"> •︎ </span>недвижимость
+	</div>
+	
+	<div class="column-3 weight-300">
+	XLI<span class="size-11 color-green"> •︎ </span>промышленность
+	</div>	
+</div>
+</div>
+ <div class="clearfix"></div>
+  <div class="column-container mt30 text-center">
+<div class="w100r auto line-h26 size-14">  
+	<div class="column-3 weight-300">
+	XLV<span class="size-11 color-green"> •︎ </span>здравоохранение
+	</div>	
+	
+	<div class="column-3 weight-300">
+	SMH<span class="size-11 color-green"> •︎ </span>производители полупроводников
+	</div>
+	
+	<div class="column-3 weight-300">
+	</div>	
+</div>
+</div>
+ <div class="clearfix"></div>
+ <div class="column-container">
+<h3 class="text-center size-14 color-white mt30"><div class="w100r h50 line-h50 auto bg-green">сырье</div></h3>
+</div>
+<div class="column-container mt30 text-center">
+<div class="w100r auto line-h26 size-14">  
+	<div class="column-3 weight-300">
+	USO<span class="size-11 color-green"> •︎ </span>нефть WTI
+	</div>	
+	
+	<div class="column-3 weight-300">
+	GLD<span class="size-11 color-green"> •︎ </span>золото
+	</div>
+	
+	<div class="column-3 weight-300">
+	SLV<span class="size-11 color-green"> •︎ </span>серебро
+	</div>	
+</div>
+</div>
+ <div class="clearfix"></div>
+<div class="column-container">
+<h3 class="text-center size-14 color-white mt30"><div class="w100r h50 line-h50 auto bg-green">регионы</div></h3>
+</div>
+<div class="column-container mt30 text-center">
+<div class="w100r auto line-h26 size-14">  
+	<div class="column-3 weight-300">
+	EEM<span class="size-11 color-green"> •︎ </span>развивающиеся страны
+	</div>	
+	
+	<div class="column-3 weight-300">
+	FXI<span class="size-11 color-green"> •︎ </span>Китай
+	</div>
+	
+	<div class="column-3 weight-300">
+	EWZ<span class="size-11 color-green"> •︎ </span>Бразилия
+	</div>	
+</div>
+</div>
  <div class="clearfix"></div>
 <!--Table-->
 
 <!--Text-->
 <div class="column-container size-14 line-h26">
-	<h3 class="text-center bold mt60">Структура портфеля</h3>
+	<h3 class="text-center bold mt80">Структура портфеля</h3>
     <div class="column-2">
         <p class="mt70 ml07r mr10r size-14 weight-300"><span class="bold">В</span> рамках стратегии выбираются наиболее ликвидные фонды, дневной объем торгов акциями которых превышает 5 млн. акций в день. </p>
 		<p class="mt20 ml07r mr10r size-14 weight-300">Вместе с этим в портфель попадают лишь фонды, управляющие компании которых имеют под управлением не менее 15 инвестиционных фондов. </p>

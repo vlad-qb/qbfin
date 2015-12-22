@@ -776,6 +776,25 @@
     background: url(/img/bg/weighted-currency-portfolio-2.jpg);
 }
 
+/* conservative-portfolio.html */
+.img-conservative-portfolio-1{
+    background: url(/img/bg/conservative-portfolio-1.jpeg);
+}
+.img-conservative-portfolio-2{
+    background: url(/img/bg/conservative-portfolio-2.jpeg);
+}
+.img-conservative-portfolio-3{
+    background: url(/img/bg/conservative-portfolio-3.jpg);
+}
+
+/* bond-option-portfolio.html */
+.img-bond-option-portfolio-1{
+    background: url(/img/bg/bond-option-portfolio-1.jpeg);
+}
+.img-bond-option-portfolio-2{
+    background: url(/img/bg/bond-option-portfolio-2.jpg);
+}
+
 /* team-frolov.html */
 .img-team-frolov-1{
     background: url(/img/bg/team-frolov-1.jpeg);
@@ -850,12 +869,4 @@
 }
 .img-team-kipa-3{
     background: url(/img/bg/team-kipa-3.png);
-}
-
-/* bond-option-portfolio.html */
-.img-bond-option-portfolio-1{
-    background: url(/img/bg/bond-option-portfolio-1.jpeg);
-}
-.img-bond-option-portfolio-2{
-    background: url(/img/bg/bond-option-portfolio-2.jpeg);
 }
