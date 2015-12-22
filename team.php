@@ -140,7 +140,7 @@
       </div>
 	  <h4 class="size-12 text-center uppercase line-h26 mt15 color-teal">Владимир Фролов</h4>
 	  <h4 class="size-12 text-center uppercase line-h26">Генеральный директор</h4>
-	  <h2 class="text-center mt5"><img class="icon icon-mini" src="img/icons/icon-mail.svg"> &nbsp &nbsp <a href="#"><img class="icon icon-mini" src="img/icons/arrow-right.svg"></a></h2>
+	  <h2 class="text-center mt5"><img class="icon icon-mini" src="img/icons/icon-mail.svg"> &nbsp &nbsp <a href="/team-frolov.php"><img class="icon icon-mini" src="img/icons/arrow-right.svg"></a></h2>
 	</div>
   </div>
   <div class="column-3 w28r ml05r mb30 border-grey-top">
@@ -149,7 +149,7 @@
       </div>
 	  <h4 class="size-12 text-center uppercase line-h26 mt15 color-teal">РОМАН ШПАКОВ</h4>
 	  <h4 class="size-12 text-center uppercase line-h26">Председатель Совета директоров</h4>
-	  <h2 class="text-center mt5"><img class="icon icon-mini" src="img/icons/icon-mail.svg"> &nbsp &nbsp <a href="#"><img class="icon icon-mini" src="img/icons/arrow-right.svg"></a></h2>
+	  <h2 class="text-center mt5"><img class="icon icon-mini" src="img/icons/icon-mail.svg"> &nbsp &nbsp <a href="/team-shpakov.php"><img class="icon icon-mini" src="img/icons/arrow-right.svg"></a></h2>
 	</div>
   </div>
   <div class="column-3 w28r ml05r mb30 border-grey-top">
@@ -158,7 +158,7 @@
       </div>
 	  <h4 class="size-12 text-center uppercase line-h26 mt15 color-teal">ВЛАДИМИР ПАХОМОВ</h4>
 	  <h4 class="size-12 text-center uppercase line-h26">Директор филиальной сети</h4>
-	  <h2 class="text-center mt5"><img class="icon icon-mini" src="img/icons/icon-mail.svg"> &nbsp &nbsp <a href="#"><img class="icon icon-mini" src="img/icons/arrow-right.svg"></a></h2>
+	  <h2 class="text-center mt5"><img class="icon icon-mini" src="img/icons/icon-mail.svg"> &nbsp &nbsp <a href="/team-pahomov.php"><img class="icon icon-mini" src="img/icons/arrow-right.svg"></a></h2>
 	</div>
   </div>
   <div class="clearfix"></div>
@@ -169,7 +169,7 @@
       </div>
 	  <h4 class="size-12 text-center uppercase line-h26 mt15 color-teal">ЗЕЛИМХАН МУНАЕВ</h4>
 	  <h4 class="size-12 text-center uppercase line-h26">Директор департамента продаж</h4>
-	  <h2 class="text-center mt5"><img class="icon icon-mini" src="img/icons/icon-mail.svg"> &nbsp &nbsp <a href="#"><img class="icon icon-mini" src="img/icons/arrow-right.svg"></a></h2>
+	  <h2 class="text-center mt5"><img class="icon icon-mini" src="img/icons/icon-mail.svg"> &nbsp &nbsp <a href="/team-munaev.php"><img class="icon icon-mini" src="img/icons/arrow-right.svg"></a></h2>
 	</div>
   </div>
   <div class="column-3 w28r ml05r mb30 border-grey-top">
@@ -178,7 +178,7 @@
       </div>
 	  <h4 class="size-12 text-center uppercase line-h26 mt15 color-teal">МАРГО ГОРШЕНЕВА</h4>
 	  <h4 class="size-12 text-center uppercase line-h26">Директор по развитию</h4>
-	  <h2 class="text-center mt5"><img class="icon icon-mini" src="img/icons/icon-mail.svg"> &nbsp &nbsp <a href="#"><img class="icon icon-mini" src="img/icons/arrow-right.svg"></a></h2>
+	  <h2 class="text-center mt5"><img class="icon icon-mini" src="img/icons/icon-mail.svg"> &nbsp &nbsp <a href="/team-gorsheneva.php"><img class="icon icon-mini" src="img/icons/arrow-right.svg"></a></h2>
 	</div>
   </div>
   <div class="column-3 w28r ml05r mb30 border-grey-top">
@@ -187,7 +187,7 @@
       </div>
 	  <h4 class="size-12 text-center uppercase line-h26 mt15 color-teal">НИКОЛАЙ МИХАЙЛОВ</h4>
 	  <h4 class="size-12 text-center uppercase line-h26">Директор департамента корпоративных финансов</h4>
-	  <h2 class="text-center mt5"><img class="icon icon-mini" src="img/icons/icon-mail.svg"> &nbsp &nbsp <a href="#"><img class="icon icon-mini" src="img/icons/arrow-right.svg"></a></h2>
+	  <h2 class="text-center mt5"><img class="icon icon-mini" src="img/icons/icon-mail.svg"> &nbsp &nbsp <a href="/team-michailov.php"><img class="icon icon-mini" src="img/icons/arrow-right.svg"></a></h2>
 	</div>
   </div>
   <div class="clearfix"></div>
@@ -197,7 +197,7 @@
       </div>
 	  <h4 class="size-12 text-center uppercase line-h26 mt15 color-teal">НИКИТА СЕЛИВАНОВ</h4>
 	  <h4 class="size-12 text-center uppercase line-h26">Руководитель департамента международного трейдинга</h4>
-	  <h2 class="text-center mt5"><img class="icon icon-mini" src="img/icons/icon-mail.svg"> &nbsp &nbsp <a href="#"><img class="icon icon-mini" src="img/icons/arrow-right.svg"></a></h2>
+	  <h2 class="text-center mt5"><img class="icon icon-mini" src="img/icons/icon-mail.svg"> &nbsp &nbsp <a href="/team-selivanov.php"><img class="icon icon-mini" src="img/icons/arrow-right.svg"></a></h2>
 	</div>
   </div>
   <div class="column-3 w28r ml05r mb30 border-grey-top">
@@ -206,7 +206,7 @@
       </div>
 	  <h4 class="size-12 text-center uppercase line-h26 mt15 color-teal">ДМИТРИЙ КИПА</h4>
 	  <h4 class="size-12 text-center uppercase line-h26">Руководитель аналитического департамента</h4>
-	  <h2 class="text-center mt5"><img class="icon icon-mini" src="img/icons/icon-mail.svg"> &nbsp &nbsp <a href="#"><img class="icon icon-mini" src="img/icons/arrow-right.svg"></a></h2>
+	  <h2 class="text-center mt5"><img class="icon icon-mini" src="img/icons/icon-mail.svg"> &nbsp &nbsp <a href="/team-kipa.php"><img class="icon icon-mini" src="img/icons/arrow-right.svg"></a></h2>
 	</div>
   </div>
   <div class="clearfix"></div>

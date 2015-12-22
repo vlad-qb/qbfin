@@ -44,6 +44,7 @@
 .w35r{width:35%;}
 .w50r{width:50%;}
 .w60r{width:60%;}
+.w65r{width:65%;}
 .w70r{width:70%;}
 .w75r{width:75%;}
 .w80r{width:80%;}
@@ -85,6 +86,7 @@
 .h330{height:330px;}
 .h350{height:350px;}
 .h400{height:400px;}
+.h450{height:450px;}
 .h480{height:480px;}
 .h427{height:427px;}
 .h500{height:500px;}
@@ -131,6 +133,8 @@
 .mb02r{margin-bottom:2%;}
 .mt04r{margin-top:4%;}
 .mb04r{margin-bottom:4%;}
+.mt05r{margin-top:5%;}
+.mb05r{margin-bottom:5%;}
 .mt06r{margin-top:6%;}
 .mb06r{margin-bottom:6%;}
 .mt08r{margin-top:8%;}
@@ -295,6 +299,10 @@
 .pb05r{padding-bottom: 5%}
 .pt06r{padding-top:6%;}
 .pb06r{padding-bottom: 6%;}
+.pt40r{padding-top: 40%}
+.pb40r{padding-bottom: 40%}
+.pt50r{padding-top: 50%}
+.pb50r{padding-bottom: 50%}
 .pt60r{padding-top: 60%}
 .pb60r{padding-bottom: 60%}
 
@@ -320,11 +328,11 @@
     padding-right: 2%;
     padding-top: 2%;
 }
-.content-margin{
-    margin-top:-35px;
-}
-@media screen and (min-width: 1200px) {
 
+@media screen and (min-width: 1200px) {
+    .content-margin{
+        margin-top:-35px;
+    }
 }
 
 @media screen and (max-width: 768px) {
