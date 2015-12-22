@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>QBF ||| investment - архив : события - 5</title>
+    <title>QBF ||| investment - архив : компания в СМИ - 2</title>
     <link href="/css/reset.css" rel="stylesheet">
     <link href="/css/grid.css" rel="stylesheet">
     <link href="/css/typo.css" rel="stylesheet">
@@ -97,9 +97,9 @@
     </div>
     <div class="column-2">
       <div class="column-offset" style="background:white;height:30px;margin-top:0;">
-        <h2 class="size-18 color-teal uppercase text-center line-h110">АРХИВ : СОБЫТИЯ 2015</h2>
+        <h2 class="size-18 color-teal uppercase text-center line-h110">АРХИВ : КОМПАНИЯ В СМИ</h2>
         <p class="size-11 line-h20 ml40 mr40 text-justify">
-          <span class="bold"> ВЫСОКОКВАЛИФИЦИРОВАННАЯ КОМАНДА МЕНЕДЖЕРОВ И ПОРТФЕЛЬНЫХ УПРАВЛЯЮЩИХ, ИМЕЮЩАЯ ЗНАЧИТЕЛЬНЫЙ ОПЫТ РАБОТЫ НА РЫНКЕ ЦЕННЫХ БУМАГ.</span>
+          <span class="bold">ЭКСПЕРТЫ И АНАЛИТИКИ</span> <span class="color-teal weight-300">QBF ||| investment</span> <span class="bold">КОММЕНТИРУЮТ В СМИ ТЕКУЩИЕ СОБЫТИЯ РОССИЙСКОЙ И МЕЖДУНАРОДНОЙ ЭКОНОМИКИ.</span>
         </p>
         <div class="w70r mt50 text-center auto">
           <p class="w20r ml025r mr025r l auto">
@@ -117,7 +117,7 @@
         </div>
 		
 		<div class="column mt40">
-		<h3 class="text-center size-18"><div class="w288 h40 line-h40 auto bg-white weight-300"><a href="/archive-reviews-2015.php" class="color-teal gray-hover">2015</a> <span class="color-whitesmoke size-11">•︎</span> <a href="/archive-reviews-2014.php" class="gray-hover">2014</a> <span class="color-whitesmoke size-11">•︎</span> <a href="/archive-reviews-2014.php" class="gray-hover">2013</a> <span class="color-whitesmoke size-11">•︎</span> <a href="/archive-reviews-2014.php" class="gray-hover">2012</a> <span class="color-whitesmoke size-11">•︎</span> <a href="/archive-reviews-2014.php" class="gray-hover">2011</a></div></h3>
+		<h3 class="text-center size-18"><div class="w288 h40 line-h40 auto bg-white weight-300"><a href="/archive-press-company-2.php" class="color-teal gray-hover">2 0 1 5</a> <span class="color-whitesmoke size-12">•︎</span> <a href="/archive-press-company-1.php" class="gray-hover">2 0 1 4</a></div></h3>
 		</div>
 		
         <div class="clearfix"></div>
@@ -372,7 +372,7 @@
 </div>
 
 <div class="gallery-offset w85r auto mt50">
-<h3 class="text-center size-18"><div class="w288 h40 line-h40 auto bg-white weight-300"><a href="/archive-reviews-2015.php" class="color-teal gray-hover">2015</a> <span class="color-whitesmoke size-11">•︎</span> <a href="/archive-reviews-2014.php" class="gray-hover">2014</a> <span class="color-whitesmoke size-11">•︎</span> <a href="/archive-reviews-2014.php" class="gray-hover">2013</a> <span class="color-whitesmoke size-11">•︎</span> <a href="/archive-reviews-2014.php" class="gray-hover">2012</a> <span class="color-whitesmoke size-11">•︎</span> <a href="/archive-reviews-2014.php" class="gray-hover">2011</a></div></h3>
+<h3 class="text-center size-18"><div class="w288 h40 line-h40 auto bg-white weight-300"><a href="/archive-press-company-2.php" class="color-teal gray-hover">2 0 1 5</a> <span class="color-whitesmoke size-12">•︎</span> <a href="/archive-press-company-1.php" class="gray-hover">2 0 1 4</a></div></h3>
 <div class="title-line-gray2"></div>
 </div>
 
@@ -380,7 +380,7 @@
 <div class="w100r">
       <div class="text-center mt80">
         <img src="img/icons/icon-lighthouse.svg" class="icon icon-main"><br>
-        <a href="/news.php"><span class="size-14">< </span></a><a href="/news.php" class="size-12 line-h40 uppercase">Новости</a> <span class="color-teal size-10">•︎</span> <a href="/events.php" class="size-12 line-h40 uppercase">СОБЫТИЯ</a><a href="/events.php"><span class="size-14"> ></span>
+        <a href="/news.php"><span class="size-14">< </span></a><a href="/news.php" class="size-12 line-h40 uppercase">Новости</a> <span class="color-teal size-10">•︎</span> <a href="/press-company.php" class="size-12 line-h40 uppercase">КОМПАНИЯ В СМИ</a><a href="/press-company.php"><span class="size-14"> ></span>
       </div>	  
 </div>	  
 <div class="clearfix"></div>
