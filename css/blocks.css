@@ -291,6 +291,8 @@
 .pl100{padding-left: 100px;}
 .pr100{padding-right: 100px;}
 
+.pt01r{padding-top:1%;}
+.pb01r{padding-bottom: 1%;}
 .pt02r{padding-top:2%;}
 .pb02r{padding-bottom: 2%;}
 .pt03r{padding-top: 3%}
@@ -301,6 +303,8 @@
 .pb05r{padding-bottom: 5%}
 .pt06r{padding-top:6%;}
 .pb06r{padding-bottom: 6%;}
+.pt07r{padding-top:7%;}
+.pb07r{padding-bottom: 7%;}
 .pt08r{padding-top:8%;}
 .pb08r{padding-bottom: 8%;}
 .pt10r{padding-top:10%;}
