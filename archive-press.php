@@ -99,7 +99,7 @@
       <div class="column-offset h30 bg-white" style="margin-top:0;">
         <h2 class="size-18 color-teal uppercase text-center line-h110">АРХИВ : ПРЕССА О НАС</h2>
         <p class="size-12 line-h20 ml40 mr40">
-         <span class="bold gray-hover">ВЫСОКОКВАЛИФИЦИРОВАННАЯ КОМАНДА МЕНЕДЖЕРОВ И ПОРТФЕЛЬНЫХ УПРАВЛЯЮЩИХ, ИМЕЮЩАЯ ЗНАЧИТЕЛЬНЫЙ ОПЫТ РАБОТЫ НА РЫНКЕ ЦЕННЫХ БУМАГ.</span>
+          <span class="bold gray-hover">ВЫСОКОКВАЛИФИЦИРОВАННАЯ КОМАНДА МЕНЕДЖЕРОВ И ПОРТФЕЛЬНЫХ УПРАВЛЯЮЩИХ, ИМЕЮЩАЯ ЗНАЧИТЕЛЬНЫЙ ОПЫТ РАБОТЫ НА РЫНКЕ ЦЕННЫХ БУМАГ.</span>
         </p>
         <div class="w70r mt50 text-center auto">
           <p class="w20r ml025r mr025r l auto">
@@ -123,63 +123,57 @@
   <!-- CONTENT -->
   
   <div class="column-container mt60">
-  <div class="column-2 mt50">
-    <div class="gallery-offset w80r line-h24 size-14 ml10r">
-		<p><span class="bold">В</span> конце марта в Москве прошел форум недвижимости, на котором ведущие девелоперы страны обсудили сложившиеся тенденции развития рынка недвижимости. Общий взгляд на проблему сформировали представители QB Finance и QBF Asset Management. В современной экономической ситуации застройщики все чаще задумываются, как оптимизировать расходы, когда покупатель даже в сегменте экономкласса достаточно требователен.</p>
-
-		<p class="mt15">Сейчас среди основных критериев покупки жилья выделяют: достроенную недвижимость; полную отделку квартиры; продуманную инфраструктуру дома - некий «город в городе», в котором большое внимание уделяется улучшению жизни детей; высокое качество постройки; поддержку властей; привлекательные цены в рублях.</p>
+    <div class="column-2 mt50">
+      <div class="gallery-offset w80r line-h24 size-14 ml10r">
+        <p><span class="bold">В</span> конце марта в Москве прошел форум недвижимости, на котором ведущие девелоперы страны обсудили сложившиеся тенденции развития рынка недвижимости. Общий взгляд на проблему сформировали представители QB Finance и QBF Asset Management. В современной экономической ситуации застройщики все чаще задумываются, как оптимизировать расходы, когда покупатель даже в сегменте экономкласса достаточно требователен.</p>
+        <p class="mt15">Сейчас среди основных критериев покупки жилья выделяют: достроенную недвижимость; полную отделку квартиры; продуманную инфраструктуру дома - некий «город в городе», в котором большое внимание уделяется улучшению жизни детей; высокое качество постройки; поддержку властей; привлекательные цены в рублях.</p>
+      </div>
     </div>
+    <div class="column-2 mt50">
+      <div class="gallery-offset w80r line-h24 size-14 ml10r">
+        <p>Группа компаний QBF предлагает стать пайщиком перспективного жилого комплекса комфорткласса «Грибовский Лес», который уже в ближайшее время будет иметь большой спрос у покупателей.</p>
+        <p class="mt15">Малоэтажный комплекс с развитой инфраструктурой, расположенный в зеленой части города Одинцово, не оставит равнодушными ценителей комфорта и покоя. А спрос на жилье представленного проекта принесет пайщикам QBF доходность до 60%. <span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span></p>
+        <p class="mt15">Подробнее: <a href="http://www.qbfin.ru/real-estate-gribovsky-les.html" class="weight-300">http://www.qbfin.ru/real-estate-gribovsky-les.html</a></p>
+        
+      </div>
+    </div>
+    <div class="clearfix"></div>
   </div>
-  <div class="column-2 mt50">
-    <div class="gallery-offset w80r line-h24 size-14 ml10r">
-		<p>Группа компаний QBF предлагает стать пайщиком перспективного жилого комплекса комфорткласса «Грибовский Лес», который уже в ближайшее время будет иметь большой спрос у покупателей.</p>
-
-		<p class="mt15">Малоэтажный комплекс с развитой инфраструктурой, расположенный в зеленой части города Одинцово, не оставит равнодушными ценителей комфорта и покоя. А спрос на жилье представленного проекта принесет пайщикам QBF доходность до 60%. <span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span></p>
-
-		<p class="mt15">Подробнее: <a href="http://www.qbfin.ru/real-estate-gribovsky-les.html" class="weight-300">http://www.qbfin.ru/real-estate-gribovsky-les.html</a></p>
-		
+  
+  <div class="text-center mt70"><img class="icon icon-contacts" src="img/icons/icon-earth.svg"></div>
+  <!-- CONTENT -->
+  <div class="column-container mt-35 border-grey-top">
+    <div class="column-2 mt50">
+      <div class="gallery-offset w85r line-h24 size-14 ml05r mr20r">
+        <h4 class="size-14 ml05r weight-300"><span class="color-teal weight-300">14.07.2015</span> <span class="size-11 color-lightgray"> •︎ </span><a href="/markets-review-15-08-2015.php">Обзор QB Finance (TrueInvestor)</a></h4>
+        <h4 class="size-14 ml05r mt30 weight-300"><span class="color-teal weight-300">14.05.2015</span> <span class="size-11 color-lightgray"> •︎ </span><a href="/markets-review-15-08-2015.php">Премии «Investor Awards» 2015 (InvestorAwards)</a></h4>
+        <h4 class="size-14 ml05r mt30 weight-300"><span class="color-teal weight-300">04.12.2014</span> <span class="size-11 color-lightgray"> •︎ </span><a href="/markets-review-15-08-2015.php">QB Finance получил Премию (PBWM)</a></h4>
+        <h4 class="size-14 ml05r mt30 weight-300"><span class="color-teal weight-300">04.12.2014</span> <span class="size-11 color-lightgray"> •︎ </span><a href="/markets-review-15-08-2015.php">ООО "Кьюби Финанс" вступило в НАУФОР (НАУФОР)</a></h4>
+        <h4 class="size-14 ml05r mt30 weight-300"><span class="color-teal weight-300">01.04.2013</span> <span class="size-11 color-lightgray"> •︎ </span><a href="/markets-review-15-08-2015.php">Светская неделя: Сергей Минаев и QB Finance (FinParty)</a></h4>
+      </div>
+    </div>
+    <div class="column-2 mt50">
+      <div class="gallery-offset w85r line-h24 size-14 ml05r mr20r">
+        <h4 class="size-14 ml05r weight-300"><span class="color-teal weight-300">05.12.2013</span> <span class="size-11 color-lightgray"> •︎ </span><a href="/markets-review-15-08-2015.php">QB Finance выиграла «Старт года» (PBWM)</a></h4>
+        <h4 class="size-14 ml05r mt30 weight-300"><span class="color-teal weight-300">18.07.2013</span> <span class="size-11 color-lightgray"> •︎ </span><a href="/markets-review-15-08-2015.php">Apex Capital Partners Corp. объявляет о сотрудничестве с QB Finance (HublisherNews.Ru)</a></h4>
+        <h4 class="size-14 ml05r mt30 weight-300"><span class="color-teal weight-300">04.03.2013</span> <span class="size-11 color-lightgray"> •︎ </span><a href="/markets-review-15-08-2015.php">Рейтинг работодателей-2012 (Вести.RU)</a></h4>
+        <h4 class="size-14 ml05r mt30 weight-300"><span class="color-teal weight-300">07.08.2012</span> <span class="size-11 color-lightgray"> •︎ </span><a href="/markets-review-15-08-2015.php">В рамках конкурса "Регионы - устойчивое развитие" отобраны победители (Трибуна)</a></h4>
+      </div>
     </div>
   </div>
   <div class="clearfix"></div>
 </div>
- 
-
-  <div class="text-center mt70"><img class="icon icon-contacts" src="img/icons/icon-earth.svg"></div> 
-  <!-- CONTENT -->
-  <div class="column-container mt-35 border-grey-top">
-  <div class="column-2 mt50">
-  <div class="gallery-offset w85r line-h24 size-14 ml05r mr20r">
-		<h4 class="size-14 ml05r weight-300"><span class="color-teal weight-300">14.07.2015</span> <span class="size-11 color-lightgray"> •︎ </span><a href="/markets-review-15-08-2015.php">Обзор QB Finance (TrueInvestor)</a></h4>
-		<h4 class="size-14 ml05r mt30 weight-300"><span class="color-teal weight-300">14.05.2015</span> <span class="size-11 color-lightgray"> •︎ </span><a href="/markets-review-15-08-2015.php">Премии «Investor Awards» 2015 (InvestorAwards)</a></h4>
-		<h4 class="size-14 ml05r mt30 weight-300"><span class="color-teal weight-300">04.12.2014</span> <span class="size-11 color-lightgray"> •︎ </span><a href="/markets-review-15-08-2015.php">QB Finance получил Премию (PBWM)</a></h4>
-		<h4 class="size-14 ml05r mt30 weight-300"><span class="color-teal weight-300">04.12.2014</span> <span class="size-11 color-lightgray"> •︎ </span><a href="/markets-review-15-08-2015.php">ООО "Кьюби Финанс" вступило в НАУФОР (НАУФОР)</a></h4>
-		<h4 class="size-14 ml05r mt30 weight-300"><span class="color-teal weight-300">01.04.2013</span> <span class="size-11 color-lightgray"> •︎ </span><a href="/markets-review-15-08-2015.php">Светская неделя: Сергей Минаев и QB Finance (FinParty)</a></h4>
-    </div>
+<!-- /CONTENT -->
+<div class="clearfix"></div>
+<div class="w90r auto mb50">
+  <div class="text-center mt60">
+    <img src="img/icons/icon-lighthouse.svg" class="icon icon-main"><br>
+    <a href="/events.php"><span class="size-14">< </span></a><a href="/events.php" class="size-12 line-h40 uppercase">СОБЫТИЯ</a> <span class="color-teal size-10">•︎</span> <a href="/archive-events-2015.php" class="size-12 line-h40 uppercase">АРХИВ: СОБЫТИЯ</a><a href="/archive-events-2015.php"><span class="size-14"> ></span>
   </div>
-  <div class="column-2 mt50">
-  <div class="gallery-offset w85r line-h24 size-14 ml05r mr20r">
-		<h4 class="size-14 ml05r weight-300"><span class="color-teal weight-300">05.12.2013</span> <span class="size-11 color-lightgray"> •︎ </span><a href="/markets-review-15-08-2015.php">QB Finance выиграла «Старт года» (PBWM)</a></h4>
-		<h4 class="size-14 ml05r mt30 weight-300"><span class="color-teal weight-300">18.07.2013</span> <span class="size-11 color-lightgray"> •︎ </span><a href="/markets-review-15-08-2015.php">Apex Capital Partners Corp. объявляет о сотрудничестве с QB Finance (HublisherNews.Ru)</a></h4>
-		<h4 class="size-14 ml05r mt30 weight-300"><span class="color-teal weight-300">04.03.2013</span> <span class="size-11 color-lightgray"> •︎ </span><a href="/markets-review-15-08-2015.php">Рейтинг работодателей-2012 (Вести.RU)</a></h4>
-		<h4 class="size-14 ml05r mt30 weight-300"><span class="color-teal weight-300">07.08.2012</span> <span class="size-11 color-lightgray"> •︎ </span><a href="/markets-review-15-08-2015.php">В рамках конкурса "Регионы - устойчивое развитие" отобраны победители (Трибуна)</a></h4>
-    </div>
-  </div>
-  </div>
-  <div class="clearfix"></div>
-  </div>
-  <!-- /CONTENT -->   
-
-  <div class="clearfix"></div>
-  <div class="w90r auto mb50">
-        <div class="text-center mt60">
-          <img src="img/icons/icon-lighthouse.svg" class="icon icon-main"><br>
-          <a href="/events.php"><span class="size-14">< </span></a><a href="/events.php" class="size-12 line-h40 uppercase">СОБЫТИЯ</a> <span class="color-teal size-10">•︎</span> <a href="/archive-events-2015.php" class="size-12 line-h40 uppercase">АРХИВ: СОБЫТИЯ</a><a href="/archive-events-2015.php"><span class="size-14"> ></span>
-        </div>    
-  </div>    
-  <div class="clearfix"></div>
-
-  <?php include 'html/footer.html';?>
-  <script src="/js/jquery.min.js"></script>
-  <script src="/js/main.js"></script>
+</div>
+<div class="clearfix"></div>
+<?php include 'html/footer.html';?>
+<script src="/js/jquery.min.js"></script>
+<script src="/js/main.js"></script>
 </body>
 </html>

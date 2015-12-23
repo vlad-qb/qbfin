@@ -123,38 +123,34 @@
   <!-- CONTENT -->
   
   <div class="column-container mt60">
-  <div class="column-2 mt50">
-    <div class="gallery-offset w80r line-h24 size-14 ml10r">
-		<p><span class="bold">В</span> конце марта в Москве прошел форум недвижимости, на котором ведущие девелоперы страны обсудили сложившиеся тенденции развития рынка недвижимости. Общий взгляд на проблему сформировали представители QB Finance и QBF Asset Management. В современной экономической ситуации застройщики все чаще задумываются, как оптимизировать расходы, когда покупатель даже в сегменте экономкласса достаточно требователен.</p>
-
-		<p class="mt15">Сейчас среди основных критериев покупки жилья выделяют: достроенную недвижимость; полную отделку квартиры; продуманную инфраструктуру дома - некий «город в городе», в котором большое внимание уделяется улучшению жизни детей; высокое качество постройки; поддержку властей; привлекательные цены в рублях.</p>
+    <div class="column-2 mt50">
+      <div class="gallery-offset w80r line-h24 size-14 ml10r">
+        <p><span class="bold">В</span> конце марта в Москве прошел форум недвижимости, на котором ведущие девелоперы страны обсудили сложившиеся тенденции развития рынка недвижимости. Общий взгляд на проблему сформировали представители QB Finance и QBF Asset Management. В современной экономической ситуации застройщики все чаще задумываются, как оптимизировать расходы, когда покупатель даже в сегменте экономкласса достаточно требователен.</p>
+        <p class="mt15">Сейчас среди основных критериев покупки жилья выделяют: достроенную недвижимость; полную отделку квартиры; продуманную инфраструктуру дома - некий «город в городе», в котором большое внимание уделяется улучшению жизни детей; высокое качество постройки; поддержку властей; привлекательные цены в рублях.</p>
+      </div>
     </div>
-  </div>
-  <div class="column-2 mt50">
-    <div class="gallery-offset w80r line-h24 size-14 ml10r">
-		<p>Группа компаний QBF предлагает стать пайщиком перспективного жилого комплекса комфорткласса «Грибовский Лес», который уже в ближайшее время будет иметь большой спрос у покупателей.</p>
-
-		<p class="mt15">Малоэтажный комплекс с развитой инфраструктурой, расположенный в зеленой части города Одинцово, не оставит равнодушными ценителей комфорта и покоя. А спрос на жилье представленного проекта принесет пайщикам QBF доходность до 60%. <span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span></p>
-
-		<p class="mt15">Подробнее: <a href="http://www.qbfin.ru/real-estate-gribovsky-les.html" class="weight-300">http://www.qbfin.ru/real-estate-gribovsky-les.html</a></p>
-		
+    <div class="column-2 mt50">
+      <div class="gallery-offset w80r line-h24 size-14 ml10r">
+        <p>Группа компаний QBF предлагает стать пайщиком перспективного жилого комплекса комфорткласса «Грибовский Лес», который уже в ближайшее время будет иметь большой спрос у покупателей.</p>
+        <p class="mt15">Малоэтажный комплекс с развитой инфраструктурой, расположенный в зеленой части города Одинцово, не оставит равнодушными ценителей комфорта и покоя. А спрос на жилье представленного проекта принесет пайщикам QBF доходность до 60%. <span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span></p>
+        <p class="mt15">Подробнее: <a href="http://www.qbfin.ru/real-estate-gribovsky-les.html" class="weight-300">http://www.qbfin.ru/real-estate-gribovsky-les.html</a></p>
+        
+      </div>
     </div>
+    <div class="clearfix"></div>
   </div>
-  <div class="clearfix"></div>
-</div>
- 
-
-  <div class="text-center mt70"><img class="icon icon-contacts" src="img/icons/icon-earth.svg"></div> 
+  
+  <div class="text-center mt70"><img class="icon icon-contacts" src="img/icons/icon-earth.svg"></div>
   <!-- CONTENT -->
   <div class="column-container mt-35">
-  <div class="column-2">
+    <div class="column-2">
       <div class="gallery-offset w95r ml05r border-grey-top">
         <div class="w100r h230 overflow-hidden">
           <h2 class="size-12 uppercase line-h30 ml30 mt80 h80"><span class="color-teal">Обзоры</span>
-           &nbsp <a href="/reviews-1.php" class="gray-hover">СКОЛЬКО ДЕНЕГ ПРИДЕТСЯ НАПЕЧАТАТЬ ЕВРОПЕЙСКОМУ ЦБ, ЧТОБЫ ВОЗРОДИТЬ ЕВРОПЕЙСКУЮ ЭКОНОМИКУ</a> &nbsp <span class="color-teal">></span></h2>
-		   
-		   <h2 class="size-12 uppercase line-h30 ml30"><span class="color-teal">ПРЕССА О НАС</span>
-           &nbsp <a href="/press-about-us.php" class="gray-hover">ПРЕМИИ «INVESTOR AWARDS» 2015 (INVESTORAWARDS)</a> &nbsp <span class="color-teal">></span></h2>
+          &nbsp <a href="/reviews-1.php" class="gray-hover">СКОЛЬКО ДЕНЕГ ПРИДЕТСЯ НАПЕЧАТАТЬ ЕВРОПЕЙСКОМУ ЦБ, ЧТОБЫ ВОЗРОДИТЬ ЕВРОПЕЙСКУЮ ЭКОНОМИКУ</a> &nbsp <span class="color-teal">></span></h2>
+          
+          <h2 class="size-12 uppercase line-h30 ml30"><span class="color-teal">ПРЕССА О НАС</span>
+          &nbsp <a href="/press-about-us.php" class="gray-hover">ПРЕМИИ «INVESTOR AWARDS» 2015 (INVESTORAWARDS)</a> &nbsp <span class="color-teal">></span></h2>
         </div>
       </div>
     </div>
@@ -162,25 +158,23 @@
       <div class="gallery-offset w95r mr05r border-grey-top">
         <div class="w100r h230 overflow-hidden">
           <h2 class="size-12 uppercase line-h30 ml50 mt80 h80"><span class="color-teal">ЭКСПЕРТ</span>
-           &nbsp <a href="/expert.php" class="gray-hover">ЖИЗНЬ ПОСЛЕ ДЕОФШОРИЗАЦИИ - ПРОЕКТ: SPEAR'S RUSSIA</a> &nbsp <span class="color-teal">></span></h2>
-		   
-		   <h2 class="size-12 uppercase line-h30 ml50"><span class="color-teal">АКЦИИ</span>
-           &nbsp <a href="/shares.php" class="gray-hover">ОБЗОР КОМПАНИИ ALIBABA GROUP</a> &nbsp <span class="color-teal">></span></h2>
+          &nbsp <a href="/expert.php" class="gray-hover">ЖИЗНЬ ПОСЛЕ ДЕОФШОРИЗАЦИИ - ПРОЕКТ: SPEAR'S RUSSIA</a> &nbsp <span class="color-teal">></span></h2>
+          
+          <h2 class="size-12 uppercase line-h30 ml50"><span class="color-teal">АКЦИИ</span>
+          &nbsp <a href="/shares.php" class="gray-hover">ОБЗОР КОМПАНИИ ALIBABA GROUP</a> &nbsp <span class="color-teal">></span></h2>
         </div>
       </div>
     </div>
   </div>
-  <!-- /CONTENT -->   
-
+  <!-- /CONTENT -->
   <div class="clearfix"></div>
   <div class="w90r border-grey-top auto mb50">
-        <div class="text-center mt40">
-          <img src="img/icons/icon-lighthouse.svg" class="icon icon-main"><br>
-          <a href="/events.php"><span class="size-14">< </span></a><a href="/events.php" class="size-12 line-h40 uppercase">СОБЫТИЯ</a> <span class="color-teal size-10">•︎</span> <a href="/archive-events-2015.php" class="size-12 line-h40 uppercase">АРХИВ: СОБЫТИЯ</a><a href="/archive-events-2015.php"><span class="size-14"> ></span>
-        </div>    
-  </div>    
+    <div class="text-center mt40">
+      <img src="img/icons/icon-lighthouse.svg" class="icon icon-main"><br>
+      <a href="/events.php"><span class="size-14">< </span></a><a href="/events.php" class="size-12 line-h40 uppercase">СОБЫТИЯ</a> <span class="color-teal size-10">•︎</span> <a href="/archive-events-2015.php" class="size-12 line-h40 uppercase">АРХИВ: СОБЫТИЯ</a><a href="/archive-events-2015.php"><span class="size-14"> ></span>
+    </div>
+  </div>
   <div class="clearfix"></div>
-
   <?php include 'html/footer.html';?>
   <script src="/js/jquery.min.js"></script>
   <script src="/js/main.js"></script>

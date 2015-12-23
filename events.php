@@ -240,18 +240,17 @@
     </div>
     <div class="clearfix"></div>
   </div>
-
   <!-- /CONTENT -->
   <div class="clearfix"></div>
-        <div class="text-center mt70">
-        <a href="/archive-news.php" class="size-12 line-h30 uppercase">РАНЕЕ В РАЗДЕЛЕ: СОБЫТИЯ</a>
-          <div class="text-center size-18 line-h26 weight-300"><a href="/archive-events-5.php" class="color-teal gray-hover">2 0 1 5</a> <span class="color-whitesmoke">•︎</span> <a href="/archive-events-4.php" class="color-teal gray-hover">2 0 1 4</a> <span class="color-whitesmoke">•︎</span> <a href="/archive-events-3.php" class="color-teal gray-hover">2 0 1 3</a> <span class="color-whitesmoke">•︎</span> <a href="/archive-events-2.php" class="color-teal gray-hover">2 0 1 2</a> <span class="color-whitesmoke">•︎</span> <a href="/archive-events-1.php" class="color-teal gray-hover">2 0 1 1</a></div>
-        </div>
-  <div class="clearfix"></div> 
-  <div class="text-center mt70"><img class="icon icon-contacts" src="img/icons/icon-earth.svg"></div> 
+  <div class="text-center mt70">
+    <a href="/archive-news.php" class="size-12 line-h30 uppercase">РАНЕЕ В РАЗДЕЛЕ: СОБЫТИЯ</a>
+    <div class="text-center size-18 line-h26 weight-300"><a href="/archive-events-5.php" class="color-teal gray-hover">2 0 1 5</a> <span class="color-whitesmoke">•︎</span> <a href="/archive-events-4.php" class="color-teal gray-hover">2 0 1 4</a> <span class="color-whitesmoke">•︎</span> <a href="/archive-events-3.php" class="color-teal gray-hover">2 0 1 3</a> <span class="color-whitesmoke">•︎</span> <a href="/archive-events-2.php" class="color-teal gray-hover">2 0 1 2</a> <span class="color-whitesmoke">•︎</span> <a href="/archive-events-1.php" class="color-teal gray-hover">2 0 1 1</a></div>
+  </div>
+  <div class="clearfix"></div>
+  <div class="text-center mt70"><img class="icon icon-contacts" src="img/icons/icon-earth.svg"></div>
   <!-- CONTENT -->
   <div class="column-container mt-35">
-  <div class="column-2">
+    <div class="column-2">
       <div class="gallery-offset w95r ml05r border-grey-top">
         <div class="w100r h190 overflow-hidden">
           <h2 class="size-12 uppercase line-h60 mt50 color-teal text-center">ЗАКОНОДАТЕЛЬСТВО</h2>
@@ -268,17 +267,15 @@
       </div>
     </div>
   </div>
-  <!-- /CONTENT -->   
-
+  <!-- /CONTENT -->
   <div class="clearfix"></div>
   <div class="w90r border-grey-top auto mb50">
-        <div class="text-center mt40">
-          <img src="img/icons/icon-lighthouse.svg" class="icon icon-main"><br>
-          <a href="/news.php"><span class="size-14">< </span></a><a href="/news.php" class="size-12 line-h40 uppercase">НОВОСТИ</a> <span class="color-teal size-10">•︎</span> <a href="/archive-events-2015.php" class="size-12 line-h40 uppercase">АРХИВ: СОБЫТИЯ</a><a href="/archive-events-2015.php"><span class="size-14"> ></span>
-        </div>    
-  </div>    
+    <div class="text-center mt40">
+      <img src="img/icons/icon-lighthouse.svg" class="icon icon-main"><br>
+      <a href="/news.php"><span class="size-14">< </span></a><a href="/news.php" class="size-12 line-h40 uppercase">НОВОСТИ</a> <span class="color-teal size-10">•︎</span> <a href="/archive-events-2015.php" class="size-12 line-h40 uppercase">АРХИВ: СОБЫТИЯ</a><a href="/archive-events-2015.php"><span class="size-14"> ></span>
+    </div>
+  </div>
   <div class="clearfix"></div>
-
   <?php include 'html/footer.html';?>
   <script src="/js/jquery.min.js"></script>
   <script src="/js/main.js"></script>

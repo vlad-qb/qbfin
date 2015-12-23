@@ -182,19 +182,19 @@
     </div>
   </div>
   <!-- /CONTENT -->
-  <!-- FOOTER BLOCK -->
-  <div class="clearfix"></div>
-  <div class="text-center pt03r">
-    <img src="img/icons/icon-lighthouse.svg" class="icon icon-main">
-  </div>
-  <div class="text-center pt01r">
-    <span class="size-12 line-h40 uppercase"> < </span>
-    <a href="/company.php" class="size-12 line-h40 uppercase">Компания</a>
-    <span class="color-teal size-10"> • </span>
-    <a href="/documents.php" class="size-12 line-h40 uppercase">Документы</a>
-    <span class="size-12 line-h40 uppercase"> > </span>
-  </div>
-  <!-- /FOOTER BLOCK -->
+<!-- FOOTER BLOCK -->
+<div class="clearfix"></div>
+<div class="text-center pt03r">
+  <img src="img/icons/icon-lighthouse.svg" class="icon icon-main">
+</div>
+<div class="text-center pt01r">
+  <span class="size-12 line-h40 uppercase"> < </span>
+  <a href="/company.php" class="size-12 line-h40 uppercase">Компания</a>
+  <span class="color-teal size-10"> • </span>
+  <a href="/documents.php" class="size-12 line-h40 uppercase">Документы</a>
+  <span class="size-12 line-h40 uppercase"> > </span>
+</div>
+<!-- /FOOTER BLOCK -->
   <div class="clearfix"></div>
   <?php include 'html/footer.html';?>
   <script src="/js/jquery.min.js"></script>
