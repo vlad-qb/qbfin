@@ -177,7 +177,7 @@
 				<p class="size-12 color-white weight-300">ЦЕЛЕВАЯ ДОХОДНОСТЬ, $</p>
 				<p class="size-12 color-white weight-300">10-70%</p>
 				<div class="border-white2 auto w100 mt10 mb10"></div>
-				<p class="size-12 color-white weight-300">ВОЗНАГРАЖДЕНИЕ УПРАВЛЯЯЮЩЕГО</p>
+				<p class="size-12 color-white weight-300">ВОЗНАГРАЖДЕНИЕ УПРАВЛЯЮЩЕГО</p>
 				<p class="size-12 color-white weight-300">комиссия за успех: 30%</p>
             </div>
         </div>

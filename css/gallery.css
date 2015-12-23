@@ -795,6 +795,22 @@
     background: url(/img/bg/bond-option-portfolio-2.jpg);
 }
 
+/* bond-repo-portfolio.html */
+.img-bond-repo-portfolio-1{
+    background: url(/img/bg/bond-repo-portfolio-1.jpeg);
+}
+.img-bond-repo-portfolio-2{
+    background: url(/img/bg/bond-repo-portfolio-2.jpg);
+}
+
+/* structured-bond-portfolio.html */
+.img-structured-bond-portfolio-1{
+    background: url(/img/bg/structured-bond-portfolio-1.jpeg);
+}
+.img-structured-bond-portfolio-2{
+    background: url(/img/bg/structured-bond-portfolio-2.jpg);
+}
+
 /* team-frolov.html */
 .img-team-frolov-1{
     background: url(/img/bg/team-frolov-1.jpeg);
