@@ -377,6 +377,9 @@
     .column-3.content-margin{
         margin-top:0;
     }
+    .text-alert.text-offset{
+        width:100%;
+    }
 }
 
 @media screen and (max-width: 480px) {
@@ -395,6 +398,12 @@
     }
     .column-3.content-margin{
         margin-top:0;
+    }
+    .text-alert.text-offset{
+        width:100%;
+    }
+    .text-alert.text-offset p{
+        margin-left: 0;
     }
 }
 

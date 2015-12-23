@@ -24,7 +24,7 @@
     <?php include 'html/header.html';?>
     <!-- HEADBLOCK -->
     <div id="cover" 
-          class="img-mission-1 cover w100r h480 mt-80" 
+          class="img-mission-1 cover w100r h400 mt-80" 
           style="background-position: center bottom;">
       
     </div>
@@ -64,7 +64,7 @@
             </li>
           </ul>
           <div class="clearfix"></div>
-          <div class="size-14 color-teal line-h70 mt10">
+          <div class="size-14 color-teal line-h50 mt10">
             <span class="weight-300"> +7 (495) 123 45 67 </span> 
             <span class="color-grey1 ml005r mr005r"> ~ </span> 
             <span class="weight-300"> INVEST@QBFIN.RU </span>
