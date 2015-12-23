@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title> QBF ||| investment - официальный сайт </title>
+    <title> QBF ||| investment - лицензии </title>
     <link href="/css/reset.css" rel="stylesheet">
     <link href="/css/grid.css" rel="stylesheet">
     <link href="/css/typo.css" rel="stylesheet">
@@ -158,24 +158,24 @@
   <!-- /HEADBLOCK -->
   <div class="clearfix"></div>
   <!-- CONTENT -->
-  <div id="licenses" class="column-container text-center">
-    <div class="column-3 pt10r">
-      <div class="column-offset">
-        <img class="w280 h400 auto block" src="/img/resources/license-2.jpg">
+  <div id="licenses" class="column-container text-center pt07r">
+    <div class="column-3 mt10">
+      <div class="column-offset pt05r pb05r pr05r pl05r bg-lightgray">
+        <img class="w280 auto block" src="/img/resources/license-2.jpg">
         <h2 class="size-12 line-h40 uppercase"> лицензия: № 077-12805-100000 </h2>
         <h2 class="size-12 uppercase bold"> брокерская деятельность </h2>
       </div>
     </div>
-    <div class="column-3 pt10r">
-      <div class="column-offset">
-        <img class="w280 h400 auto block" src="/img/resources/license-2.jpg">
+    <div class="column-3 mt10">
+      <div class="column-offset pt05r pb05r pr05r pl05r bg-lightgray">
+        <img class="w280 auto block" src="/img/resources/license-2.jpg">
         <h2 class="size-12 line-h40 uppercase"> лицензия: № 077-12816-010000 </h2>
         <h2 class="size-12 uppercase bold"> дилерская деятельность </h2>
       </div>
     </div>
-    <div class="column-3 pt10r">
-      <div class="column-offset">
-        <img class="w280 h400 auto block" src="/img/resources/license-2.jpg">
+    <div class="column-3 mt10">
+      <div class="column-offset pt05r pb05r pr05r pl05r bg-lightgray">
+        <img class="w280 auto block" src="/img/resources/license-2.jpg">
         <h2 class="size-12 line-h40 uppercase"> лицензия: № 077-12828-001000 </h2>
         <h2 class="size-12 uppercase bold"> управление ценными бумагами </h2>
       </div>
@@ -184,13 +184,15 @@
   <!-- /CONTENT -->
   <!-- FOOTER BLOCK -->
   <div class="clearfix"></div>
-  <div class="w100r">
-    <div class="text-center mt80">
-      <img src="img/icons/icon-lighthouse.svg" class="icon icon-main"><br>
-      <a href="/company.php" class="size-12 line-h40 uppercase">Компания</a>
-      <span class="color-teal"> • </span>
-      <a href="/documents.php" class="size-12 line-h40 uppercase">Документы</a>
-    </div>    
+  <div class="text-center pt03r">
+    <img src="img/icons/icon-lighthouse.svg" class="icon icon-main">
+  </div>
+  <div class="text-center pt01r">
+    <span class="size-12 line-h40 uppercase"> < </span>
+    <a href="/company.php" class="size-12 line-h40 uppercase">Компания</a>
+    <span class="color-teal size-10"> • </span>
+    <a href="/documents.php" class="size-12 line-h40 uppercase">Документы</a>
+    <span class="size-12 line-h40 uppercase"> > </span>
   </div>
   <!-- /FOOTER BLOCK -->
   <div class="clearfix"></div>
