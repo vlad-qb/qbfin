@@ -121,67 +121,63 @@
   </div>
 </div>
 <div class="clearfix"></div>
-
 <!-- CONTENT -->
 <div id="gallery" class="column-container mt60">
   <div class="column">
-  <div class="gallery-offset w90r auto line-h24 size-14">
-        <div class="text-center"><img class="icon icon-portfolio" src="/img/bg/archive-shares-1.gif"></div>
-        <div class="title-line-teal2"></div>
-  </div>
+    <div class="gallery-offset w90r auto line-h24 size-14">
+      <div class="text-center"><img class="icon icon-portfolio" src="/img/bg/archive-shares-1.gif"></div>
+      <div class="title-line-teal2"></div>
+    </div>
   </div>
   <div class="clearfix"></div>
   <div class="column-2 mt50">
-  <div class="gallery-offset w85r line-h24 size-14 ml10r">
-		<h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">03.01.2015</span> <span class="size-11 color-lightgray"> •︎ </span><a href="/markets-review-15-08-2015.php">Обзор компании Alibaba Group Holding</a></h4>
-		<h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">08.11.2014</span> <span class="size-11 color-lightgray"> •︎ </span><a href="/markets-review-15-08-2015.php">Обзор компании Alibaba Group Holding</a></h4>
-		<h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">12.10.2014</span> <span class="size-11 color-lightgray"> •︎ </span><a href="/markets-review-15-08-2015.php">Обзор компании Alibaba Group Holding</a></h4>
-		<h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">15.09.2014</span> <span class="size-11 color-lightgray"> •︎ </span><a href="/markets-review-15-08-2015.php">Обзор компании Alibaba Group Holding</a></h4>
-		<h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">07.09.2014</span> <span class="size-11 color-lightgray"> •︎ </span><a href="/markets-review-15-08-2015.php">Обзор компании Alibaba Group Holding</a></h4>
+    <div class="gallery-offset w85r line-h24 size-14 ml10r">
+      <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">03.01.2015</span> <span class="size-11 color-lightgray"> •︎ </span><a href="/markets-review-15-08-2015.php">Обзор компании Alibaba Group Holding</a></h4>
+      <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">08.11.2014</span> <span class="size-11 color-lightgray"> •︎ </span><a href="/markets-review-15-08-2015.php">Обзор компании Alibaba Group Holding</a></h4>
+      <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">12.10.2014</span> <span class="size-11 color-lightgray"> •︎ </span><a href="/markets-review-15-08-2015.php">Обзор компании Alibaba Group Holding</a></h4>
+      <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">15.09.2014</span> <span class="size-11 color-lightgray"> •︎ </span><a href="/markets-review-15-08-2015.php">Обзор компании Alibaba Group Holding</a></h4>
+      <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">07.09.2014</span> <span class="size-11 color-lightgray"> •︎ </span><a href="/markets-review-15-08-2015.php">Обзор компании Alibaba Group Holding</a></h4>
     </div>
   </div>
-   <div class="column-2 mt50">
-  <div class="gallery-offset w85r line-h24 size-14 ml10r">
-		<h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">01.08.2014</span> <span class="size-11 color-lightgray"> •︎ </span><a href="/markets-review-15-08-2015.php">Обзор компании Alibaba Group Holding</a></h4>
-		<h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">18.07.2014</span> <span class="size-11 color-lightgray"> •︎ </span><a href="/markets-review-15-08-2015.php">Обзор компании Alibaba Group Holding</a></h4>
-		<h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">30.04.2014</span> <span class="size-11 color-lightgray"> •︎ </span><a href="/markets-review-15-08-2015.php">Обзор компании Alibaba Group Holding</a></h4>
-		<h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">22.04.2014</span> <span class="size-11 color-lightgray"> •︎ </span><a href="/markets-review-15-08-2015.php">Обзор компании Alibaba Group Holding</a></h4>
-		<h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">17.04.2014</span> <span class="size-11 color-lightgray"> •︎ </span><a href="/markets-review-15-08-2015.php">Обзор компании Alibaba Group Holding</a></h4>
+  <div class="column-2 mt50">
+    <div class="gallery-offset w85r line-h24 size-14 ml10r">
+      <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">01.08.2014</span> <span class="size-11 color-lightgray"> •︎ </span><a href="/markets-review-15-08-2015.php">Обзор компании Alibaba Group Holding</a></h4>
+      <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">18.07.2014</span> <span class="size-11 color-lightgray"> •︎ </span><a href="/markets-review-15-08-2015.php">Обзор компании Alibaba Group Holding</a></h4>
+      <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">30.04.2014</span> <span class="size-11 color-lightgray"> •︎ </span><a href="/markets-review-15-08-2015.php">Обзор компании Alibaba Group Holding</a></h4>
+      <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">22.04.2014</span> <span class="size-11 color-lightgray"> •︎ </span><a href="/markets-review-15-08-2015.php">Обзор компании Alibaba Group Holding</a></h4>
+      <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">17.04.2014</span> <span class="size-11 color-lightgray"> •︎ </span><a href="/markets-review-15-08-2015.php">Обзор компании Alibaba Group Holding</a></h4>
     </div>
   </div>
   <div class="clearfix"></div>
   <div class="column mt50">
-  <div class="gallery-offset w90r auto line-h24 size-14">
-        <div class="text-center"><img class="icon icon-portfolio" src="/img/bg/archive-shares-2.gif"></div>
-        <div class="title-line-teal2"></div>
-	</div>
+    <div class="gallery-offset w90r auto line-h24 size-14">
+      <div class="text-center"><img class="icon icon-portfolio" src="/img/bg/archive-shares-2.gif"></div>
+      <div class="title-line-teal2"></div>
+    </div>
   </div>
   <div class="clearfix"></div>
   <div class="column-2 mt50">
-  <div class="gallery-offset w85r line-h24 size-14 ml10r">
-		<h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">03.01.2013</span> <span class="size-11 color-lightgray"> •︎ </span><a href="/markets-review-15-08-2015.php">Обзор компании Alibaba Group Holding</a></h4>
-		<h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">08.11.2013</span> <span class="size-11 color-lightgray"> •︎ </span><a href="/markets-review-15-08-2015.php">Обзор компании Alibaba Group Holding</a></h4>
+    <div class="gallery-offset w85r line-h24 size-14 ml10r">
+      <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">03.01.2013</span> <span class="size-11 color-lightgray"> •︎ </span><a href="/markets-review-15-08-2015.php">Обзор компании Alibaba Group Holding</a></h4>
+      <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">08.11.2013</span> <span class="size-11 color-lightgray"> •︎ </span><a href="/markets-review-15-08-2015.php">Обзор компании Alibaba Group Holding</a></h4>
     </div>
   </div>
-   <div class="column-2 mt50">
-  <div class="gallery-offset w85r line-h24 size-14 ml10r">
-		<h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">01.08.2013</span> <span class="size-11 color-lightgray"> •︎ </span><a href="/markets-review-15-08-2015.php">Обзор компании Alibaba Group Holding</a></h4>
-		<h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">18.07.2013</span> <span class="size-11 color-lightgray"> •︎ </span><a href="/markets-review-15-08-2015.php">Обзор компании Alibaba Group Holding</a></h4>
+  <div class="column-2 mt50">
+    <div class="gallery-offset w85r line-h24 size-14 ml10r">
+      <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">01.08.2013</span> <span class="size-11 color-lightgray"> •︎ </span><a href="/markets-review-15-08-2015.php">Обзор компании Alibaba Group Holding</a></h4>
+      <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">18.07.2013</span> <span class="size-11 color-lightgray"> •︎ </span><a href="/markets-review-15-08-2015.php">Обзор компании Alibaba Group Holding</a></h4>
     </div>
   </div>
   <div class="clearfix"></div>
 </div>
-
-
 <div class="clearfix"></div>
 <div class="w100r">
-      <div class="text-center mt80">
-        <img src="img/icons/icon-lighthouse.svg" class="icon icon-main"><br>
-        <a href="/analytics.php"><span class="size-14">< </span></a><a href="/analytics.php" class="size-12 line-h40 uppercase">АНАЛИТИКА</a> <span class="color-teal size-10">•︎</span> <a href="/shares.php" class="size-12 line-h40 uppercase">АКЦИИ</a><a href="/shares.php"><span class="size-14"> ></span>
-      </div>	  
-</div>	  
+  <div class="text-center mt80">
+    <img src="img/icons/icon-lighthouse.svg" class="icon icon-main"><br>
+    <a href="/analytics.php"><span class="size-14">< </span></a><a href="/analytics.php" class="size-12 line-h40 uppercase">АНАЛИТИКА</a> <span class="color-teal size-10">•︎</span> <a href="/shares.php" class="size-12 line-h40 uppercase">АКЦИИ</a><a href="/shares.php"><span class="size-14"> ></span>
+  </div>
+</div>
 <div class="clearfix"></div>
-
 <?php include 'html/footer.html';?>
 <script src="/js/jquery.min.js"></script>
 <script src="/js/main.js"></script>

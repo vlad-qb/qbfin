@@ -23,10 +23,9 @@
   <body>
     <?php include 'html/header.html';?>
     <!-- HEADBLOCK -->
-    <div id="cover" 
-          class="img-index-1 cover w100r h480 mt-80" 
-          style="background-position: center bottom;">
-
+    <div id="cover"
+      class="img-index-1 cover w100r h480 mt-80"
+      style="background-position: center bottom;">
     </div>
     <div class="column-container text-center">
       <div class="column-3 content-margin pb02r">
@@ -34,7 +33,7 @@
           <h3 class="size-18 color-teal line-h50"> СТРАТЕГИИ </h3>
           <div class="auto line-black line-h70 mt10" style="width:180px;"></div>
           <h3>
-            <a href="/asset-management.php" class="size-14 dark-gray-hover line-h70"> УПРАВЛЕНИЕ АКТИВАМИ </a>
+          <a href="/asset-management.php" class="size-14 dark-gray-hover line-h70"> УПРАВЛЕНИЕ АКТИВАМИ </a>
           </h3>
           <div class="img-index-2 cover pt40r" style="background-position: center center;">
             <div class="bg-label-2">
@@ -60,7 +59,7 @@
           <h3 class="size-18 color-teal line-h50"> КОНСУЛЬТАЦИИ </h3>
           <div class="auto line-gray line-h70 mt10" style="width:180px;"></div>
           <h3>
-            <a href="/consulting-management.php" class="size-14 dark-gray-hover line-h70"> ИНВЕСТИЦИИ И СТРАТЕГИИ </a>
+          <a href="/consulting-management.php" class="size-14 dark-gray-hover line-h70"> ИНВЕСТИЦИИ И СТРАТЕГИИ </a>
           </h3>
           <div class="img-index-3 cover pt40r" style="background-position: center center;">
             <div class="bg-label-2">
@@ -107,9 +106,9 @@
       </div>
       <div class="clearfix"></div>
     </div>
-  <!-- /HEADBLOCK -->
-  <div class="clearfix"></div>
-  <!-- CONTENT -->
+    <!-- /HEADBLOCK -->
+    <div class="clearfix"></div>
+    <!-- CONTENT -->
     <div class="column-container pt03r">
       <div class="column mt20 mb20 text-center">
         <div class="border-grey-top"></div>
