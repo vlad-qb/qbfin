@@ -133,8 +133,8 @@
             <div class="w288 h40 line-h40 auto bg-white weight-300">
               <a href="/archive-events-5.php" class="gray-hover"> 2015 </a> <span class="color-whitesmoke size-11">•︎</span>
               <a href="/archive-events-4.php" class="gray-hover"> 2014 </a> <span class="color-whitesmoke size-11">•︎</span>
-              <a href="/archive-events-3.php" class="gray-hover"> 2013 </a> <span class="color-whitesmoke size-11">•︎</span>
-              <a href="/archive-events-2.php" class="color-teal gray-hover"> 2012 </a> <span class="color-whitesmoke size-11">•︎</span>
+              <a href="/archive-events-3.php" class="color-teal gray-hover"> 2013 </a> <span class="color-whitesmoke size-11">•︎</span>
+              <a href="/archive-events-2.php" class="gray-hover"> 2012 </a> <span class="color-whitesmoke size-11">•︎</span>
               <a href="/archive-events-1.php" class="gray-hover"> 2011 </a>
             </div>
             </h3>
@@ -145,7 +145,7 @@
     <!-- /HEADBLOCK -->
 	<div class="clearfix"></div>
 <!-- CONTENT -->
-<div id="gallery" class="column-container mt60">
+<div id="gallery" class="column-container pt05r">
   <div class="column">
     <div class="gallery-offset w95r auto line-h24 size-14">
       <div class="text-center"><img class="icon icon-portfolio" src="/img/bg/archive-shares-2.gif"></div>
@@ -179,12 +179,19 @@
   </div>
   <div class="clearfix"></div>
   
-</div>
-<div class="gallery-offset w85r auto mt50">
-  <h3 class="text-center size-18"><div class="w288 h40 line-h40 auto bg-white weight-300"><a href="/archive-events-5.php" class="gray-hover">2015</a> <span class="color-whitesmoke size-11">•︎</span> <a href="/archive-events-4.php" class="gray-hover">2014</a> <span class="color-whitesmoke size-11">•︎</span> <a href="archive-events-3.php" class="color-teal gray-hover">2013</a> <span class="color-whitesmoke size-11">•︎</span> <a href="/archive-events-2.php" class="gray-hover">2012</a> <span class="color-whitesmoke size-11">•︎</span> <a href="/archive-events-1.php" class="gray-hover">2011</a></div></h3>
-  <div class="title-line-gray2"></div>
-</div>
-<div class="clearfix"></div>
+    <div class="gallery-offset w85r auto pt05r pb02r">
+      <h3 class="text-center size-18">
+        <div class="w288 h40 line-h40 auto bg-white weight-300">
+          <a href="/archive-events-5.php" class="gray-hover">2015</a> <span class="color-whitesmoke size-11">•︎</span> 
+          <a href="/archive-events-4.php" class="gray-hover">2014</a> <span class="color-whitesmoke size-11">•︎</span> 
+          <a href="/archive-events-3.php" class="color-teal gray-hover">2013</a> <span class="color-whitesmoke size-11">•︎</span> 
+          <a href="/archive-events-2.php" class="gray-hover">2012</a> <span class="color-whitesmoke size-11">•︎</span> 
+          <a href="/archive-events-1.php" class="gray-hover">2011</a>
+        </div>
+      </h3>
+      <div class="title-line-gray2"></div>
+    </div>
+    <div class="clearfix"></div>
 <!-- FOOTER BLOCK -->
     <div class="clearfix"></div>
     <div class="text-center pt03r">
