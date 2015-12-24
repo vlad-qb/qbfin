@@ -27,7 +27,7 @@
           style="background-position: center bottom;">
       
     </div>
-    <div class="column-container">
+    <div id="headblock" class="column-container">
       <div class="column-2 content-margin text-center size-8 line-h24 uppercase">
         <div class="column-offset bg-white pt05r">
           <ul>
@@ -132,7 +132,7 @@
   <!-- /HEADBLOCK -->
 <div class="clearfix"></div>
 <!-- CONTENT -->
-<div id="gallery" class="column-container mt60">
+<div id="gallery" class="column-container pt05r">
   <div class="column">
     <div class="gallery-offset w90r auto line-h24 size-14">
       <div class="text-center"><img class="icon icon-portfolio" src="/img/bg/archive-shares.gif"></div>

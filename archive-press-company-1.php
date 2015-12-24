@@ -27,7 +27,7 @@
             style="background-position: center bottom;">
         
       </div>
-      <div class="column-container">
+      <div id="headblock" class="column-container">
         <div class="column-2 content-margin text-center size-8 line-h24 uppercase">
           <div class="column-offset bg-white pt05r">
             <ul>

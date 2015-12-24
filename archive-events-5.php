@@ -27,7 +27,7 @@
       style="background-position: center bottom;">
       
     </div>
-    <div class="column-container">
+    <div id="headblock" class="column-container">
       <div class="column-2 content-margin text-center size-8 line-h24 uppercase">
         <div class="column-offset bg-white pt05r">
           <ul>
@@ -128,9 +128,9 @@
             </ul>
           </div>
           <div class="clearfix"></div>
-          <div class="w85r auto pt05r">
+          <div class="pt05r">
             <h3 class="text-center size-18">
-            <div class="w288 h40 line-h40 auto bg-white weight-300">
+            <div class="h40 line-h40 auto bg-white weight-300">
               <a href="/archive-events-5.php" class="color-teal gray-hover"> 2015 </a> <span class="color-whitesmoke size-11">•︎</span>
               <a href="/archive-events-4.php" class="gray-hover"> 2014 </a> <span class="color-whitesmoke size-11">•︎</span>
               <a href="/archive-events-3.php" class="gray-hover"> 2013 </a> <span class="color-whitesmoke size-11">•︎</span>

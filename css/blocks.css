@@ -405,6 +405,8 @@
     .text-alert.text-offset p{
         margin-left: 0;
     }
+    #headblock h2{line-height: 32px;padding-top: 10%;padding-bottom: 10%;}
+    #gallery .bg-label-2{width:60%;}
 }
 
 @media screen and (max-width: 375px) {

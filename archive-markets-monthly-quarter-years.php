@@ -27,7 +27,7 @@
           style="background-position: center bottom;">
       
     </div>
-    <div class="column-container">
+    <div id="headblock" class="column-container">
       <div class="column-2 content-margin text-center size-8 line-h24 uppercase">
         <div class="column-offset bg-white pt05r">
           <ul>
@@ -131,97 +131,125 @@
   </div>
   <!-- /HEADBLOCK -->
 <div class="clearfix"></div>
-<!-- /markets month -->	
+<!-- CONTENT -->	
 <div class="column-container w87r pt05r">
-    <div class="column mt70">
+    <div class="column">
         <div class="column-offset">
             <h3 class="text-center size-12 color-white"><div class="w288 h40 line-h40 auto bg-teal">РЫНКИ ЗА МЕСЯЦ</div></h3>
             <div class="title-line-teal"></div>
         </div>
     </div>
 </div>
-<div id="text-feed" class="column-container size-14 line-h26">
-    <div class="column-2">
+<div id="text-feed">
+  <div class="column-container size-14 line-h26">
+      <div class="column-2">
+          <div class="column-offset">
+      				<div class="pt05r size-18 weight-300 color-teal text-center">
+                2015
+      				</div>
+  				    <div class="ml30 mr30 pt05r text-center">
+                <a href="/markets-review-08-2015.php" class="weight-300">январь</a> <span class="color-teal size-11">•︎</span> 
+                <a href="/markets-review-08-2015.php" class="weight-300">февраль</a> <span class="color-teal size-11">•︎</span> 
+                <a href="/markets-review-08-2015.php" class="weight-300">март</a> <span class="color-teal size-11">•︎</span> 
+                <a href="/markets-review-08-2015.php" class="weight-300">апрель</a> <span class="color-teal size-11">•︎</span> 
+                <a href="/markets-review-08-2015.php" class="weight-300">май</a> <span class="color-teal size-11">•︎</span> 
+                <a href="/markets-review-08-2015.php" class="weight-300">июнь</a>
+              </div>
+  				    <div class="ml30 mr30 pt05r text-center">
+                <a href="/markets-review-08-2015.php" class="weight-300">июль</a> <span class="color-teal size-11">•︎</span> 
+                <a href="/markets-review-08-2015.php" class="weight-300">август</a> <span class="color-teal size-11">•︎</span> 
+                <a href="/markets-review-08-2015.php" class="weight-300">сентябрь</a> <span class="color-teal size-11">•︎</span> 
+                <a href="/markets-review-08-2015.php" class="weight-300">октябрь</a> <span class="color-teal size-11">•︎</span> 
+                <a href="/markets-review-08-2015.php" class="weight-300">ноябрь</a> <span class="color-whitesmoke size-11">•︎</span> 
+                <a href="/markets-review-08-2015.php" class="weight-300 color-whitesmoke">декабрь</a>
+              </div>
+          </div>
+      </div>
+      <div class="column-2">
+          <div class="column-offset">
+      				<div class="pt05r size-18 weight-300 color-teal text-center">
+                2014
+      				</div>
+  				    <div class="ml30 mr30 pt05r text-center">
+                <a href="/markets-review-08-2015.php" class="weight-300">январь</a> <span class="color-teal size-11">•︎</span> 
+                <a href="/markets-review-08-2015.php" class="weight-300">февраль</a> <span class="color-teal size-11">•︎</span> 
+                <a href="/markets-review-08-2015.php" class="weight-300">март</a> <span class="color-teal size-11">•︎</span> 
+                <a href="/markets-review-08-2015.php" class="weight-300">апрель</a> <span class="color-teal size-11">•︎</span> 
+                <a href="/markets-review-08-2015.php" class="weight-300">май</a> <span class="color-teal size-11">•︎</span> 
+                <a href="/markets-review-08-2015.php" class="weight-300">июнь</a>
+              </div>
+      				<div class="ml30 mr30 pt05r text-center">
+                <a href="/markets-review-08-2015.php" class="weight-300">июль</a> <span class="color-teal size-11">•︎</span> 
+                <a href="/markets-review-08-2015.php" class="weight-300">август</a> <span class="color-teal size-11">•︎</span> 
+                <a href="/markets-review-08-2015.php" class="weight-300">сентябрь</a> <span class="color-teal size-11">•︎</span> 
+                <a href="/markets-review-08-2015.php" class="weight-300">октябрь</a> <span class="color-teal size-11">•︎</span> 
+                <a href="/markets-review-08-2015.php" class="weight-300">ноябрь</a> <span class="color-teal size-11">•︎</span> 
+                <a href="/markets-review-08-2015.php" class="weight-300">декабрь</a>
+              </div>
+          </div>
+      </div>
+      <div class="clearfix"></div>
+  </div>
+  <!-- /CONTENT -->
+  <!-- CONTENT-2 -->
+  <div class="column-container w87r auto">
+      <div class="column mt60">
+          <div class="column-offset">
+              <h3 class="text-center size-12 color-white"><div class="w288 h40 line-h40 auto bg-teal"> РЫНКИ ЗА КВАРТАЛ </div></h3>
+              <div class="title-line-teal"></div>
+          </div>
+      </div>
+  </div>
+  <div class="column-container size-14 line-h26">
+      <div class="column-2">
         <div class="column-offset">
-            <p class="mt30"></p>
-				<div class="line-h50 size-18 weight-300 color-teal text-center">
-                    2015
-				</div>
-				<div class="line-h50 weight-300 ml30 mr30 text-center">
-                    <a href="/markets-review-08-2015.php" class="weight-300">январь</a> <span class="color-teal size-11">•︎</span> <a href="/markets-review-08-2015.php" class="weight-300">февраль</a> <span class="color-teal size-11">•︎</span> <a href="/markets-review-08-2015.php" class="weight-300">март</a> <span class="color-teal size-11">•︎</span> <a href="/markets-review-08-2015.php" class="weight-300">апрель</a> <span class="color-teal size-11">•︎</span> <a href="/markets-review-08-2015.php" class="weight-300">май</a> <span class="color-teal size-11">•︎</span> <a href="/markets-review-08-2015.php" class="weight-300">июнь</a>
-                </div>
-				<div class="line-h50 weight-300 ml30 mr30 text-center">
-                    <a href="/markets-review-08-2015.php" class="weight-300">июль</a> <span class="color-teal size-11">•︎</span> <a href="/markets-review-08-2015.php" class="weight-300">август</a> <span class="color-teal size-11">•︎</span> <a href="/markets-review-08-2015.php" class="weight-300">сентябрь</a> <span class="color-teal size-11">•︎</span> <a href="/markets-review-08-2015.php" class="weight-300">октябрь</a> <span class="color-teal size-11">•︎</span> <a href="/markets-review-08-2015.php" class="weight-300">ноябрь</a> <span class="color-whitesmoke size-11">•︎</span> <a href="/markets-review-08-2015.php" class="weight-300 color-whitesmoke">декабрь</a>
-                </div>
+  				<div class="pt05r size-18 weight-300 color-teal text-center">
+            2015
+  				</div>
+  				<div class="ml30 mr30 pt05r text-center">
+            <a href="/markets-review-08-2015.php" class="weight-300"> 1 квартал </a> <span class="color-teal size-11">•︎</span> 
+            <a href="/markets-review-08-2015.php" class="weight-300"> 2 квартал </a> <span class="color-teal size-11">•︎</span> 
+            <a href="/markets-review-08-2015.php" class="weight-300"> 3 квартал </a> <span class="color-whitesmoke size-11">•︎</span> 
+            <a href="/markets-review-08-2015.php" class="weight-300 color-whitesmoke"> 4 квартал</a>
+          </div>
+  				<div class="pt05r size-18 weight-300 color-teal text-center">
+            2013
+  				</div>
+  				<div class="ml30 mr30 pt05r text-center">
+            <a href="/markets-review-08-2015.php" class="weight-300"> 1 квартал </a> <span class="color-teal size-11">•︎</span> 
+            <a href="/markets-review-08-2015.php" class="weight-300"> 2 квартал </a> <span class="color-teal size-11">•︎</span> 
+            <a href="/markets-review-08-2015.php" class="weight-300"> 3 квартал </a> <span class="color-teal size-11">•︎</span> 
+            <a href="/markets-review-08-2015.php" class="weight-300"> 4 квартал </a>
+          </div>
         </div>
-    </div>
-    <div class="column-2">
+      </div>
+      <div class="column-2">
         <div class="column-offset">
-            <p class="mt30"></p>
-				<div class="line-h50 size-18 weight-300 color-teal text-center">
-                    2014
-				</div>
-				<div class="line-h50 weight-300 ml30 mr30 text-center">
-                    <a href="/markets-review-08-2015.php" class="weight-300">январь</a> <span class="color-teal size-11">•︎</span> <a href="/markets-review-08-2015.php" class="weight-300">февраль</a> <span class="color-teal size-11">•︎</span> <a href="/markets-review-08-2015.php" class="weight-300">март</a> <span class="color-teal size-11">•︎</span> <a href="/markets-review-08-2015.php" class="weight-300">апрель</a> <span class="color-teal size-11">•︎</span> <a href="/markets-review-08-2015.php" class="weight-300">май</a> <span class="color-teal size-11">•︎</span> <a href="/markets-review-08-2015.php" class="weight-300">июнь</a>
-                </div>
-				<div class="line-h50 weight-300 ml30 mr30 text-center">
-                    <a href="/markets-review-08-2015.php" class="weight-300">июль</a> <span class="color-teal size-11">•︎</span> <a href="/markets-review-08-2015.php" class="weight-300">август</a> <span class="color-teal size-11">•︎</span> <a href="/markets-review-08-2015.php" class="weight-300">сентябрь</a> <span class="color-teal size-11">•︎</span> <a href="/markets-review-08-2015.php" class="weight-300">октябрь</a> <span class="color-teal size-11">•︎</span> <a href="/markets-review-08-2015.php" class="weight-300">ноябрь</a> <span class="color-teal size-11">•︎</span> <a href="/markets-review-08-2015.php" class="weight-300">декабрь</a>
-                </div>
+      		<div class="pt05r size-18 weight-300 color-teal text-center">
+            2014
+      		</div>
+  				<div class="ml30 mr30 pt05r text-center">
+            <a href="/markets-review-08-2015.php" class="weight-300"> 1 квартал </a> <span class="color-teal size-11">•︎</span> 
+            <a href="/markets-review-08-2015.php" class="weight-300"> 2 квартал </a> <span class="color-teal size-11">•︎</span> 
+            <a href="/markets-review-08-2015.php" class="weight-300"> 3 квартал </a> <span class="color-whitesmoke size-11">•︎</span> 
+            <a href="/markets-review-08-2015.php" class="weight-300 color-whitesmoke"> 4 квартал </a>
+          </div>
+  				<div class="pt05r size-18 weight-300 color-teal text-center">
+            2012
+  				</div>
+  				<div class="ml30 mr30 pt05r text-center">
+            <a href="/markets-review-08-2015.php" class="weight-300"> 1 квартал </a> <span class="color-teal size-11">•︎</span> 
+            <a href="/markets-review-08-2015.php" class="weight-300"> 2 квартал </a> <span class="color-teal size-11">•︎</span> 
+            <a href="/markets-review-08-2015.php" class="weight-300"> 3 квартал </a> <span class="color-teal size-11">•︎</span> 
+            <a href="/markets-review-08-2015.php" class="weight-300"> 4 квартал </a>
+          </div>
         </div>
-    </div>
-    <div class="clearfix"></div>
+      </div>
+      <div class="clearfix"></div>
+  </div>
 </div>
-<!-- /markets month -->	  
-
-<!-- /markets quartals -->	
-<div class="column-container w87r auto">
-    <div class="column mt60">
-        <div class="column-offset">
-            <h3 class="text-center size-12 color-white"><div class="w288 h40 line-h40 auto bg-teal">РЫНКИ ЗА КВАРТАЛ</div></h3>
-            <div class="title-line-teal"></div>
-        </div>
-    </div>
-</div>
-<div id="text-feed" class="column-container size-14 line-h26">
-    <div class="column-2">
-        <div class="column-offset">
-            <p class="mt30"></p>
-				<div class="line-h50 size-18 weight-300 color-teal text-center">
-                    2015
-				</div>
-				<div class="line-h50 weight-300 ml30 mr30 text-center">
-                    <a href="/markets-review-08-2015.php" class="weight-300">1 квартал</a> <span class="color-teal size-11">•︎</span> <a href="/markets-review-08-2015.php" class="weight-300">2 квартал</a> <span class="color-teal size-11">•︎</span> <a href="/markets-review-08-2015.php" class="weight-300">3 квартал</a> <span class="color-whitesmoke size-11">•︎</span> <a href="/markets-review-08-2015.php" class="weight-300 color-whitesmoke"> 4 квартал</a>
-                </div>
-				<div class="line-h50 size-18 weight-300 color-teal text-center">
-                    2013
-				</div>
-				<div class="line-h50 weight-300 ml30 mr30 text-center">
-                    <a href="/markets-review-08-2015.php" class="weight-300">1 квартал</a> <span class="color-teal size-11">•︎</span> <a href="/markets-review-08-2015.php" class="weight-300">2 квартал</a> <span class="color-teal size-11">•︎</span> <a href="/markets-review-08-2015.php" class="weight-300">3 квартал</a> <span class="color-teal size-11">•︎</span> <a href="/markets-review-08-2015.php" class="weight-300"> 4 квартал</a>
-                </div>
-        </div>
-    </div>
-    <div class="column-2">
-        <div class="column-offset">
-            <p class="mt30"></p>
-				<div class="line-h50 size-18 weight-300 color-teal text-center">
-                    2014
-				</div>
-				<div class="line-h50 weight-300 ml30 mr30 text-center">
-                    <a href="/markets-review-08-2015.php" class="weight-300">1 квартал</a> <span class="color-teal size-11">•︎</span> <a href="/markets-review-08-2015.php" class="weight-300">2 квартал</a> <span class="color-teal size-11">•︎</span> <a href="/markets-review-08-2015.php" class="weight-300">3 квартал</a> <span class="color-whitesmoke size-11">•︎</span> <a href="/markets-review-08-2015.php" class="weight-300 color-whitesmoke"> 4 квартал</a>
-                </div>
-				<div class="line-h50 size-18 weight-300 color-teal text-center">
-                    2012
-				</div>
-				<div class="line-h50 weight-300 ml30 mr30 text-center">
-                    <a href="/markets-review-08-2015.php" class="weight-300">1 квартал</a> <span class="color-teal size-11">•︎</span> <a href="/markets-review-08-2015.php" class="weight-300">2 квартал</a> <span class="color-teal size-11">•︎</span> <a href="/markets-review-08-2015.php" class="weight-300">3 квартал</a> <span class="color-teal size-11">•︎</span> <a href="/markets-review-08-2015.php" class="weight-300"> 4 квартал</a>
-                </div>
-        </div>
-    </div>
-    <div class="clearfix"></div>
-</div>
-<!-- /markets quartals -->	  
-
-
+<!-- /CONTENT -->  
+<div class="clearfix"></div>
 <!-- FOOTER BLOCK -->
     <div class="clearfix"></div>
     <div class="w100r">

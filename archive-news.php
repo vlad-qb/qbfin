@@ -27,7 +27,7 @@
             style="background-position: center bottom;">
         
       </div>
-      <div class="column-container">
+      <div id="headblock" class="column-container">
         <div class="column-2 content-margin text-center size-8 line-h24 uppercase">
           <div class="column-offset bg-white pt05r">
             <ul>
@@ -108,7 +108,7 @@
         <div class="column-offset bg-white text-center pt05r">
           <h2 class="size-18 line-h50 color-teal uppercase"> АРХИВ : НОВОСТИ </h2>
           <p class="size-11 line-h20 text-justify mt30 pl05r pr05r">
-		  <span class="bold"> ВЫСОКОКВАЛИФИЦИРОВАННАЯ КОМАНДА МЕНЕДЖЕРОВ И ПОРТФЕЛЬНЫХ УПРАВЛЯЮЩИХ, ИМЕЮЩАЯ ЗНАЧИТЕЛЬНЫЙ ОПЫТ РАБОТЫ НА РЫНКЕ ЦЕННЫХ БУМАГ. </span>
+		        <span class="bold"> ВЫСОКОКВАЛИФИЦИРОВАННАЯ КОМАНДА МЕНЕДЖЕРОВ И ПОРТФЕЛЬНЫХ УПРАВЛЯЮЩИХ, ИМЕЮЩАЯ ЗНАЧИТЕЛЬНЫЙ ОПЫТ РАБОТЫ НА РЫНКЕ ЦЕННЫХ БУМАГ. </span>
           </p>
           <div class="w100r mt05r text-center">
             <ul class="social-offset auto">
@@ -138,7 +138,9 @@
         <div class="w100r h200">
           <div class="img-archive-analytics-5 contain h200 bg-center">
             <div class="bg-label-2 w50r h200">
-              <h2 class="size-14 color-whitesmoke uppercase line-h200 ml20 mr20 h120"><a href="/archive-events-5.php" class="color-whitesmoke light-gray-hover">СОБЫТИЯ</a></h2>
+              <h2 class="size-14 color-whitesmoke uppercase line-h200 ml20 mr20 h120">
+                <a href="/archive-events-5.php" class="color-whitesmoke light-gray-hover"> СОБЫТИЯ </a>
+              </h2>
             </div>
           </div>
         </div>
@@ -149,7 +151,9 @@
         <div class="w100r h200">
           <div class="img-archive-analytics-2 contain h200 bg-center">
             <div class="bg-label-2 w50r h200">
-              <h2 class="size-14 color-whitesmoke uppercase line-h200 ml20 mr20 h60"><a href="/laws.php" class="color-whitesmoke light-gray-hover">ЗАКОНОДАТЕЛЬСТВО</a></h2>
+              <h2 class="size-14 color-whitesmoke uppercase line-h200 ml20 mr20 h60">
+                <a href="/laws.php" class="color-whitesmoke light-gray-hover"> ЗАКОНОДАТЕЛЬСТВО </a>
+              </h2>
             </div>
           </div>
         </div>
@@ -160,7 +164,9 @@
         <div class="w100r h200">
           <div class="img-archive-analytics-4 contain h200 bg-center">
             <div class="bg-label-2 w50r h200">
-              <h2 class="size-14 color-whitesmoke uppercase line-h200 ml20 mr20 h60"><a href="/archive-press.php" class="color-whitesmoke light-gray-hover">ПРЕССА О НАС</a></h2>
+              <h2 class="size-14 color-whitesmoke uppercase line-h200 ml20 mr20 h60">
+                <a href="/archive-press.php" class="color-whitesmoke light-gray-hover"> ПРЕССА О НАС </a>
+              </h2>
             </div>
           </div>
         </div>
@@ -171,7 +177,9 @@
         <div class="w100r h200">
           <div class="img-archive-analytics-3 contain h200 bg-center">
             <div class="bg-label-2 w50r h200">
-              <h2 class="size-14 color-whitesmoke uppercase line-h200 ml20 mr20 h60"><a href="/archive-press-company-2.php" class="color-whitesmoke light-gray-hover">КОМПАНИЯ В СМИ</a></h2>
+              <h2 class="size-14 color-whitesmoke uppercase line-h200 ml20 mr20 h60">
+                <a href="/archive-press-company-2.php" class="color-whitesmoke light-gray-hover"> КОМПАНИЯ В СМИ </a>
+              </h2>
             </div>
           </div>
         </div>

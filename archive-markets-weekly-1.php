@@ -27,7 +27,7 @@
           style="background-position: center bottom;">
       
     </div>
-    <div class="column-container">
+    <div id="headblock" class="column-container">
       <div class="column-2 content-margin text-center size-8 line-h24 uppercase">
         <div class="column-offset bg-white pt05r">
           <ul>
@@ -134,124 +134,420 @@
 <!-- CONTENT -->
 <div id="gallery" class="column-container pt05r">
   <div class="column-2">
-    <div class="gallery-offset w85r line-h24 size-14 ml10r">
+    <div class="gallery-offset w85r line-h24 size-14 ml10r pt10r pb10r">
       <h3 class="text-center size-14 color-white"><div class="w288 h40 line-h40 auto bg-gray2">2015</div></h3>
       <div class="title-line-teal"></div>
-      <h4 class="text-center size-12 line-h30 mt50 color-teal uppercase">ЯНВАРЬ</h4>
-      <h4 class="text-center size-14 line-h30 weight-300"><a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span><a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">31.01.2015</a></h4>
-      <h4 class="text-center size-12 line-h30 color-teal uppercase">ФЕВРАЛЬ</h4>
-      <h4 class="text-center size-14 line-h30 weight-300"><a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span><a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">31.01.2015</a></h4>
-      <h4 class="text-center size-12 line-h30 color-teal uppercase">МАРТ</h4>
-      <h4 class="text-center size-14 line-h30 weight-300"><a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span><a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">31.01.2015</a></h4>
-      <h4 class="text-center size-12 line-h30 color-teal uppercase">Апрель</h4>
-      <h4 class="text-center size-14 line-h30 weight-300"><a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span><a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">31.01.2015</a></h4>
-      <h4 class="text-center size-12 line-h30 color-teal uppercase">МАЙ</h4>
-      <h4 class="text-center size-14 line-h30 weight-300"><a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span><a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">31.01.2015</a></h4>
-      <h4 class="text-center size-12 line-h30 color-teal uppercase">Июнь</h4>
-      <h4 class="text-center size-14 line-h30 weight-300"><a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span><a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">31.01.2015</a></h4>
-      <h4 class="text-center size-12 line-h30 color-teal uppercase">Июль</h4>
-      <h4 class="text-center size-14 line-h30 weight-300"><a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span><a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">31.01.2015</a></h4>
-      <h4 class="text-center size-12 line-h30 color-teal uppercase">Август</h4>
-      <h4 class="text-center size-14 line-h30 weight-300"><a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span><a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">31.01.2015</a></h4>
-      <h4 class="text-center size-12 line-h30 color-teal uppercase">СЕНТЯБРЬ</h4>
-      <h4 class="text-center size-14 line-h30 weight-300"><a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span><a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">31.01.2015</a></h4>
-      <h4 class="text-center size-12 line-h30 color-teal uppercase">Октябрь</h4>
-      <h4 class="text-center size-14 line-h30 weight-300"><a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span><a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">31.01.2015</a></h4>
-      <h4 class="text-center size-12 line-h30 color-teal uppercase">Ноябрь</h4>
-      <h4 class="text-center size-14 line-h30 weight-300"><a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span><a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">31.01.2015</a></h4>
-      <h4 class="text-center size-12 line-h30 color-teal uppercase">Декабрь</h4>
-      <h4 class="text-center size-14 line-h30 weight-300"><a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span><a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">31.01.2015</a></h4>
+      <div class="pt05r">
+        <h4 class="text-center size-12 line-h30 color-teal uppercase">ЯНВАРЬ</h4>
+        <h4 class="text-center size-14 line-h30 weight-300">
+          <a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span>
+          <a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">31.01.2015</a>
+        </h4>
+        <h4 class="text-center size-12 line-h30 color-teal uppercase">ФЕВРАЛЬ</h4>
+        <h4 class="text-center size-14 line-h30 weight-300">
+          <a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span>
+          <a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">31.01.2015</a>
+        </h4>
+        <h4 class="text-center size-12 line-h30 color-teal uppercase">МАРТ</h4>
+        <h4 class="text-center size-14 line-h30 weight-300">
+          <a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span>
+          <a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">31.01.2015</a>
+        </h4>
+        <h4 class="text-center size-12 line-h30 color-teal uppercase">Апрель</h4>
+        <h4 class="text-center size-14 line-h30 weight-300">
+          <a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span>
+          <a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">31.01.2015</a>
+        </h4>
+        <h4 class="text-center size-12 line-h30 color-teal uppercase">МАЙ</h4>
+        <h4 class="text-center size-14 line-h30 weight-300">
+          <a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span>
+          <a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">31.01.2015</a>
+        </h4>
+        <h4 class="text-center size-12 line-h30 color-teal uppercase">Июнь</h4>
+        <h4 class="text-center size-14 line-h30 weight-300">
+          <a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span>
+          <a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">31.01.2015</a>
+        </h4>
+        <h4 class="text-center size-12 line-h30 color-teal uppercase">Июль</h4>
+        <h4 class="text-center size-14 line-h30 weight-300">
+          <a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span>
+          <a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">31.01.2015</a>
+        </h4>
+        <h4 class="text-center size-12 line-h30 color-teal uppercase">Август</h4>
+        <h4 class="text-center size-14 line-h30 weight-300">
+          <a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span>
+          <a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">31.01.2015</a>
+        </h4>
+        <h4 class="text-center size-12 line-h30 color-teal uppercase">СЕНТЯБРЬ</h4>
+        <h4 class="text-center size-14 line-h30 weight-300">
+          <a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span>
+          <a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">31.01.2015</a>
+        </h4>
+        <h4 class="text-center size-12 line-h30 color-teal uppercase">Октябрь</h4>
+        <h4 class="text-center size-14 line-h30 weight-300">
+          <a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span>
+          <a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">31.01.2015</a>
+        </h4>
+        <h4 class="text-center size-12 line-h30 color-teal uppercase">Ноябрь</h4>
+        <h4 class="text-center size-14 line-h30 weight-300">
+          <a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span>
+          <a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">31.01.2015</a>
+        </h4>
+        <h4 class="text-center size-12 line-h30 color-teal uppercase">Декабрь</h4>
+        <h4 class="text-center size-14 line-h30 weight-300">
+          <a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span>
+          <a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">31.01.2015</a>
+        </h4> 
+      </div>
     </div>
   </div>
   <div class="column-2">
-    <div class="gallery-offset w85r line-h24 size-14 ml10r">
+    <div class="gallery-offset w85r line-h24 size-14 ml10r pt10r pb10r">
       <h3 class="text-center size-14 color-white"><div class="w288 h40 line-h40 auto bg-gray2">2014</div></h3>
       <div class="title-line-teal"></div>
-      <h4 class="text-center size-12 line-h30 mt50 color-teal uppercase">ЯНВАРЬ</h4>
-      <h4 class="text-center size-14 line-h30 weight-300"><a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span><a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">31.01.2015</a></h4>
-      <h4 class="text-center size-12 line-h30 color-teal uppercase">ФЕВРАЛЬ</h4>
-      <h4 class="text-center size-14 line-h30 weight-300"><a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span><a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">31.01.2015</a></h4>
-      <h4 class="text-center size-12 line-h30 color-teal uppercase">МАРТ</h4>
-      <h4 class="text-center size-14 line-h30 weight-300"><a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span><a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">31.01.2015</a></h4>
-      <h4 class="text-center size-12 line-h30 color-teal uppercase">Апрель</h4>
-      <h4 class="text-center size-14 line-h30 weight-300"><a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span><a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">31.01.2015</a></h4>
-      <h4 class="text-center size-12 line-h30 color-teal uppercase">МАЙ</h4>
-      <h4 class="text-center size-14 line-h30 weight-300"><a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span><a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">31.01.2015</a></h4>
-      <h4 class="text-center size-12 line-h30 color-teal uppercase">Июнь</h4>
-      <h4 class="text-center size-14 line-h30 weight-300"><a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span><a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">31.01.2015</a></h4>
-      <h4 class="text-center size-12 line-h30 color-teal uppercase">Июль</h4>
-      <h4 class="text-center size-14 line-h30 weight-300"><a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span><a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">31.01.2015</a></h4>
-      <h4 class="text-center size-12 line-h30 color-teal uppercase">Август</h4>
-      <h4 class="text-center size-14 line-h30 weight-300"><a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span><a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">31.01.2015</a></h4>
-      <h4 class="text-center size-12 line-h30 color-teal uppercase">СЕНТЯБРЬ</h4>
-      <h4 class="text-center size-14 line-h30 weight-300"><a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span><a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">31.01.2015</a></h4>
-      <h4 class="text-center size-12 line-h30 color-teal uppercase">Октябрь</h4>
-      <h4 class="text-center size-14 line-h30 weight-300"><a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span><a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">31.01.2015</a></h4>
-      <h4 class="text-center size-12 line-h30 color-teal uppercase">Ноябрь</h4>
-      <h4 class="text-center size-14 line-h30 weight-300"><a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span><a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">31.01.2015</a></h4>
-      <h4 class="text-center size-12 line-h30 color-teal uppercase">Декабрь</h4>
-      <h4 class="text-center size-14 line-h30 weight-300"><a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span><a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">31.01.2015</a></h4>
+      <div class="pt05r">
+        <h4 class="text-center size-12 line-h30 color-teal uppercase">ЯНВАРЬ</h4>
+        <h4 class="text-center size-14 line-h30 weight-300">
+          <a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span>
+          <a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">31.01.2015</a>
+        </h4>
+        <h4 class="text-center size-12 line-h30 color-teal uppercase">ФЕВРАЛЬ</h4>
+        <h4 class="text-center size-14 line-h30 weight-300">
+          <a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span>
+          <a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">31.01.2015</a>
+        </h4>
+        <h4 class="text-center size-12 line-h30 color-teal uppercase">МАРТ</h4>
+        <h4 class="text-center size-14 line-h30 weight-300">
+          <a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span>
+          <a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">31.01.2015</a>
+        </h4>
+        <h4 class="text-center size-12 line-h30 color-teal uppercase">Апрель</h4>
+        <h4 class="text-center size-14 line-h30 weight-300">
+          <a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span>
+          <a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">31.01.2015</a>
+        </h4>
+        <h4 class="text-center size-12 line-h30 color-teal uppercase">МАЙ</h4>
+        <h4 class="text-center size-14 line-h30 weight-300">
+          <a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span>
+          <a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">31.01.2015</a>
+        </h4>
+        <h4 class="text-center size-12 line-h30 color-teal uppercase">Июнь</h4>
+        <h4 class="text-center size-14 line-h30 weight-300">
+          <a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span>
+          <a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">31.01.2015</a>
+        </h4>
+        <h4 class="text-center size-12 line-h30 color-teal uppercase">Июль</h4>
+        <h4 class="text-center size-14 line-h30 weight-300">
+          <a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span>
+          <a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">31.01.2015</a>
+        </h4>
+        <h4 class="text-center size-12 line-h30 color-teal uppercase">Август</h4>
+        <h4 class="text-center size-14 line-h30 weight-300">
+          <a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span>
+          <a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">31.01.2015</a>
+        </h4>
+        <h4 class="text-center size-12 line-h30 color-teal uppercase">СЕНТЯБРЬ</h4>
+        <h4 class="text-center size-14 line-h30 weight-300">
+          <a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span>
+          <a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">31.01.2015</a>
+        </h4>
+        <h4 class="text-center size-12 line-h30 color-teal uppercase">Октябрь</h4>
+        <h4 class="text-center size-14 line-h30 weight-300">
+          <a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span>
+          <a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">31.01.2015</a>
+        </h4>
+        <h4 class="text-center size-12 line-h30 color-teal uppercase">Ноябрь</h4>
+        <h4 class="text-center size-14 line-h30 weight-300">
+          <a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span>
+          <a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">31.01.2015</a>
+        </h4>
+        <h4 class="text-center size-12 line-h30 color-teal uppercase">Декабрь</h4>
+        <h4 class="text-center size-14 line-h30 weight-300">
+          <a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span>
+          <a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">31.01.2015</a>
+        </h4>
+      </div>
     </div>
   </div>
   <div class="clearfix"></div>
-  <div class="column-2 mt100">
-    <div class="gallery-offset w85r line-h24 size-14 ml10r">
+  <div class="column-2">
+    <div class="gallery-offset w85r line-h24 size-14 ml10r pt10r pb10r">
       <h3 class="text-center size-14 color-white"><div class="w288 h40 line-h40 auto bg-gray2">2013</div></h3>
       <div class="title-line-teal"></div>
-      <h4 class="text-center size-12 line-h30 mt50 color-teal uppercase">ЯНВАРЬ</h4>
-      <h4 class="text-center size-14 line-h30 weight-300"><a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span><a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">31.01.2015</a></h4>
-      <h4 class="text-center size-12 line-h30 color-teal uppercase">ФЕВРАЛЬ</h4>
-      <h4 class="text-center size-14 line-h30 weight-300"><a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span><a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">31.01.2015</a></h4>
-      <h4 class="text-center size-12 line-h30 color-teal uppercase">МАРТ</h4>
-      <h4 class="text-center size-14 line-h30 weight-300"><a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span><a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">31.01.2015</a></h4>
-      <h4 class="text-center size-12 line-h30 color-teal uppercase">Апрель</h4>
-      <h4 class="text-center size-14 line-h30 weight-300"><a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span><a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">31.01.2015</a></h4>
-      <h4 class="text-center size-12 line-h30 color-teal uppercase">МАЙ</h4>
-      <h4 class="text-center size-14 line-h30 weight-300"><a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span><a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">31.01.2015</a></h4>
-      <h4 class="text-center size-12 line-h30 color-teal uppercase">Июнь</h4>
-      <h4 class="text-center size-14 line-h30 weight-300"><a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span><a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">31.01.2015</a></h4>
-      <h4 class="text-center size-12 line-h30 color-teal uppercase">Июль</h4>
-      <h4 class="text-center size-14 line-h30 weight-300"><a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span><a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">31.01.2015</a></h4>
-      <h4 class="text-center size-12 line-h30 color-teal uppercase">Август</h4>
-      <h4 class="text-center size-14 line-h30 weight-300"><a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span><a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">31.01.2015</a></h4>
-      <h4 class="text-center size-12 line-h30 color-teal uppercase">СЕНТЯБРЬ</h4>
-      <h4 class="text-center size-14 line-h30 weight-300"><a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span><a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">31.01.2015</a></h4>
-      <h4 class="text-center size-12 line-h30 color-teal uppercase">Октябрь</h4>
-      <h4 class="text-center size-14 line-h30 weight-300"><a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span><a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">31.01.2015</a></h4>
-      <h4 class="text-center size-12 line-h30 color-teal uppercase">Ноябрь</h4>
-      <h4 class="text-center size-14 line-h30 weight-300"><a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span><a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">31.01.2015</a></h4>
-      <h4 class="text-center size-12 line-h30 color-teal uppercase">Декабрь</h4>
-      <h4 class="text-center size-14 line-h30 weight-300"><a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span><a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">31.01.2015</a></h4>
+      <div class="pt05r">
+        <h4 class="text-center size-12 line-h30 color-teal uppercase">ЯНВАРЬ</h4>
+        <h4 class="text-center size-14 line-h30 weight-300">
+          <a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span>
+          <a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">31.01.2015</a>
+        </h4>
+        <h4 class="text-center size-12 line-h30 color-teal uppercase">ФЕВРАЛЬ</h4>
+        <h4 class="text-center size-14 line-h30 weight-300">
+          <a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span>
+          <a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">31.01.2015</a>
+        </h4>
+        <h4 class="text-center size-12 line-h30 color-teal uppercase">МАРТ</h4>
+        <h4 class="text-center size-14 line-h30 weight-300">
+          <a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span>
+          <a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">31.01.2015</a>
+        </h4>
+        <h4 class="text-center size-12 line-h30 color-teal uppercase">Апрель</h4>
+        <h4 class="text-center size-14 line-h30 weight-300">
+          <a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span>
+          <a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">31.01.2015</a>
+        </h4>
+        <h4 class="text-center size-12 line-h30 color-teal uppercase">МАЙ</h4>
+        <h4 class="text-center size-14 line-h30 weight-300">
+          <a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span>
+          <a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">31.01.2015</a>
+        </h4>
+        <h4 class="text-center size-12 line-h30 color-teal uppercase">Июнь</h4>
+        <h4 class="text-center size-14 line-h30 weight-300">
+          <a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span>
+          <a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">31.01.2015</a>
+        </h4>
+        <h4 class="text-center size-12 line-h30 color-teal uppercase">Июль</h4>
+        <h4 class="text-center size-14 line-h30 weight-300">
+          <a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span>
+          <a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">31.01.2015</a>
+        </h4>
+        <h4 class="text-center size-12 line-h30 color-teal uppercase">Август</h4>
+        <h4 class="text-center size-14 line-h30 weight-300">
+          <a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span>
+          <a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">31.01.2015</a>
+        </h4>
+        <h4 class="text-center size-12 line-h30 color-teal uppercase">СЕНТЯБРЬ</h4>
+        <h4 class="text-center size-14 line-h30 weight-300">
+          <a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span>
+          <a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">31.01.2015</a>
+        </h4>
+        <h4 class="text-center size-12 line-h30 color-teal uppercase">Октябрь</h4>
+        <h4 class="text-center size-14 line-h30 weight-300">
+          <a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span>
+          <a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">31.01.2015</a>
+        </h4>
+        <h4 class="text-center size-12 line-h30 color-teal uppercase">Ноябрь</h4>
+        <h4 class="text-center size-14 line-h30 weight-300">
+          <a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span>
+          <a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">31.01.2015</a>
+        </h4>
+        <h4 class="text-center size-12 line-h30 color-teal uppercase">Декабрь</h4>
+        <h4 class="text-center size-14 line-h30 weight-300">
+          <a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span>
+          <a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">31.01.2015</a>
+        </h4>
+      </div>
     </div>
   </div>
-  <div class="column-2 mt100">
-    <div class="gallery-offset w85r line-h24 size-14 ml10r">
+  <div class="column-2">
+    <div class="gallery-offset w85r line-h24 size-14 ml10r pt10r pb10r">
       <h3 class="text-center size-14 color-white"><div class="w288 h40 line-h40 auto bg-gray2">2012</div></h3>
       <div class="title-line-teal"></div>
-      <h4 class="text-center size-12 line-h30 mt50 color-teal uppercase">ЯНВАРЬ</h4>
-      <h4 class="text-center size-14 line-h30 weight-300"><a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span><a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">31.01.2015</a></h4>
-      <h4 class="text-center size-12 line-h30 color-teal uppercase">ФЕВРАЛЬ</h4>
-      <h4 class="text-center size-14 line-h30 weight-300"><a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span><a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">31.01.2015</a></h4>
-      <h4 class="text-center size-12 line-h30 color-teal uppercase">МАРТ</h4>
-      <h4 class="text-center size-14 line-h30 weight-300"><a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span><a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">31.01.2015</a></h4>
-      <h4 class="text-center size-12 line-h30 color-teal uppercase">Апрель</h4>
-      <h4 class="text-center size-14 line-h30 weight-300"><a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span><a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">31.01.2015</a></h4>
-      <h4 class="text-center size-12 line-h30 color-teal uppercase">МАЙ</h4>
-      <h4 class="text-center size-14 line-h30 weight-300"><a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span><a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">31.01.2015</a></h4>
-      <h4 class="text-center size-12 line-h30 color-teal uppercase">Июнь</h4>
-      <h4 class="text-center size-14 line-h30 weight-300"><a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span><a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">31.01.2015</a></h4>
-      <h4 class="text-center size-12 line-h30 color-teal uppercase">Июль</h4>
-      <h4 class="text-center size-14 line-h30 weight-300"><a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span><a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">31.01.2015</a></h4>
-      <h4 class="text-center size-12 line-h30 color-teal uppercase">Август</h4>
-      <h4 class="text-center size-14 line-h30 weight-300"><a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span><a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">31.01.2015</a></h4>
-      <h4 class="text-center size-12 line-h30 color-teal uppercase">СЕНТЯБРЬ</h4>
-      <h4 class="text-center size-14 line-h30 weight-300"><a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span><a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">31.01.2015</a></h4>
-      <h4 class="text-center size-12 line-h30 color-teal uppercase">Октябрь</h4>
-      <h4 class="text-center size-14 line-h30 weight-300"><a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span><a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">31.01.2015</a></h4>
-      <h4 class="text-center size-12 line-h30 color-teal uppercase">Ноябрь</h4>
-      <h4 class="text-center size-14 line-h30 weight-300"><a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span><a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">31.01.2015</a></h4>
-      <h4 class="text-center size-12 line-h30 color-teal uppercase">Декабрь</h4>
-      <h4 class="text-center size-14 line-h30 weight-300"><a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span><a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span><a href="/markets-review-15-08-2015.php">31.01.2015</a></h4>
+      <div class="pt05r">
+        <h4 class="text-center size-12 line-h30 color-teal uppercase">ЯНВАРЬ</h4>
+        <h4 class="text-center size-14 line-h30 weight-300">
+          <a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span>
+          <a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">31.01.2015</a>
+        </h4>
+        <h4 class="text-center size-12 line-h30 color-teal uppercase">ФЕВРАЛЬ</h4>
+        <h4 class="text-center size-14 line-h30 weight-300">
+          <a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span>
+          <a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">31.01.2015</a>
+        </h4>
+        <h4 class="text-center size-12 line-h30 color-teal uppercase">МАРТ</h4>
+        <h4 class="text-center size-14 line-h30 weight-300">
+          <a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span>
+          <a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">31.01.2015</a>
+        </h4>
+        <h4 class="text-center size-12 line-h30 color-teal uppercase">Апрель</h4>
+        <h4 class="text-center size-14 line-h30 weight-300">
+          <a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span>
+          <a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">31.01.2015</a>
+        </h4>
+        <h4 class="text-center size-12 line-h30 color-teal uppercase">МАЙ</h4>
+        <h4 class="text-center size-14 line-h30 weight-300">
+          <a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span>
+          <a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">31.01.2015</a>
+        </h4>
+        <h4 class="text-center size-12 line-h30 color-teal uppercase">Июнь</h4>
+        <h4 class="text-center size-14 line-h30 weight-300">
+          <a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span>
+          <a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">31.01.2015</a>
+        </h4>
+        <h4 class="text-center size-12 line-h30 color-teal uppercase">Июль</h4>
+        <h4 class="text-center size-14 line-h30 weight-300">
+          <a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span>
+          <a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">31.01.2015</a>
+        </h4>
+        <h4 class="text-center size-12 line-h30 color-teal uppercase">Август</h4>
+        <h4 class="text-center size-14 line-h30 weight-300">
+          <a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span>
+          <a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">31.01.2015</a>
+        </h4>
+        <h4 class="text-center size-12 line-h30 color-teal uppercase">СЕНТЯБРЬ</h4>
+        <h4 class="text-center size-14 line-h30 weight-300">
+          <a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span>
+          <a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">31.01.2015</a>
+        </h4>
+        <h4 class="text-center size-12 line-h30 color-teal uppercase">Октябрь</h4>
+        <h4 class="text-center size-14 line-h30 weight-300">
+          <a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span>
+          <a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">31.01.2015</a>
+        </h4>
+        <h4 class="text-center size-12 line-h30 color-teal uppercase">Ноябрь</h4>
+        <h4 class="text-center size-14 line-h30 weight-300">
+          <a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span>
+          <a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">31.01.2015</a>
+        </h4>
+        <h4 class="text-center size-12 line-h30 color-teal uppercase">Декабрь</h4>
+        <h4 class="text-center size-14 line-h30 weight-300">
+          <a href="/markets-review-15-08-2015.php">03.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">10.01.2015</a> <span class="color-teal"> • ︎</span>
+          <a href="/markets-review-15-08-2015.php">17.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">25.01.2015</a> <span class="color-teal"> •︎ </span>
+          <a href="/markets-review-15-08-2015.php">31.01.2015</a>
+        </h4>
+      </div>
     </div>
   </div>
   <div class="clearfix"></div>
