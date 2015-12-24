@@ -107,7 +107,7 @@
       </div>
       <div class="column-2 content-margin">
         <div class="column-offset bg-white text-center pt05r">
-          <h2 class="size-18 line-h50 color-teal uppercase"> АРХИВ : СОБЫТИЯ 2011 </h2>
+          <h2 class="size-18 line-h50 color-teal uppercase"> АРХИВ : СОБЫТИЯ 2012 </h2>
           <p class="size-11 line-h20 text-justify mt30 pl05r pr05r">
             <span class="bold"> ВЫСОКОКВАЛИФИЦИРОВАННАЯ КОМАНДА МЕНЕДЖЕРОВ И ПОРТФЕЛЬНЫХ УПРАВЛЯЮЩИХ, ИМЕЮЩАЯ ЗНАЧИТЕЛЬНЫЙ ОПЫТ РАБОТЫ НА РЫНКЕ ЦЕННЫХ БУМАГ. </span>
           </p>
