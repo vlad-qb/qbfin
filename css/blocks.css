@@ -43,6 +43,7 @@
 .w25r{width:25%;}
 .w28r{width:28%;}
 .w30r{width:30%;}
+.w33r{width:33.333%;}
 .w35r{width:35%;}
 .w50r{width:50%;}
 .w60r{width:60%;}
@@ -407,6 +408,8 @@
     }
     #headblock h2{line-height: 32px;padding-top: 10%;padding-bottom: 10%;}
     #gallery .bg-label-2{width:60%;}
+    #bond-option-portfolio .w33r{width:100%;}
+    #graph-option-1 .h400{height:320px;}
 }
 
 @media screen and (max-width: 375px) {
@@ -427,4 +430,5 @@
         margin-top:0;
     }
     #licenses img{width: 100%;}
+    #bond-option-portfolio .w33r{width:100%;}
 }

@@ -27,7 +27,7 @@
             style="background-position: center bottom;">
         
       </div>
-      <div class="column-container">
+      <div id="headblock" class="column-container">
         <div class="column-2 content-margin text-center size-8 line-h24 uppercase">
           <div class="column-offset bg-white pt05r">
             <ul>
@@ -121,9 +121,9 @@
           <h2 class="size-18 line-h50 color-teal uppercase"> РЕКВИЗИТЫ </h2>
           <p class="size-11 line-h20 text-justify mt30 pl05r pr05r">
             <h4 class="text-center size-14 mt-15 line-h40 weight-300">123317, Россия, г. Москва</h4>
-			<h4 class="text-center size-14 line-h40 weight-300">Пресненская набережная, дом 8, строение 1</h4>
-			<h4 class="text-center size-14 line-h40 weight-300">тел: +7 (495) 988 98 21</h4>
-			<h4 class="text-center size-14 line-h40 weight-300">e-mail: <a class="color-teal gray-hover" href="mailto:invest@qbfin.ru">invest@qbfin.ru</a></h4>
+			      <h4 class="text-center size-14 line-h40 weight-300">Пресненская набережная, дом 8, строение 1</h4>
+			      <h4 class="text-center size-14 line-h40 weight-300">тел: +7 (495) 988 98 21</h4>
+			      <h4 class="text-center size-14 line-h40 weight-300">e-mail: <a class="color-teal gray-hover" href="mailto:invest@qbfin.ru">invest@qbfin.ru</a></h4>
           </p>
           <div class="w100r mt05r text-center">
             <ul class="social-offset auto">
@@ -145,57 +145,56 @@
       </div>
     </div>
     <!-- /HEADBLOCK -->
-  <div class="clearfix"></div>
-  <!-- CONTENT -->
-  <div id="text-feed" class="column-container mt70 size-14 color-grey1 line-h26">
-    <div class="column-2">
-      <div class="column-offset">
-        <div class="mt20">
+    <div class="clearfix"></div>
+    <!-- CONTENT -->
+    <div id="text-feed" class="column-container pt05r size-14 color-grey1 line-h26">
+      <div class="column-2">
+        <div class="column-offset pt05r pb05r">
           <h3 class="text-center size-12 color-white"><div class="w250 h40 line-h40 auto bg-gray2 weight-300">ООО «Кьюби Финанс»</div></h3>
           <div class="title-line-teal"></div>
-          <h4 class="size-14 mt30 line-h40 text-center mt10 weight-300">ОГРН 5087746335551</h4>
+          <h4 class="size-14 line-h40 text-center mt10 weight-300">ОГРН 5087746335551</h4>
           <h4 class="size-14 line-h40 text-center mt10 weight-300">ИНН/КПП 7733673955 / 770301001</h4>
         </div>
       </div>
-    </div>
-    <div class="column-2">
-      <div class="column-offset">
+      <div class="column-2">
         <div class="column-offset">
-          <div class="mt20">
+          <div class="column-offset pt05r pb05r">
             <h3 class="text-center size-12 color-white"><div class="w250 h40 line-h40 auto bg-gray2 weight-300">ООО «Альфа-Банк»</div></h3>
             <div class="title-line-teal"></div>
-            <h4 class="size-14 mt30 line-h40 text-center mt10 weight-300">р/с № 40701810101400000039</h4>
+            <h4 class="size-14 line-h40 text-center mt10 weight-300">р/с № 40701810101400000039</h4>
             <h4 class="size-14 line-h40 text-center mt10 weight-300">к/с № 30101810200000000593</h4>
             <h4 class="size-14 line-h40 text-center mt10 weight-300">БИК 044525593</h4>
           </div>
         </div>
       </div>
+      <div class="clearfix"></div>
     </div>
-    <div class="clearfix"></div>
-  </div>
-  <!-- CONTENT -->
-  <div class="img-banking-information-2 w100r h350 mt80" style="background-position: center center;">
-    <h4 class="line-h40 uppercase size-14 text-center pt100"><a class="color-white light-gray-hover" href="/connect.php">ПО ВСЕМ ВОПРОСАМ ВЫ МОЖЕТЕ<br/>
-      ОБРАТИТЬСЯ К ПРЕДСТАВИТЕЛЯМ<br/>
-      КЛИЕНТСКОГО ОФИСА QB FINANCE ИЛИ<br/>
-    ПО ПОЧТЕ КОМПАНИИ: INVEST@QBFIN.RU</a>
-    </h4>
-  </div>
-  
-  <!-- FOOTER BLOCK -->
+    <div class="img-banking-information-2 w100r mt05r pt05r pb05r" style="background-position: center center;">
+      <h4 class="line-h40 uppercase size-14 text-center">
+        <a class="color-white light-gray-hover" href="/connect.php">
+          ПО ВСЕМ ВОПРОСАМ ВЫ МОЖЕТЕ<br/>
+          ОБРАТИТЬСЯ К ПРЕДСТАВИТЕЛЯМ<br/>
+          КЛИЕНТСКОГО ОФИСА QB FINANCE ИЛИ<br/>
+          ПО ПОЧТЕ КОМПАНИИ: INVEST@QBFIN.RU
+        </a>
+      </h4>
+    </div>
+    <!-- /CONTENT -->
+    <!-- FOOTER BLOCK -->
     <div class="clearfix"></div>
     <div class="w100r">
-          <div class="text-center pt05r">
-            <img src="img/icons/icon-lighthouse.svg" class="icon icon-main"><br>
-            <a href="/company.php"><span class="size-14">< </span></a><a href="/company.php" class="size-12 line-h40 uppercase">КОМПАНИЯ</a>
-			<span class="color-teal size-10">•︎</span> 
-			<a href="/documents.php" class="size-12 line-h40 uppercase">ДОКУМЕНТЫ</a><a href="/documents.php"><span class="size-14"> ></span>
-          </div>	  
+      <div class="text-center pt05r">
+        <img src="img/icons/icon-lighthouse.svg" class="icon icon-main"><br>
+        <a href="/company.php"><span class="size-14">< </span></a>
+        <a href="/company.php" class="size-12 line-h40 uppercase">КОМПАНИЯ</a>
+			  <span class="color-teal size-10">•︎</span> 
+			  <a href="/documents.php" class="size-12 line-h40 uppercase">ДОКУМЕНТЫ</a><a href="/documents.php"><span class="size-14"> ></span>
+      </div>	  
     </div>		
     <!-- /FOOTER BLOCK -->
-  <div class="clearfix"></div>
-  <?php include 'html/footer.html';?>
-  <script src="/js/jquery.min.js"></script>
-  <script src="/js/main.js"></script>
-</body>
+    <div class="clearfix"></div>
+    <?php include 'html/footer.html';?>
+    <script src="/js/jquery.min.js"></script>
+    <script src="/js/main.js"></script>
+  </body>
 </html>

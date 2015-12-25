@@ -108,7 +108,7 @@
         <div class="column-offset bg-white text-center pt05r">
           <h2 class="size-18 line-h50 color-teal uppercase"> НАГРАДЫ И РЕЙТИНГИ </h2>
           <p class="size-11 line-h20 text-justify mt30 pl05r pr05r">
-		  <span class="color-teal weight-300">QBF ||| investment</span><span class="bold"> - ВЫСОКОКВАЛИФИЦИРОВАННАЯ КОМАНДА МЕНЕДЖЕРОВ И ПОРТФЕЛЬНЫХ УПРАВЛЯЮЩИХ, ИМЕЮЩАЯ ЗНАЧИТЕЛЬНЫЙ ОПЫТ РАБОТЫ НА РЫНКЕ ЦЕННЫХ БУМАГ. </span>
+		        <span class="color-teal weight-300">QBF ||| investment</span><span class="bold"> - ВЫСОКОКВАЛИФИЦИРОВАННАЯ КОМАНДА МЕНЕДЖЕРОВ И ПОРТФЕЛЬНЫХ УПРАВЛЯЮЩИХ, ИМЕЮЩАЯ ЗНАЧИТЕЛЬНЫЙ ОПЫТ РАБОТЫ НА РЫНКЕ ЦЕННЫХ БУМАГ. </span>
           </p>
           <div class="w100r mt05r text-center">
             <ul class="social-offset auto">
@@ -130,192 +130,176 @@
       </div>
     </div>
     <!-- /HEADBLOCK -->
-  <div class="clearfix"></div>
-  <!-- Content-->
-  <div class="column-container">
-    <div id="gallery" class="column-2 auto mt90">
-      <div class="w90r ml05r border-white">
-        <div class="img-awards-2 w100r h200 cover bg-center">
-          <div class="planet2 h60 w100">
-            <img src="img/bg/big-earth-icon.png" class="h100 w100 icon icon-contacts">
+    <div class="clearfix"></div>
+    <!-- CONTENT -->
+    <div id="gallery" class="column-container pt05r">
+      <div class="column-2 pt05r">
+        <div class="column-offset border-white">
+          <div class="img-awards-2 w100r h200 cover bg-center">
+            <div class="planet2 h60 w100">
+              <img src="img/bg/big-earth-icon.png" class="h100 w100 icon icon-contacts">
+            </div>
           </div>
-        </div>
-        <div class="mt5 bg-grey3">
-          <div class="text-center color-white size-12 line-h26 pt10 pb20 h40 uppercase">
-            <div class="w90r auto">
-              «ЛУЧШАЯ ИНВЕСТИЦИОННАЯ СТРАТЕГИЯ 2014»</br>
-              ПРЕМИЯ INVESTOR AWARDS
+          <div class="mt5 bg-grey3 text-center">
+            <div class="pt03r pb01r pl05r pr05r">
+              <span class="color-white size-12 uppercase">«ЛУЧШАЯ ИНВЕСТИЦИОННАЯ СТРАТЕГИЯ 2014»</span>
+            </div>
+            <div class="pt03r pb03r pl05r pr05r">
+              <span class="text-center color-white size-12 uppercase">ПРЕМИЯ INVESTOR AWARDS</span>
             </div>
           </div>
         </div>
-      </div>
-    </div>
-  </div>
-  <div class="column-container">
-    <div id="gallery" class="column-2 auto mt90">
-      <div class="w90r ml05r border-white">
-        <div class="img-awards-3 w100r h200 cover bg-center">
-          <div class="planet2 h60 w100">
-            <img src="img/bg/big-earth-icon.png" class="h100 w100 icon icon-contacts">
-          </div>
+        <div class="column-offset line-h20 size-14">
+          <p class="pt05r weight-300">
+            <span class="bold">О премии:</span> премия INVESTOR AWARDS отмечает наиболее значимые достижения в области инвестиций, продвигая лучшую инвестиционную практику, повышение стандартов работы на рынках капитала, признание достижений конкретных компаний и инвесторов.
+          </p>
+          <p class="pt05r weight-300"> 
+            <a class="color-teal light-gray-hover" href="http://www.investorawards.ru">http://www.investorawards.ru</a>
+          </p>
         </div>
-        <div class="mt5 bg-grey3">
-          <div class="text-center color-white size-12 line-h26 pt10 pb20 h40 uppercase">
-            <div class="w90r auto">
-              ЛУЧШИЙ РАБОТОДАТЕЛЬ В СФЕРЕ «ФИНАНСЫ И СТРАХОВАНИЕ» 2014</br>
-              РЕЙТИНГ ПОРТАЛА HH.RU
+      </div>
+      <div class="column-2 pt05r">
+        <div class="column-offset border-white">
+          <div class="img-awards-3 w100r h200 cover bg-center">
+            <div class="planet2 h60 w100">
+              <img src="img/bg/big-earth-icon.png" class="h100 w100 icon icon-contacts">
+            </div>
+          </div>
+          <div class="mt5 bg-grey3 text-center">
+            <div class="pt03r pb01r pl05r pr05r">
+              <span class="color-white size-12 uppercase">ЛУЧШИЙ РАБОТОДАТЕЛЬ В СФЕРЕ «ФИНАНСЫ И СТРАХОВАНИЕ» 2014</span>
+            </div>
+            <div class="pt03r pb03r pl05r pr05r">
+              <span class="text-center color-white size-12 uppercase">РЕЙТИНГ ПОРТАЛА HH.RU</span>
             </div>
           </div>
         </div>
-      </div>
-    </div>
-  </div>
-  <div class="clearfix"></div>
-  <!-- Content-->
-  <!-- Text-->
-  <div class="column-container">
-    <div class="column-offset w100r auto line-h20 size-14">
-      <div class="column-2">
-        <p class="mt20 ml05r mr05r size-14 weight-300"><span class="bold">О премии:</span> премия INVESTOR AWARDS отмечает наиболее значимые достижения в области инвестиций, продвигая лучшую инвестиционную практику, повышение стандартов работы на рынках капитала, признание достижений конкретных компаний и инвесторов.</p>
-        
-        <p class="mt20 ml05r mr05r size-14 weight-300"> <a class="color-teal light-gray-hover" href="http://www.investorawards.ru">http://www.investorawards.ru</a></p>
-      </div>
-      <div class="column-2">
-        <p class="mt20 ml05r mr05r size-14 weight-300"><span class="bold">О рейтинге:</span> рейтинг портала hh.ru является показателем привлекательности компании как работодателя, который включает независимую оценку внешнего и внутреннего HR-бренда компании. Результаты рейтинга основываются на данных трех этапов конкурса: на опросе соискателей, исследовании вовлеченности персонала и анкетирования HR-специалистов компаний-участниц. </p>
-        
-        <p class="mt20 ml05r mr05r size-14 weight-300"> <a class="color-teal light-gray-hover" href="http://rating.hrbrand.ru/rating2014/">http://rating.hrbrand.ru/rating2014/</a></p>
-      </div>
-    </div>
-  </div>
-  <div class="clearfix"></div>
-  <!-- Text-->
-  <!-- Content-->
-  <div class="column-container">
-    <div id="gallery" class="column-2 auto mt60">
-      <div class="w90r ml05r border-white">
-        <div class="img-awards-4 w100r h200 cover bg-center">
-          <div class="planet2 h60 w100">
-            <img src="img/bg/big-earth-icon.png" class="h100 w100 icon icon-contacts">
-          </div>
+        <div class="column-offset line-h20 size-14">
+          <p class="pt05r weight-300">
+            <span class="bold">О рейтинге:</span> рейтинг портала hh.ru является показателем привлекательности компании как работодателя, который включает независимую оценку внешнего и внутреннего HR-бренда компании. Результаты рейтинга основываются на данных трех этапов конкурса: на опросе соискателей, исследовании вовлеченности персонала и анкетирования HR-специалистов компаний-участниц. 
+          </p>
+          <p class="pt05r weight-300"> 
+            <a class="color-teal light-gray-hover" href="http://rating.hrbrand.ru/rating2014/">http://rating.hrbrand.ru/rating2014/</a>
+          </p>
         </div>
-        <div class="mt5 bg-grey3">
-          <div class="text-center color-white size-12 line-h26 pt10 pb20 h40 uppercase">
-            <div class="w90r auto">
-              «ЭКСПЕРТ РА»</br>
-              РЕЙТИНГ ПРИВЛЕКАТЕЛЬНОСТИ РАБОТОДАТЕЛЯ - A.HR, 2015
+      </div>
+      <div class="clerfix"></div>
+      <div class="column-2 pt05r">
+        <div class="column-offset border-white">
+          <div class="img-awards-4 w100r h200 cover bg-center">
+            <div class="planet2 h60 w100">
+              <img src="img/bg/big-earth-icon.png" class="h100 w100 icon icon-contacts">
+            </div>
+          </div>
+          <div class="mt5 bg-grey3 text-center">
+            <div class="pt03r pb01r pl05r pr05r">
+              <span class="color-white size-12 uppercase">«ЭКСПЕРТ РА»</span>
+            </div>
+            <div class="pt03r pb03r pl05r pr05r">
+              <span class="text-center color-white size-12 uppercase">РЕЙТИНГ ПРИВЛЕКАТЕЛЬНОСТИ РАБОТОДАТЕЛЯ - A.HR, 2015</span>
             </div>
           </div>
         </div>
-      </div>
-    </div>
-  </div>
-  <div class="column-container">
-    <div id="gallery" class="column-2 auto mt60">
-      <div class="w90r ml05r border-white">
-        <div class="img-awards-5 w100r h200 cover bg-center">
-          <div class="planet2 h60 w100">
-            <img src="img/bg/big-earth-icon.png" class="h100 w100 icon icon-contacts">
-          </div>
+        <div class="column-offset line-h20 size-14">
+          <p class="pt05r weight-300">
+            <span class="bold">О рейтинге:</span> RAEX («Эксперт РА») - крупнейшее в России международное рейтинговое агентство. «Эксперт РА» является лидером в области рейтингования, а также исследовательско-коммуникационной деятельности.
+          </p>
+          <p class="pt05r weight-300"> 
+            <a class="color-teal light-gray-hover" href="http://www.raexpert.ru/database/companies/qb_fin/">http://www.raexpert.ru/database/companies/qb_fin/</a>
+          </p>
         </div>
-        <div class="mt5 bg-grey3">
-          <div class="text-center color-white size-12 line-h26 pt10 pb20 h40 uppercase">
-            <div class="w90r auto">
-              «ЛУЧШАЯ ИНВЕСТИЦИОННАЯ КОМПАНИЯ ГОДА 2014»</br>
-              SPEAR'S RUSSIA WEALTH MANAGEMENT AWARDS
+      </div>
+      <div class="column-2 pt05r">
+        <div class="column-offset border-white">
+          <div class="img-awards-5 w100r h200 cover bg-center">
+            <div class="planet2 h60 w100">
+              <img src="img/bg/big-earth-icon.png" class="h100 w100 icon icon-contacts">
+            </div>
+          </div>
+          <div class="mt5 bg-grey3 text-center">
+            <div class="pt03r pb01r pl05r pr05r">
+              <span class="color-white size-12 uppercase">«ЛУЧШАЯ ИНВЕСТИЦИОННАЯ КОМПАНИЯ ГОДА 2014»</span>
+            </div>
+            <div class="pt03r pb03r pl05r pr05r">
+              <span class="text-center color-white size-12 uppercase">SPEAR'S RUSSIA WEALTH MANAGEMENT AWARDS</span>
             </div>
           </div>
         </div>
-      </div>
-    </div>
-  </div>
-  <div class="clearfix"></div>
-  <!-- Content-->
-  <!-- Text-->
-  <div class="column-container">
-    <div class="column-offset w100r auto line-h20 size-14">
-      <div class="column-2">
-        <p class="mt20 ml05r mr05r size-14 weight-300"><span class="bold">О рейтинге:</span> RAEX («Эксперт РА») - крупнейшее в России международное рейтинговое агентство. «Эксперт РА» является лидером в области рейтингования, а также исследовательско-коммуникационной деятельности.</p>
-        
-        <p class="mt20 ml05r mr05r size-14 weight-300"> <a class="color-teal light-gray-hover" href="http://www.raexpert.ru/database/companies/qb_fin/">http://www.raexpert.ru/database/companies/qb_fin/</a></p>
-      </div>
-      <div class="column-2">
-        <p class="mt20 ml05r mr05r size-14 weight-300"><span class="bold">О премии:</span> SPEAR'S Russia Wealth Management Awards - ежегодная gремия для лучших представителей индустрии частного банковского обслуживания, управления большими капиталами и смежных индустрий. Организатором выступает первый в России специализированный портал тематики private banking & wealth management, наиболее авторитетный и влиятельный журнал для богатейших людей планеты.</p>
-        
-        <p class="mt20 ml05r mr05r size-14 weight-300"> <a class="color-teal light-gray-hover" href="http://awards2014.pbwm.ru/awards/winners?lang=ru">http://awards2014.pbwm.ru/awards/winners?lang=ru</a></p>
-      </div>
-    </div>
-  </div>
-  <div class="clearfix"></div>
-  <!-- Text-->
-  <!-- Content-->
-  <div class="column-container">
-    <div id="gallery" class="column-2 auto mt60">
-      <div class="w90r ml05r border-white">
-        <div class="img-awards-6 w100r h200 cover bg-center">
-          <div class="planet2 h60 w100">
-            <img src="img/bg/big-earth-icon.png" class="h100 w100 icon icon-contacts">
-          </div>
+        <div class="column-offset line-h20 size-14">
+          <p class="pt05r weight-300">
+            <span class="bold">О премии:</span> SPEAR'S Russia Wealth Management Awards - ежегодная gремия для лучших представителей индустрии частного банковского обслуживания, управления большими капиталами и смежных индустрий. Организатором выступает первый в России специализированный портал тематики private banking & wealth management, наиболее авторитетный и влиятельный журнал для богатейших людей планеты.
+          </p>
+          <p class="pt05r weight-300"> 
+            <a class="color-teal light-gray-hover" href="http://awards2013.pbwm.ru/awards/winners">http://awards2013.pbwm.ru/awards/winners</a>
+          </p>
         </div>
-        <div class="mt5 bg-grey3">
-          <div class="text-center color-white size-12 line-h26 pt10 pb20 h40 uppercase">
-            <div class="w90r auto">
-              «ЭКСПЕРТ РА»</br>
-              РЕЙТИНГ НАДЕЖНОСТИ «А», 2014
+      </div>
+      <div class="clerfix"></div>
+      <div class="column-2 pt05r">
+        <div class="column-offset border-white">
+          <div class="img-awards-6 w100r h200 cover bg-center">
+            <div class="planet2 h60 w100">
+              <img src="img/bg/big-earth-icon.png" class="h100 w100 icon icon-contacts">
+            </div>
+          </div>
+          <div class="mt5 bg-grey3 text-center">
+            <div class="pt03r pb01r pl05r pr05r">
+              <span class="color-white size-12 uppercase">«ЭКСПЕРТ РА»</span>
+            </div>
+            <div class="pt03r pb03r pl05r pr05r">
+              <span class="text-center color-white size-12 uppercase">РЕЙТИНГ НАДЕЖНОСТИ «А», 2014</span>
             </div>
           </div>
         </div>
-      </div>
-    </div>
-  </div>
-  <div class="column-container">
-    <div id="gallery" class="column-2 auto mt60">
-      <div class="w90r ml05r border-white">
-        <div class="img-awards-7 w100r h200 cover bg-center">
-          <div class="planet2 h60 w100">
-            <img src="img/bg/big-earth-icon.png" class="h100 w100 icon icon-contacts">
-          </div>
+        <div class="column-offset line-h20 size-14">
+          <p class="pt05r weight-300">
+            <span class="bold">О рейтинге:</span> RAEX («Эксперт РА») - крупнейшее в России международное рейтинговое агентство. «Эксперт РА» является лидером в области рейтингования, а также исследовательско-коммуникационной деятельности.
+          </p>
+          <p class="pt05r weight-300"> 
+            <a class="color-teal light-gray-hover" href="http://www.raexpert.ru">http://www.raexpert.ru</a>
+          </p>
         </div>
-        <div class="mt5 bg-grey3">
-          <div class="text-center color-white size-12 line-h26 pt10 pb20 h40 uppercase">
-            <div class="w90r auto">
-              «СТАРТ ГОДА 2013»</br>
-              SPEAR'S RUSSIA WEALTH MANAGEMENT AWARDS
+      </div>
+      <div class="column-2 pt05r">
+        <div class="column-offset border-white">
+          <div class="img-awards-7 w100r h200 cover bg-center">
+            <div class="planet2 h60 w100">
+              <img src="img/bg/big-earth-icon.png" class="h100 w100 icon icon-contacts">
+            </div>
+          </div>
+          <div class="mt5 bg-grey3 text-center">
+            <div class="pt03r pb01r pl05r pr05r">
+              <span class="color-white size-12 uppercase">«СТАРТ ГОДА 2013»</span>
+            </div>
+            <div class="pt03r pb03r pl05r pr05r">
+              <span class="text-center color-white size-12 uppercase">SPEAR'S RUSSIA WEALTH MANAGEMENT AWARDS</span>
             </div>
           </div>
         </div>
+        <div class="column-offset line-h20 size-14">
+          <p class="pt05r weight-300">
+            <span class="bold">О премии:</span> SPEAR'S Russia Wealth Management Awards - ежегодная gремия для лучших представителей индустрии частного банковского обслуживания, управления большими капиталами и смежных индустрий. Организатором выступает первый в России специализированный портал тематики private banking & wealth management, наиболее авторитетный и влиятельный журнал для богатейших людей планеты.
+          </p>
+          <p class="pt05r weight-300"> 
+            <a class="color-teal light-gray-hover" href="http://awards2013.pbwm.ru/awards/winners">http://awards2013.pbwm.ru/awards/winners</a>
+          </p>
+        </div>
       </div>
     </div>
-  </div>
-  <div class="clearfix"></div>
-  <!-- Content-->
-  <!-- Text-->
-  <div class="column-container">
-    <div class="column-offset w100r auto line-h20 size-14">
-      <div class="column-2">
-        <p class="mt20 ml05r mr05r size-14 weight-300"><span class="bold">О рейтинге:</span> RAEX («Эксперт РА») - крупнейшее в России международное рейтинговое агентство. «Эксперт РА» является лидером в области рейтингования, а также исследовательско-коммуникационной деятельности.</p>
-        
-        <p class="mt20 ml05r mr05r size-14 weight-300"> <a class="color-teal light-gray-hover" href="http://www.raexpert.ru">http://www.raexpert.ru</a></p>
-      </div>
-      <div class="column-2">
-        <p class="mt20 ml05r mr05r size-14 weight-300"><span class="bold">О премии:</span> SPEAR'S Russia Wealth Management Awards - ежегодная gремия для лучших представителей индустрии частного банковского обслуживания, управления большими капиталами и смежных индустрий. Организатором выступает первый в России специализированный портал тематики private banking & wealth management, наиболее авторитетный и влиятельный журнал для богатейших людей планеты.</p>
-        
-        <p class="mt20 ml05r mr05r size-14 weight-300"> <a class="color-teal light-gray-hover" href="http://awards2013.pbwm.ru/awards/winners">http://awards2013.pbwm.ru/awards/winners</a></p>
-      </div>
-    </div>
-  </div>
-  <!-- Text-->
-  <!-- FOOTER BLOCK -->
+    <div class="clearfix"></div>
+    <!-- /CONTENT -->
+    <!-- FOOTER BLOCK -->
     <div class="clearfix"></div>
     <div class="w100r">
-          <div class="text-center pt05r">
-            <img src="img/icons/icon-lighthouse.svg" class="icon icon-main"><br>
-            <a href="/company.php" class="size-12 line-h40 uppercase">Компания</a>
-          </div>	  
+      <div class="text-center pt05r">
+        <img src="img/icons/icon-lighthouse.svg" class="icon icon-main"><br>
+        <a href="/company.php" class="size-12 line-h40 uppercase">Компания</a>
+      </div>	  
     </div>		
     <!-- /FOOTER BLOCK -->
-  <div class="clearfix"></div>
-  <?php include 'html/footer.html';?>
-  <script src="/js/jquery.min.js"></script>
-  <script src="/js/main.js"></script>
-</body>
+    <div class="clearfix"></div>
+    <?php include 'html/footer.html';?>
+    <script src="/js/jquery.min.js"></script>
+    <script src="/js/main.js"></script>
+  </body>
 </html>

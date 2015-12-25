@@ -27,6 +27,14 @@
     .column-3 .column-offset{
         margin:0 7.5%;
     }
+    .column-3-1{
+        float:left;
+        width:33.333%;
+    }
+    .column-3-2{
+        float:left;
+        width:66.666%;
+    }
     .column-4{
         float:left;
         width:25%;
@@ -34,6 +42,7 @@
     .column-4 .column-offset{
         margin:0 5%;
     }
+    .mobile{display:none;}
 }
 @media screen and (max-width: 1200px) {
     .container-wide {
@@ -64,6 +73,14 @@
     .column-3 .column-offset{
         margin:0 7.5%;
     }
+    .column-3-1{
+        float:left;
+        width:40%;
+    }
+    .column-3-2{
+        float:left;
+        width:60%;
+    }
     .column-4{
         float:left;
         width:25%;
@@ -72,6 +89,7 @@
         margin:0 5%;
     }
     .no-tablet-h{display:none;}
+    .mobile{display:none;}
 }
 @media screen and (max-width: 768px) {
     .container-wide {
@@ -102,6 +120,14 @@
     .column-3 .column-offset{
         margin:0 2.5%;
     }
+    .column-3-1{
+        float:left;
+        width:100%;
+    }
+    .column-3-2{
+        float:left;
+        width:100%;
+    }
     .column-4{
         float:left;
         width:100%;
@@ -110,6 +136,7 @@
         margin:0 5%;
     }
     .no-tablet-v{display:none;}
+    .mobile{display:none;}
     #gallery .gallery-offset{
         width:95%;
         margin-left:2.5%;
@@ -157,6 +184,7 @@
         margin:0 2.5%;
     }
     .no-mobile{display:none;}
+    .mobile{display:block;}
     #gallery .gallery-offset{
         width:95%;
         margin-left:2.5%;
@@ -204,6 +232,7 @@
         margin:0 7.5%;
     }
     .no-mobile{display:none;}
+    .mobile{display:block;}
     #gallery .gallery-offset{
         width:95%;
         margin-left:2.5%;
