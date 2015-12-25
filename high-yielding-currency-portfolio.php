@@ -78,7 +78,7 @@
             <div class="w85r auto size-12 color-grey1 uppercase mt30">
               <ul>
                 <li class="inline">
-                  <a class="size-12" href="/services.php"> УСЛУГИ </a>
+                  <a class="size-12" href="/service.php"> УСЛУГИ </a>
                   <span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span>
                 </li>
                 <li class="inline">
@@ -318,8 +318,8 @@
 		<img src="img/icons/icon-lighthouse.svg" class="icon icon-main">
 	</div>
 	<div class="text-center pt01r">
-		<a href="/services.php"><span class="size-14"> < </span></a>
-		<a href="/services.php" class="size-12 line-h40 uppercase">УСЛУГИ</a> <span class="color-teal size-10">•︎</span> 
+		<a href="/service.php"><span class="size-14"> < </span></a>
+		<a href="/service.php" class="size-12 line-h40 uppercase">УСЛУГИ</a> <span class="color-teal size-10">•︎</span> 
 		<a href="/asset-management.php" class="size-12 line-h40 uppercase">ДОВЕРИТЕЛЬНОЕ УПРАВЛЕНИЕ</a>
 		<a href="/asset-management.php"><span class="size-14"> > </span></a>
 	</div>

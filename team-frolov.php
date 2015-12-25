@@ -21,115 +21,130 @@
   </head>
   <body>
     <?php include 'html/header.html';?>
-    <div id="cover" class="img-team-frolov-1 cover w100r h480 mt-80" style="background-position: right top;">
-      <div class="column-container h30" style="position:relative;top:450px;">
-        <div class="column-2">
-          <div class="column-offset h30 mt0 bg-white" style="margin-top:0;">
-          </div>
-        </div>
-        <div class="column-2 no-mobile no-tablet-v">
-          <div class="column-offset h30 mt0 bg-white" style="margin-top:0;">
-          </div>
-        </div>
+    <!-- HEADBLOCK -->
+      <div id="cover" 
+            class="img-team-frolov-1 cover w100r h400 mt-80" 
+            style="background-position: right bottom;">
+        
       </div>
-    </div>
-    <div class="column-container">
-      <div class="column-2">
-        <div class="column-offset" style="margin-top:0;">
-          <div class="mt35 auto text-center size-8 line-h24 uppercase">
-            <p class="w15r ml025r mr025r l auto">
-              <a href="/events.php">
-                <img src="img/icons/icon-menu-processes.svg" class="icon icon-menu w100r"><br>
-                события
-              </a>
-            </p>
-            <p class="w15r ml025r mr025r l auto">
-              <a href="#">
-                <img src="img/icons/icon-menu-call.svg" class="icon icon-menu w100r"><br>
-                звонок
-              </a>
-            </p>
-            <p class="w15r ml025r mr025r l auto">
-              <a href="/service.php">
-                <img src="img/icons/icon-menu-services.svg" class="icon icon-menu w100r"><br>
-                услуги
-              </a>
-            </p>
-            <p class="w15r ml025r mr025r l auto">
-              <a href="/branch-office.php">
-                <img src="img/icons/icon-menu-affiliates.svg" class="icon icon-menu w100r"><br>
-                филиалы
-              </a>
-            </p>
-            <p class="w15r ml025r mr025r l auto">
-              <a href="#">
-                <img src="img/icons/icon-menu-mail.svg" class="icon icon-menu w100r"><br>
-                почта
-              </a>
-            </p>
+      <div class="column-container">
+        <div class="column-2 content-margin text-center size-8 line-h24 uppercase">
+          <div class="column-offset bg-white pt05r">
+            <ul>
+              <li class="w15r ml025r mr025r l auto">
+                <a href="/events.php">
+                  <img src="img/icons/icon-menu-processes.svg" class="icon icon-menu w100r"><br>
+                  <span> события </span>
+                </a>
+              </li>
+              <li class="w15r ml025r mr025r l auto">
+                <a href="#">
+                  <img src="img/icons/icon-menu-call.svg" class="icon icon-menu w100r"><br>
+                  <span> звонок </span>
+                </a>
+              </li>
+              <li class="w15r ml025r mr025r l auto">
+                <a href="/service.php">
+                  <img src="img/icons/icon-menu-services.svg" class="icon icon-menu w100r"><br>
+                  <span> услуги </span>
+                </a>
+              </li>
+              <li class="w15r ml025r mr025r l auto">
+                <a href="/branch-office.php">
+                  <img src="img/icons/icon-menu-affiliates.svg" class="icon icon-menu w100r"><br>
+                  <span> филиалы </span>
+                </a>
+              </li>
+              <li class="w15r ml025r mr025r l auto">
+                <a href="#">
+                  <img src="img/icons/icon-menu-mail.svg" class="icon icon-menu w100r"><br>
+                  <span> почта </span>
+                </a>
+              </li>
+            </ul>
             <div class="clearfix"></div>
-            <div class="size-14 color-teal line-h70 mt10 weight-300">
-              +7 (495) 123 45 67 <span class="color-grey1 ml005r mr005r"> ~ </span> INVEST@QBFIN.RU
+            <div class="size-14 color-teal line-h50 mt10">
+              <span class="weight-300"> +7 (495) 123 45 67 </span> 
+              <span class="color-grey1 ml005r mr005r"> ~ </span> 
+              <span class="weight-300"> INVEST@QBFIN.RU </span>
             </div>
             <table class="w85r auto mt15">
-              <tbody><tr>
+              <tr>
                 <td class="line-black"></td>
                 <td class="line-gray"></td>
                 <td class="line-teal"></td>
               </tr>
-            </tbody>
-          </table>
-          <div class="w85r auto size-12 color-grey1 uppercase mt30">
-            <a class="size-12" href="/company.php">КОМПАНИЯ</a>
-            <span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span>
-            <a href="/about.php">О НАС</a>
-            <span class="color-teal">•</span>
-            <a href="/mission.php">МИССИЯ И ЦЕННОСТИ</a>
-            <span class="color-teal">•</span>
-            <a href="/history.php">ИСТОРИЯ</a>
-            <span class="color-teal">•</span>
-            <a href="/team.php">РУКОВОДСТВО</a>
-            <span class="color-teal">•</span>
-            <a href="/clients-and-partners.php">КЛИЕНТЫ И ПАРТНЕРЫ</a>
-            <span class="color-teal">•</span>
-            <a href="/awards-and-ratings.php">НАГРАДЫ И РЕЙТИНГИ</a>
-            <span class="color-teal">•</span>
-            <a href="/branch-office.php">ФИЛИАЛЫ</a>
-            <span class="color-teal">•</span>
-            <a href="/documents.php">ДОКУМЕНТЫ</a>
-          </div>
+            </table>
+            <div class="w85r auto size-12 color-grey1 uppercase mt30">
+              <ul>
+                <li class="inline">
+                  <a class="size-12" href="/company.php"> КОМПАНИЯ </a>
+                  <span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span>
+                </li>
+                <li class="inline">
+                  <a href="/about.php"> О НАС </a>
+                  <span class="color-teal"> • </span>
+                </li>
+                <li class="inline">
+                  <a href="/mission.php"> МИССИЯ И ЦЕННОСТИ </a>
+                  <span class="color-teal"> • </span>
+                </li>
+                <li class="inline">
+                  <a href="/history.php"> ИСТОРИЯ </a>
+                  <span class="color-teal"> • </span>
+                </li>
+                <li class="inline">
+                  <a href="/team.php"> РУКОВОДСТВО </a>
+                  <span class="color-teal"> • </span>
+                </li>
+                <li class="inline">
+                  <a href="/clients-and-partners.php"> КЛИЕНТЫ И ПАРТНЕРЫ </a>
+                  <span class="color-teal">•</span>
+                </li>
+                <li class="inline">
+                  <a href="/awards-and-ratings.php"> НАГРАДЫ И РЕЙТИНГИ </a>
+                  <span class="color-teal">•</span>
+                </li>
+                <li class="inline">
+                  <a href="/branch-office.php"> ФИЛИАЛЫ </a>
+                  <span class="color-teal"> • </span>
+                </li>
+                <li class="inline">
+                  <a href="/documents.php"> ДОКУМЕНТЫ </a>
+                </li>
+              </ul>
+            </div> 
         </div>
       </div>
-    </div>
-    <div class="column-2">
-      <div class="column-offset h30 bg-white" style="margin-top:0;">
-        <div class="w85r auto">
-          <h2 class="size-18 color-teal uppercase text-center line-h110">РУКОВОДСТВО</h2>
-          <p class="size-11 line-h20 bold text-center">
-            ВЛАДИМИР ФРОЛОВ - ГЕНЕРАЛЬНЫЙ ДИРЕКТОР КОМПАНИИ
+      <div class="column-2 content-margin">
+        <div class="column-offset bg-white text-center pt05r">
+          <h2 class="size-18 line-h50 color-teal uppercase"> РУКОВОДСТВО </h2>
+          <p class="size-11 line-h20 text-center mt30 pl05r pr05r">
+		  <span class="bold"> ВЛАДИМИР ФРОЛОВ - ГЕНЕРАЛЬНЫЙ ДИРЕКТОР КОМПАНИИ </span>
           </p>
-          <div class="w70r mt50 text-center auto">
-            <p class="w20r ml025r mr025r l auto">
-              <a href="http://twitter.com/qb_finance" target="_blank"><img alt="twitter" src="img/icons/icon-twitter.svg" class="icon icon-social"></a>
-            </p>
-            <p class="w20r ml025r mr025r l auto">
-              <a href="http://www.facebook.com/qbfin.ru" target="_blank"><img alt="facebook" src="img/icons/icon-facebook.svg" class="icon icon-social"></a>
-            </p>
-            <p class="w20r ml025r mr025r l auto">
-              <a href="http://www.linkedin.com/company/qb-finance" target="_blank"><img alt="linkedin" src="img/icons/icon-linkedin.svg" class="icon icon-social"></a>
-            </p>
-            <p class="w20r ml025r mr025r l auto">
-              <a href="http://www.google.com/+QbfinRu" target="_blank"><img alt="google" src="img/icons/icon-google.svg" class="icon icon-social"></a>
-            </p>
+          <div class="w100r mt05r text-center">
+            <ul class="social-offset auto">
+              <li class="w25r l">
+                <a href="http://twitter.com/qb_finance" target="_blank"><img alt="twitter" src="img/icons/icon-twitter.svg" class="icon icon-social"></a>
+              </li>
+              <li class="w25r l">
+                <a href="http://www.facebook.com/qbfin.ru" target="_blank"><img alt="facebook" src="img/icons/icon-facebook.svg" class="icon icon-social"></a>
+              </li>
+              <li class="w25r l">
+                <a href="http://www.linkedin.com/company/qb-finance" target="_blank"><img alt="linkedin" src="img/icons/icon-linkedin.svg" class="icon icon-social"></a>
+              </li>
+              <li class="w25r l">
+                <a href="http://www.google.com/+QbfinRu" target="_blank"><img alt="google" src="img/icons/icon-google.svg" class="icon icon-social"></a>
+              </li>
+            </ul>
           </div>
-          <div class="clearfix"></div>
         </div>
       </div>
     </div>
-  </div>
+    <!-- /HEADBLOCK -->
   <div class="clearfix"></div>
   <!--Text-->
-  <div class="column-container size-14 line-h20">
+  <div class="column-container size-14 line-h20 pt05r">
     <div class="column-2">
       <p class="mt100 ml07r mr10r size-14 weight-300"><span class="bold">З</span>адача сохранения и приумножения капитала остается одной из самых важных для каждого из нас и, принимая решение о размещении средств, мы хотим быть уверены в правильности своего выбора.</p>
       <p class="mt20 ml07r mr10r size-14 weight-300">Проанализировав российский рынок инвестиционных услуг, с полной уверенностью могу сказать, что начало работы с нашей компанией - правильный выбор для клиента. Почему? Вот несколько из основных причин:</p>
@@ -151,14 +166,18 @@
         <span class="bold">Владимир Фролов</span>, Генеральный директор</p>
       </div>
     </div>
-    <div class="clearfix"></div>
     <!--Text-->
+	<!-- FOOTER BLOCK -->
+    <div class="clearfix"></div>
     <div class="w100r">
-      <div class="text-center mt80">
-        <img src="img/icons/icon-lighthouse.svg" class="icon icon-main"><br>
-        <a href="/company.php"><span class="size-14">< </span></a><a href="/company.php" class="size-12 line-h40 uppercase">Компания</a> <span class="color-teal size-10">•︎</span> <a href="/team.php" class="size-12 line-h40 uppercase">Руководство</a><a href="/team.php"><span class="size-14"> ></span>
-      </div>
-    </div>
+          <div class="text-center pt05r">
+            <img src="img/icons/icon-lighthouse.svg" class="icon icon-main"><br>
+            <a href="/company.php"><span class="size-14">< </span></a><a href="/company.php" class="size-12 line-h40 uppercase">Компания</a>
+			<span class="color-teal size-10">•︎</span> 
+			<a href="/team.php" class="size-12 line-h40 uppercase">Руководство</a><a href="/team.php"><span class="size-14"> ></span>
+          </div>	  
+    </div>		
+    <!-- /FOOTER BLOCK -->
     <div class="clearfix"></div>
     <?php include 'html/footer.html';?>
     <script src="/js/jquery.min.js"></script>

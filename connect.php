@@ -21,7 +21,7 @@
   </head>
   <body>
     <?php include 'html/header.html';?>
-    <<!-- HEADBLOCK -->
+    <!-- HEADBLOCK -->
       <div id="cover" 
             class="img-connect-1 cover w100r h400 mt-80" 
             style="background-position: center bottom;">
@@ -111,7 +111,7 @@
         </div>
       </div>
     </div>
-    <!-- /HEADBLOCK -->>
+    <!-- /HEADBLOCK -->
   <div class="clearfix"></div>
   <!-- CONTENT -->
   <div id="gallery" class="column-container pt05r">
