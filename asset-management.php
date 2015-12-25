@@ -100,7 +100,7 @@
         <div class="column-offset bg-white text-center pt05r">
           <h2 class="size-18 line-h50 color-teal uppercase"> ДОВЕРИТЕЛЬНОЕ УПРАВЛЕНИЕ </h2>
           <p class="size-11 line-h20 text-justify mt30 pl05r pr05r">
-		  <span class="bold"> ДОВЕРИТЕЛЬНОЕ УПРАВЛЕНИЕ АКТИВАМИ - ЛИЦЕНЗИРОВАННЫЙ ПРОЦЕСС УПРАВЛЕНИЯ ДЕНЕЖНЫМИ СРЕДСТВАМИ ИЛИ ЦЕННЫМИ БУМАГАМИ КЛИЕНТОВ, ПЕРЕДАННЫМИ ПРОФЕССИОНАЛЬНОМУ УПРАВЛЯЮЩЕМУ ДЛЯ ИНВЕСТИРОВАНИЯ НА ФИНАНСОВОМ РЫНКЕ, С ЦЕЛЬЮ ПОЛУЧЕНИЯ ДОХОДОВ ДЛЯ КЛИЕНТА. </span>
+		        <span class="bold"> ДОВЕРИТЕЛЬНОЕ УПРАВЛЕНИЕ АКТИВАМИ - ЛИЦЕНЗИРОВАННЫЙ ПРОЦЕСС УПРАВЛЕНИЯ ДЕНЕЖНЫМИ СРЕДСТВАМИ ИЛИ ЦЕННЫМИ БУМАГАМИ КЛИЕНТОВ, ПЕРЕДАННЫМИ ПРОФЕССИОНАЛЬНОМУ УПРАВЛЯЮЩЕМУ ДЛЯ ИНВЕСТИРОВАНИЯ НА ФИНАНСОВОМ РЫНКЕ, С ЦЕЛЬЮ ПОЛУЧЕНИЯ ДОХОДОВ ДЛЯ КЛИЕНТА. </span>
           </p>
           <div class="w100r mt05r text-center">
             <ul class="social-offset auto">
@@ -122,20 +122,24 @@
       </div>
     </div>
     <!-- /HEADBLOCK -->
- <div class="clearfix"></div> 
-  <!-- Text-->
-  <div class="column-container pt05r">
-    <div class="column-offset w93r auto line-h20 size-14">
-      <div class="column-2">
-        <p class="mt20 ml05r mr05r size-14 weight-300"><span class="bold">И</span>нвестиционная компания QBF ||| investment предлагает три стратегии доверительного управления финансовыми активами: <a href="/high-yield-strategy.php" class="color-gray light-gray-hover italic">высокодоходная,</a> <a href="/weighted-average-strategy.php" class="color-gray light-gray-hover italic">средневзвешенная и</a> <a href="/conservative-strategy.php" class="color-gray light-gray-hover italic">консервативная стратегия.</a></p>
-        
-        <p class="mt20 ml05r mr05r size-14 weight-300">Мы также предоставляем клиентам два варианта стратегии защиты рублевых активов: <a href="/strategy-for-the-protection-of-ruble-assets.php" class="color-gray light-gray-hover italic">депозитный средневзвешенный портфель и хеджирование рублевых рисков.</a></p>
+    <div class="clearfix"></div> 
+    <!-- CONTENT -->
+    <div class="column-container pt05r">
+      <div class="column-2 line-h20 size-14">
+        <div class="column-offset">
+          <p class="mt20 ml05r mr05r size-14 weight-300">
+            <span class="bold">И</span>нвестиционная компания QBF ||| investment предлагает три стратегии доверительного управления финансовыми активами: <a href="/high-yield-strategy.php" class="color-gray light-gray-hover italic">высокодоходная,</a> <a href="/weighted-average-strategy.php" class="color-gray light-gray-hover italic">средневзвешенная и</a> <a href="/conservative-strategy.php" class="color-gray light-gray-hover italic">консервативная стратегия.</a>
+          </p>
+          <p class="mt20 ml05r mr05r size-14 weight-300">
+            Мы также предоставляем клиентам два варианта стратегии защиты рублевых активов: <a href="/strategy-for-the-protection-of-ruble-assets.php" class="color-gray light-gray-hover italic">депозитный средневзвешенный портфель и хеджирование рублевых рисков.</a>
+          </p>
+        </div>
       </div>
       <div class="column-2">
-        <div class="column-offset w93r">
+        <div class="column-offset">
           <div class="border-left-lightgray border-right-lightgray">
-            <div class="ml05r mr05r pt05r pb05r">
-              <p class="ml025r mr025r mt20 line-h24 size-12 color-teal">
+            <div class="mt05r ml05r mr05r pt05r pb05r">
+              <p class="ml025r mr025r mt20 line-h24 size-12 color-teal weight-300">
                 В ЗАВИСИМОСТИ ОТ ПОСТАВЛЕННЫХ ЗАДАЧ, НАШИ СПЕЦИАЛИСТЫ ПОМОГУТ ВЫБРАТЬ НАИБОЛЕЕ ПОДХОДЯЩУЮ ДЛЯ ВАС СТРАТЕГИЮ
               </p>
               <p class="ml025r mr025r mt20 line-h16 size-14 text-center">
@@ -146,77 +150,76 @@
         </div>
       </div>
     </div>
-  </div>
-  <div class="clearfix"></div>
-  <!-- Text-->
-  <div id="parallax-menu" class="img-asset-management-2 w100r mt80 cover bg-center fixed" style="background-attachment: fixed;">
-    <div class="label w90r auto bg bg-label text-center uppercase">
-      <div class="column-4">
-        <div class="ml05r mr05r mt30">
-          <img src="img/icons/icon-reit-sentence.svg" class="icon icon-services w90 h90">
-          <div class="mt10 border-darkgray-top border-darkgray-bottom blue-block-hover">
-            <div class="size-11 line-h18 mt20 mb20 ml25r mr25r"><a class="color-white white-hover" href="/high-yield-strategy.php">Высокодоходная стратегия</a></div>
+    <div class="clearfix"></div>
+    <div id="parallax-menu" class="img-asset-management-2 w100r mt05r cover bg-center fixed" style="background-attachment: fixed;">
+      <div class="label w90r auto bg bg-label text-center uppercase">
+        <div class="column-4">
+          <div class="ml05r mr05r mt30">
+            <img src="img/icons/icon-reit-sentence.svg" class="icon icon-services w90 h90">
+            <div class="mt10 border-darkgray-top border-darkgray-bottom blue-block-hover">
+              <div class="size-11 line-h18 mt20 mb20 ml25r mr25r"><a class="color-white white-hover" href="/high-yield-strategy.php">Высокодоходная стратегия</a></div>
+            </div>
           </div>
         </div>
-      </div>
-      <div class="column-4">
-        <div class="ml05r mr05r mt30">
-          <img src="img/icons/icon-cogwheel.svg" class="icon icon-services w90 h90">
-          <div class="mt10 border-darkgray-top border-darkgray-bottom green-block-hover">
-            <div class="size-11 line-h18 mt20 mb20 ml25r mr25r"><a class="color-white white-hover" href="/weighted-average-strategy.php">Средневзвешенная стратегия</a></div>
+        <div class="column-4">
+          <div class="ml05r mr05r mt30">
+            <img src="img/icons/icon-cogwheel.svg" class="icon icon-services w90 h90">
+            <div class="mt10 border-darkgray-top border-darkgray-bottom green-block-hover">
+              <div class="size-11 line-h18 mt20 mb20 ml25r mr25r"><a class="color-white white-hover" href="/weighted-average-strategy.php">Средневзвешенная стратегия</a></div>
+            </div>
           </div>
         </div>
-      </div>
-      <div class="column-4">
-        <div class="ml05r mr05r mt30">
-          <img src="img/icons/icon-strongbox.svg" class="icon icon-services w90 h90">
-          <div class="mt10 border-darkgray-top border-darkgray-bottom orange-block-hover">
-            <div class="size-11 line-h18 mt20 mb20 ml25r mr25r"><a class="color-white white-hover" href="/conservative-strategy.php">Консервативная стратегия</a></div>
+        <div class="column-4">
+          <div class="ml05r mr05r mt30">
+            <img src="img/icons/icon-strongbox.svg" class="icon icon-services w90 h90">
+            <div class="mt10 border-darkgray-top border-darkgray-bottom orange-block-hover">
+              <div class="size-11 line-h18 mt20 mb20 ml25r mr25r"><a class="color-white white-hover" href="/conservative-strategy.php">Консервативная стратегия</a></div>
+            </div>
           </div>
         </div>
-      </div>
-      <div class="column-4">
-        <div class="ml05r mr05r mt30">
-          <img src="img/icons/icon-marker.svg" class="icon icon-services w90 h90">
-          <div class="mt10 border-darkgray-top border-darkgray-bottom grey-block-hover">
-            <div class="size-11 line-h18 mt20 mb20 ml25r mr25r"><a class="color-white white-hover" href="/strategy-for-the-protection-of-ruble-assets.php">Стратегия защиты активов</a></div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="clearfix"></div>
-  <!-- /ALERT -->
-  <div class="text-alert column-container mt70 w70r auto line-h20 size-14">
-    <div class="column">
-      <div class="column-offset">
-        <div class="ml15r mr15r border-left-lightgray border-right-lightgray">
-          <div class="ml05r mr05r pt03r pb03r">
-            <p class="ml025r">
-              <span class="bold">О</span>сновные достоинства Доверительного управления активами для инвесторов состоят в возможности эффективного размещения денежных средств без дополнительных собственных затрат и необходимости постоянного отслеживания рынка, анализа большого объема данных и самостоятельного совершения торговых и иных операций.
-            </p>
-            <p class="ml025r mt20 weight-300">
-              У клиентов QBF ||| investment всегда есть возможность обсудить со своим личным финансовым советником состояние портфеля и положение дел на рынке.
-            </p>
+        <div class="column-4">
+          <div class="ml05r mr05r mt30">
+            <img src="img/icons/icon-marker.svg" class="icon icon-services w90 h90">
+            <div class="mt10 border-darkgray-top border-darkgray-bottom grey-block-hover">
+              <div class="size-11 line-h18 mt20 mb20 ml25r mr25r"><a class="color-white white-hover" href="/strategy-for-the-protection-of-ruble-assets.php">Стратегия защиты активов</a></div>
+            </div>
           </div>
         </div>
       </div>
     </div>
     <div class="clearfix"></div>
-  </div>
-  <!-- /ALERT -->
-  <!-- FOOTER BLOCK -->
+    <!-- CONTENT -->
+    <!-- CONTENT-2 -->
+    <div class="text-alert column-container pt05r line-h20 size-14">
+      <div class="column">
+        <div class="column-offset">
+          <div class="border-left-lightgray border-right-lightgray">
+            <div class="ml05r mr05r pt03r pb03r">
+              <p class="ml025r">
+                <span class="bold">О</span>сновные достоинства Доверительного управления активами для инвесторов состоят в возможности эффективного размещения денежных средств без дополнительных собственных затрат и необходимости постоянного отслеживания рынка, анализа большого объема данных и самостоятельного совершения торговых и иных операций.
+              </p>
+              <p class="ml025r mt20 weight-300">
+                У клиентов QBF ||| investment всегда есть возможность обсудить со своим личным финансовым советником состояние портфеля и положение дел на рынке.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="clearfix"></div>
+    </div>
+    <!-- /CONTENT-2 -->
+    <!-- FOOTER BLOCK -->
     <div class="clearfix"></div>
     <div class="w100r">
-          <div class="text-center pt05r">
-            <img src="img/icons/icon-lighthouse.svg" class="icon icon-main"><br>
-            <a href="/services.php" class="size-12 line-h40 uppercase">УСЛУГИ</a>
-          </div>	  
+      <div class="text-center pt05r">
+        <img src="img/icons/icon-lighthouse.svg" class="icon icon-main"><br>
+        <a href="/services.php" class="size-12 line-h40 uppercase">УСЛУГИ</a>
+      </div>	  
     </div>		
     <!-- /FOOTER BLOCK -->
-  <div class="clearfix"></div>
-  <?php include 'html/footer.html';?>
-  <script src="/js/jquery.min.js"></script>
-  <script src="/js/main.js"></script>
-</body>
+    <div class="clearfix"></div>
+    <?php include 'html/footer.html';?>
+    <script src="/js/jquery.min.js"></script>
+    <script src="/js/main.js"></script>
+  </body>
 </html>

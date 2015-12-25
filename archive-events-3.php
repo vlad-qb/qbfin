@@ -153,32 +153,31 @@
     </div>
   </div>
   <div class="clearfix"></div>
-  <div class="column-2 mt50">
-    <div class="gallery-offset w85r line-h24 size-14 ml05r mr20r">
-      <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">07.12.2013</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2792106" class="gray-hover">Встреча с президентом ФУ при правительстве РФ</a></h4>
-      <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">06.12.2013</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2790799" class="gray-hover">QB Finance - лауреат премии SPEAR'S Russia Wealth Management Awards 2013</a></h4>
-      <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">07.10.2013</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2790762" class="gray-hover">QB Finance участвует в Spear's Russia WMA 2013</a></h4>
-      <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">24.09.2013</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2758982" class="gray-hover">Эксперты QB Finance на портале «Банки.ру»</a></h4>
-      <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">10.07.2013</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2758982" class="gray-hover">Партнерское соглашение с компанией Apex Capital Partners Corp.</a></h4>
-      <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">10.07.2013</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2759058" class="gray-hover">Открытие сезона в гольф-клубе «Целеево»</a></h4>
-      <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">27.05.2013</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2759013" class="gray-hover">Презентация филиала QB Finance в Белгороде - II раунд</a></h4>
-      <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">20.05.2013</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2758982" class="gray-hover">QB Finance Ukraine порадует жителей элитного коттеджного комплекса</a></h4>
-      <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">16.05.2013</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2758982" class="gray-hover">QB Finance поддержит открытие сезона 2013 Гольф-клуба «Целеево»!</a></h4>
+  <div class="column-2">
+    <div class="gallery-offset w85r line-h26 size-14 ml05r mr20r">
+      <h4 class="size-14 ml05r weight-300"><span class="color-teal weight-300">07.12.2013</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2792106" class="gray-hover">Встреча с президентом ФУ при правительстве РФ</a></h4>
+      <h4 class="size-14 ml05r weight-300"><span class="color-teal weight-300">06.12.2013</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2790799" class="gray-hover">QB Finance - лауреат премии SPEAR'S Russia Wealth Management Awards 2013</a></h4>
+      <h4 class="size-14 ml05r weight-300"><span class="color-teal weight-300">07.10.2013</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2790762" class="gray-hover">QB Finance участвует в Spear's Russia WMA 2013</a></h4>
+      <h4 class="size-14 ml05r weight-300"><span class="color-teal weight-300">24.09.2013</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2758982" class="gray-hover">Эксперты QB Finance на портале «Банки.ру»</a></h4>
+      <h4 class="size-14 ml05r weight-300"><span class="color-teal weight-300">10.07.2013</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2758982" class="gray-hover">Партнерское соглашение с компанией Apex Capital Partners Corp.</a></h4>
+      <h4 class="size-14 ml05r weight-300"><span class="color-teal weight-300">10.07.2013</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2759058" class="gray-hover">Открытие сезона в гольф-клубе «Целеево»</a></h4>
+      <h4 class="size-14 ml05r weight-300"><span class="color-teal weight-300">27.05.2013</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2759013" class="gray-hover">Презентация филиала QB Finance в Белгороде - II раунд</a></h4>
+      <h4 class="size-14 ml05r weight-300"><span class="color-teal weight-300">20.05.2013</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2758982" class="gray-hover">QB Finance Ukraine порадует жителей элитного коттеджного комплекса</a></h4>
+      <h4 class="size-14 ml05r weight-300"><span class="color-teal weight-300">16.05.2013</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2758982" class="gray-hover">QB Finance поддержит открытие сезона 2013 Гольф-клуба «Целеево»!</a></h4>
     </div>
   </div>
-  <div class="column-2 mt50">
-    <div class="gallery-offset w85r line-h24 size-14 ml05r mr20r">
-      <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">07.05.2013</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2759922" class="gray-hover">Стартует следующий этап презентации отдела алгоритмической торговли компании QB Finance!</a></h4>
-      <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">25.04.2013</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2759058" class="gray-hover">Презентация филиала инвестиционной компании QB Finance в Белгороде</a></h4>
-      <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">20.04.2013</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2759058" class="gray-hover">Чемпионат Краснодарского края по мотокроссу и этап Чемпионата Европы по мотокроссу</a></h4>
-      <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">12.04.2013</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2758982" class="gray-hover">Конференция «Управление частым капиталом и Private Banking» в отеле «Балчуг Кемпински»</a></h4>
-      <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">11.04.2013</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2759058" class="gray-hover">Конференция - FinPlace</a></h4>
-      <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">31.03.2013</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2759013" class="gray-hover">31 марта в "Метелице" состоялась закрытая презентация джазового альбома Сергея Минаева</a></h4>
-      <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">01.03.2013</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2758982" class="gray-hover">QB Finance - Лучший работодатель России!</a></h4>
+  <div class="column-2">
+    <div class="gallery-offset w85r line-h26 size-14 ml05r mr20r">
+      <h4 class="size-14 ml05r weight-300"><span class="color-teal weight-300">07.05.2013</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2759922" class="gray-hover">Стартует следующий этап презентации отдела алгоритмической торговли компании QB Finance!</a></h4>
+      <h4 class="size-14 ml05r weight-300"><span class="color-teal weight-300">25.04.2013</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2759058" class="gray-hover">Презентация филиала инвестиционной компании QB Finance в Белгороде</a></h4>
+      <h4 class="size-14 ml05r weight-300"><span class="color-teal weight-300">20.04.2013</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2759058" class="gray-hover">Чемпионат Краснодарского края по мотокроссу и этап Чемпионата Европы по мотокроссу</a></h4>
+      <h4 class="size-14 ml05r weight-300"><span class="color-teal weight-300">12.04.2013</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2758982" class="gray-hover">Конференция «Управление частым капиталом и Private Banking» в отеле «Балчуг Кемпински»</a></h4>
+      <h4 class="size-14 ml05r weight-300"><span class="color-teal weight-300">11.04.2013</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2759058" class="gray-hover">Конференция - FinPlace</a></h4>
+      <h4 class="size-14 ml05r weight-300"><span class="color-teal weight-300">31.03.2013</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2759013" class="gray-hover">31 марта в "Метелице" состоялась закрытая презентация джазового альбома Сергея Минаева</a></h4>
+      <h4 class="size-14 ml05r weight-300"><span class="color-teal weight-300">01.03.2013</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2758982" class="gray-hover">QB Finance - Лучший работодатель России!</a></h4>
     </div>
   </div>
   <div class="clearfix"></div>
-  
     <div class="gallery-offset w85r auto pt05r pb02r">
       <h3 class="text-center size-18">
         <div class="w288 h40 line-h40 auto bg-white weight-300">
@@ -191,22 +190,23 @@
       </h3>
       <div class="title-line-gray2"></div>
     </div>
+    <!-- /CONTENT -->
     <div class="clearfix"></div>
-<!-- FOOTER BLOCK -->
+    <!-- FOOTER BLOCK -->
     <div class="clearfix"></div>
     <div class="text-center pt03r">
       <img src="img/icons/icon-lighthouse.svg" class="icon icon-main">
     </div>
     <div class="text-center pt01r">
       <a href="/news.php"><span class="size-14"> < </span></a>
-      <a href="/news.php" class="size-12 line-h40 uppercase">Новости</a> <span class="color-teal size-10">•︎</span> 
+      <a href="/news.php" class="size-12 line-h40 uppercase"> НОВОСТИ </a> <span class="color-teal size-10"> •︎ </span> 
       <a href="/events.php" class="size-12 line-h40 uppercase">СОБЫТИЯ</a>
       <a href="/events.php"><span class="size-14"> > </span></a>
     </div>
     <!-- /FOOTER BLOCK -->
-<div class="clearfix"></div>
-<?php include 'html/footer.html';?>
-<script src="/js/jquery.min.js"></script>
-<script src="/js/main.js"></script>
-</body>
+    <div class="clearfix"></div>
+    <?php include 'html/footer.html';?>
+    <script src="/js/jquery.min.js"></script>
+    <script src="/js/main.js"></script>
+  </body>
 </html>

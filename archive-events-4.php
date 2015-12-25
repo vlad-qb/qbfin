@@ -153,46 +153,44 @@
     </div>
   </div>
   <div class="clearfix"></div>
-  
-  <div class="gallery-offset w95r auto mt50">
+  <div class="gallery-offset w95r auto pt05r pb02r">
     <h3 class="text-center size-18"><div class="w288 h40 line-h40 auto bg-white weight-300 uppercase">Декабрь</div></h3>
     <div class="title-line-gray2"></div>
   </div>
-  <div class="column-2 mt50">
-    <div class="gallery-offset w85r line-h24 size-14 ml05r mr20r">
-      <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">31.12.2014</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2790799" class="gray-hover">В предвкушении нового QB года</a></h4>
-      <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">27.12.2014</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2790762" class="gray-hover">Новогоднее торжество QB Finance</a></h4>
-      <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">25.12.2014</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://nn.rbc.ru/nn/17/08/2015/55d1b1b19a79474458c29afd" class="gray-hover">Merry and Hopeful Christmas!</a></h4>
-      <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">24.12.2014</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2790762" class="gray-hover">Эксперты высоко оценили уровень надежности QB Finance</a></h4>
-      <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">15.12.2014</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2787793" class="gray-hover">HeadHunter объявит лучших работодателей России΄14 в марте</a></h4>
+  <div class="column-2">
+    <div class="gallery-offset w85r line-h26 size-14 ml05r mr20r">
+      <h4 class="size-14 ml05r weight-300"><span class="color-teal weight-300">31.12.2014</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2790799" class="gray-hover">В предвкушении нового QB года</a></h4>
+      <h4 class="size-14 ml05r weight-300"><span class="color-teal weight-300">27.12.2014</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2790762" class="gray-hover">Новогоднее торжество QB Finance</a></h4>
+      <h4 class="size-14 ml05r weight-300"><span class="color-teal weight-300">25.12.2014</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://nn.rbc.ru/nn/17/08/2015/55d1b1b19a79474458c29afd" class="gray-hover">Merry and Hopeful Christmas!</a></h4>
+      <h4 class="size-14 ml05r weight-300"><span class="color-teal weight-300">24.12.2014</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2790762" class="gray-hover">Эксперты высоко оценили уровень надежности QB Finance</a></h4>
+      <h4 class="size-14 ml05r weight-300"><span class="color-teal weight-300">15.12.2014</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2787793" class="gray-hover">HeadHunter объявит лучших работодателей России΄14 в марте</a></h4>
     </div>
   </div>
-  <div class="column-2 mt50">
-    <div class="gallery-offset w85r line-h24 size-14 ml05r mr20r">
-      <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">10.12.2014</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2790762" class="gray-hover">Эксклюзивные инвестиции: IPO Ferrari</a></h4>
-      <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">05.12.2014</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://nn.rbc.ru/nn/17/08/2015/55d1b1b19a79474458c29afd" class="gray-hover">QB Finance - лучшая инвестиционная компания года</a></h4>
-      <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">02.12.2014</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2790762" class="gray-hover">Церемония награждения Spear's Russia WMA'14</a></h4>
-      <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">01.12.2014</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2787793" class="gray-hover">«Harvard Business Review-Россия» расскажет о цифровых трансформациях</a></h4>
+  <div class="column-2">
+    <div class="gallery-offset w85r line-h26 size-14 ml05r mr20r">
+      <h4 class="size-14 ml05r weight-300"><span class="color-teal weight-300">10.12.2014</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2790762" class="gray-hover">Эксклюзивные инвестиции: IPO Ferrari</a></h4>
+      <h4 class="size-14 ml05r weight-300"><span class="color-teal weight-300">05.12.2014</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://nn.rbc.ru/nn/17/08/2015/55d1b1b19a79474458c29afd" class="gray-hover">QB Finance - лучшая инвестиционная компания года</a></h4>
+      <h4 class="size-14 ml05r weight-300"><span class="color-teal weight-300">02.12.2014</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2790762" class="gray-hover">Церемония награждения Spear's Russia WMA'14</a></h4>
+      <h4 class="size-14 ml05r weight-300"><span class="color-teal weight-300">01.12.2014</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2787793" class="gray-hover">«Harvard Business Review-Россия» расскажет о цифровых трансформациях</a></h4>
     </div>
   </div>
   <div class="clearfix"></div>
-  
-  <div class="gallery-offset w95r auto mt50">
+  <div class="gallery-offset w95r auto pt05r pb02r">
     <h3 class="text-center size-18"><div class="w288 h40 line-h40 auto bg-white weight-300 uppercase">Ноябрь</div></h3>
     <div class="title-line-gray2"></div>
   </div>
-  <div class="column-2 mt50">
-    <div class="gallery-offset w85r line-h24 size-14 ml05r mr20r">
-      <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">30.11.2014</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2620127" target="_blank" class="gray-hover">Перспективный Екатеринбург</a></h4>
-      <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">27.11.2014</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2618411" target="_blank" class="gray-hover">Thanksgiving Day</a></h4>
-      <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">27.11.2014</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2614016" target="_blank" class="gray-hover">День рождения президента Финансового университета при Правительстве РФ</a></h4>
-      <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">25.11.2014</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2613093" target="_blank" class="gray-hover">Частное благосостояние России проанализировали в «Сколково»</a></h4>
-      <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">22.11.2014</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2787793" target="_blank" class="gray-hover">Роберто Аланья в «Барвиха Luxury Village»</a></h4>
-      <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">15.11.2014</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2609119" target="_blank" class="gray-hover">Рождественское настроение в середине ноября</a></h4>
-      <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">12.11.2014</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2609119" target="_blank" class="gray-hover">О будущем импортозамещения в России - в ноябрьском номере Spear's</a></h4>
+  <div class="column-2">
+    <div class="gallery-offset w85r line-h26 size-14 ml05r mr20r">
+      <h4 class="size-14 ml05r weight-300"><span class="color-teal weight-300">30.11.2014</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2620127" target="_blank" class="gray-hover">Перспективный Екатеринбург</a></h4>
+      <h4 class="size-14 ml05r weight-300"><span class="color-teal weight-300">27.11.2014</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2618411" target="_blank" class="gray-hover">Thanksgiving Day</a></h4>
+      <h4 class="size-14 ml05r weight-300"><span class="color-teal weight-300">27.11.2014</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2614016" target="_blank" class="gray-hover">День рождения президента Финансового университета при Правительстве РФ</a></h4>
+      <h4 class="size-14 ml05r weight-300"><span class="color-teal weight-300">25.11.2014</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2613093" target="_blank" class="gray-hover">Частное благосостояние России проанализировали в «Сколково»</a></h4>
+      <h4 class="size-14 ml05r weight-300"><span class="color-teal weight-300">22.11.2014</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2787793" target="_blank" class="gray-hover">Роберто Аланья в «Барвиха Luxury Village»</a></h4>
+      <h4 class="size-14 ml05r weight-300"><span class="color-teal weight-300">15.11.2014</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2609119" target="_blank" class="gray-hover">Рождественское настроение в середине ноября</a></h4>
+      <h4 class="size-14 ml05r weight-300"><span class="color-teal weight-300">12.11.2014</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2609119" target="_blank" class="gray-hover">О будущем импортозамещения в России - в ноябрьском номере Spear's</a></h4>
     </div>
   </div>
-  <div class="column-2 mt50">
+  <div class="column-2">
     <div class="gallery-offset w85r line-h24 size-14 ml05r mr20r">
       <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">10.11.2014</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2620127" target="_blank" class="gray-hover">Международный финансовый форум в Москве</a></h4>
       <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">07.11.2014</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2618411" target="_blank" class="gray-hover">Инвестирование в российские ценные бумаги - конференция НАУФОР</a></h4>
@@ -202,12 +200,11 @@
     </div>
   </div>
   <div class="clearfix"></div>
-  
-  <div class="gallery-offset w95r auto mt50">
+  <div class="gallery-offset w95r auto pt05r pb02r">
     <h3 class="text-center size-18"><div class="w288 h40 line-h40 auto bg-white weight-300 uppercase">Октябрь</div></h3>
     <div class="title-line-gray2"></div>
   </div>
-  <div class="column-2 mt50">
+  <div class="column-2">
     <div class="gallery-offset w85r line-h24 size-14 ml05r mr20r">
       <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">27.10.2014</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2620127" target="_blank" class="gray-hover">Карьерный форум для молодых специалистов</a></h4>
       <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">26.10.2014</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2618411" target="_blank" class="gray-hover">Il Lago - достойное открытие летнего сезона΄15</a></h4>
@@ -215,7 +212,7 @@
       <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">13.10.2014</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2613093" target="_blank" class="gray-hover">О надежном способе сохранения капитала - в октябрьском номере Spear's</a></h4>
     </div>
   </div>
-  <div class="column-2 mt50">
+  <div class="column-2">
     <div class="gallery-offset w85r line-h24 size-14 ml05r mr20r">
       <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">09.10.2014</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2618411" target="_blank" class="gray-hover">QB Finance участвует в дискуссиях Spear's Club</a></h4>
       <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">02.10.2014</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2614016" target="_blank" class="gray-hover">Форум по зарубежной недвижимости в Алма-Ате</a></h4>
@@ -223,12 +220,11 @@
     </div>
   </div>
   <div class="clearfix"></div>
-  
-  <div class="gallery-offset w95r auto mt50">
+  <div class="gallery-offset w95r auto pt05r pb02r">
     <h3 class="text-center size-18"><div class="w288 h40 line-h40 auto bg-white weight-300 uppercase">Сентябрь</div></h3>
     <div class="title-line-gray2"></div>
   </div>
-  <div class="column-2 mt50">
+  <div class="column-2">
     <div class="gallery-offset w85r line-h24 size-14 ml05r mr20r">
       <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">26.09.2014</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2620127" target="_blank" class="gray-hover">Восьмой день рождения бизнес-школы «Сколково»</a></h4>
       <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">18.09.2014</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2618411" target="_blank" class="gray-hover">Открытие Le Freeport в Люксембурге</a></h4>
@@ -236,84 +232,80 @@
       <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">08.09.2014</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2786142" target="_blank" class="gray-hover">«День финансиста - 2014»</a></h4>
     </div>
   </div>
-  <div class="column-2 mt50">
+  <div class="column-2">
     <div class="gallery-offset w85r line-h24 size-14 ml05r mr20r">
       <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">05.09.2014</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2614016" target="_blank" class="gray-hover">«Мосинтерфин-2014» обсудит вопросы евразийской интеграции</a></h4>
       <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">01.09.2014</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2786142" target="_blank" class="gray-hover">О новом и перспективном - в сентябрьском номере Spear's</a></h4>
     </div>
   </div>
   <div class="clearfix"></div>
-  
-  <div class="gallery-offset w95r auto mt50">
+  <div class="gallery-offset w95r auto pt05r pb02r">
     <h3 class="text-center size-18"><div class="w288 h40 line-h40 auto bg-white weight-300 uppercase">Август</div></h3>
     <div class="title-line-gray2"></div>
   </div>
-  <div class="column-2 mt50">
+  <div class="column-2">
     <div class="gallery-offset w85r line-h24 size-14 ml05r mr20r">
       <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">29.08.2014</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2614016" target="_blank" class="gray-hover">Торгово-промышленная палата Кубани празднует 45-летие</a></h4>
       <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">10.08.2014</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2786142" target="_blank" class="gray-hover">Уведомление об изменении в 39-ФЗ «О рынке ценных бумаг»</a></h4>
     </div>
   </div>
-  <div class="column-2 mt50">
+  <div class="column-2">
     <div class="gallery-offset w85r line-h24 size-14 ml05r mr20r">
       <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">04.08.2014</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2620127" target="_blank" class="gray-hover">О лучшем месте для хранения лучших вещей - QB Finance в журнале Spear's</a></h4>
     </div>
   </div>
   <div class="clearfix"></div>
-  <div class="gallery-offset w95r auto mt50">
+  <div class="gallery-offset w95r auto pt05r pb02r">
     <h3 class="text-center size-18"><div class="w288 h40 line-h40 auto bg-white weight-300 uppercase">Июль</div></h3>
     <div class="title-line-gray2"></div>
   </div>
-  <div class="column-2 mt50">
+  <div class="column-2">
     <div class="gallery-offset w85r line-h24 size-14 ml05r mr20r">
       <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">19.07.2014</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2614016" target="_blank" class="gray-hover">Победное выступление QB Finance на бизнес-регате в Санкт-Петербурге</a></h4>
       <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">10.07.2014</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2786142" target="_blank" class="gray-hover">QB Finance на презентации Rolls-Royce Ghost Series II</a></h4>
     </div>
   </div>
-  <div class="column-2 mt50">
+  <div class="column-2 pt05r pb05r">
     <div class="gallery-offset w85r line-h24 size-14 ml05r mr20r">
       <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">04.07.2014</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2787793" target="_blank" class="gray-hover">QB Finance на общем собрании НАУФОР</a></h4>
     </div>
   </div>
   <div class="clearfix"></div>
-  
-  <div class="gallery-offset w95r auto mt50">
+  <div class="gallery-offset w95r auto pt05r pb02r">
     <h3 class="text-center size-18"><div class="w288 h40 line-h40 auto bg-white weight-300 uppercase">Июнь</div></h3>
     <div class="title-line-gray2"></div>
   </div>
-  <div class="column-2 mt50">
+  <div class="column-2">
     <div class="gallery-offset w85r line-h24 size-14 ml05r mr20r">
       <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">26.06.2014</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2787793" target="_blank" class="gray-hover">Презентация The Glenlivet Hunters Club в ресторане «Русские сезоны»</a></h4>
     </div>
   </div>
-  <div class="column-2 mt50">
+  <div class="column-2">
     <div class="gallery-offset w85r line-h24 size-14 ml05r mr20r">
     </div>
   </div>
   <div class="clearfix"></div>
-  
-  <div class="gallery-offset w95r auto mt50">
+  <div class="gallery-offset w95r auto pt05r pb02r">
     <h3 class="text-center size-18"><div class="w288 h40 line-h40 auto bg-white weight-300 uppercase">МАЙ</div></h3>
     <div class="title-line-gray2"></div>
   </div>
-  <div class="column-2 mt50">
+  <div class="column-2">
     <div class="gallery-offset w85r line-h24 size-14 ml05r mr20r">
       <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">26.05.2014</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2790799" class="gray-hover">Победа топ-менеджера QB Finance на Tseleevo Grand Opening - 2014</a></h4>
       <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">16.05.2014</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2790762" class="gray-hover">QB Finance на ежегодной конференции НАУФОР</a></h4>
     </div>
   </div>
-  <div class="column-2 mt50">
+  <div class="column-2">
     <div class="gallery-offset w85r line-h24 size-14 ml05r mr20r">
       <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">05.05.2014</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://nn.rbc.ru/nn/17/08/2015/55d1b1b19a79474458c29afd" class="gray-hover">Spear's QB Finance Nowadays Review</a></h4>
     </div>
   </div>
   <div class="clearfix"></div>
-  
-  <div class="gallery-offset w95r auto mt50">
+  <div class="gallery-offset w95r auto pt05r pb02r">
     <h3 class="text-center size-18"><div class="w288 h40 line-h40 auto bg-white weight-300 uppercase">Апрель</div></h3>
     <div class="title-line-gray2"></div>
   </div>
-  <div class="column-2 mt50">
+  <div class="column-2">
     <div class="gallery-offset w85r line-h24 size-14 ml05r mr20r">
       <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">28.04.2014</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2790762" class="gray-hover">Завершение Чемпионата по Мотокроссу в Краснодарском крае</a></h4>
       <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">24.04.2014</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://nn.rbc.ru/nn/17/08/2015/55d1b1b19a79474458c29afd" class="gray-hover">Форум "Карьера" в Финансовом Университете при Правительстве РФ</a></h4>
@@ -321,7 +313,7 @@
       <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">16.04.2014</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2768269" class="gray-hover">Ярмарка вакансий: «Молодой Карьерист»</a></h4>
     </div>
   </div>
-  <div class="column-2 mt50">
+  <div class="column-2">
     <div class="gallery-offset w85r line-h24 size-14 ml05r mr20r">
       <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">15.04.2014</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://nn.rbc.ru/nn/17/08/2015/55d1b1b19a79474458c29afd" class="gray-hover">QB Finance доверяет повышение квалификации специалистов ИРФР</a></h4>
       <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">14.04.2014</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2790762" class="gray-hover">Чемпионат по Мотокроссу в Краснодарском крае</a></h4>
@@ -329,34 +321,33 @@
     </div>
   </div>
   <div class="clearfix"></div>
-  
-  <div class="gallery-offset w95r auto mt50">
+  <div class="gallery-offset w95r auto pt05r pb02r">
     <h3 class="text-center size-18"><div class="w288 h40 line-h40 auto bg-white weight-300 uppercase">Март</div></h3>
     <div class="title-line-gray2"></div>
   </div>
-  <div class="column-2 mt50">
+  <div class="column-2">
     <div class="gallery-offset w85r line-h24 size-14 ml05r mr20r">
       <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">20.03.2014</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2790762" class="gray-hover">QB Finance на Чемпионате по Мотокроссу в Краснодарском крае</a></h4>
       <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">05.03.2014</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2768269" class="gray-hover">QB Finance вступила в НАУФОР</a></h4>
     </div>
   </div>
-  <div class="column-2 mt50">
+  <div class="column-2">
     <div class="gallery-offset w85r line-h24 size-14 ml05r mr20r">
       <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">04.03.2014</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2758982" class="gray-hover">Упразднение службы Банка России по финансовым рынкам (СБРФР)</a></h4>
     </div>
   </div>
   <div class="clearfix"></div>
   
-  <div class="gallery-offset w95r auto mt50">
+  <div class="gallery-offset w95r auto pt05r pb02r">
     <h3 class="text-center size-18"><div class="w288 h40 line-h40 auto bg-white weight-300 uppercase">Февраль</div></h3>
     <div class="title-line-gray2"></div>
   </div>
-  <div class="column-2 mt50">
+  <div class="column-2">
     <div class="gallery-offset w85r line-h24 size-14 ml05r mr20r">
       <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">12.02.2014</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2778900" class="gray-hover">QB Finance примет активное участие в работе с соискателями на различных форумах этой весной</a></h4>
     </div>
   </div>
-  <div class="column-2 mt50">
+  <div class="column-2">
     <div class="gallery-offset w85r line-h24 size-14 ml05r mr20r">
     </div>
   </div>
@@ -374,6 +365,7 @@
       </h3>
       <div class="title-line-gray2"></div>
     </div>
+    <!-- /CONTENT -->
     <div class="clearfix"></div>
     <!-- FOOTER BLOCK -->
     <div class="clearfix"></div>
@@ -382,14 +374,14 @@
     </div>
     <div class="text-center pt01r">
       <a href="/news.php"><span class="size-14"> < </span></a>
-      <a href="/news.php" class="size-12 line-h40 uppercase">Новости</a> <span class="color-teal size-10">•︎</span> 
+      <a href="/news.php" class="size-12 line-h40 uppercase"> НОВОСТИ </a> <span class="color-teal size-10"> •︎ </span> 
       <a href="/events.php" class="size-12 line-h40 uppercase">СОБЫТИЯ</a>
       <a href="/events.php"><span class="size-14"> > </span></a>
     </div>
     <!-- /FOOTER BLOCK -->
-<div class="clearfix"></div>
-<?php include 'html/footer.html';?>
-<script src="/js/jquery.min.js"></script>
-<script src="/js/main.js"></script>
+    <div class="clearfix"></div>
+    <?php include 'html/footer.html';?>
+    <script src="/js/jquery.min.js"></script>
+    <script src="/js/main.js"></script>
 </body>
 </html>

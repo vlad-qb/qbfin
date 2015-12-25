@@ -192,7 +192,7 @@
   </div>
   <!-- /CONTENT -->
   <!-- CONTENT-2 -->
-  <div class="column-container w87r auto">
+  <div class="column-container auto">
       <div class="column mt60">
           <div class="column-offset">
               <h3 class="text-center size-12 color-white"><div class="w288 h40 line-h40 auto bg-teal"> РЫНКИ ЗА КВАРТАЛ </div></h3>

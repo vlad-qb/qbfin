@@ -153,36 +153,39 @@
     </div>
   </div>
   <div class="clearfix"></div>
-  <div class="gallery-offset w95r auto mt15">
-    <h3 class="text-center size-18"><div class="w288 h40 line-h40 auto bg-white weight-300 uppercase">Август</div></h3>
+  <div class="gallery-offset w95r auto pt05r pb02r">
+    <h3 class="text-center size-18">
+      <div class="w288 h40 line-h40 auto bg-white weight-300 uppercase">Август</div>
+    </h3>
   </div>
-  <div class="column-2 mt50">
+  <div class="column-2">
     <div class="gallery-offset w85r line-h24 size-14 ml05r mr20r">
       <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">18.08.2015</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2759013" target="_blank" class="gray-hover">МВФ заявляет о стабилизации банковской системы РФ</a></h4>
       <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">16.08.2015</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2768269" target="_blank" class="gray-hover">Станет ли Подмосковье европейским пригородом?</a></h4>
       <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">14.08.2015</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2758982" target="_blank" class="gray-hover">Арктика - перспективный энергетический регион</a></h4>
     </div>
   </div>
-  <div class="column-2 mt50">
+  <div class="column-2">
     <div class="gallery-offset w85r line-h24 size-14 ml05r mr20r">
       <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">07.08.2015</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2759922" target="_blank" class="gray-hover">Дискаунтеры расширяют свое влияние на рынке</a></h4>
       <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">04.08.2015</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2785931" target="_blank" class="gray-hover">Политика QE активизировала экономику еврозоны</a></h4>
     </div>
   </div>
   <div class="clearfix"></div>
-  
-  <div class="gallery-offset w95r auto mt50">
-    <h3 class="text-center size-18"><div class="w288 h40 line-h40 auto bg-white weight-300 uppercase">Июль</div></h3>
+  <div class="gallery-offset w95r auto pt05r pb02r">
+    <h3 class="text-center size-18">
+      <div class="w288 h40 line-h40 auto bg-white weight-300 uppercase">Июль</div>
+    </h3>
     <div class="title-line-gray2"></div>
   </div>
-  <div class="column-2 mt50">
+  <div class="column-2">
     <div class="gallery-offset w85r line-h24 size-14 ml05r mr20r">
       <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">23.07.2015</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2790211" target="_blank" class="gray-hover">Поклонники Ferrari смогут опробовать 488 GTB на трассе Paul Ricard</a></h4>
       <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">20.07.2015</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2759013" target="_blank" class="gray-hover">Ценность евро и доллара может сравняться к концу года</a></h4>
       <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">16.07.2015</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2758982" target="_blank" class="gray-hover">Технологические корпорации лидируют на инвестиционном рынке</a></h4>
     </div>
   </div>
-  <div class="column-2 mt50">
+  <div class="column-2">
     <div class="gallery-offset w85r line-h24 size-14 ml05r mr20r">
       <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">13.07.2015</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2759922" target="_blank" class="gray-hover">Открытие нового клиентского офиса QBF в Москве</a></h4>
       <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">06.07.2015</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2790211" target="_blank" class="gray-hover">Банк развития БРИКС как гарант стабильности рубля</a></h4>
@@ -190,12 +193,13 @@
     </div>
   </div>
   <div class="clearfix"></div>
-  
-  <div class="gallery-offset w95r auto mt50">
-    <h3 class="text-center size-18"><div class="w288 h40 line-h40 auto bg-white weight-300 uppercase">Июнь</div></h3>
+  <div class="gallery-offset w95r auto pt05r pb02r">
+    <h3 class="text-center size-18">
+      <div class="w288 h40 line-h40 auto bg-white weight-300 uppercase">Июнь</div>
+    </h3>
     <div class="title-line-gray2"></div>
   </div>
-  <div class="column-2 mt50">
+  <div class="column-2">
     <div class="gallery-offset w85r line-h24 size-14 ml05r mr20r">
       <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">30.06.2015</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2759013" target="_blank" class="gray-hover">Инвестиционные продукты в текущих экономических условиях</a></h4>
       <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">25.06.2015</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2758982" target="_blank" class="gray-hover">Потенциал роста: акции FedEx Corporation</a></h4>
@@ -203,7 +207,7 @@
       <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">18.06.2015</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2768269" target="_blank" class="gray-hover">Корпорации выбирают облигационные займы для рефинансирования кредитов</a></h4>
     </div>
   </div>
-  <div class="column-2 mt50">
+  <div class="column-2">
     <div class="gallery-offset w85r line-h24 size-14 ml05r mr20r">
       <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">13.06.2015</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2759058" target="_blank" class="gray-hover">ЦБ РФ снизит ключевую ставку на 1 - 1.5 п.п.</a></h4>
       <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">12.06.2015</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2758982" target="_blank" class="gray-hover">С Днем России!</a></h4>
@@ -212,12 +216,13 @@
     </div>
   </div>
   <div class="clearfix"></div>
-  
-  <div class="gallery-offset w95r auto mt50">
-    <h3 class="text-center size-18"><div class="w288 h40 line-h40 auto bg-white weight-300 uppercase">МАЙ</div></h3>
+  <div class="gallery-offset w95r auto pt05r pb02r">
+    <h3 class="text-center size-18">
+      <div class="w288 h40 line-h40 auto bg-white weight-300 uppercase">МАЙ</div>
+    </h3>
     <div class="title-line-gray2"></div>
   </div>
-  <div class="column-2 mt50">
+  <div class="column-2">
     <div class="gallery-offset w85r line-h24 size-14 ml05r mr20r">
       <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">22.05.2015</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2759058" target="_blank" class="gray-hover">О новых векторах инвестирования - в майском номере Spear's</a></h4>
       <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">20.05.2015</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2759922" target="_blank" class="gray-hover">Жизнь после деофшоризации: интервью с главой QB Finance для Spear's</a></h4>
@@ -226,7 +231,7 @@
       <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">15.05.2015</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2785931" target="_blank" class="gray-hover">QBF - лауреат премии Investor Awards´15</a></h4>
     </div>
   </div>
-  <div class="column-2 mt50">
+  <div class="column-2">
     <div class="gallery-offset w85r line-h24 size-14 ml05r mr20r">
       <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">12.05.2015</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2759922" target="_blank" class="gray-hover">Банковские депозиты теряют свою привлекательность для россиян</a></h4>
       <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">09.05.2015</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2759058" target="_blank" class="gray-hover">Никто не забыт, ничто не забыто: 70 лет Великой Победе!</a></h4>
@@ -236,11 +241,13 @@
   </div>
   <div class="clearfix"></div>
   
-  <div class="gallery-offset w95r auto mt50">
-    <h3 class="text-center size-18"><div class="w288 h40 line-h40 auto bg-white weight-300 uppercase">Апрель</div></h3>
+  <div class="gallery-offset w95r auto pt05r pb02r">
+    <h3 class="text-center size-18">
+      <div class="w288 h40 line-h40 auto bg-white weight-300 uppercase">Апрель</div>
+    </h3>
     <div class="title-line-gray2"></div>
   </div>
-  <div class="column-2 mt50">
+  <div class="column-2">
     <div class="gallery-offset w85r line-h24 size-14 ml05r mr20r">
       <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">29.04.2015</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2759013" target="_blank" class="gray-hover">Перспективы севера Подмосковья - взгляд экспертов</a></h4>
       <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">27.04.2015</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2759922" target="_blank" class="gray-hover">Старый или Новый Свет: инвестиции для консерваторов</a></h4>
@@ -248,7 +255,7 @@
       <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">15.04.2015</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2759058" target="_blank" class="gray-hover">Эффективные инвестиции в недвижимость нового формата - в апрельском номере Spear's</a></h4>
     </div>
   </div>
-  <div class="column-2 mt50">
+  <div class="column-2">
     <div class="gallery-offset w85r line-h24 size-14 ml05r mr20r">
       <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">12.04.2015</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2759922" target="_blank" class="gray-hover">С праздником Светлой Пасхи!</a></h4>
       <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">09.04.2015</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2790211" target="_blank" class="gray-hover">Каковы тенденции развития рынка недвижимости в условиях кризиса?</a></h4>
@@ -257,11 +264,13 @@
   </div>
   <div class="clearfix"></div>
   
-  <div class="gallery-offset w95r auto mt50">
-    <h3 class="text-center size-18"><div class="w288 h40 line-h40 auto bg-white weight-300 uppercase">Март</div></h3>
+  <div class="gallery-offset w95r auto pt05r pb02r">
+    <h3 class="text-center size-18">
+      <div class="w288 h40 line-h40 auto bg-white weight-300 uppercase">Март</div>
+    </h3>
     <div class="title-line-gray2"></div>
   </div>
-  <div class="column-2 mt50">
+  <div class="column-2">
     <div class="gallery-offset w85r line-h24 size-14 ml05r mr20r">
       <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">31.03.2015</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2768269" target="_blank" class="gray-hover">QB Finance - надежный работодатель</a></h4>
       <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">23.03.2015</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2759058" target="_blank" class="gray-hover">Семейные ценности компании William Grant & Sons</a></h4>
@@ -270,7 +279,7 @@
       <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">16.03.2015</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2785931" target="_blank" class="gray-hover">Пути развития пенсионной системы РФ на VI Российском пенсионном конгрессе</a></h4>
     </div>
   </div>
-  <div class="column-2 mt50">
+  <div class="column-2">
     <div class="gallery-offset w85r line-h24 size-14 ml05r mr20r">
       <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">12.03.2015</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2758982" target="_blank" class="gray-hover">QB Finance - лучший работодатель в сфере «Финансы и страхование»</a></h4>
       <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">10.03.2015</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2768269" target="_blank" class="gray-hover">Доходность ЗПИФ недвижимости составляет более 30% годовых</a></h4>
@@ -280,34 +289,38 @@
   </div>
   <div class="clearfix"></div>
   
-  <div class="gallery-offset w95r auto mt50">
-    <h3 class="text-center size-18"><div class="w288 h40 line-h40 auto bg-white weight-300 uppercase">Февраль</div></h3>
+  <div class="gallery-offset w95r auto pt05r pb02r">
+    <h3 class="text-center size-18">
+      <div class="w288 h40 line-h40 auto bg-white weight-300 uppercase">Февраль</div>
+    </h3>
     <div class="title-line-gray2"></div>
   </div>
-  <div class="column-2 mt50">
+  <div class="column-2">
     <div class="gallery-offset w85r line-h24 size-14 ml05r mr20r">
       <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">28.02.2015</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2758982" target="_blank" class="gray-hover">USA: The International TradersEXPO</a></h4>
       <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">23.02.2015</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2759922" target="_blank" class="gray-hover">С Днем защитника Отечества!</a></h4>
     </div>
   </div>
-  <div class="column-2 mt50">
+  <div class="column-2">
     <div class="gallery-offset w85r line-h24 size-14 ml05r mr20r">
       <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">18.02.2015</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2768269" target="_blank" class="gray-hover">Поймай мечту! IPO Ferrari с QB Finance</a></h4>
     </div>
   </div>
   <div class="clearfix"></div>
   
-  <div class="gallery-offset w95r auto mt50">
-    <h3 class="text-center size-18"><div class="w288 h40 line-h40 auto bg-white weight-300 uppercase">Январь</div></h3>
+  <div class="gallery-offset w95r auto pt05r pb02r">
+    <h3 class="text-center size-18">
+      <div class="w288 h40 line-h40 auto bg-white weight-300 uppercase">Январь</div>
+    </h3>
     <div class="title-line-gray2"></div>
   </div>
-  <div class="column-2 mt50">
+  <div class="column-2">
     <div class="gallery-offset w85r line-h24 size-14 ml05r mr20r">
       <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">30.01.2015</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2785931" target="_blank" class="gray-hover">Перспективные вложения в подмосковное жилье классов бизнес и комфорт</a></h4>
       <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">27.01.2015</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2758982" target="_blank" class="gray-hover">Долларовые активы остаются надежным инструментом для инвесторов</a></h4>
     </div>
   </div>
-  <div class="column-2 mt50">
+  <div class="column-2">
     <div class="gallery-offset w85r line-h24 size-14 ml05r mr20r">
       <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">22.01.2015</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2759922" target="_blank" class="gray-hover">Уровень инфляции в России возрастет до 13% г/г</a></h4>
       <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">14.01.2015</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2790211" target="_blank" class="gray-hover">Нефть подорожает в наступившем году</a></h4>
@@ -328,15 +341,16 @@
       </h3>
       <div class="title-line-gray2"></div>
     </div>
+    <!-- /CONTENT -->
     <div class="clearfix"></div>
-<!-- FOOTER BLOCK -->
+    <!-- FOOTER BLOCK -->
     <div class="clearfix"></div>
     <div class="text-center pt03r">
       <img src="img/icons/icon-lighthouse.svg" class="icon icon-main">
     </div>
     <div class="text-center pt01r">
       <a href="/news.php"><span class="size-14"> < </span></a>
-      <a href="/news.php" class="size-12 line-h40 uppercase">Новости</a> <span class="color-teal size-10">•︎</span> 
+      <a href="/news.php" class="size-12 line-h40 uppercase"> НОВОСТИ </a> <span class="color-teal size-10"> •︎ </span> 
       <a href="/events.php" class="size-12 line-h40 uppercase">СОБЫТИЯ</a>
       <a href="/events.php"><span class="size-14"> > </span></a>
     </div>

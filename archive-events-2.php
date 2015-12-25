@@ -193,6 +193,7 @@
       </h3>
       <div class="title-line-gray2"></div>
     </div>
+    <!-- /CONTENT -->
     <div class="clearfix"></div>
     <!-- FOOTER BLOCK -->
     <div class="clearfix"></div>
@@ -201,7 +202,7 @@
     </div>
     <div class="text-center pt01r">
       <a href="/news.php"><span class="size-14"> < </span></a>
-      <a href="/news.php" class="size-12 line-h40 uppercase">Новости</a> <span class="color-teal size-10">•︎</span> 
+      <a href="/news.php" class="size-12 line-h40 uppercase"> НОВОСТИ </a> <span class="color-teal size-10"> •︎ </span> 
       <a href="/events.php" class="size-12 line-h40 uppercase">СОБЫТИЯ</a>
       <a href="/events.php"><span class="size-14"> > </span></a>
     </div>

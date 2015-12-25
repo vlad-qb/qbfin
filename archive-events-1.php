@@ -186,6 +186,7 @@
       </h3>
       <div class="title-line-gray2"></div>
     </div>
+    <!-- /CONTENT -->
     <div class="clearfix"></div>
     <!-- FOOTER BLOCK -->
     <div class="clearfix"></div>
