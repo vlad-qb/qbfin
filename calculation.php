@@ -27,7 +27,7 @@
             style="background-position: center bottom;">
         
       </div>
-      <div class="column-container">
+      <div id="headblock" class="column-container">
         <div class="column-2 content-margin text-center size-8 line-h24 uppercase">
           <div class="column-offset bg-white pt05r">
             <ul>
@@ -120,8 +120,8 @@
         <div class="column-offset bg-white text-center pt05r">
           <h2 class="size-18 line-h50 color-teal uppercase"> РАСКРЫТИЕ ИНФОРМАЦИИ </h2>
           <p class="size-14 line-h30 text-center mt30 pl05r pr05r">
-		  <a href="#"> Перечень инсайдерской информации </a><span class="color-teal">></span><br/>
-		  <a href="#"> Критерии отнесения клиентов к категории иностранных налогоплательщиков </a><span class="color-teal">></span>
+		        <a href="#"> Перечень инсайдерской информации </a><span class="color-teal">></span><br/>
+		        <a href="#"> Критерии отнесения клиентов к категории иностранных налогоплательщиков </a><span class="color-teal">></span>
           </p>
           <div class="w100r mt05r text-center">
             <ul class="social-offset auto">
@@ -143,130 +143,135 @@
       </div>
     </div>
     <!-- /HEADBLOCK -->
-<div class="clearfix"></div>
-<!-- CONTENT -->
-<div id="gallery" class="column-container pt05r">
-  <div class="column">
-    <div class="gallery-offset w90r auto line-h24 size-14">
-      <div class="text-center"><img class="icon icon-portfolio" src="/img/bg/archive-shares.gif"></div>
-      <div class="title-line-teal2"></div>
+    <div class="clearfix"></div>
+    <!-- CONTENT -->
+    <div id="calculation" class="pb03r">
+      <div class="column-container">
+        <div class="column pt05r">
+          <div class="column-offset line-h24 size-14">
+            <div class="text-center"><img class="icon icon-portfolio" src="/img/bg/archive-shares.gif"></div>
+          </div>
+          <div class="title-line-teal2 ml02r mr02r"></div>
+        </div>
+        <div class="clearfix"></div>
+        <div class="column-2 pt03r">
+          <div class="column-offset line-h26 text-center">
+            <h4 class="size-14 weight-300 text-center"><a href="/markets-review-15-08-2015.php">Расчет размера собственных средств на 28.02.2015 г. ></a></h4>
+            <h4 class="size-12 weight-300 text-center color-gray">дата размещения: 31.01.2015</h4>
+            <h4 class="size-14 weight-300 text-center"><a href="/markets-review-15-08-2015.php">Расчет размера собственных средств на 28.02.2015 г. ></a></h4>
+            <h4 class="size-12 weight-300 text-center color-gray">дата размещения: 31.01.2015</h4>
+            <h4 class="size-14 weight-300 text-center"><a href="/markets-review-15-08-2015.php">Расчет размера собственных средств на 28.02.2015 г. ></a></h4>
+            <h4 class="size-12 weight-300 text-center color-gray">дата размещения: 31.01.2015</h4>
+            <h4 class="size-14 weight-300 text-center"><a href="/markets-review-15-08-2015.php">Расчет размера собственных средств на 28.02.2015 г. ></a></h4>
+            <h4 class="size-12 weight-300 text-center color-gray">дата размещения: 31.01.2015</h4>
+          </div>
+        </div>
+        <div class="column-2 pt03r">
+          <div class="column-offset line-h26 text-center">
+            <h4 class="size-14 weight-300 text-center"><a href="/markets-review-15-08-2015.php">Расчет размера собственных средств на 28.02.2015 г. ></a></h4>
+            <h4 class="size-12 weight-300 text-center color-gray">дата размещения: 31.01.2015</h4>
+            <h4 class="size-14 weight-300 text-center"><a href="/markets-review-15-08-2015.php">Расчет размера собственных средств на 28.02.2015 г. ></a></h4>
+            <h4 class="size-12 weight-300 text-center color-gray">дата размещения: 31.01.2015</h4>
+            <h4 class="size-14 weight-300 text-center"><a href="/markets-review-15-08-2015.php">Расчет размера собственных средств на 28.02.2015 г. ></a></h4>
+            <h4 class="size-12 weight-300 text-center color-gray">дата размещения: 31.01.2015</h4>
+            <h4 class="size-14 weight-300 text-center"><a href="/markets-review-15-08-2015.php">Расчет размера собственных средств на 28.02.2015 г. ></a></h4>
+            <h4 class="size-12 weight-300 text-center color-gray">дата размещения: 31.01.2015</h4>
+          </div>
+        </div>
+        <div class="clearfix"></div>
+        <div class="column pt03r">
+          <div class="column-offset line-h24 size-14">
+            <div class="text-center"><img class="icon icon-portfolio" src="/img/bg/archive-shares-1.gif"></div>
+          </div>
+          <div class="title-line-teal2 ml02r mr02r"></div>
+        </div>
+        <div class="clearfix"></div>
+        <div class="column-2 pt03r">
+          <div class="column-offset line-h26 text-center">
+            <h4 class="size-14 weight-300"><a href="/markets-review-15-08-2015.php">Расчет размера собственных средств на 28.02.2015 г. ></a></h4>
+            <h4 class="size-12 weight-300 color-gray">дата размещения: 31.01.2015</h4>
+            <h4 class="size-14 weight-300"><a href="/markets-review-15-08-2015.php">Расчет размера собственных средств на 28.02.2015 г. ></a></h4>
+            <h4 class="size-12 weight-300 color-gray">дата размещения: 31.01.2015</h4>
+            <h4 class="size-14 weight-300"><a href="/markets-review-15-08-2015.php">Расчет размера собственных средств на 28.02.2015 г. ></a></h4>
+            <h4 class="size-12 weight-300 color-gray">дата размещения: 31.01.2015</h4>
+            <h4 class="size-14 weight-300"><a href="/markets-review-15-08-2015.php">Расчет размера собственных средств на 28.02.2015 г. ></a></h4>
+            <h4 class="size-12 weight-300 color-gray">дата размещения: 31.01.2015</h4>
+            <h4 class="size-14 weight-300"><a href="/markets-review-15-08-2015.php">Расчет размера собственных средств на 28.02.2015 г. ></a></h4>
+            <h4 class="size-12 weight-300 color-gray">дата размещения: 31.01.2015</h4>
+            <h4 class="size-14 weight-300"><a href="/markets-review-15-08-2015.php">Расчет размера собственных средств на 28.02.2015 г. ></a></h4>
+            <h4 class="size-12 weight-300 color-gray">дата размещения: 31.01.2015</h4>
+          </div>
+        </div>
+        <div class="column-2 pt03r">
+          <div class="column-offset line-h26 text-center">
+            <h4 class="size-14 weight-300"><a href="/markets-review-15-08-2015.php">Расчет размера собственных средств на 28.02.2015 г. ></a></h4>
+            <h4 class="size-12 weight-300 color-gray">дата размещения: 31.01.2015</h4>
+            <h4 class="size-14 weight-300"><a href="/markets-review-15-08-2015.php">Расчет размера собственных средств на 28.02.2015 г. ></a></h4>
+            <h4 class="size-12 weight-300 color-gray">дата размещения: 31.01.2015</h4>
+            <h4 class="size-14 weight-300"><a href="/markets-review-15-08-2015.php">Расчет размера собственных средств на 28.02.2015 г. ></a></h4>
+            <h4 class="size-12 weight-300 color-gray">дата размещения: 31.01.2015</h4>
+            <h4 class="size-14 weight-300"><a href="/markets-review-15-08-2015.php">Расчет размера собственных средств на 28.02.2015 г. ></a></h4>
+            <h4 class="size-12 weight-300 color-gray">дата размещения: 31.01.2015</h4>
+            <h4 class="size-14 weight-300"><a href="/markets-review-15-08-2015.php">Расчет размера собственных средств на 28.02.2015 г. ></a></h4>
+            <h4 class="size-12 weight-300 color-gray">дата размещения: 31.01.2015</h4>
+            <h4 class="size-14 weight-300"><a href="/markets-review-15-08-2015.php">Расчет размера собственных средств на 28.02.2015 г. ></a></h4>
+            <h4 class="size-12 weight-300 color-gray">дата размещения: 31.01.2015</h4>
+          </div>
+        </div>
+        <div class="clearfix"></div>
+        <div class="column pt03r">
+          <div class="column-offset line-h24 size-14">
+            <div class="text-center"><img class="icon icon-portfolio" src="/img/bg/archive-shares-2.gif"></div>
+          </div>
+          <div class="title-line-teal2 ml02r mr02r"></div>
+        </div>
+        <div class="clearfix"></div>
+        <div class="column-2 pt03r">
+          <div class="column-offset line-h26 text-center">
+            <h4 class="size-14 weight-300"><a href="/markets-review-15-08-2015.php">Расчет размера собственных средств на 28.02.2015 г. ></a></h4>
+            <h4 class="size-12 weight-300 color-gray">дата размещения: 31.01.2015</h4>
+            <h4 class="size-14 weight-300"><a href="/markets-review-15-08-2015.php">Расчет размера собственных средств на 28.02.2015 г. ></a></h4>
+            <h4 class="size-12 weight-300 color-gray">дата размещения: 31.01.2015</h4>
+            <h4 class="size-14 weight-300"><a href="/markets-review-15-08-2015.php">Расчет размера собственных средств на 28.02.2015 г. ></a></h4>
+            <h4 class="size-12 weight-300 color-gray">дата размещения: 31.01.2015</h4>
+            <h4 class="size-14 weight-300"><a href="/markets-review-15-08-2015.php">Расчет размера собственных средств на 28.02.2015 г. ></a></h4>
+            <h4 class="size-12 weight-300 color-gray">дата размещения: 31.01.2015</h4>
+          </div>
+        </div>
+        <div class="column-2 pt03r">
+          <div class="column-offset line-h26 text-center">
+            <h4 class="size-14 weight-300"><a href="/markets-review-15-08-2015.php">Расчет размера собственных средств на 28.02.2015 г. ></a></h4>
+            <h4 class="size-12 weight-300 color-gray">дата размещения: 31.01.2015</h4>
+            <h4 class="size-14 weight-300"><a href="/markets-review-15-08-2015.php">Расчет размера собственных средств на 28.02.2015 г. ></a></h4>
+            <h4 class="size-12 weight-300 color-gray">дата размещения: 31.01.2015</h4>
+            <h4 class="size-14 weight-300"><a href="/markets-review-15-08-2015.php">Расчет размера собственных средств на 28.02.2015 г. ></a></h4>
+            <h4 class="size-12 weight-300 color-gray">дата размещения: 31.01.2015</h4>
+            <h4 class="size-14 weight-300"><a href="/markets-review-15-08-2015.php">Расчет размера собственных средств на 28.02.2015 г. ></a></h4>
+            <h4 class="size-12 weight-300 color-gray">дата размещения: 31.01.2015</h4>
+          </div>
+        </div>
+        <div class="clearfix"></div>
+      </div>
     </div>
-  </div>
-  <div class="clearfix"></div>
-  <div class="column-2 mt50">
-    <div class="gallery-offset w85r line-h24 size-14 ml10r">
-      <h4 class="size-14 ml05r line-h24 weight-300 text-center"><a href="/markets-review-15-08-2015.php">Расчет размера собственных средств на 28.02.2015 г. ></a></h4>
-      <h4 class="size-12 ml05r line-h24 weight-300 text-center color-gray">дата размещения: 31.01.2015</h4>
-      <h4 class="size-14 ml05r line-h24 weight-300 text-center"><a href="/markets-review-15-08-2015.php">Расчет размера собственных средств на 28.02.2015 г. ></a></h4>
-      <h4 class="size-12 ml05r line-h24 weight-300 text-center color-gray">дата размещения: 31.01.2015</h4>
-      <h4 class="size-14 ml05r line-h24 weight-300 text-center"><a href="/markets-review-15-08-2015.php">Расчет размера собственных средств на 28.02.2015 г. ></a></h4>
-      <h4 class="size-12 ml05r line-h24 weight-300 text-center color-gray">дата размещения: 31.01.2015</h4>
-      <h4 class="size-14 ml05r line-h24 weight-300 text-center"><a href="/markets-review-15-08-2015.php">Расчет размера собственных средств на 28.02.2015 г. ></a></h4>
-      <h4 class="size-12 ml05r line-h24 weight-300 text-center color-gray">дата размещения: 31.01.2015</h4>
+    <!-- /CONTENT -->
+    <div class="clearfix"></div>
+    <!-- FOOTER BLOCK -->
+    <div class="clearfix"></div>
+    <div class="pt10r mobile"></div>
+    <div class="text-center pt03r">
+      <img src="img/icons/icon-lighthouse.svg" class="icon icon-main">
     </div>
-  </div>
-  <div class="column-2 mt50">
-    <div class="gallery-offset w85r line-h24 size-14 ml10r">
-      <h4 class="size-14 ml05r line-h24 weight-300 text-center"><a href="/markets-review-15-08-2015.php">Расчет размера собственных средств на 28.02.2015 г. ></a></h4>
-      <h4 class="size-12 ml05r line-h24 weight-300 text-center color-gray">дата размещения: 31.01.2015</h4>
-      <h4 class="size-14 ml05r line-h24 weight-300 text-center"><a href="/markets-review-15-08-2015.php">Расчет размера собственных средств на 28.02.2015 г. ></a></h4>
-      <h4 class="size-12 ml05r line-h24 weight-300 text-center color-gray">дата размещения: 31.01.2015</h4>
-      <h4 class="size-14 ml05r line-h24 weight-300 text-center"><a href="/markets-review-15-08-2015.php">Расчет размера собственных средств на 28.02.2015 г. ></a></h4>
-      <h4 class="size-12 ml05r line-h24 weight-300 text-center color-gray">дата размещения: 31.01.2015</h4>
-      <h4 class="size-14 ml05r line-h24 weight-300 text-center"><a href="/markets-review-15-08-2015.php">Расчет размера собственных средств на 28.02.2015 г. ></a></h4>
-      <h4 class="size-12 ml05r line-h24 weight-300 text-center color-gray">дата размещения: 31.01.2015</h4>
+    <div class="text-center pt01r">
+      <span class="size-12 line-h40 uppercase"> < </span>
+      <a href="/company.php" class="size-12 line-h40 uppercase">Компания</a>
+      <span class="color-teal size-10"> • </span>
+      <a href="/documents.php" class="size-12 line-h40 uppercase">Документы</a>
+      <span class="size-12 line-h40 uppercase"> > </span>
     </div>
-  </div>
-  <div class="clearfix"></div>
-  <div class="column mt50">
-    <div class="gallery-offset w90r auto line-h24 size-14">
-      <div class="text-center"><img class="icon icon-portfolio" src="/img/bg/archive-shares-1.gif"></div>
-      <div class="title-line-teal2"></div>
-    </div>
-  </div>
-  <div class="clearfix"></div>
-  <div class="column-2 mt50">
-    <div class="gallery-offset w85r line-h24 size-14 ml10r mr20r">
-      <h4 class="size-14 ml05r line-h24 weight-300 text-center"><a href="/markets-review-15-08-2015.php">Расчет размера собственных средств на 28.02.2015 г. ></a></h4>
-      <h4 class="size-12 ml05r line-h24 weight-300 text-center color-gray">дата размещения: 31.01.2015</h4>
-      <h4 class="size-14 ml05r line-h24 weight-300 text-center"><a href="/markets-review-15-08-2015.php">Расчет размера собственных средств на 28.02.2015 г. ></a></h4>
-      <h4 class="size-12 ml05r line-h24 weight-300 text-center color-gray">дата размещения: 31.01.2015</h4>
-      <h4 class="size-14 ml05r line-h24 weight-300 text-center"><a href="/markets-review-15-08-2015.php">Расчет размера собственных средств на 28.02.2015 г. ></a></h4>
-      <h4 class="size-12 ml05r line-h24 weight-300 text-center color-gray">дата размещения: 31.01.2015</h4>
-      <h4 class="size-14 ml05r line-h24 weight-300 text-center"><a href="/markets-review-15-08-2015.php">Расчет размера собственных средств на 28.02.2015 г. ></a></h4>
-      <h4 class="size-12 ml05r line-h24 weight-300 text-center color-gray">дата размещения: 31.01.2015</h4>
-      <h4 class="size-14 ml05r line-h24 weight-300 text-center"><a href="/markets-review-15-08-2015.php">Расчет размера собственных средств на 28.02.2015 г. ></a></h4>
-      <h4 class="size-12 ml05r line-h24 weight-300 text-center color-gray">дата размещения: 31.01.2015</h4>
-      <h4 class="size-14 ml05r line-h24 weight-300 text-center"><a href="/markets-review-15-08-2015.php">Расчет размера собственных средств на 28.02.2015 г. ></a></h4>
-      <h4 class="size-12 ml05r line-h24 weight-300 text-center color-gray">дата размещения: 31.01.2015</h4>
-    </div>
-  </div>
-  <div class="column-2 mt50">
-    <div class="gallery-offset w85r line-h24 size-14 ml10r mr20r">
-      <h4 class="size-14 ml05r line-h24 weight-300 text-center"><a href="/markets-review-15-08-2015.php">Расчет размера собственных средств на 28.02.2015 г. ></a></h4>
-      <h4 class="size-12 ml05r line-h24 weight-300 text-center color-gray">дата размещения: 31.01.2015</h4>
-      <h4 class="size-14 ml05r line-h24 weight-300 text-center"><a href="/markets-review-15-08-2015.php">Расчет размера собственных средств на 28.02.2015 г. ></a></h4>
-      <h4 class="size-12 ml05r line-h24 weight-300 text-center color-gray">дата размещения: 31.01.2015</h4>
-      <h4 class="size-14 ml05r line-h24 weight-300 text-center"><a href="/markets-review-15-08-2015.php">Расчет размера собственных средств на 28.02.2015 г. ></a></h4>
-      <h4 class="size-12 ml05r line-h24 weight-300 text-center color-gray">дата размещения: 31.01.2015</h4>
-      <h4 class="size-14 ml05r line-h24 weight-300 text-center"><a href="/markets-review-15-08-2015.php">Расчет размера собственных средств на 28.02.2015 г. ></a></h4>
-      <h4 class="size-12 ml05r line-h24 weight-300 text-center color-gray">дата размещения: 31.01.2015</h4>
-      <h4 class="size-14 ml05r line-h24 weight-300 text-center"><a href="/markets-review-15-08-2015.php">Расчет размера собственных средств на 28.02.2015 г. ></a></h4>
-      <h4 class="size-12 ml05r line-h24 weight-300 text-center color-gray">дата размещения: 31.01.2015</h4>
-      <h4 class="size-14 ml05r line-h24 weight-300 text-center"><a href="/markets-review-15-08-2015.php">Расчет размера собственных средств на 28.02.2015 г. ></a></h4>
-      <h4 class="size-12 ml05r line-h24 weight-300 text-center color-gray">дата размещения: 31.01.2015</h4>
-    </div>
-  </div>
-  <div class="clearfix"></div>
-  <div class="column mt50">
-    <div class="gallery-offset w90r auto line-h24 size-14">
-      <div class="text-center"><img class="icon icon-portfolio" src="/img/bg/archive-shares-2.gif"></div>
-      <div class="title-line-teal2"></div>
-    </div>
-  </div>
-  <div class="clearfix"></div>
-  <div class="column-2 mt50">
-    <div class="gallery-offset w85r line-h24 size-14 ml10r">
-      <h4 class="size-14 ml05r line-h24 weight-300 text-center"><a href="/markets-review-15-08-2015.php">Расчет размера собственных средств на 28.02.2015 г. ></a></h4>
-      <h4 class="size-12 ml05r line-h24 weight-300 text-center color-gray">дата размещения: 31.01.2015</h4>
-      <h4 class="size-14 ml05r line-h24 weight-300 text-center"><a href="/markets-review-15-08-2015.php">Расчет размера собственных средств на 28.02.2015 г. ></a></h4>
-      <h4 class="size-12 ml05r line-h24 weight-300 text-center color-gray">дата размещения: 31.01.2015</h4>
-      <h4 class="size-14 ml05r line-h24 weight-300 text-center"><a href="/markets-review-15-08-2015.php">Расчет размера собственных средств на 28.02.2015 г. ></a></h4>
-      <h4 class="size-12 ml05r line-h24 weight-300 text-center color-gray">дата размещения: 31.01.2015</h4>
-      <h4 class="size-14 ml05r line-h24 weight-300 text-center"><a href="/markets-review-15-08-2015.php">Расчет размера собственных средств на 28.02.2015 г. ></a></h4>
-      <h4 class="size-12 ml05r line-h24 weight-300 text-center color-gray">дата размещения: 31.01.2015</h4>
-    </div>
-  </div>
-  <div class="column-2 mt50">
-    <div class="gallery-offset w85r line-h24 size-14 ml10r">
-      <h4 class="size-14 ml05r line-h24 weight-300 text-center"><a href="/markets-review-15-08-2015.php">Расчет размера собственных средств на 28.02.2015 г. ></a></h4>
-      <h4 class="size-12 ml05r line-h24 weight-300 text-center color-gray">дата размещения: 31.01.2015</h4>
-      <h4 class="size-14 ml05r line-h24 weight-300 text-center"><a href="/markets-review-15-08-2015.php">Расчет размера собственных средств на 28.02.2015 г. ></a></h4>
-      <h4 class="size-12 ml05r line-h24 weight-300 text-center color-gray">дата размещения: 31.01.2015</h4>
-      <h4 class="size-14 ml05r line-h24 weight-300 text-center"><a href="/markets-review-15-08-2015.php">Расчет размера собственных средств на 28.02.2015 г. ></a></h4>
-      <h4 class="size-12 ml05r line-h24 weight-300 text-center color-gray">дата размещения: 31.01.2015</h4>
-      <h4 class="size-14 ml05r line-h24 weight-300 text-center"><a href="/markets-review-15-08-2015.php">Расчет размера собственных средств на 28.02.2015 г. ></a></h4>
-      <h4 class="size-12 ml05r line-h24 weight-300 text-center color-gray">дата размещения: 31.01.2015</h4>
-    </div>
-  </div>
-  <div class="clearfix"></div>
-</div>
-<!-- FOOTER BLOCK -->
-<div class="clearfix"></div>
-<div class="text-center pt03r">
-  <img src="img/icons/icon-lighthouse.svg" class="icon icon-main">
-</div>
-<div class="text-center pt01r">
-  <span class="size-12 line-h40 uppercase"> < </span>
-  <a href="/company.php" class="size-12 line-h40 uppercase">Компания</a>
-  <span class="color-teal size-10"> • </span>
-  <a href="/documents.php" class="size-12 line-h40 uppercase">Документы</a>
-  <span class="size-12 line-h40 uppercase"> > </span>
-</div>
-<!-- /FOOTER BLOCK -->
-<div class="clearfix"></div>
-<?php include 'html/footer.html';?>
-<script src="/js/jquery.min.js"></script>
-<script src="/js/main.js"></script>
-</body>
+    <!-- /FOOTER BLOCK -->
+    <div class="clearfix"></div>
+    <?php include 'html/footer.html';?>
+    <script src="/js/jquery.min.js"></script>
+    <script src="/js/main.js"></script>
+  </body>
 </html>

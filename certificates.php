@@ -27,7 +27,7 @@
             style="background-position: center bottom;">
         
       </div>
-      <div class="column-container">
+      <div id="headblock" class="column-container">
         <div class="column-2 content-margin text-center size-8 line-h24 uppercase">
           <div class="column-offset bg-white pt05r">
             <ul>
@@ -142,97 +142,75 @@
       </div>
     </div>
     <!-- /HEADBLOCK -->
-  <div class="clearfix"></div>
-  <div class="column-container pt05r">
-    <div class="column-2">
-      <div class="mt25 w95r h330 ml05r bg-light-gray">
-        <div class="h25">
-        </div>
-        <div class="img-license-2 w250 h280 auto bg-center no-repeat">
+    <div class="clearfix"></div>
+    <!-- CONTENT -->
+    <div class="column-container pb05r">
+      <div class="column-2 pt05r">
+        <div class="column-offset bg-light-gray pt05r pb05r">
+          <div class="img-license-2 w250 h280 auto bg-center no-repeat"></div>
         </div>
       </div>
-    </div>
-    <div class="column-2">
-      <div class="w90r mt25 ml05r">
-        <div class="news-list-offset ml35 mr35">
-          <div class="w100r h200">
-            <h2 class="size-12 bold uppercase line-h20 pt10">QB FINANCE - ЧЛЕН САМОРЕГУЛИРУЕМОЙ ОРГАНИЗАЦИИ «НАЦИОНАЛЬНАЯ АССОЦИАЦИЯ УЧАСТНИКОВ ФОНДОВОГО РЫНКА</h2>
-            <h4 class="size-14 weight-300 mt10 line-h22">5 марта 2014 г. инвестиционная компания QB Finance вступила в Национальную Ассоциацию Участников Фондового Рынка (НАУФОР).</h4>
-            <h4 class="size-14 weight-300 mt10 line-h22">Ассоциация является крупнейшей в России Самоуправляемой Организацией в области фондового рынка, членами которой являются более 250 компаний.</h4>
-            <h4 class="size-14 weight-300 mt10 line-h22">С 2014 года активно взаимодействует с СБР ФР в регулировании участников рынка в целях усиления контроля и защиты прав и интересов инвесторов.</h4>
-            <div class="mt20">
-            </div>
+      <div class="column-2 pt05r">
+        <div class="column-offset">
+          <h2 class="size-12 bold uppercase line-h22">QB FINANCE - ЧЛЕН САМОРЕГУЛИРУЕМОЙ ОРГАНИЗАЦИИ «НАЦИОНАЛЬНАЯ АССОЦИАЦИЯ УЧАСТНИКОВ ФОНДОВОГО РЫНКА</h2>
+          <h4 class="size-14 weight-300 mt10 line-h24">5 марта 2014 г. инвестиционная компания QB Finance вступила в Национальную Ассоциацию Участников Фондового Рынка (НАУФОР).</h4>
+          <h4 class="size-14 weight-300 mt10 line-h24">Ассоциация является крупнейшей в России Самоуправляемой Организацией в области фондового рынка, членами которой являются более 250 компаний.</h4>
+          <h4 class="size-14 weight-300 mt10 line-h24">С 2014 года активно взаимодействует с СБР ФР в регулировании участников рынка в целях усиления контроля и защиты прав и интересов инвесторов.</h4>
+          <div class="pt05r">
             <a href="http://www.naufor.ru/tree.asp?n=10856" class="size-14 weight-300 line-h16 color-teal gray-hover"> http://www.naufor.ru/tree.asp?n=10856</a>
           </div>
         </div>
       </div>
-    </div>
-  </div>
-  <div class="clearfix"></div>
-  
-  <div class="column-container mt10">
-    <div class="column-2">
-      <div class="mt25 w95r h250 ml05r bg-light-gray">
-        <div class="h25">
-        </div>
-        <div class="img-license-1 w280 h200 auto bg-center no-repeat">
+      <div class="clearfix"></div>
+      <div class="column-2 pt05r">
+        <div class="column-offset bg-light-gray pt05r pb05r">
+          <div class="img-license-1 w280 h200 auto bg-center no-repeat"></div>
         </div>
       </div>
-    </div>
-    <div class="column-2">
-      <div class="w90r mt25 ml05r">
-        <div class="news-list-offset ml35 mr35">
-          <div class="w100r h200">
-            <h2 class="size-12 bold uppercase line-h20 pt10">СВИДЕТЕЛЬСТВО РЕЙТИНГОВОГО АГЕНСТВА «ЭКСПЕРТ РА» О ПРИСВОЕНИИ ИНВЕСТИЦИОННОЙ КОМПАНИИ QB FINANCE РЕЙТИНГА РАБОТОДАТЕЛЯ «А.HR»</h2>
-            <h4 class="size-14 weight-300 mt10 line-h22">Рейтинговое агентство «Эксперт РА», в рамках проведения расширенного мониторинга и в соответствии с решением рейтингового комитета от 25.03.2015 г. присвоило рейтинг привлекательности работодателя ООО «КьюБи Финанс» на уровне А.hr - «Высокий уровень привлекательности работодателя».</h4>
-            <div class="mt20">
-            </div>
+      <div class="column-2 pt05r">
+        <div class="column-offset">
+          <h2 class="size-12 bold uppercase line-h22">СВИДЕТЕЛЬСТВО РЕЙТИНГОВОГО АГЕНСТВА «ЭКСПЕРТ РА» О ПРИСВОЕНИИ ИНВЕСТИЦИОННОЙ КОМПАНИИ QB FINANCE РЕЙТИНГА РАБОТОДАТЕЛЯ «А.HR»</h2>
+          <h4 class="size-14 weight-300 mt10 line-h24">Рейтинговое агентство «Эксперт РА», в рамках проведения расширенного мониторинга и в соответствии с решением рейтингового комитета от 25.03.2015 г. присвоило рейтинг привлекательности работодателя ООО «КьюБи Финанс» на уровне А.hr - «Высокий уровень привлекательности работодателя».</h4>
+          <div class="pt05r">
             <a href="http://raexpert.ru/releases/2015/Mar31c" class="size-14 weight-300 line-h16 color-teal gray-hover"> http://raexpert.ru/releases/2015/Mar31c</a>
           </div>
         </div>
       </div>
-    </div>
-  </div>
-  <div class="clearfix"></div>
-  <div class="column-container mt10">
-    <div class="column-2">
-      <div class="mt25 w95r h250 ml05r bg-light-gray">
-        <div class="h25">
-        </div>
-        <div class="img-license-1 w280 h200 auto bg-center no-repeat">
+      <div class="clearfix"></div>
+      <div class="column-2 pt05r">
+        <div class="column-offset bg-light-gray pt05r pb05r">
+          <div class="img-license-1 w280 h200 auto bg-center no-repeat"></div>
         </div>
       </div>
-    </div>
-    <div class="column-2">
-      <div class="w90r mt25 ml05r">
-        <div class="news-list-offset ml35 mr35">
-          <div class="w100r h200">
-            <h2 class="size-12 bold uppercase line-h20 pt10"><a href="/reviews-1.html" class="gray-hover">СВИДЕТЕЛЬСТВО РЕЙТИНГОВОГО АГЕНСТВА «ЭКСПЕРТ РА» О ПРИСВОЕНИИ ИНВЕСТИЦИОННОЙ КОМПАНИИ QB FINANCE РЕЙТИНГА РАБОТОДАТЕЛЯ «А.HR»</a></h2>
-            <h4 class="size-14 weight-300 mt10 line-h22"><a href="/reviews-1.html" class="gray-hover h60 ellipsis">Рейтинговое агентство «Эксперт РА», в рамках проведения расширенного мониторинга и в соответствии с решением рейтингового комитета от 25.03.2015 г. присвоило рейтинг привлекательности работодателя ООО «КьюБи Финанс» на уровне А.hr - «Высокий уровень привлекательности работодателя».</a><span class="color-teal weight-300">&gt;</span></h4>
-            <div class="mt20">
-            </div>
+      <div class="column-2 pt05r">
+        <div class="column-offset">
+          <h2 class="size-12 bold uppercase line-h22">СВИДЕТЕЛЬСТВО РЕЙТИНГОВОГО АГЕНСТВА «ЭКСПЕРТ РА» О ПРИСВОЕНИИ ИНВЕСТИЦИОННОЙ КОМПАНИИ QB FINANCE РЕЙТИНГА РАБОТОДАТЕЛЯ «А.HR»</h2>
+          <h4 class="size-14 weight-300 mt10 line-h24">Рейтинговое агентство «Эксперт РА», в рамках проведения расширенного мониторинга и в соответствии с решением рейтингового комитета от 25.03.2015 г. присвоило рейтинг привлекательности работодателя ООО «КьюБи Финанс» на уровне А.hr - «Высокий уровень привлекательности работодателя».<span class="color-teal weight-300">&gt;</span></h4>
+          <div class="pt05r">   
             <a href="http://raexpert.ru/releases/2015/Mar31c" class="size-14 weight-300 line-h16 color-teal gray-hover"> http://raexpert.ru/releases/2015/Mar31c</a>
           </div>
         </div>
       </div>
+      <div class="clearfix"></div>
     </div>
-  </div>
-  <!-- FOOTER BLOCK -->
-<div class="clearfix"></div>
-<div class="text-center pt03r">
-  <img src="img/icons/icon-lighthouse.svg" class="icon icon-main">
-</div>
-<div class="text-center pt01r">
-  <span class="size-12 line-h40 uppercase"> < </span>
-  <a href="/company.php" class="size-12 line-h40 uppercase">Компания</a>
-  <span class="color-teal size-10"> • </span>
-  <a href="/documents.php" class="size-12 line-h40 uppercase">Документы</a>
-  <span class="size-12 line-h40 uppercase"> > </span>
-</div>
-<!-- /FOOTER BLOCK -->
-  <div class="clearfix"></div>
-  <?php include 'html/footer.html';?>
-  <script src="/js/jquery.min.js"></script>
-  <script src="/js/main.js"></script>
-</body>
+    <!-- /CONTENT -->
+    <div class="clearfix"></div>
+    <!-- FOOTER BLOCK -->
+    <div class="clearfix"></div>
+    <div class="text-center pt03r">
+      <img src="img/icons/icon-lighthouse.svg" class="icon icon-main">
+    </div>
+    <div class="text-center pt01r">
+      <span class="size-12 line-h40 uppercase"> < </span>
+      <a href="/company.php" class="size-12 line-h40 uppercase">Компания</a>
+      <span class="color-teal size-10"> • </span>
+      <a href="/documents.php" class="size-12 line-h40 uppercase">Документы</a>
+      <span class="size-12 line-h40 uppercase"> > </span>
+    </div>
+    <!-- /FOOTER BLOCK -->
+    <div class="clearfix"></div>
+    <?php include 'html/footer.html';?>
+    <script src="/js/jquery.min.js"></script>
+    <script src="/js/main.js"></script>
+  </body>
 </html>

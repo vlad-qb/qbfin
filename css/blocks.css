@@ -182,6 +182,8 @@
 .ml80{margin-left:80px;}
 .ml90{margin-left:90px;}
 .ml100{margin-left:100px;}
+.ml120{margin-left:120px;}
+.ml140{margin-left:140px;}
 
 .mr5{margin-right:5px;}
 .mr10{margin-right:10px;}
@@ -195,6 +197,8 @@
 .mr80{margin-right:80px;}
 .mr90{margin-right:90px;}
 .mr100{margin-right:100px;}
+.mr120{margin-right:120px;}
+.mr140{margin-right:140px;}
 
 .ml025r{margin-left:2.5%;}
 .mr025r{margin-right:2.5%;}
@@ -383,6 +387,7 @@
     .text-alert.text-offset{
         width:100%;
     }
+    #consulting-management .w33r{width:100%;}
 }
 
 @media screen and (max-width: 480px) {
@@ -411,7 +416,10 @@
     #headblock h2{line-height: 32px;padding-top: 10%;padding-bottom: 10%;}
     #gallery .bg-label-2{width:60%;}
     #bond-option-portfolio .w33r{width:100%;}
+    #consulting-management .w33r{width:100%;}
     #graph-option-1 .h400{height:320px;}
+    #img-conservative-portfolio-3 {height:320px;}
+    .conservative-strategy.text-alert{width:100%;}
 }
 
 @media screen and (max-width: 375px) {
@@ -433,4 +441,5 @@
     }
     #licenses img{width: 100%;}
     #bond-option-portfolio .w33r{width:100%;}
+    #consulting-management .w33r{width:100%;}
 }

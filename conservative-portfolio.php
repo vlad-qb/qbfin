@@ -27,7 +27,7 @@
             style="background-position: center bottom;">
         
       </div>
-      <div class="column-container">
+      <div id="headblock" class="column-container">
         <div class="column-2 content-margin text-center size-8 line-h24 uppercase">
           <div class="column-offset bg-white pt05r">
             <ul>
@@ -127,80 +127,80 @@
   <!--Text-->
   <div class="column-container pt05r">
     <div class="column">
-      <div class="column-offset">
         <h3 class="text-center size-12 color-white"><div class="w320 h40 line-h40 auto bg-gray2">ИНВЕСТИЦИОННАЯ АКТУАЛЬНОСТЬ СТРАТЕГИИ</div></h3>
         <div class="title-line-grey"></div>
-      </div>
     </div>
   </div>
   <div class="column-container size-14 color-grey1 line-h26">
-    <div class="column-2">
-      <p class="mt70 ml07r mr10r size-14 weight-300"><span class="bold">П</span>ортфель содержит корпоративные облигации эмитентов развитых стран - США и Европы. Доходность по таким инструментам с 10-летним сроком обращения варьируется в пределах 6 - 7% годовых. </p>
+    <div class="column-2 pt05r">
+      <p class="ml07r mr10r size-14 weight-300"><span class="bold">П</span>ортфель содержит корпоративные облигации эмитентов развитых стран - США и Европы. Доходность по таким инструментам с 10-летним сроком обращения варьируется в пределах 6 - 7% годовых. </p>
       
-      <p class="mt20 ml07r mr10r size-14 weight-300">Американские и европейские акции с дивидендной доходностью приносят дополнительные 4 - 5% прибыли. </p>
+      <p class="pt05r ml07r mr10r size-14 weight-300">Американские и европейские акции с дивидендной доходностью приносят дополнительные 4 - 5% прибыли. </p>
     </div>
     <div class="column-2">
-      <p class="mt70 ml07r mr10r size-14 weight-300"><span class="bold">Б</span>лагодаря системе отбора активов и широким возможностям диверсификации (как валютной, так и региональной), негативные изменения рынка незначительно влияют на инвестированный капитал. </p>
+      <p class="pt05r ml07r mr10r size-14 weight-300"><span class="bold">Б</span>лагодаря системе отбора активов и широким возможностям диверсификации (как валютной, так и региональной), негативные изменения рынка незначительно влияют на инвестированный капитал. </p>
       
-      <p class="mt20 ml07r mr10r size-14 weight-300">В итоге инвестор всегда понимает, каким образом стратегия принесла тот или иной результат.</p>
+      <p class="pt05r ml07r mr10r size-14 weight-300">В итоге инвестор всегда понимает, каким образом стратегия принесла тот или иной результат.</p>
     </div>
     <div class="clearfix"></div>
   </div>
   <!--Text-->
   <!--Parallax-text-->
-  <div class="clearfix"></div>
-  <div id="parallax-menu" class="img-conservative-portfolio-2 w100r mt80 cover fixed" style="background-attachment: fixed; background-position: center center;">
-    <div class="label w90r auto bg bg-yellow-label line-h40 text-center">
-      <div class="column-3">
-        <div class="ml05r mr05r mt30">
-          <div class="border-white2 auto w100 mb10"></div>
-          <p class="size-12 color-white weight-300">СУММА ИНВЕСТИЦИЙ</p>
-          <p class="size-12 color-white weight-300">от $300.000 тыс</p>
-          <div class="border-white2 auto w100 mt10 mb10"></div>
-          <p class="size-12 color-white weight-300">УРОВЕНЬ ЗАЩИТЫ КАПИТАЛА</p>
-          <p class="size-12 color-white weight-300">75%</p>
-        </div>
-      </div>
-      <div class="column-3">
-        <div class="ml05r mr05r mt30">
-          <div class="border-white2 auto w100 mb10"></div>
-          <p class="size-12 color-white weight-300">ЛИКВИДНОСТЬ</p>
-          <p class="size-12 color-white weight-300">7 дней</p>
-          <div class="border-white2 auto w100 mt10 mb10"></div>
-          <p class="size-12 color-white weight-300">МИНИМАЛЬНЫЙ СРОК ИНВЕСТИРОВАНИЯ</p>
-          <p class="size-12 color-white weight-300">1 год</p>
-        </div>
-      </div>
-      <div class="column-3">
-        <div class="ml05r mr05r mt30">
-          <div class="border-white2 auto w100 mb10"></div>
-          <p class="size-12 color-white weight-300">ЦЕЛЕВАЯ ДОХОДНОСТЬ, $</p>
-          <p class="size-12 color-white weight-300">20-32%</p>
-          <div class="border-white2 auto w100 mt10 mb10"></div>
-          <p class="size-12 color-white weight-300">ВОЗНАГРАЖДЕНИЕ УПРАВЛЯЮЩЕГО</p>
-          <p class="size-12 color-white weight-300">комиссия за успех: 30%</p>
+    <div class="clearfix"></div>
+    <div
+      id="bond-option-portfolio"
+      class="img-conservative-portfolio-2 w100r mt05r cover fixed"
+      style="background-attachment: fixed; background-position: center center;">
+      <div class="w90r auto bg bg-yellow-label text-center">
+        <div class="column-container size-11 line-h22 color-white">
+          <div class="w33r l pt04r pb02r">
+            <div class="border-white2 w100 auto"></div>
+            <p class="weight-300 mt02r pt05r pb05r pl05r pr05r">СУММА ИНВЕСТИЦИЙ</p>
+            <p class="weight-300 mb02r pt05r pb05r pl05r pr05r">от $300.000</p>
+            <div class="border-white2 w100 auto"></div>
+            <p class="weight-300 mt05r pt05r pb05r pl05r pr05r">УРОВЕНЬ ЗАЩИТЫ КАПИТАЛА</p>
+            <p class="weight-300 pt05r pl05r pr05r">75%</p>
+          </div>
+          <div class="w33r l pt04r pb02r">
+            <div class="border-white2 w100 auto"></div>
+            <p class="weight-300 mt02r pt05r pb05r pl05r pr05r">ЛИКВИДНОСТЬ</p>
+            <p class="weight-300 mb02r pt05r pb05r pl05r pr05r">7 дней</p>
+            <div class="border-white2 w100 auto"></div>
+            <p class="weight-300 mt05r pt05r pb05r pl05r pr05r">МИНИМАЛЬНЫЙ СРОК ИНВЕСТИРОВАНИЯ</p>
+            <p class="weight-300 pt05r pl05r pr05r">1 год</p>
+          </div>
+          <div class="w33r l pt04r pb02r">
+            <div class="border-white2 w100 auto"></div>
+            <p class="weight-300 mt02r pt05r pb05r pl05r pr05r">ЦЕЛЕВАЯ ДОХОДНОСТЬ, $</p>
+            <p class="weight-300 mb02r pt05r pb05r pl05r pr05r">20-32%</p>
+            <div class="border-white2 w100 auto"></div>
+            <p class="weight-300 mt05r pt05r pl05r pr05r">ВОЗНАГРАЖДЕНИЕ УПРАВЛЯЮЩЕГО</p>
+            <p class="weight-300 pt05r pl05r pr05r">комиссия за успех: 30%</p>
+          </div>
+          <div class="clearfix"></div>
         </div>
       </div>
     </div>
-  </div>
-  <div class="clearfix"></div>
+    <div class="clearfix"></div>
   <!--Parallax-text-->
   <!--Text-->
   <div class="column-container size-14 line-h26">
-    <h3 class="text-center bold mt60">Структура портфеля</h3>
+    <h3 class="text-center bold pt05r">Структура портфеля</h3>
     <div class="column-2">
-      <p class="mt70 ml07r mr10r size-14 weight-300"><span class="bold">Ч</span>тобы актив был отобран в портфель, он как минимум должен входить в один из крупнейших региональных фондовых индексов: DJIA, S&P500, DAX, FTSE 100 - и обладать высоким кредитным рейтингом от ведущих рейтинговых агентств (S&P, Moody's, Fitch).</p>
+      <p class="pt05r ml07r mr10r size-14 weight-300"><span class="bold">Ч</span>тобы актив был отобран в портфель, он как минимум должен входить в один из крупнейших региональных фондовых индексов: DJIA, S&P500, DAX, FTSE 100 - и обладать высоким кредитным рейтингом от ведущих рейтинговых агентств (S&P, Moody's, Fitch).</p>
     </div>
     <div class="column-2">
-      <p class="mt70 ml07r mr10r size-14 weight-300"><span class="bold">П</span>ри необходимости капитал можно защитить и от валютных рисков: валютные пары могут занимать до 20% от объема портфеля. В зависимости от рыночной конъюнктуры, веса финансовых инструментов в портфеле могут варьироваться. Так, доля облигаций может составлять 55 - 65%, акций - 25 - 35%, валюты - 10 - 20%.</p>
+      <p class="pt05r ml07r mr10r size-14 weight-300"><span class="bold">П</span>ри необходимости капитал можно защитить и от валютных рисков: валютные пары могут занимать до 20% от объема портфеля. В зависимости от рыночной конъюнктуры, веса финансовых инструментов в портфеле могут варьироваться. Так, доля облигаций может составлять 55 - 65%, акций - 25 - 35%, валюты - 10 - 20%.</p>
     </div>
   </div>
   <div class="clearfix"></div>
   <!--Text-->
   <!--Image-->
-  <div class="column-container mt20">
+  <div class="column-container">
     <div class="column">
-      <div class="img-conservative-portfolio-3 h400 contain mt30 mb50" style="background-size: contain; background-repeat: no-repeat; background-position: center center;"></div>
+      <div class="column-offset">
+      <div id="img-conservative-portfolio-3" class="img-conservative-portfolio-3 h400 contain mt05r mb05r" style="background-size: contain; background-repeat: no-repeat; background-position: center center;"></div>
+      </div>
     </div>
     <div class="clearfix"></div>
   </div>
@@ -217,22 +217,24 @@
   <div class="clearfix"></div>
   <!--Text-->
   <div class="column-container">
-    <div class="column mt60 mb30 text-center">
-      <div class="border-gray-bottom"></div>
-      <p class="mt60 size-12 color-teal uppercase line-h16 weight-300">В ЗАВИСИМОСТИ ОТ ПОСТАВЛЕННЫХ ЗАДАЧ, НАШИ СПЕЦИАЛИСТЫ ПОМОГУТ ВЫБРАТЬ НАИБОЛЕЕ ПОДХОДЯЩУЮ ДЛЯ ВАС СТРАТЕГИЮ</p>
-      <a href="/connect.php" class="size-14 line-h60 weight-300">задать вопрос специалисту </a><span class="color-teal weight-300">&gt;</span>
+    <div class="column text-center pt05r">
+      <div class="column-offset">
+        <div class="border-gray-bottom"></div>
+        <p class="pt05r size-12 color-teal uppercase line-h16 weight-300">В ЗАВИСИМОСТИ ОТ ПОСТАВЛЕННЫХ ЗАДАЧ, НАШИ СПЕЦИАЛИСТЫ ПОМОГУТ ВЫБРАТЬ НАИБОЛЕЕ ПОДХОДЯЩУЮ ДЛЯ ВАС СТРАТЕГИЮ</p>
+        <a href="/connect.php" class="size-14 line-h26 weight-300">задать вопрос специалисту </a><span class="color-teal weight-300">&gt;</span>
+      </div>
     </div>
   </div>
   <div class="clearfix"></div>
   <!-- Double parallax menu -->
-  <div class="img-high-yield-strategy-2 w100r fixed" style="background-attachment: fixed;">
+  <div class="img-high-yield-strategy-2 w100r fixed mt05r" style="background-attachment: fixed;">
     <div class="bg-yellow-label w90r auto bg bg-label text-center color-white uppercase">
       <div class="title-block-offset-2">
         <h2 class="size-12 line-h22 uppercase">ВАРИАНТЫ КОНСЕРВАТИВНОЙ СТРАТЕГИИ</h2>
       </div>
       <div class="pl02r pr02r pt02r pb02r">
         <div class="column-4">
-          <div class="ml05r mr05r mt30">
+          <div class="ml05r mr05r pt05r">
             <img src="img/icons/icon-reit-sentence.svg" class="icon icon-services w90 h90">
             <div class="mt10 border-yellow-top border-yellow-bottom bg-lightyellow">
               <div class="size-12 line-h18 mt20 mb20 ml25r mr25r"><a class="color-white white-hover" href="/conservative-portfolio.php">КОНСЕРВАТИВНЫЙ ПОРТФЕЛЬ</a></div>
@@ -240,7 +242,7 @@
           </div>
         </div>
         <div class="column-4">
-          <div class="ml05r mr05r mt30">
+          <div class="ml05r mr05r pt05r">
             <img src="img/icons/icon-cogwheel.svg" class="icon icon-services w90 h90">
             <div class="mt10 border-yellow-top border-yellow-bottom lightyellow-block-hover">
               <div class="size-12 line-h18 mt20 mb20 ml25r mr25r"><a class="color-white white-hover" href="/bond-option-portfolio.php">ОБЛИГАЦИОННО- ОПЦИОННЫЙ <br/>ПОРТФЕЛЬ</a></div>
@@ -248,7 +250,7 @@
           </div>
         </div>
         <div class="column-4">
-          <div class="ml05r mr05r mt30">
+          <div class="ml05r mr05r pt05r">
             <img src="img/icons/icon-strongbox.svg" class="icon icon-services w90 h90">
             <div class="mt10 border-yellow-top border-yellow-bottom lightyellow-block-hover">
               <div class="size-12 line-h18 mt20 mb20 ml25r mr25r"><a class="color-white white-hover" href="/bond-repo-portfolio.php">ОБЛИГАЦИОННЫЙ <br/>РЕПО ПОРТФЕЛЬ</a></div>
@@ -256,7 +258,7 @@
           </div>
         </div>
         <div class="column-4">
-          <div class="ml05r mr05r mt30">
+          <div class="ml05r mr05r pt05r">
             <img src="img/icons/icon-strongbox.svg" class="icon icon-services w90 h90">
             <div class="mt10 border-yellow-top border-yellow-bottom lightyellow-block-hover">
               <div class="size-12 line-h18 mt20 mb20 ml25r mr25r"><a class="color-white white-hover" href="/structured-bond-portfolio.php">СТРУКТУРИРОВАННЫЙ ОБЛИГАЦИОННЫЙ ПОРТФЕЛЬ</a></div>
@@ -272,7 +274,7 @@
       </div>
       <div class="pl02r pr02r pt02r pb02r">
         <div class="column-4">
-          <div class="ml05r mr05r mt30">
+          <div class="ml05r mr05r pt05r">
             <img src="img/icons/icon-marker.svg" class="icon icon-services w50 h50">
             <div class="mt10 border-darkgray-top border-darkgray-bottom blue-block-hover">
               <div class="size-11 line-h18 mt20 mb20 ml25r mr25r"><a class="color-white white-hover" href="/high-yield-strategy.php">Высокодоходная стратегия</a></div>
@@ -280,7 +282,7 @@
           </div>
         </div>
         <div class="column-4">
-          <div class="ml05r mr05r mt30">
+          <div class="ml05r mr05r pt05r">
             <img src="img/icons/icon-marker.svg" class="icon icon-services w50 h50">
             <div class="mt10 border-darkgray-top border-darkgray-bottom green-block-hover">
               <div class="size-11 line-h18 mt20 mb20 ml25r mr25r"><a class="color-white white-hover" href="/weighted-average-strategy.php">Средневзвешенная стратегия</a></div>
@@ -288,7 +290,7 @@
           </div>
         </div>
         <div class="column-4">
-          <div class="ml05r mr05r mt30">
+          <div class="ml05r mr05r pt05r">
             <img src="img/icons/icon-marker.svg" class="icon icon-services w50 h50">
             <div class="mt10 border-darkgray-top border-darkgray-bottom orange-block-hover">
               <div class="size-11 line-h18 mt20 mb20 ml25r mr25r"><a class="color-white white-hover" href="/conservative-strategy.php">Консервативная стратегия</a></div>
@@ -296,7 +298,7 @@
           </div>
         </div>
         <div class="column-4">
-          <div class="ml05r mr05r mt30">
+          <div class="ml05r mr05r pt05r">
             <img src="img/icons/icon-marker.svg" class="icon icon-services w50 h50">
             <div class="mt10 border-darkgray-top border-darkgray-bottom grey-block-hover">
               <div class="size-11 line-h18 mt20 mb20 ml25r mr25r"><a class="color-white white-hover" href="/strategy-for-the-protection-of-ruble-assets.php">Стратегия защиты активов</a></div>

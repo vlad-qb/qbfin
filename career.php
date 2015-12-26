@@ -102,7 +102,7 @@
       </div>
       <div class="column-2 content-margin">
         <div class="column-offset bg-white text-center pt05r">
-          <h2 class="size-18 line-h50 color-teal uppercase"> О НАС </h2>
+          <h2 class="size-18 line-h50 color-teal uppercase"> КАРЬЕРА </h2>
           <p class="size-11 line-h20 text-justify mt30 pl05r pr05r">
             <span class="bold"> ВЫСОКОКВАЛИФИЦИРОВАННАЯ КОМАНДА МЕНЕДЖЕРОВ И ПОРТФЕЛЬНЫХ УПРАВЛЯЮЩИХ, ИМЕЮЩАЯ ЗНАЧИТЕЛЬНЫЙ ОПЫТ РАБОТЫ НА РЫНКЕ ЦЕННЫХ БУМАГ.</span>
           </p>
@@ -126,55 +126,54 @@
       </div>
     </div>
     <!-- /HEADBLOCK -->
-  <div class="clearfix"></div>
-  <!-- CONTENT -->
-  <div id="gallery" class="column-container pt05r">
-    <div class="column-2">
-      <div class="gallery-offset w95r ml05r border-white">
-        <div class="img-career-2 w100r h200 cover bg-center">
-          <div class="bg-label-2 w50r h200">
-            <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60 overflow-hidden clip"><a href="/culture.php" class="color-whitesmoke light-gray-hover">КУЛЬТУРА</a></h2>
-            <a href="/culture.php"><img class="icon arrow mt40" src="/img/icons/arrow-right-white.svg"></a>
+    <div class="clearfix"></div>
+    <!-- CONTENT -->
+    <div id="gallery" class="column-container pt05r">
+      <div class="column-2">
+        <div class="gallery-offset w95r ml05r border-white">
+          <div class="img-career-2 w100r h200 cover bg-center">
+            <div class="bg-label-2 w50r h200">
+              <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60 overflow-hidden clip"><a href="/culture.php" class="color-whitesmoke light-gray-hover">КУЛЬТУРА</a></h2>
+              <a href="/culture.php"><img class="icon arrow mt40" src="/img/icons/arrow-right-white.svg"></a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="column-2">
+        <div class="gallery-offset w95r mr05r border-white">
+          <div class="img-career-3 w100r h200 cover bg-center">
+            <div class="bg-label-2 w50r h200">
+              <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60 overflow-hidden clip"><a href="/colleague.php" class="color-whitesmoke light-gray-hover">СОТРУДНИКИ</a></h2>
+              <a href="/colleague.php"><img class="icon arrow mt40" src="/img/icons/arrow-right-white.svg"></a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="column-2">
+        <div class="gallery-offset w95r ml05r border-white">
+          <div class="img-career-4 w100r h200 cover bg-center">
+            <div class="bg-label-2 w50r h200">
+              <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60 overflow-hidden clip"><a href="/departments.php" class="color-whitesmoke light-gray-hover">ДЕПАРТАМЕНТЫ</a></h2>
+              <a href="/departments.php"><img class="icon arrow mt40" src="/img/icons/arrow-right-white.svg"></a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="column-2">
+        <div class="gallery-offset w95r mr05r border-white">
+          <div class="img-career-5 w100r h200 cover bg-center">
+            <div class="bg-label-2 w50r h200">
+              <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60 overflow-hidden clip"><a href="/vacancies.php" class="color-whitesmoke light-gray-hover">ВАКАНСИИ</a></h2>
+              <a href="/vacancies.php"><img class="icon arrow mt40" src="/img/icons/arrow-right-white.svg"></a>
+            </div>
           </div>
         </div>
       </div>
     </div>
-    <div class="column-2">
-      <div class="gallery-offset w95r mr05r border-white">
-        <div class="img-career-3 w100r h200 cover bg-center">
-          <div class="bg-label-2 w50r h200">
-            <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60 overflow-hidden clip"><a href="/colleague.php" class="color-whitesmoke light-gray-hover">СОТРУДНИКИ</a></h2>
-            <a href="/colleague.php"><img class="icon arrow mt40" src="/img/icons/arrow-right-white.svg"></a>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="column-2">
-      <div class="gallery-offset w95r ml05r border-white">
-        <div class="img-career-4 w100r h200 cover bg-center">
-          <div class="bg-label-2 w50r h200">
-            <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60 overflow-hidden clip"><a href="/departments.php" class="color-whitesmoke light-gray-hover">ДЕПАРТАМЕНТЫ</a></h2>
-            <a href="/departments.php"><img class="icon arrow mt40" src="/img/icons/arrow-right-white.svg"></a>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="column-2">
-      <div class="gallery-offset w95r mr05r border-white">
-        <div class="img-career-5 w100r h200 cover bg-center">
-          <div class="bg-label-2 w50r h200">
-            <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60 overflow-hidden clip"><a href="/vacancies.php" class="color-whitesmoke light-gray-hover">ВАКАНСИИ</a></h2>
-            <a href="/vacancies.php"><img class="icon arrow mt40" src="/img/icons/arrow-right-white.svg"></a>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-  
-  <!-- /CONTENT -->
-  <div class="clearfix"></div>
-  <?php include 'html/footer.html';?>
-  <script src="/js/jquery.min.js"></script>
-  <script src="/js/main.js"></script>
-</body>
+    <!-- /CONTENT -->
+    <div class="clearfix"></div>
+    <?php include 'html/footer.html';?>
+    <script src="/js/jquery.min.js"></script>
+    <script src="/js/main.js"></script>
+  </body>
 </html>
