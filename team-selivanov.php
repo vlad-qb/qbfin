@@ -27,7 +27,7 @@
             style="background-position: right bottom;">
         
       </div>
-      <div class="column-container">
+      <div id="headblock" class="column-container">
         <div class="column-2 content-margin text-center size-8 line-h24 uppercase">
           <div class="column-offset bg-white pt05r">
             <ul>
@@ -143,60 +143,57 @@
     </div>
     <!-- /HEADBLOCK -->
   <div class="clearfix"></div>
-  <!--Text-->
-  <div class="column-container size-14 line-h20 pt05r">
-    <div class="column-2">
-      <p class="mt100 ml07r mr10r size-14 weight-300"><span class="bold">Н</span>а сегодняшний день в России очень сложно найти правильное и качественное понимание инвестирования.</p>
-      <p class="mt20 ml07r mr10r size-14 weight-300">Поэтому, с первых этапов создания департамента Управления капиталом была собрана сильная команда профессионалов. Основополагающим для нас было предложить рынку и клиентам то, чему еще не было аналогов в России.</p>
-      <p class="mt20 ml07r mr10r size-14 weight-300">Опираясь на формат американских хэдж-фондов, мы собрали специалистов с международным опытом в ведущих финансовых корпорациях, обладающими степенью Доктор наук.</p>
-      <p class="mt20 ml07r mr10r size-14 weight-300">Наша команда управляющих находится в поиске новых торговых идей 24 часа в сутки, мы стараемся находить прибыль во всех частях света.</p>
+  <div class="column-container size-14 line-h20">
+    <div class="column-2 pt05r">
+      <div class="column-offset">
+        <p class="size-14 weight-300"><span class="bold">Н</span>а сегодняшний день в России очень сложно найти правильное и качественное понимание инвестирования.</p>
+        <p class="mt20 size-14 weight-300">Поэтому, с первых этапов создания департамента Управления капиталом была собрана сильная команда профессионалов. Основополагающим для нас было предложить рынку и клиентам то, чему еще не было аналогов в России.</p>
+        <p class="mt20 size-14 weight-300">Опираясь на формат американских хэдж-фондов, мы собрали специалистов с международным опытом в ведущих финансовых корпорациях, обладающими степенью Доктор наук.</p>
+        <p class="mt20 size-14 weight-300">Наша команда управляющих находится в поиске новых торговых идей 24 часа в сутки, мы стараемся находить прибыль во всех частях света.</p>
+      </div>
     </div>
-    <div class="column-2">
-      <p class="mt100 ml07r mr10r size-14 weight-300">Совмещение креативного и аналитического подхода позволяет департаменту успешно зарабатывать также на падении и слабых сторонах рынка.</span></p>
-      <p class="mt20 ml07r mr10r size-14 weight-300">Система риск-менеджмента выстроена на высшем уровне, по аналогии с ведущими банками мира. Команда объединена общей идеей и каждый из сотрудников максимально настроен на результат, что не дает шансов на неудачу. <span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span></p>
-      <p class="mt40 ml07r mr10r size-14 weight-300 line-h30 r text-right">С уважением,<br/>
-        <span class="bold">Никита Селиванов</span>, Руководитель отдела международного трейдинга</p>
+    <div class="column-2 pt05r">
+      <div class="column-offset">
+        <p class="size-14 weight-300">Совмещение креативного и аналитического подхода позволяет департаменту успешно зарабатывать также на падении и слабых сторонах рынка.</span></p>
+        <p class="mt20 size-14 weight-300">Система риск-менеджмента выстроена на высшем уровне, по аналогии с ведущими банками мира. Команда объединена общей идеей и каждый из сотрудников максимально настроен на результат, что не дает шансов на неудачу. <span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span></p>
+        <p class="mt40 size-14 weight-300 line-h30 r text-right">С уважением,<br/>
+          <span class="bold">Никита Селиванов</span>, Руководитель отдела международного трейдинга</p>
+      </div>
+    </div>
+  </div>
+  <div class="clearfix"></div>
+    <div class="column-container">
+      <div class="column pt10r">
+        <h3 class="text-center size-12"><div class="w250 line-h40 auto bold bg-white">ПУБЛИКАЦИИ</div></h3>
+        <div class="title-line-teal"></div>
       </div>
     </div>
     <div class="clearfix"></div>
-    <!--Text-->
-    <!-- Publications -->
-    <div class="column-container">
-      <div class="column mt100">
-        <div class="column-offset">
-          <h3 class="text-center size-12"><div class="w250 h40 line-h40 auto bold bg-white">ПУБЛИКАЦИИ</div></h3>
-          <div class="title-line-grey3"></div>
-        </div>
-      </div>
-    </div>
-    <div id="offices" class="CUSTOM-1 column-container">
-      <div class="column">
-        <div class="column-offset">
-          <div class="column-20r mt90" style="padding-top:2%;">
-            <div class="img-team-selivanov-2 contain w120 h120 auto"></div>
-          </div>
-          <div class="column-30r mt90" style="padding-top:2%;">
+    <div id="offices" class="CUSTOM-1 column-container">  
+          <div class="column-20r pt05r">
             <div class="column-offset">
-              <div class="text-center weight-300 size-14 line-h40">
+              <div class="img-team-selivanov-2 contain w120 h120 auto"></div>
+            </div>
+          </div>
+          <div class="column-30r pt05r">
+            <div class="column-offset pl05r pr05r">
+              <div class="text-center weight-300 size-14 line-h20">
                 <a href="/expert-1.php" class="size-12 bold gray-hover">ЭКСКЛЮЗИВ НА ФОНДОВОМ РЫНКЕ</a>
-                <div class="w100r auto border-grey-bottom"></div>
+                <div class="w100r auto border-grey-bottom mt5 mb10"></div>
                 <h4 class="size-12"><span class="color-teal weight-300">05.12.2014</span> <span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span> архив</h4>
               </div>
               <div class="clearfix"></div>
             </div>
           </div>
-          <div class="column-50r mt90" style="padding-top:2%;">
-            <div class="column-offset">
-              <div class="size-14 line-h20 ml10r mr05r">
-                <a href="/expert-1.php" class="weight-300 gray-hover"><span class="bold">Д</span>митрий Кипа и Никита Селиванов объясняют природу «спроса на люкс» среди инвесторов и советуют им поторопиться: ближайшее интересное событие - IPO Ferrari. Количество состоятельных людей растет высокими темпами. В 2013 году число долларовых миллионеров достигло 16,3 млн, увеличившись с 2008 года на 90%....  </a><span class="color-teal weight-300">&gt;</span>
+          <div class="column-50r pt05r">
+            <div class="column-offset pl05r pr05r">
+              <div class="size-14 line-h20">
+                <a href="/expert-1.php" class="weight-300 gray-hover"><span class="bold">Д</span>митрий Кипа и Никита Селиванов объясняют природу «спроса на люкс» среди инвесторов и советуют им поторопиться: ближайшее интересное событие - IPO Ferrari. Количество состоятельных людей растет высокими темпами. В 2013 году число долларовых миллионеров достигло 16,3 млн, увеличившись с 2008 года на 90%.... </a><span class="color-teal weight-300">&gt;</span>
               </div>
             </div>
           </div>
-        </div>
-      </div>
     </div>
     <div class="clearfix"></div>
-    <!-- Publications -->
     <!-- FOOTER BLOCK -->
     <div class="clearfix"></div>
     <div class="w100r">

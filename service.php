@@ -27,7 +27,7 @@
             style="background-position: center bottom;">
         
       </div>
-      <div class="column-container">
+      <div id="headblock" class="column-container">
         <div class="column-2 content-margin text-center size-8 line-h24 uppercase">
           <div class="column-offset bg-white pt05r">
             <ul>
@@ -123,8 +123,8 @@
     </div>
     <!-- /HEADBLOCK -->
   <div class="clearfix"></div>
-  <div id="parallax-menu2" class="img-service-2 mt70 w100r h300 border-bottom-white fixed" style="background-attachment: fixed;">
-    <div class="label w28r bg bg-label-2 text-center color-white uppercase">
+  <div class="img-service-2 mt05r w100r h300 border-bottom-white fixed" style="background-attachment: fixed;">
+    <div class="label l h300 bg bg-label-2 text-center color-white uppercase">
       <div class="column">
         <div class="ml05r mr05r mt90">
           <img class="icon icon-services" src="img/icons/icon-umbrella.svg">
@@ -136,8 +136,8 @@
     </div>
   </div>
   <div class="clearfix"></div>
-  <div id="parallax-menu2" class="img-service-3 w100r h300 border-bottom-white fixed" style="background-attachment: fixed;">
-    <div class="label w28r bg bg-label-2 text-center color-white uppercase r">
+  <div class="img-service-3 w100r h300 border-bottom-white fixed" style="background-attachment: fixed;">
+    <div class="label h300 bg bg-label-2 text-center color-white uppercase r">
       <div class="column">
         <div class="ml05r mr05r mt90">
           <img class="icon icon-services" src="img/icons/icon-horse.svg">
@@ -149,8 +149,8 @@
     </div>
   </div>
   <div class="clearfix"></div>
-  <div id="parallax-menu2" class="img-service-4 w100r h300 border-bottom-white fixed mb30" style="background-attachment: fixed;">
-    <div class="label w28r bg bg-label-2 text-center color-white uppercase">
+  <div class="img-service-4 w100r h300 border-bottom-white fixed" style="background-attachment: fixed;">
+    <div class="label l h300 bg bg-label-2 text-center color-white uppercase">
       <div class="column">
         <div class="ml05r mr05r mt90">
           <img class="icon icon-services" src="img/icons/icon-leaves.svg">

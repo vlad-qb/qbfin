@@ -27,7 +27,7 @@
             style="background-position: right bottom;">
         
       </div>
-      <div class="column-container">
+      <div id="headblock" class="column-container">
         <div class="column-2 content-margin text-center size-8 line-h24 uppercase">
           <div class="column-offset bg-white pt05r">
             <ul>
@@ -144,59 +144,60 @@
     <!-- /HEADBLOCK -->
   <div class="clearfix"></div>
   <!--Text-->
-  <div class="column-container size-14 line-h20 pt05r">
+  <div class="clearfix"></div>
+  <!--Text-->
+  <div class="column-container size-14 line-h20">
     <div class="column-2">
-      <p class="mt100 ml07r mr10r size-14 weight-300"><span class="bold">С</span>колько хайнетов, столько и их типажей. В любом частном банке вам скажут, что не существует одинаковых миллионеров, но управление богатством не так многогранно, как личность его владельца, и по тем глобальным требованиям, которые обладатель капитала предъявляет к своему wealth-менеджеру, их можно разделить на три понятных типа: консервативный, активный и агрессивный.</p>
-      <p class="mt20 ml07r mr10r size-14 weight-300">Консервативный скрупулезно изучит структуру предлагаемого портфеля и проверит на прочность все идеи управляющего. Активный не станет слишком интересоваться средствами инвестирования, его волнует только итоговая цифра.</p>
-      
-      <p class="mt50 ml10r mr10r size-12 color-teal uppercase line-h16 weight-300">К КАКОМУ БЫ ТИПУ ВЫ НИ ОТНОСИЛИ СЕБЯ САМИ, НАИБОЛЬШЕЙ ЭФФЕКТИВНОСТИ В РАБОТЕ С ИНДУСТРИЕЙ PRIVATE BANKING И WEALTH MANAGEMENT МОЖНО ДОБИТЬСЯ, КОГДА ВЫ ЗАРАНЕЕ ЗНАЕТЕ СОБСТВЕННЫЕ ЦЕЛИ, ЖЕЛАНИЯ И ИНВЕСТИЦИОННЫЙ ГОРИЗОНТ. </p>
-      <p class="mt10 ml10r mr10r size-12 color-teal uppercase line-h16 weight-300">МЫ СЧИТАЕМ, ЧТО ДЛЯ УСПЕШНОЙ РАБОТЫ С ИНВЕСТИЦИЯМИ ОН НЕ ДОЛЖЕН БЫТЬ КОРОЧЕ ПОЛУТОРА ЛЕТ И, В ЧАСТНОСТИ, ПРИ ИНВЕСТИРОВАНИИ В РЕАЛЬНЫЙ СЕКТОР - НЕ КОРОЧЕ СЕМИ.</p>
-    </div>
-    <div class="column-2">
-      <p class="mt100 ml07r mr10r size-14 weight-300">А от агрессивного можно ожидать даже проверки команды управляющей компании на профессионализм. В зависимости от типа клиента инвестирование на финансовых рынках может соответственно принимать три разные формы. </p>
-      <p class="mt20 ml07r mr10r size-14 weight-300">Работая в консервативном русле, мы по-прежнему призываем делать акцент на бумагах с фиксированной доходностью, вниманию активных инвесторов хотим предложить госбонды южных стран Европы, а агрессивным хайнетам - активы из развивающихся стран и рынок IPO Америки.</p>
-      <p class="mt20 ml07r mr10r size-14 weight-300">Тем же инвесторам, которым симпатичен рынок недвижимости, следует внимательнее изучить стремительно развивающийся сегмент стрит-ритейла Московской области.</p>
-      <p class="mt20 ml07r mr10r size-14 weight-300">Но единственное, что играет решающую роль, - уровень удовлетворенности от управления капиталом. Очень сложно деньгами измерить человеческое счастье, но если финансовые вызовы не портят настроения клиенту и банкиру, если инвестировать удается с улыбкой - на наш взгляд, это единственный настоящий критерий качества работы управляющего капиталом. <span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span></p>
-      <p class="mt40 ml07r mr10r size-14 weight-300 line-h30 r text-right">С уважением,<br/>
-        <span class="bold">Зелимхан Мунаев</span>, Директор департамента продаж</p>
+      <div class="column-offset pt05r">
+        <p class="size-14 weight-300"><span class="bold">С</span>колько хайнетов, столько и их типажей. В любом частном банке вам скажут, что не существует одинаковых миллионеров, но управление богатством не так многогранно, как личность его владельца, и по тем глобальным требованиям, которые обладатель капитала предъявляет к своему wealth-менеджеру, их можно разделить на три понятных типа: консервативный, активный и агрессивный.</p>
+        <p class="mt20 size-14 weight-300">Консервативный скрупулезно изучит структуру предлагаемого портфеля и проверит на прочность все идеи управляющего. Активный не станет слишком интересоваться средствами инвестирования, его волнует только итоговая цифра.</p>
+      </div>
+      <div class="column-offset pt05r pl05r pr05r">
+        <p class="size-12 color-teal uppercase line-h16 weight-300">К КАКОМУ БЫ ТИПУ ВЫ НИ ОТНОСИЛИ СЕБЯ САМИ, НАИБОЛЬШЕЙ ЭФФЕКТИВНОСТИ В РАБОТЕ С ИНДУСТРИЕЙ PRIVATE BANKING И WEALTH MANAGEMENT МОЖНО ДОБИТЬСЯ, КОГДА ВЫ ЗАРАНЕЕ ЗНАЕТЕ СОБСТВЕННЫЕ ЦЕЛИ, ЖЕЛАНИЯ И ИНВЕСТИЦИОННЫЙ ГОРИЗОНТ. </p>
+        <p class="mt10 size-12 color-teal uppercase line-h16 weight-300">МЫ СЧИТАЕМ, ЧТО ДЛЯ УСПЕШНОЙ РАБОТЫ С ИНВЕСТИЦИЯМИ ОН НЕ ДОЛЖЕН БЫТЬ КОРОЧЕ ПОЛУТОРА ЛЕТ И, В ЧАСТНОСТИ, ПРИ ИНВЕСТИРОВАНИИ В РЕАЛЬНЫЙ СЕКТОР - НЕ КОРОЧЕ СЕМИ.</p>
       </div>
     </div>
-    <div class="clearfix"></div>
-    <!--Text-->
-    <!-- Publications -->
+    <div class="column-2">
+      <div class="column-offset pt05r">
+        <p class="size-14 weight-300">А от агрессивного можно ожидать даже проверки команды управляющей компании на профессионализм. В зависимости от типа клиента инвестирование на финансовых рынках может соответственно принимать три разные формы. </p>
+        <p class="mt20 size-14 weight-300">Работая в консервативном русле, мы по-прежнему призываем делать акцент на бумагах с фиксированной доходностью, вниманию активных инвесторов хотим предложить госбонды южных стран Европы, а агрессивным хайнетам - активы из развивающихся стран и рынок IPO Америки.</p>
+        <p class="mt20 size-14 weight-300">Тем же инвесторам, которым симпатичен рынок недвижимости, следует внимательнее изучить стремительно развивающийся сегмент стрит-ритейла Московской области.</p>
+        <p class="mt20 size-14 weight-300">Но единственное, что играет решающую роль, - уровень удовлетворенности от управления капиталом. Очень сложно деньгами измерить человеческое счастье, но если финансовые вызовы не портят настроения клиенту и банкиру, если инвестировать удается с улыбкой - на наш взгляд, это единственный настоящий критерий качества работы управляющего капиталом. <span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span></p>
+        <p class="mt40 size-14 weight-300 line-h30 r text-right">С уважением,<br/>
+          <span class="bold">Зелимхан Мунаев</span>, Директор департамента продаж</p>
+      </div>
+    </div>
+  </div>
+  <div class="clearfix"></div>
     <div class="column-container">
-      <div class="column mt100">
-        <div class="column-offset">
-          <h3 class="text-center size-12"><div class="w250 h40 line-h40 auto bold bg-white">ПУБЛИКАЦИИ</div></h3>
-          <div class="title-line-grey3"></div>
-        </div>
+      <div class="column pt10r">
+        <h3 class="text-center size-12"><div class="w250 line-h40 auto bold bg-white">ПУБЛИКАЦИИ</div></h3>
+        <div class="title-line-teal"></div>
       </div>
     </div>
-    <div id="offices" class="CUSTOM-1 column-container">
-      <div class="column">
-        <div class="column-offset">
-          <div class="column-20r mt90" style="padding-top:2%;">
-            <div class="img-team-munaev-2 contain w120 h120 auto"></div>
-          </div>
-          <div class="column-30r mt90" style="padding-top:2%;">
+    <div id="offices" class="CUSTOM-1 column-container">  
+          <div class="column-20r pt05r">
             <div class="column-offset">
-              <div class="text-center weight-300 size-14 line-h40">
+              <div class="img-team-munaev-2 contain w120 h120 auto"></div>
+            </div>
+          </div>
+          <div class="column-30r pt05r">
+            <div class="column-offset pl05r pr05r">
+              <div class="text-center weight-300 size-14 line-h20">
                 <a href="/expert-1.php" class="size-12 bold gray-hover">ЧЕЛОВЕК С ОДНИМ МИЛЛИОНОМ ДОЛЛАРОВ</a>
-                <div class="w100r auto border-grey-bottom"></div>
+                <div class="w100r auto border-grey-bottom mt5 mb10"></div>
                 <h4 class="size-12"><span class="color-teal weight-300">05.07.2015</span> <span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span> архив</h4>
               </div>
               <div class="clearfix"></div>
             </div>
           </div>
-          <div class="column-50r mt90" style="padding-top:2%;">
-            <div class="column-offset">
-              <div class="size-14 line-h20 ml10r mr05r">
+          <div class="column-50r pt05r">
+            <div class="column-offset pl05r pr05r">
+              <div class="size-14 line-h20">
                 <a href="/expert-1.php" class="weight-300 gray-hover"><span class="bold">Ч</span>еловек с одним миллионом долларов - какой он? Зелимхан Мунаев рисует портрет клиента индустрии Private Banking & Wealth Management. Он дальновидный, знает, чего хочет, и отлично помнит, какой ценой ему дался этот миллион. Для каждого это свой, некий индивидуальный перечень проб и ошибок, взлетов и падений, моментов счастья, порой отчаяния и, безусловно, волевых усилий. Это закалило и раскрепостило его дух, повысило требовательность к себе и к окружающим.... </a><span class="color-teal weight-300">&gt;</span>
               </div>
             </div>
           </div>
-        </div>
-      </div>
     </div>
     <div class="clearfix"></div>
     <!-- Publications -->

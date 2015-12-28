@@ -27,7 +27,7 @@
             style="background-position: center bottom;">
         
       </div>
-      <div class="column-container">
+      <div id="headblock" class="column-container">
         <div class="column-2 content-margin text-center size-8 line-h24 uppercase">
           <div class="column-offset bg-white pt05r">
             <ul>
@@ -107,12 +107,12 @@
       <div class="column-2 content-margin">
         <div class="column-offset bg-white text-center pt05r">
           <h2 class="size-18 color-teal uppercase text-center line-h110">СОБЫТИЯ</h2>
-        <p class="size-12 line-h20 ml40 mr40 text-center">
-          <span class="color-teal">15.06.2015</span> <span class="color-whitesmoke">•</span> <a href="/expert-1.html"><span class="bold gray-hover">ЛИКВИДНАЯ НЕДВИЖИМОСТЬ</span></a>
-        </p><br/>
-        <p class="size-14 line-h20 ml40 mr40 text-justify">
-          <a href="/expert-1.html" class="gray-hover">В условиях геополитической нестабильности недвижимость становится одним из самых надежных способов сохранения капитала, уверены Николай Михаилов и Дмитрий Лепешкин...</a><span class="color-black"> &gt;</span>
-        </p>
+          <p class="size-12 line-h20 text-center">
+            <span class="color-teal">15.06.2015</span> <span class="color-whitesmoke">•</span> <a href="/expert-1.html"><span class="bold gray-hover">ЛИКВИДНАЯ НЕДВИЖИМОСТЬ</span></a>
+          </p>
+          <p class="size-14 line-h20 text-justify mt05r">
+            <a href="/expert-1.html" class="gray-hover">В условиях геополитической нестабильности недвижимость становится одним из самых надежных способов сохранения капитала, уверены Николай Михаилов и Дмитрий Лепешкин...</a><span class="color-black"> &gt;</span>
+          </p>
           <div class="w100r mt05r text-center">
             <ul class="social-offset auto">
               <li class="w25r l">
@@ -135,147 +135,156 @@
     <!-- /HEADBLOCK -->
   <div class="clearfix"></div>
   <!-- CONTENT -->
-  <div id="news-list" class="column-container mt40">
-    <div class="column-2">
-      <div class="mt35 w95r ml05r">
-        <div class="img-events-2 w95r h200 cover bg-center">
-        </div>
-      </div>
-    </div>
-    <div class="column-2">
-      <div class="w90r mt35 ml05r border-grey-top">
-        <div class="news-list-offset ml25 mr25">
-          <div class="w100r h200">
-            <h2 class="size-12 bold uppercase line-h24 mt15"><a href="/events-1.php" class="gray-hover">ЭФФЕКТИВНЫЕ ИНВЕСТИЦИИ В НЕДВИЖИМОСТЬ НОВОГО ФОРМАТА</a></h2>
-            <h4 class="size-12 line-h16 mt15"><span class="color-teal weight-300">03.09.2015 </span><span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span><a href="/archive-news.php" class="gray-hover"> архив</a></h4>
-            <br/>
-            <h4 class="size-14 weight-300 line-h20 mt5"><a href="/events-1.php" class="gray-hover h60 ellipsis">Holding Alibaba Group Holding - крупнейшая в Китае компания, специализирующаяся на интернет - торговле. В 2013 году корпорация реализовала 11,3 млрд. заказов на общую сумму более $248 млрд...</a><span class="color-teal weight-300">></span></h4>
+  <div id="news-list" class="column-container">
+
+    <div class="">
+      <div class="column-2 pt05r">
+        <div class="column-offset">
+          <div class="img-events-2 h200 cover bg-center">
           </div>
         </div>
       </div>
-    </div>
-    <div class="clearfix"></div>
-    <div class="column-2">
-      <div class="mt35 w95r ml05r">
-        <div class="img-events-3 w95r h200 cover bg-center">
+      <div class="column-2 pt05r">
+        <div class="column-offset border-grey-top pt02r pl05r pr05r">
+          <h2 class="size-12 bold uppercase line-h24"><a href="/events-1.php" class="gray-hover">ЭФФЕКТИВНЫЕ ИНВЕСТИЦИИ В НЕДВИЖИМОСТЬ НОВОГО ФОРМАТА</a></h2>
+          <h4 class="size-12 line-h16 mt15"><span class="color-teal weight-300">03.09.2015 </span><span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span><a href="/archive-news.php" class="gray-hover"> архив</a></h4>
+          <br/>
+          <h4 class="size-14 weight-300 line-h20 mt5"><a href="/events-1.php" class="gray-hover h60 ellipsis">Holding Alibaba Group Holding - крупнейшая в Китае компания, специализирующаяся на интернет - торговле. В 2013 году корпорация реализовала 11,3 млрд. заказов на общую сумму более $248 млрд...</a><span class="color-teal weight-300">></span></h4>
         </div>
       </div>
     </div>
-    <div class="column-2">
-      <div class="w90r mt35 ml05r border-grey-top">
-        <div class="news-list-offset ml25 mr25">
-          <div class="w100r h200">
-            <h2 class="size-12 bold uppercase line-h24 mt15"><a href="/events-1.php" class="gray-hover">ЭФФЕКТИВНЫЕ ИНВЕСТИЦИИ В НЕДВИЖИМОСТЬ НОВОГО ФОРМАТА</a></h2>
-            <h4 class="size-12 line-h16 mt15"><span class="color-teal weight-300">03.09.2015 </span><span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span><a href="/archive-news.php" class="gray-hover"> архив</a></h4>
-            <br/>
-            <h4 class="size-14 weight-300 line-h20 mt5"><a href="/events-1.php" class="gray-hover h60 ellipsis">Holding Alibaba Group Holding - крупнейшая в Китае компания, специализирующаяся на интернет - торговле. В 2013 году корпорация реализовала 11,3 млрд. заказов на общую сумму более $248 млрд... </a><span class="color-teal weight-300">></span></h4>
+
+    <div class="clearfix"></div>
+
+    <div class="">
+      <div class="column-2 pt05r">
+        <div class="column-offset">
+          <div class="img-events-3 h200 cover bg-center">
           </div>
         </div>
       </div>
-    </div>
-    <div class="clearfix"></div>
-    <div class="column-2">
-      <div class="mt35 w95r ml05r">
-        <div class="img-events-4 w95r h200 cover bg-center">
+      <div class="column-2 pt05r">
+        <div class="column-offset border-grey-top pt02r pl05r pr05r">
+          <h2 class="size-12 bold uppercase line-h24"><a href="/events-1.php" class="gray-hover">ЭФФЕКТИВНЫЕ ИНВЕСТИЦИИ В НЕДВИЖИМОСТЬ НОВОГО ФОРМАТА</a></h2>
+          <h4 class="size-12 line-h16 mt15"><span class="color-teal weight-300">03.09.2015 </span><span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span><a href="/archive-news.php" class="gray-hover"> архив</a></h4>
+          <br/>
+          <h4 class="size-14 weight-300 line-h20 mt5"><a href="/events-1.php" class="gray-hover h60 ellipsis">Holding Alibaba Group Holding - крупнейшая в Китае компания, специализирующаяся на интернет - торговле. В 2013 году корпорация реализовала 11,3 млрд. заказов на общую сумму более $248 млрд... </a><span class="color-teal weight-300">></span></h4>
         </div>
       </div>
     </div>
-    <div class="column-2">
-      <div class="w90r mt35 ml05r border-grey-top">
-        <div class="news-list-offset ml25 mr25">
-          <div class="w100r h200">
-            <h2 class="size-12 bold uppercase line-h24 mt15"><a href="/events-1.php" class="gray-hover">ЭФФЕКТИВНЫЕ ИНВЕСТИЦИИ В НЕДВИЖИМОСТЬ НОВОГО ФОРМАТА</a></h2>
-            <h4 class="size-12 line-h16 mt15"><span class="color-teal weight-300">03.09.2015 </span><span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span><a href="/archive-news.php" class="gray-hover"> архив</a></h4>
-            <br/>
-            <h4 class="size-14 weight-300 line-h20 mt5"><a href="/events-1.php" class="gray-hover h60 ellipsis">Holding Alibaba Group Holding - крупнейшая в Китае компания, специализирующаяся на интернет - торговле. В 2013 году корпорация реализовала 11,3 млрд. заказов на общую сумму более $248 млрд... </a><span class="color-teal weight-300">></span></h4>
+
+    <div class="clearfix"></div>
+
+    <div class="">
+      <div class="column-2 pt05r">
+        <div class="column-offset">
+          <div class="img-events-4 h200 cover bg-center">
           </div>
         </div>
       </div>
-    </div>
-    <div class="clearfix"></div>
-    <div class="column-2">
-      <div class="mt35 w95r ml05r">
-        <div class="img-events-5 w95r h200 cover bg-center">
-        </div>
-      </div>
-    </div>
-    <div class="column-2">
-      <div class="w90r mt35 ml05r border-grey-top">
-        <div class="news-list-offset ml25 mr25">
-          <div class="w100r h200">
-            <h2 class="size-12 bold uppercase line-h24 mt15"><a href="/events-1.php" class="gray-hover">ЭФФЕКТИВНЫЕ ИНВЕСТИЦИИ В НЕДВИЖИМОСТЬ НОВОГО ФОРМАТА</a></h2>
+      <div class="column-2 pt05r">
+        <div class="column-offset border-grey-top  pt02r pl05r pr05r">
+            <h2 class="size-12 bold uppercase line-h24"><a href="/events-1.php" class="gray-hover">ЭФФЕКТИВНЫЕ ИНВЕСТИЦИИ В НЕДВИЖИМОСТЬ НОВОГО ФОРМАТА</a></h2>
             <h4 class="size-12 line-h16 mt15"><span class="color-teal weight-300">03.09.2015 </span><span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span><a href="/archive-news.php" class="gray-hover"> архив</a></h4>
             <br/>
             <h4 class="size-14 weight-300 line-h20 mt5"><a href="/events-1.php" class="gray-hover h60 ellipsis">Holding Alibaba Group Holding - крупнейшая в Китае компания, специализирующаяся на интернет - торговле. В 2013 году корпорация реализовала 11,3 млрд. заказов на общую сумму более $248 млрд... </a><span class="color-teal weight-300">></span></h4>
+        </div>
+      </div>
+    </div>
+
+    <div class="clearfix"></div>
+    <div class="">
+      <div class="column-2 pt05r">
+        <div class="column-offset">
+          <div class="img-events-5 h200 cover bg-center">
           </div>
         </div>
       </div>
-    </div>
-    <div class="clearfix"></div>
-    <div class="column-2">
-      <div class="mt35 w95r ml05r">
-        <div class="img-events-6 w95r h200 cover bg-center">
-        </div>
-      </div>
-    </div>
-    <div class="column-2">
-      <div class="w90r mt35 ml05r border-grey-top">
-        <div class="news-list-offset ml25 mr25">
-          <div class="w100r h200">
-            <h2 class="size-12 bold uppercase line-h24 mt15"><a href="/events-1.php" class="gray-hover">ЭФФЕКТИВНЫЕ ИНВЕСТИЦИИ В НЕДВИЖИМОСТЬ НОВОГО ФОРМАТА</a></h2>
+      <div class="column-2 pt05r">
+        <div class="column-offset border-grey-top pt02r pl05r pr05r">
+            <h2 class="size-12 bold uppercase line-h24"><a href="/events-1.php" class="gray-hover">ЭФФЕКТИВНЫЕ ИНВЕСТИЦИИ В НЕДВИЖИМОСТЬ НОВОГО ФОРМАТА</a></h2>
             <h4 class="size-12 line-h16 mt15"><span class="color-teal weight-300">03.09.2015 </span><span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span><a href="/archive-news.php" class="gray-hover"> архив</a></h4>
             <br/>
             <h4 class="size-14 weight-300 line-h20 mt5"><a href="/events-1.php" class="gray-hover h60 ellipsis">Holding Alibaba Group Holding - крупнейшая в Китае компания, специализирующаяся на интернет - торговле. В 2013 году корпорация реализовала 11,3 млрд. заказов на общую сумму более $248 млрд... </a><span class="color-teal weight-300">></span></h4>
+        </div>
+      </div>
+    </div>
+
+    <div class="clearfix"></div>
+    <div class="">
+      <div class="column-2 pt05r">
+        <div class="column-offset">
+          <div class="img-events-6 h200 cover bg-center">
           </div>
         </div>
       </div>
-    </div>
-    <div class="clearfix"></div>
-    <div class="column-2">
-      <div class="mt35 w95r ml05r">
-        <div class="img-events-7 w95r h200 cover bg-center">
-        </div>
-      </div>
-    </div>
-    <div class="column-2">
-      <div class="w90r mt35 ml05r border-grey-top">
-        <div class="news-list-offset ml25 mr25">
-          <div class="w100r h200">
-            <h2 class="size-12 bold uppercase line-h24 mt15"><a href="/events-1.php" class="gray-hover">ЭФФЕКТИВНЫЕ ИНВЕСТИЦИИ В НЕДВИЖИМОСТЬ НОВОГО ФОРМАТА</a></h2>
+      <div class="column-2 pt05r">
+        <div class="column-offset border-grey-top pt02r pl05r pr05r">
+            <h2 class="size-12 bold uppercase line-h24"><a href="/events-1.php" class="gray-hover">ЭФФЕКТИВНЫЕ ИНВЕСТИЦИИ В НЕДВИЖИМОСТЬ НОВОГО ФОРМАТА</a></h2>
             <h4 class="size-12 line-h16 mt15"><span class="color-teal weight-300">03.09.2015 </span><span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span><a href="/archive-news.php" class="gray-hover"> архив</a></h4>
             <br/>
             <h4 class="size-14 weight-300 line-h20 mt5"><a href="/events-1.php" class="gray-hover h60 ellipsis">Holding Alibaba Group Holding - крупнейшая в Китае компания, специализирующаяся на интернет - торговле. В 2013 году корпорация реализовала 11,3 млрд. заказов на общую сумму более $248 млрд... </a><span class="color-teal weight-300">></span></h4>
-          </div>
         </div>
       </div>
     </div>
+
     <div class="clearfix"></div>
+    <div class="">
+      <div class="column-2 pt05r">
+        <div class="column-offset">
+          <div class="img-events-7 h200 cover bg-center">
+          </div>
+        </div>
+      </div>
+      <div class="column-2 pt05r">
+        <div class="column-offset border-grey-top pt02r pl05r pr05r">
+            <h2 class="size-12 bold uppercase line-h24"><a href="/events-1.php" class="gray-hover">ЭФФЕКТИВНЫЕ ИНВЕСТИЦИИ В НЕДВИЖИМОСТЬ НОВОГО ФОРМАТА</a></h2>
+            <h4 class="size-12 line-h16 mt15"><span class="color-teal weight-300">03.09.2015 </span><span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span><a href="/archive-news.php" class="gray-hover"> архив</a></h4>
+            <br/>
+            <h4 class="size-14 weight-300 line-h20 mt5"><a href="/events-1.php" class="gray-hover h60 ellipsis">Holding Alibaba Group Holding - крупнейшая в Китае компания, специализирующаяся на интернет - торговле. В 2013 году корпорация реализовала 11,3 млрд. заказов на общую сумму более $248 млрд... </a><span class="color-teal weight-300">></span></h4>
+        </div>
+      </div>
+    </div>
+
+    <div class="clearfix"></div>
+
   </div>
   <!-- /CONTENT -->
   <div class="clearfix"></div>
-  <div class="text-center mt70">
+  <div class="text-center pt10r">
     <a href="/archive-news.php" class="size-12 line-h30 uppercase">РАНЕЕ В РАЗДЕЛЕ: СОБЫТИЯ</a>
     <div class="text-center size-18 line-h26 weight-300"><a href="/archive-events-5.php" class="color-teal gray-hover">2 0 1 5</a> <span class="color-whitesmoke">•︎</span> <a href="/archive-events-4.php" class="color-teal gray-hover">2 0 1 4</a> <span class="color-whitesmoke">•︎</span> <a href="/archive-events-3.php" class="color-teal gray-hover">2 0 1 3</a> <span class="color-whitesmoke">•︎</span> <a href="/archive-events-2.php" class="color-teal gray-hover">2 0 1 2</a> <span class="color-whitesmoke">•︎</span> <a href="/archive-events-1.php" class="color-teal gray-hover">2 0 1 1</a></div>
   </div>
   <div class="clearfix"></div>
-  <div class="text-center mt70"><img class="icon icon-contacts" src="img/icons/icon-earth.svg"></div>
+  <div class="text-center pt05r"><img class="icon icon-contacts" src="img/icons/icon-earth.svg"></div>
+  <div class="column-container">
+    <div class="column">
+      <div class="border-grey-top mt-35"></div>
+    </div>
+  </div>
   <!-- CONTENT -->
-  <div class="column-container mt-35">
+  <div class="column-container">
     <div class="column-2">
-      <div class="gallery-offset w95r ml05r border-grey-top">
-        <div class="w100r h190 overflow-hidden">
-          <h2 class="size-12 uppercase line-h60 mt50 color-teal text-center">ЗАКОНОДАТЕЛЬСТВО</h2>
-          <h4 class="size-12 line-h20 ml20 h60 overflow-hidden"><a href="/laws.php" class="gray-hover h60 ellipsis"><span class="bold">ВНЕСЕНЫ ИЗМЕНЕНИЯ В КОДЕКС</span> <span class="color-whitesmoke">•︎</span> QB Finance специализируется на фондовых рынках США и Европы, работая с широким спектром финансовых инструментов - акции, облигации. </a><span class="color-teal">></span></h4>
+      <div class="column-offset pl05r pr05r">
+        <div class="">
+          <h2 class="size-12 uppercase line-h60 pt05r color-teal text-center">ЗАКОНОДАТЕЛЬСТВО</h2>
+          <h4 class="size-12 line-h20"><a href="/laws.php" class="gray-hover h60 ellipsis"><span class="bold">ВНЕСЕНЫ ИЗМЕНЕНИЯ В КОДЕКС</span> <span class="color-whitesmoke">•︎</span> QB Finance специализируется на фондовых рынках США и Европы, работая с широким спектром финансовых инструментов - акции, облигации. </a><span class="color-teal">></span></h4>
         </div>
       </div>
     </div>
     <div class="column-2">
-      <div class="gallery-offset w95r mr05r border-grey-top">
-        <div class="w100r h190 overflow-hidden">
-          <h2 class="size-12 uppercase line-h60 mt50 color-teal text-center">ПРЕССА О НАС</h2>
-          <h4 class="size-12 line-h20 ml20 h60 overflow-hidden"><a href="/press-about-us.php" class="gray-hover h60 ellipsis"><span class="bold">QBF НАЗВАНА КОМПАНИЕЙ ГОДА</span> <span class="color-whitesmoke">•︎</span> QB Finance специализируется на фондовых рынках США и Европы, работая с широким спектром финансовых инструментов - акции, облигации. </a><span class="color-teal">></span></h4>
+      <div class="column-offset pl05r pr05r">
+        <div class="">
+          <h2 class="size-12 uppercase line-h60 pt05r color-teal text-center">ПРЕССА О НАС</h2>
+          <h4 class="size-12 line-h20"><a href="/press-about-us.php" class="gray-hover h60 ellipsis"><span class="bold">QBF НАЗВАНА КОМПАНИЕЙ ГОДА</span> <span class="color-whitesmoke">•︎</span> QB Finance специализируется на фондовых рынках США и Европы, работая с широким спектром финансовых инструментов - акции, облигации. </a><span class="color-teal">></span></h4>
         </div>
       </div>
+    </div>
+    <div class="clearfix"></div>
+  </div>
+  <div class="column-container pt05r">
+    <div class="column">
+      <div class="border-grey-top"></div>
     </div>
   </div>
   <!-- /CONTENT -->

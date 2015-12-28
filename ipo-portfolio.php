@@ -27,7 +27,7 @@
             style="background-position: center bottom;">
         
       </div>
-      <div class="column-container">
+      <div id="headblock" class="column-container">
         <div class="column-2 content-margin text-center size-8 line-h24 uppercase">
           <div class="column-offset bg-white pt05r">
             <ul>
@@ -127,32 +127,35 @@
   <!--Text-->
   <div class="column-container pt05r">
     <div class="column">
+      <h3 class="text-center size-12 color-white"><div class="w320 h40 line-h40 auto bg-gray2">ИНВЕСТИЦИОННАЯ АКТУАЛЬНОСТЬ СТРАТЕГИИ</div></h3>
       <div class="column-offset">
-        <h3 class="text-center size-12 color-white"><div class="w320 h40 line-h40 auto bg-gray2">ИНВЕСТИЦИОННАЯ АКТУАЛЬНОСТЬ СТРАТЕГИИ</div></h3>
         <div class="title-line-grey"></div>
       </div>
     </div>
   </div>
   <div class="column-container size-14 color-grey1 line-h26">
     <div class="column-2">
-      <p class="mt70 ml07r mr10r size-14 weight-300"><span class="bold">С</span>тратегия реализуется через покупку акций компаний, выходящих на IPO, по цене размещения, что позволяет заложить максимальный потенциал роста в короткий период. </p>
+      <div class="column-offset">
+        <p class="pt05r size-14 weight-300"><span class="bold">С</span>тратегия реализуется через покупку акций компаний, выходящих на IPO, по цене размещения, что позволяет заложить максимальный потенциал роста в короткий период. </p>
       
-      <p class="mt20 ml07r mr10r size-14 weight-300">Позиции по выбранному активу могут быть закрыты в первые дни торгов, если за это время была достигнута целевая доходность.</p>
+        <p class="mt20 size-14 weight-300">Позиции по выбранному активу могут быть закрыты в первые дни торгов, если за это время была достигнута целевая доходность.</p>
+      </div>
     </div>
     <div class="column-2">
-      <p class="mt70 ml07r mr10r size-14 weight-300"><span class="bold">П</span>ринцип стратегии очень прост. Участники рынка в ходе размещения закладывают в стоимость акций будущие перспективы компании, благодаря чему спрос на бумаги эмитента в начале торгов чрезвычайно велик. </p>
-      
-      <p class="mt20 ml07r mr10r size-14 weight-300">В результате возникает значительное превосходство спроса над предложением, и стоимость акции поднимается.</p>
+      <div class="column-offset">
+        <p class="pt05r size-14 weight-300"><span class="bold">П</span>ринцип стратегии очень прост. Участники рынка в ходе размещения закладывают в стоимость акций будущие перспективы компании, благодаря чему спрос на бумаги эмитента в начале торгов чрезвычайно велик. </p>
+        <p class="mt20 size-14 weight-300">В результате возникает значительное превосходство спроса над предложением, и стоимость акции поднимается.</p>
+      </div>
     </div>
     <div class="clearfix"></div>
   </div>
   <!--Text-->
   <!--Parallax-text-->
   <div class="clearfix"></div>
-  <div id="parallax-menu" class="img-ipo-portfolio-2 w100r mt80 cover fixed" style="background-attachment: fixed; background-position: center bottom;">
+  <div id="ipo-portfolio" class="img-ipo-portfolio-2 w100r mt05r cover fixed" style="background-attachment: fixed; background-position: center bottom;">
     <div class="label w90r auto bg bg-blue-label line-h40 text-center">
-      <div class="column-3">
-        <div class="ml05r mr05r mt30">
+        <div class="w33r l pt04r pb02r">
+          <div class="ml05r mr05r">
           <div class="border-white2 auto w100 mb10"></div>
           <p class="size-12 color-white weight-300">СУММА ИНВЕСТИЦИЙ</p>
           <p class="size-12 color-white weight-300">от $100.000 тыс</p>
@@ -161,8 +164,8 @@
           <p class="size-12 color-white weight-300">50%</p>
         </div>
       </div>
-      <div class="column-3">
-        <div class="ml05r mr05r mt30">
+        <div class="w33r l pt04r pb02r">
+          <div class="ml05r mr05r">
           <div class="border-white2 auto w100 mb10"></div>
           <p class="size-12 color-white weight-300">ЛИКВИДНОСТЬ</p>
           <p class="size-12 color-white weight-300">15 дней</p>
@@ -171,8 +174,8 @@
           <p class="size-12 color-white weight-300">3 месяца</p>
         </div>
       </div>
-      <div class="column-3">
-        <div class="ml05r mr05r mt30">
+        <div class="w33r l pt04r pb02r">
+          <div class="ml05r mr05r">
           <div class="border-white2 auto w100 mb10"></div>
           <p class="size-12 color-white weight-300">ЦЕЛЕВАЯ ДОХОДНОСТЬ, $</p>
           <p class="size-12 color-white weight-300">10-70%</p>
@@ -181,26 +184,31 @@
           <p class="size-12 color-white weight-300">комиссия за успех: 30% + комиссия за вход: 2%</p>
         </div>
       </div>
+      <div class="clearfix"></div>
     </div>
   </div>
   <div class="clearfix"></div>
   <!--Parallax-text-->
   <!--Text-->
   <div class="column-container size-14 line-h26">
-    <h3 class="text-center bold mt60">Структура портфеля</h3>
+    <h3 class="text-center bold mt05r">Структура портфеля</h3>
     <div class="column-2">
-      <p class="mt70 ml07r mr10r size-14 weight-300"><span class="bold">О</span>сновными фильтрами для отбора инструментов в портфель являются фондовые биржи NYSE, NASDAQ, LSE. Здесь происходят размещения как денежных средств так и пакетов акций.</p>
+      <div class="column-offset">
+        <p class="pt05r size-14 weight-300"><span class="bold">О</span>сновными фильтрами для отбора инструментов в портфель являются фондовые биржи NYSE, NASDAQ, LSE. Здесь происходят размещения как денежных средств так и пакетов акций.</p>
+      </div>
     </div>
     <div class="column-2">
-      <p class="mt70 ml07r mr10r size-14 weight-300"><span class="bold">О</span>бъем привлекаемых денежных средств по IPO можно считать крупным от $150 млн, а объем размещаемого пакета акций - не меньше 10% от акционерного капитала компании. Коэффициенты P/E, P/S не должны превосходить средние значения по сектору более чем на 60%.</p>
+      <div class="column-offset">
+        <p class="pt05r size-14 weight-300"><span class="bold">О</span>бъем привлекаемых денежных средств по IPO можно считать крупным от $150 млн, а объем размещаемого пакета акций - не меньше 10% от акционерного капитала компании. Коэффициенты P/E, P/S не должны превосходить средние значения по сектору более чем на 60%.</p>
+      </div>
     </div>
   </div>
   <div class="clearfix"></div>
   <!--Text-->
   <!--Image-->
-  <div class="column-container mt20">
+  <div id="img-ipo-portfolio-3" class="column-container">
     <div class="column">
-      <div class="img-ipo-portfolio-3 h400 contain mt30 mb50" style="background-size: contain; background-repeat: no-repeat; background-position: center center;"></div>
+      <div class="img-ipo-portfolio-3 h400 contain" style="background-size: contain; background-repeat: no-repeat; background-position: center center;"></div>
     </div>
     <div class="clearfix"></div>
   </div>
@@ -208,26 +216,30 @@
   <!--Text-->
   <div class="column-container size-14 line-h26">
     <div class="column-2">
-      <p class="mt20 ml07r mr10r size-14 weight-300"><span class="bold">В</span> ближайшие 2 - 3 года будет расти интерес инвесторов к размещениям высокотехнологичных компаний, корпораций потребительского сектора и нефтегазовой отрасли. </p>
-      <p class="mt20 ml07r mr10r size-14 weight-300">Такие направления представляют собой наиболее передовые и быстроразвивающиеся сегменты экономики. </p>
+      <div class="column-offset">
+        <p class="pt05r size-14 weight-300"><span class="bold">В</span> ближайшие 2 - 3 года будет расти интерес инвесторов к размещениям высокотехнологичных компаний, корпораций потребительского сектора и нефтегазовой отрасли. </p>
+        <p class="mt20 size-14 weight-300">Такие направления представляют собой наиболее передовые и быстроразвивающиеся сегменты экономики. </p>
+      </div>
     </div>
     <div class="column-2">
-      <p class="mt20 ml07r mr10r size-14 weight-300"><span class="bold">Э</span>то делает компании этих отраслей очень перспективными для вложений крупных инвесторов.</p>
-      <p class="mt20 ml07r mr10r size-14 weight-300">Как следствие, такой актив почти никогда не теряет в цене в краткосрочной перспективе и открывает хорошие возможности для получения дохода от его роста.</p>
+      <div class="column-offset">
+        <p class="pt05r size-14 weight-300"><span class="bold">Э</span>то делает компании этих отраслей очень перспективными для вложений крупных инвесторов.</p>
+        <p class="mt20 size-14 weight-300">Как следствие, такой актив почти никогда не теряет в цене в краткосрочной перспективе и открывает хорошие возможности для получения дохода от его роста.</p>
+      </div>
     </div>
   </div>
   <div class="clearfix"></div>
   <!--Text-->
   <div class="column-container">
-    <div class="column mt60 mb30 text-center">
+    <div class="column mt05r text-center">
       <div class="border-gray-bottom"></div>
-      <p class="mt60 size-12 color-teal uppercase line-h16 weight-300">В ЗАВИСИМОСТИ ОТ ПОСТАВЛЕННЫХ ЗАДАЧ, НАШИ СПЕЦИАЛИСТЫ ПОМОГУТ ВЫБРАТЬ НАИБОЛЕЕ ПОДХОДЯЩУЮ ДЛЯ ВАС СТРАТЕГИЮ</p>
+      <p class="mt05r size-12 color-teal uppercase line-h16 weight-300">В ЗАВИСИМОСТИ ОТ ПОСТАВЛЕННЫХ ЗАДАЧ, НАШИ СПЕЦИАЛИСТЫ ПОМОГУТ ВЫБРАТЬ НАИБОЛЕЕ ПОДХОДЯЩУЮ ДЛЯ ВАС СТРАТЕГИЮ</p>
       <a href="/connect.php" class="size-14 line-h60 weight-300">задать вопрос специалисту </a><span class="color-teal weight-300">&gt;</span>
     </div>
   </div>
   <div class="clearfix"></div>
   <!-- Double parallax menu -->
-  <div class="img-high-yield-strategy-2 w100r fixed" style="background-attachment: fixed;">
+  <div class="img-high-yield-strategy-2 w100r fixed mt02r" style="background-attachment: fixed;">
     <div class="bg-blue-label w90r auto bg bg-label text-center color-white uppercase">
       <div class="title-block-offset-2">
         <h2 class="size-12 line-h22 uppercase">ВАРИАНТЫ ВЫСОКОДОХОДНОЙ СТРАТЕГИИ</h2>

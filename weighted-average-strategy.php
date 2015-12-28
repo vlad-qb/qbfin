@@ -27,7 +27,7 @@
             style="background-position: center bottom;">
         
       </div>
-      <div class="column-container">
+      <div id="headblock" class="column-container">
         <div class="column-2 content-margin text-center size-8 line-h24 uppercase">
           <div class="column-offset bg-white pt05r">
             <ul>
@@ -124,37 +124,38 @@
     </div>
     <!-- /HEADBLOCK -->
     <div class="clearfix"></div>
-    <div id="parallax-menu" class="img-weighted-average-strategy-2 w100r mt80 cover bg-center fixed" style="background-attachment: fixed;">
+    <div id="weighted-average-strategy" class="img-weighted-average-strategy-2 w100r mt05r cover bg-center fixed" style="background-attachment: fixed;">
       <div class="label w90r auto bg bg-green-label text-center uppercase">
-        <div class="column-3">
-          <div class="ml05r mr05r mt30">
+        <div class="w33r l pt04r pb02r">
             <img src="img/icons/icon-reit-sentence.svg" class="icon icon-services w90 h90">
-            <div class="mt10 border-green-top border-green-bottom lightgreen-block-hover">
-              <div class="size-12 line-h18 mt20 mb20 ml25r mr25r"><a class="color-white white-hover" href="/index-portfolio.php">ИНДЕКСНЫЙ ETF ПОРТФЕЛЬ</a></div>
+            <div class="pl05r pr05r">
+              <div class="mt10 border-green-top border-green-bottom lightgreen-block-hover">
+                <div class="size-12 line-h18 mt20 mb20 "><a class="color-white white-hover" href="/index-portfolio.php">ИНДЕКСНЫЙ ETF ПОРТФЕЛЬ</a></div>
+              </div>
             </div>
-          </div>
         </div>
-        <div class="column-3">
-          <div class="ml05r mr05r mt30">
+        <div class="w33r l pt04r pb02r">
             <img src="img/icons/icon-cogwheel.svg" class="icon icon-services w90 h90">
-            <div class="mt10 border-green-top border-green-bottom lightgreen-block-hover">
-              <div class="size-12 line-h18 mt20 mb20 ml25r mr25r"><a class="color-white white-hover" href="/weighted-currency-portfolio.php">СРЕДНЕВЗВЕШЕННЫЙ ВАЛЮТНЫЙ ПОРТФЕЛЬ</a></div>
+            <div class="pl05r pr05r">
+              <div class="mt10 border-green-top border-green-bottom lightgreen-block-hover">
+                <div class="size-12 line-h18 mt20 mb20 pl05r pr05r"><a class="color-white white-hover" href="/weighted-currency-portfolio.php">СРЕДНЕВЗВЕШЕННЫЙ ВАЛЮТНЫЙ ПОРТФЕЛЬ</a></div>
+              </div>
             </div>
-          </div>
         </div>
-        <div class="column-3">
-          <div class="ml05r mr05r mt30">
+        <div class="w33r l pt04r pb02r">
             <img src="img/icons/icon-strongbox.svg" class="icon icon-services w90 h90">
-            <div class="mt10 border-green-top border-green-bottom lightgreen-block-hover">
-              <div class="size-12 line-h18 mt20 mb20 ml25r mr25r"><a class="color-white white-hover" href="/weighted-average-portfolio.php">СРЕДНЕВЗВЕШЕННЫЙ ПОРТФЕЛЬ</a></div>
+            <div class="pl05r pr05r">
+              <div class="mt10 border-green-top border-green-bottom lightgreen-block-hover">
+                <div class="size-12 line-h18 mt20 mb20 pl05r pr05r"><a class="color-white white-hover" href="/weighted-average-portfolio.php">СРЕДНЕВЗВЕШЕННЫЙ ПОРТФЕЛЬ</a></div>
+              </div>
             </div>
-          </div>
         </div>
+        <div class="clearfix"></div>
       </div>
     </div>
     <div class="clearfix"></div>
     <!-- /ALERT -->
-    <div class="text-alert column-container mt70 w70r auto line-h20 size-14">
+    <div class="text-alert text-offset column-container mt05r w70r auto line-h20 size-14">
       <div class="column">
         <div class="column-offset">
           <div class="ml15r mr15r border-left-lightgray border-right-lightgray">
@@ -178,7 +179,7 @@
       <div class="clearfix"></div>
     </div>
     <!-- /ALERT -->
-    <div id="parallax-menu" class="img-high-yield-strategy-2 w100r mt80 cover bg-center fixed" style="background-attachment: fixed;">
+    <div class="img-high-yield-strategy-2 w100r mt05r cover bg-center fixed" style="background-attachment: fixed;">
       <div class="label w90r auto bg bg-label text-center uppercase">
         <h3 class="size-12 color-white pt30">ВСЕ СТРАТЕГИИ ДОВЕРИТЕЛЬНОГО УПРАВЛЕНИЯ</h3>
         <div class="column-4">
@@ -213,6 +214,7 @@
             </div>
           </div>
         </div>
+        <div class="clearfix"></div>
       </div>
     </div>
     <div class="clearfix"></div>

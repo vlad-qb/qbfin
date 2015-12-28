@@ -27,7 +27,7 @@
       style="background-position: center bottom;">
       
     </div>
-    <div class="column-container">
+    <div id="headblock" class="column-container">
       <div class="column-2 content-margin text-center size-8 line-h24 uppercase">
         <div class="column-offset bg-white pt05r">
           <ul>
@@ -132,9 +132,9 @@
     <!-- /HEADBLOCK -->
 <div class="clearfix"></div>
 <!-- CONTENT -->
-<div id="gallery" class="column-container pt05r">
+<div id="expert-1" class="column-container pt02r">
   <div class="column-2">
-    <div class="gallery-offset w85r line-h24 size-14 ml10r">
+    <div class="column-offset line-h24 size-14 pt05r">
       <p><span class="bold">Н</span>а прошедшей неделе на европейские фондовые площадки поступила большая порция негатива в виде пессимистичной макроэкономической статистики, опубликованной в ключевых странах региона, и новостей о проблемах крупнейшего португальского банка. На этот раз слабым звеном в европейской экономике оказалась промышленность.</p>
       <p class="mt15">В мае промпроизводство в Великобритании упало на 0,7% м/м, в Германии - на 1,8% м/м, а во Франции - на 1,7% м/м. Результаты были значительно хуже прогнозов аналитиков, которые ожидали роста выпуска промышленности.</p>
       <p class="mt15">Помимо этого угроза дефолта по облигациям крупнейшего португальского банка Banco Espirito Santo снова поставила под вопрос устойчивость европейской банковской системы.</p>
@@ -142,7 +142,7 @@
     </div>
   </div>
   <div class="column-2">
-    <div class="gallery-offset w85r line-h24 size-14 ml10r">
+    <div class="column-offset line-h24 size-14 pt05r">
       <p>Однако регулятор осознавал, что даже этих мер будет недостаточно. Для стимулирования экономики, ЕЦБ в рамках программы TLTRO выделил 400 млрд. евро, которые пойдут на кредитование нефинансовых компаний и домашних хозяйств, за исключением ипотечных кредитов. В 2011-2012 годах в ходе LTRO 1 трлн. евро уже поступил на рынок.</p>
       <p class="mt15">Также центробанк введет специальную систему контроля за тем, чтобы деньги шли именно по целевым направлениям. Помимо этого регулятор приостановил еженедельную стерилизацию денежной массы, что стало достаточно важным фактором обновленной монетарной политики. </p>
       <p class="mt15">Также центробанк введет специальную систему контроля за тем, чтобы деньги шли именно по целевым направлениям. Помимо этого регулятор приостановил еженедельную стерилизацию денежной массы, что стало достаточно важным фактором обновленной монетарной политики. </p>
@@ -150,45 +150,51 @@
     </div>
   </div>
   <div class="clearfix"></div>
-  <div class="column mt70 w100r">
-    <h4 class="size-14 line-h30 text-center"><span class="color-teal weight-300">график 1: </span><span class="bold">доходность по 10-летним казначейским облигациям США</span></h4>
-    <div class="img-reviews-1-2 h676 contain bg-center mt30 mb50" style="background-size: contain; background-repeat: no-repeat;"></div>
+  <div class="column">
+    <div class="column-offset line-h24 size-14 pt05r">
+      <h4 class="size-14 line-h30 text-center"><span class="color-teal weight-300">график 1: </span><span class="bold">доходность по 10-летним казначейским облигациям США</span></h4>
+      <div><img class="w100r" src="/img/bg/reviews-1-2.jpg"></div>
+    </div>
   </div>
   <div class="clearfix"></div>
   <div class="column-2">
-    <div class="gallery-offset w85r line-h24 size-14 ml10r">
+    <div class="column-offset line-h24 size-14 pt05r">
       <p><span class="bold">И</span>нвесторы отреагировали позитивно на решение ЕЦБ вести еще более мягкую монетарную политику, которая все же значительно консервативнее политики ФРС. В рамках третьего раунда программы, известной как QE (количественное смягчение), Федрезерв с декабря 2012 года ежемесячно скупал казначейские облигации и ипотечные ценные бумаги на $85 млрд., увеличивая тем самым денежную массу.</p>
     </div>
   </div>
   <div class="column-2">
-    <div class="gallery-offset w85r line-h24 size-14 ml10r">
+    <div class="column-offset line-h24 size-14  pt05r">
       <p>Благодаря политике количественного смягчения процентные ставки оставались на низком уровне, обеспечивая рост объемов кредитования. При этом низкие процентные ставки заставили инвесторов пересмотреть структуру своих портфелей и обратить внимание на высокорисковые активы.</p>
     </div>
   </div>
   <div class="clearfix"></div>
-  <div class="column mt70 w100r">
-    <h4 class="size-14 line-h30 text-center"><span class="color-teal weight-300">график 2: </span><span class="bold">динамика уровня безработицы в США и баланса ФРС</span></h4>
-    <div class="img-reviews-1-3 h676 contain bg-center mt30 mb50" style="background-size: contain; background-repeat: no-repeat;"></div>
+  <div class="column">
+    <div class="column-offset line-h24 size-14  pt05r">
+      <h4 class="size-14 line-h30 text-center"><span class="color-teal weight-300">график 2: </span><span class="bold">динамика уровня безработицы в США и баланса ФРС</span></h4>
+      <div><img class="w100r" src="/img/bg/reviews-1-2.jpg"></div>
+    </div>
   </div>
   <div class="clearfix"></div>
   <div class="column-2">
-    <div class="gallery-offset w85r line-h24 size-14 ml10r">
+    <div class="column-offset line-h24 size-14  pt05r">
       <p><span class="bold">В</span> связи с этим значительные объемы денежных средств поступили на фондовые рынки развивающихся стран и в секторы высоких технологий, биофармацевтики и другие относительно молодые отрасли. Скупка ипотечных ценных бумаг приводила к снижению ипотечных ставок, росту приобретений жилья и, как следствие, увеличению цен на недвижимость.</p>
     </div>
   </div>
   <div class="column-2">
-    <div class="gallery-offset w85r line-h24 size-14 ml10r">
+    <div class="column-offset line-h24 size-14  pt05r">
       <p>Низкая стоимость заимствований способствовала повышению располагаемого дохода населения и расширению потребления. Политика ФРС оказалась достаточно успешной: уровень безработицы в США упал в июне текущего года до 6,1% по сравнению с 10% в разгар кризиса. При этом инфляция остается на комфортном уровне около 2% г/г.</p>
     </div>
   </div>
   <div class="clearfix"></div>
-  <div class="column mt70 w100r">
-    <h4 class="size-14 line-h30 text-center"><span class="color-teal weight-300">график 3: </span><span class="bold">динамика уровня безработицы в еврозоне и баланса ЕЦБ</span></h4>
-    <div class="img-reviews-1-4 h676 contain bg-center mt30 mb50" style="background-size: contain; background-repeat: no-repeat;"></div>
+  <div class="column">
+    <div class="column-offset line-h24 size-14  pt05r">
+      <h4 class="size-14 line-h30 text-center"><span class="color-teal weight-300">график 3: </span><span class="bold">динамика уровня безработицы в еврозоне и баланса ЕЦБ</span></h4>
+      <div><img class="w100r" src="/img/bg/reviews-1-2.jpg"></div>
+    </div>
   </div>
   <div class="clearfix"></div>
   <div class="column-2">
-    <div class="gallery-offset w85r line-h24 size-14 ml10r">
+    <div class="column-offset line-h24 size-14  pt05r">
       <p><span class="bold">П</span>олитика ФРС, безусловно, способствовала улучшению экономической конъюнктуры в США. Однако какой ценой: количественное смягчение привело к раздуванию баланса ФРС, пассивы регулятора составляют $4,38 трлн. по сравнению с $880 млрд. до кризиса.</p>
       
       <p class="mt15">Как Федрезерв собирается снижать объем пассивов пока непонятно, будет ли он ожидать погашения облигаций или начнет их продавать, сокращая тем самым денежную массу и ужесточая монетарную политику, и не приведет ли это к резкому скачку процентных ставок. В этом отношении монетарная политика ЕЦБ остается более консервативной.</p>
@@ -197,7 +203,7 @@
     </div>
   </div>
   <div class="column-2">
-    <div class="gallery-offset w85r line-h24 size-14 ml10r">
+    <div class="column-offset line-h24 size-14  pt05r">
       <p>Темпы инфляции достигли рекордно низких 0,5% г/г, на фоне чего многие аналитики даже заговорили об угрозе дефляции и повторения японского сценария «потерянного десятилетия».</p>
       
       <p class="mt15">В таких условиях у ЕЦБ нет другого выхода, кроме как идти на нестандартные шаги по стимулированию экономики региона. Но пока кажется, что все меры регулятора вводятся с опозданием. </p>

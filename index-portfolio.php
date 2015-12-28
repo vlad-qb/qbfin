@@ -127,30 +127,32 @@
   <!--Text-->
   <div class="column-container">
     <div class="column pt05r">
+      <h3 class="text-center size-12 color-white"><div class="w320 line-h40 auto bg-gray2">ИНВЕСТИЦИОННАЯ АКТУАЛЬНОСТЬ СТРАТЕГИИ</div></h3>
       <div class="column-offset">
-        <h3 class="text-center size-12 color-white"><div class="w320 h40 line-h40 auto bg-gray2">ИНВЕСТИЦИОННАЯ АКТУАЛЬНОСТЬ СТРАТЕГИИ</div></h3>
         <div class="title-line-grey"></div>
       </div>
     </div>
   </div>
   <div class="column-container size-14 color-grey1 line-h26">
     <div class="column-2">
-      <p class="mt70 ml07r mr10r size-14 weight-300"><span class="bold">ETF</span> - Exchange Traded Fund (публично торгуемый фонд) - фонд, специализирующийся на инвестициях в определенный вид активов.</p>
-      
+      <div class="column-offset pt05r">
+        <p class="size-14 weight-300"><span class="bold">ETF</span> - Exchange Traded Fund (публично торгуемый фонд) - фонд, специализирующийся на инвестициях в определенный вид активов.</p>
+      </div>
     </div>
     <div class="column-2">
-      <p class="mt70 ml07r mr10r size-14 weight-300"><span class="bold">П</span>оскольку такие фонды свободно обращаются на фондовой бирже NYSE ARCA, то ETF-инструменты зачастую имеют более высокий по отношению к рынку уровень ликвидности.</p>
-      
+      <div class="column-offset pt05r">
+        <p class="size-14 weight-300"><span class="bold">П</span>оскольку такие фонды свободно обращаются на фондовой бирже NYSE ARCA, то ETF-инструменты зачастую имеют более высокий по отношению к рынку уровень ликвидности.</p>
+      </div>
     </div>
     <div class="clearfix"></div>
   </div>
   <!--Text-->
   <!--Parallax-text-->
   <div class="clearfix"></div>
-  <div id="parallax-menu" class="img-index-portfolio-2 w100r mt80 cover fixed" style="background-attachment: fixed; background-position: center center;">
+  <div id="index-portfolio" class="img-index-portfolio-2 w100r mt05r cover fixed" style="background-attachment: fixed; background-position: center center;">
     <div class="label w90r auto bg bg-green-label line-h40 text-center">
-      <div class="column-3">
-        <div class="ml05r mr05r mt30">
+        <div class="w33r l pt04r pb02r">
+          <div class="ml05r mr05r">
           <div class="border-white2 auto w100 mb10"></div>
           <p class="size-12 color-white weight-300">СУММА ИНВЕСТИЦИЙ</p>
           <p class="size-12 color-white weight-300">от $300.000 тыс</p>
@@ -159,8 +161,8 @@
           <p class="size-12 color-white weight-300">50%</p>
         </div>
       </div>
-      <div class="column-3">
-        <div class="ml05r mr05r mt30">
+        <div class="w33r l pt04r pb02r">
+          <div class="ml05r mr05r">
           <div class="border-white2 auto w100 mb10"></div>
           <p class="size-12 color-white weight-300">ЛИКВИДНОСТЬ</p>
           <p class="size-12 color-white weight-300">15 дней</p>
@@ -169,8 +171,8 @@
           <p class="size-12 color-white weight-300">1 год</p>
         </div>
       </div>
-      <div class="column-3">
-        <div class="ml05r mr05r mt30">
+        <div class="w33r l pt04r pb02r">
+          <div class="ml05r mr05r">
           <div class="border-white2 auto w100 mb10"></div>
           <p class="size-12 color-white weight-300">ЦЕЛЕВАЯ ДОХОДНОСТЬ, $</p>
           <p class="size-12 color-white weight-300">10-70%</p>
@@ -179,35 +181,44 @@
           <p class="size-12 color-white weight-300">комиссия за успех: 30%</p>
         </div>
       </div>
+      <div class="clearfix"></div>
     </div>
   </div>
   <div class="clearfix"></div>
   <!--Parallax-text-->
   <!-- Investition-->
-  <div class="column-container">
-    <h3 class="text-center size-14 bold mt60">Инвестиции в фонды ETF имеют ряд преимуществ</h3>
-    <div class="gallery-offset w100r auto mt90 line-h20 size-14">
-      <div class="column-3 w28r pt10 pb10 ml03r border-left-lightgray border-right-lightgray">
-        <h4 class="text-center"><img class="icon w25r" src="img/bg/index-portfolio-3.png"></h4>
-        <p class="mt25 size-14 ml07r mr07r mb15 weight-300"><span class="bold">П</span>ри понимании инвестиционный привлекательности того или иного сектора или региона не нужно выбирать и анализировать определенные его составляющие и тем самым брать на себя дополнительный риск. Фонд объединяет в себе все самые крупные и ликвидные составляющие сектора или региона.</p>
-      </div>
-      
-      <div class="column-3 w28r pt10 pb10 ml03r border-left-lightgray border-right-lightgray">
-        <h4 class="text-center"><img class="icon w25r" src="img/bg/index-portfolio-4.png"></h4>
-        <p class="mt25 size-14 ml07r mr07r mb15 weight-300"><span class="bold">Е</span>сли речь идет об инвестициях в различные регионы мира, то это отсутствие необходимости открытия дополнительных брокерских счетов, а также необходимости выбора актива и его анализа, что порой затруднено языковыми преградами.</p>
-      </div>
-      
-      <div class="column-3 w28r pt10 pb10 ml03r border-left-lightgray border-right-lightgray">
-        <h4 class="text-center"><img class="icon w25r" src="img/bg/index-portfolio-5.png"></h4>
-        <p class="mt25 size-14 ml07r mr07r mb15 weight-300"><span class="bold">Д</span>ля инвестиций в сырье это отсутствие необходимости покупать срочные контракты, что само по себе проблематично даже для профессионального инвестора. Фонд самостоятельно инвестирует в срочные контракты на те виды сырья, на которых специализируется.</p>
-      </div>
-    </div>
+  <div id="index-portfolio-2" class="column-container">
+    <h3 class="text-center size-14 bold pt05r">Инвестиции в фонды ETF имеют ряд преимуществ</h3>
+        <div class="w33r l pt04r pb02r">
+          <div class="ml05r mr05r mt05r line-h20 size-14">
+            <div class="pt10 pb10 border-left-lightgray border-right-lightgray">
+              <h4 class="text-center"><img class="icon w25r" src="img/bg/index-portfolio-3.png"></h4>
+              <p class="mt25 size-14 ml07r mr07r mb15 weight-300"><span class="bold">П</span>ри понимании инвестиционный привлекательности того или иного сектора или региона не нужно выбирать и анализировать определенные его составляющие и тем самым брать на себя дополнительный риск. Фонд объединяет в себе все самые крупные и ликвидные составляющие сектора или региона.</p>
+            </div>
+          </div>
+        </div>
+        <div class="w33r l pt04r pb02r">
+          <div class="ml05r mr05r mt05r line-h20 size-14">
+            <div class="pt10 pb10 border-left-lightgray border-right-lightgray">
+              <h4 class="text-center"><img class="icon w25r" src="img/bg/index-portfolio-4.png"></h4>
+              <p class="mt25 size-14 ml07r mr07r mb15 weight-300"><span class="bold">Е</span>сли речь идет об инвестициях в различные регионы мира, то это отсутствие необходимости открытия дополнительных брокерских счетов, а также необходимости выбора актива и его анализа, что порой затруднено языковыми преградами.</p>
+            </div>
+          </div>
+        </div>
+        <div class="w33r l pt04r pb02r">
+          <div class="ml05r mr05r mt05r line-h20 size-14">
+            <div class="pt10 pb10 border-left-lightgray border-right-lightgray">
+              <h4 class="text-center"><img class="icon w25r" src="img/bg/index-portfolio-5.png"></h4>
+              <p class="mt25 size-14 ml07r mr07r mb15 weight-300"><span class="bold">Д</span>ля инвестиций в сырье это отсутствие необходимости покупать срочные контракты, что само по себе проблематично даже для профессионального инвестора. Фонд самостоятельно инвестирует в срочные контракты на те виды сырья, на которых специализируется.</p>
+            </div>
+          </div>
+        </div>
   </div>
   <div class="clearfix"></div>
   <!-- Investition-->
   <!-- Table-->
   <div class="column-container">
-    <h3 class="text-center size-14 bold mt60">Список ETF, используемых в рамках стратегии</h3>
+    <h3 class="text-center size-14 bold mt05r">Список ETF, используемых в рамках стратегии</h3>
     <h3 class="text-center size-14 color-white mt40"><div class="w100r h50 line-h50 auto bg-green">индексные тикеры</div></h3>
   </div>
   <div class="column-container mt30 text-center">
@@ -317,22 +328,28 @@
   <!--Table-->
   <!--Text-->
   <div class="column-container size-14 line-h26">
-    <h3 class="text-center bold mt80">Структура портфеля</h3>
+    <h3 class="text-center bold pt05r">Структура портфеля</h3>
     <div class="column-2">
-      <p class="mt70 ml07r mr10r size-14 weight-300"><span class="bold">В</span> рамках стратегии выбираются наиболее ликвидные фонды, дневной объем торгов акциями которых превышает 5 млн. акций в день. </p>
-      <p class="mt20 ml07r mr10r size-14 weight-300">Вместе с этим в портфель попадают лишь фонды, управляющие компании которых имеют под управлением не менее 15 инвестиционных фондов. </p>
+      <div class="column-offset">
+        <p class="pt05r size-14 weight-300"><span class="bold">В</span> рамках стратегии выбираются наиболее ликвидные фонды, дневной объем торгов акциями которых превышает 5 млн. акций в день. </p>
+        <p class="mt20 size-14 weight-300">Вместе с этим в портфель попадают лишь фонды, управляющие компании которых имеют под управлением не менее 15 инвестиционных фондов. </p>
+      </div>
     </div>
     <div class="column-2">
-      <p class="mt70 ml07r mr10r size-14 weight-300"><span class="bold">О</span>бязательным критерием является наличие в структуре фонда минимум 25 компонентов.</p>
+      <div class="column-offset">
+        <p class="pt05r size-14 weight-300"><span class="bold">О</span>бязательным критерием является наличие в структуре фонда минимум 25 компонентов.</p>
+      </div>
     </div>
   </div>
   <div class="clearfix"></div>
   <!--Text-->
   <div class="column-container">
-    <div class="column mt60 mb30 text-center">
-      <div class="border-gray-bottom"></div>
-      <p class="mt60 size-12 color-teal uppercase line-h16 weight-300">В ЗАВИСИМОСТИ ОТ ПОСТАВЛЕННЫХ ЗАДАЧ, НАШИ СПЕЦИАЛИСТЫ ПОМОГУТ ВЫБРАТЬ НАИБОЛЕЕ ПОДХОДЯЩУЮ ДЛЯ ВАС СТРАТЕГИЮ</p>
-      <a href="/connect.php" class="size-14 line-h60 weight-300">задать вопрос специалисту </a><span class="color-teal weight-300">&gt;</span>
+    <div class="column mt05r text-center">
+      <div class="column-offset">
+        <div class="border-gray-bottom"></div>
+        <p class="pt05r size-12 color-teal uppercase line-h16 weight-300">В ЗАВИСИМОСТИ ОТ ПОСТАВЛЕННЫХ ЗАДАЧ, НАШИ СПЕЦИАЛИСТЫ ПОМОГУТ ВЫБРАТЬ НАИБОЛЕЕ ПОДХОДЯЩУЮ ДЛЯ ВАС СТРАТЕГИЮ</p>
+        <a href="/connect.php" class="size-14 line-h60 weight-300">задать вопрос специалисту </a><span class="color-teal weight-300">&gt;</span>
+      </div>
     </div>
   </div>
   <div class="clearfix"></div>

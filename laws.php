@@ -27,7 +27,7 @@
             style="background-position: center bottom;">
         
       </div>
-      <div class="column-container">
+      <div id="headblock" class="column-container">
         <div class="column-2 content-margin text-center size-8 line-h24 uppercase">
           <div class="column-offset bg-white pt05r">
             <ul>
@@ -134,41 +134,41 @@
   <!-- /federal laws -->
   <div class="column-container pt05r">
     <div class="column">
+      <h3 class="text-center size-12 color-white"><div class="w320 line-h40 auto bg-gray2">ФЕДЕРАЛЬНЫЕ ЗАКОНЫ</div></h3>
       <div class="column-offset">
-        <h3 class="text-center size-12 color-white"><div class="w288 h40 line-h40 auto bg-gray2">ФЕДЕРАЛЬНЫЕ ЗАКОНЫ</div></h3>
         <div class="title-line-grey"></div>
       </div>
     </div>
   </div>
   <div id="text-feed" class="column-container size-14 color-grey1 line-h26">
     <div class="column-2">
-      <div class="column-offset">
-        <p class="mt60">
-        </p><div class="line-h26 weight-300 ml30 mr30">
+      <div class="column-offset pl05r pr05r">
+        <p class="pt07r">
+        </p><div class="line-h26 weight-300">
         <span class="color-teal weight-300">29.11.2001</span> <span class="color-lightgray">•︎</span> Федеральный закон от 29.11.2001 «Об инвестиционных фондах» № 156-ФЗе
       </div>
       <p></p>
-      <p class="mt30">
-      </p><div class="line-h26 weight-300 ml30 mr30">
+      <p class="pt07r">
+      </p><div class="line-h26 weight-300">
       <span class="color-teal weight-300">09.07.1999</span> <span class="color-lightgray">•︎</span> Федеральный закон от 09.07.1999 «Об иностранных инвестициях в Российской Федерации» № 160-ФЗ
     </div>
     <p></p>
-    <p class="mt30">
-    </p><div class="line-h26 weight-300 ml30 mr30">
+    <p class="pt07r">
+    </p><div class="line-h26 weight-300">
     <span class="color-teal weight-300">05.03.1999</span> <span class="color-lightgray">•︎</span> Федеральный закон от 05.03.1999 № 46-ФЗ «О защите прав и законных интересов инвесторов на рынке ценных бумаг»
   </div>
   <p></p>
 </div>
 </div>
 <div class="column-2">
-<div class="column-offset">
-  <p class="mt60">
-  </p><div class="line-h26 weight-300 ml30 mr30">
+<div class="column-offset pl05r pr05r">
+  <p class="pt07r">
+  </p><div class="line-h26 weight-300">
   <span class="color-teal weight-300">25.02.1999</span> <span class="color-lightgray">•︎</span> Федеральный закон от 25.02.1999 «Об инвестиционной деятельности в Российской Федерации, осуществляемой в форме капитальных вложений» №39-ФЗ
 </div>
 <p></p>
-<p class="mt30">
-</p><div class="line-h26 weight-300 ml30 mr30">
+<p class="pt07r">
+</p><div class="line-h26 weight-300">
 <span class="color-teal weight-300">22.04.1996</span> <span class="color-lightgray">•︎</span> Федеральный закон от 22.04.1996 «О рынке ценных бумаг» № 39-ФЗ
 </div>
 <p></p>
@@ -178,28 +178,28 @@
 </div>
 <!-- /federal laws -->
 <!-- /codified acts -->
-<div class="column-container">
-<div class="column mt60">
-<div class="column-offset">
-<h3 class="text-center size-12 color-white"><div class="w288 h40 line-h40 auto bg-gray2">КОДИФИЦИРОВАННЫЕ АКТЫ</div></h3>
-<div class="title-line-grey"></div>
-</div>
-</div>
-</div>
+  <div class="column-container pt05r">
+    <div class="column">
+      <h3 class="text-center size-12 color-white"><div class="w320 line-h40 auto bg-gray2">КОДИФИЦИРОВАННЫЕ АКТЫ</div></h3>
+      <div class="column-offset">
+        <div class="title-line-grey"></div>
+      </div>
+    </div>
+  </div>
 <div id="text-feed" class="column-container size-14 color-grey1 line-h26">
 <div class="column-2">
-<div class="column-offset">
-<p class="mt60">
-</p><div class="line-h26 weight-300 ml30 mr30">
+<div class="column-offset pl05r pr05r">
+<p class="pt07r">
+</p><div class="line-h26 weight-300">
 <span class="color-teal">•︎</span> Кодекс Российской Федерации об административных правонарушениях
 </div>
 <p></p>
 </div>
 </div>
 <div class="column-2">
-<div class="column-offset">
-<p class="mt60">
-</p><div class="line-h26 weight-300 ml30 mr30">
+<div class="column-offset pl05r pr05r">
+<p class="pt07r">
+</p><div class="line-h26 weight-300">
 <span class="color-teal">•︎</span> Гражданский кодекс Российской Федерации
 </div>
 <p></p>

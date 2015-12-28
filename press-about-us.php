@@ -27,7 +27,7 @@
             style="background-position: center bottom;">
         
       </div>
-      <div class="column-container">
+      <div id="headblock" class="column-container">
         <div class="column-2 content-margin text-center size-8 line-h24 uppercase">
           <div class="column-offset bg-white pt05r">
             <ul>
@@ -133,9 +133,9 @@
   <div class="clearfix"></div>
   <!-- CONTENT -->
   <div id="text-feed" class="column-container pt05r size-14 color-grey1 line-h26">
-    <div class="column-2">
+    <div class="column-2 mt05r">
       <div class="column-offset">
-        <div class="mt20">
+        <div class="">
           <h3 class="text-center size-12 color-white"><div class="w250 h40 line-h40 auto bg-gray2 weight-300">INVESTORAWARDS</div></h3>
           <div class="title-line-grey2"></div>
           <h4 class="size-12 line-h40 text-center mt10"><span class="bold">ОБЗОР </span><span class="weight-400">QB FINANCE</span></h4>
@@ -146,7 +146,11 @@
             <a class="color-gray line-h40 weight-300" href="http://trueinvestor.ru/posts/218.html">http://trueinvestor.ru/posts/218.html</a>
           </div>
         </div>
-        <div class="mt100">
+      </div>
+    </div>
+    <div class="column-2 mt05r">
+      <div class="column-offset">
+        <div class="">
           <h3 class="text-center size-12 color-white"><div class="w250 h40 line-h40 auto bg-gray2 weight-300">ТРИБУНА</div></h3>
           <div class="title-line-grey2"></div>
           <h4 class="size-12 line-h40 text-center mt10"><span class="bold">В РАМКАХ КОНКУРСА ОТОБРАНЫ ПОБЕДИТЕЛИ</span></h4>
@@ -159,9 +163,9 @@
         </div>
       </div>
     </div>
-    <div class="column-2">
+    <div class="column-2 mt05r">
       <div class="column-offset">
-        <div class="mt20">
+        <div class="">
           <h3 class="text-center size-12 color-white"><div class="w250 h40 line-h40 auto bg-gray2 weight-300">PBWM</div></h3>
           <div class="title-line-grey2"></div>
           <h4 class="size-12 line-h40 text-center mt10"><span class="weight-400">QB FINANCE <span class="bold">ВЫИГРАЛА «СТАРТ ГОДА»</span></span></h4>
@@ -172,7 +176,11 @@
             <a class="color-gray line-h40 weight-300" href="http://trueinvestor.ru/posts/218.html">http://pbwm.ru/articles/qb-finance-poluchil-premiyu</a>
           </div>
         </div>
-        <div class="mt100">
+      </div>
+    </div>
+    <div class="column-2 mt05r">
+      <div class="column-offset">
+        <div class="">
           <h3 class="text-center size-12 color-white"><div class="w250 h40 line-h40 auto bg-gray2 weight-300">ВЕСТИ.RU</div></h3>
           <div class="title-line-grey2"></div>
           <h4 class="size-12 line-h40 text-center mt10"><span class="bold">РЕЙТИНГ РАБОТОДАТЕЛЕЙ-2012</span></h4>

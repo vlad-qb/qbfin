@@ -27,7 +27,7 @@
             style="background-position: center bottom;">
         
       </div>
-      <div class="column-container">
+      <div id="headblock" class="column-container">
         <div class="column-2 content-margin text-center size-8 line-h24 uppercase">
           <div class="column-offset bg-white pt05r">
             <ul>
@@ -133,15 +133,15 @@
 <div class="clearfix"></div>
   
 <!-- CONTENT -->
-  <div class="column-container mt60">
-    <div class="column-2 mt50">
-      <div class="gallery-offset w80r line-h24 size-14 ml10r">
+  <div class="column-container">
+    <div class="column-2 pt05r">
+      <div class="column-offset line-h24 size-14">
         <p><span class="bold">В</span> конце марта в Москве прошел форум недвижимости, на котором ведущие девелоперы страны обсудили сложившиеся тенденции развития рынка недвижимости. Общий взгляд на проблему сформировали представители QB Finance и QBF Asset Management. В современной экономической ситуации застройщики все чаще задумываются, как оптимизировать расходы, когда покупатель даже в сегменте экономкласса достаточно требователен.</p>
         <p class="mt15">Сейчас среди основных критериев покупки жилья выделяют: достроенную недвижимость; полную отделку квартиры; продуманную инфраструктуру дома - некий «город в городе», в котором большое внимание уделяется улучшению жизни детей; высокое качество постройки; поддержку властей; привлекательные цены в рублях.</p>
       </div>
     </div>
-    <div class="column-2 mt50">
-      <div class="gallery-offset w80r line-h24 size-14 ml10r">
+    <div class="column-2 pt05r">
+      <div class="column-offset line-h24 size-14">
         <p>Группа компаний QBF предлагает стать пайщиком перспективного жилого комплекса комфорткласса «Грибовский Лес», который уже в ближайшее время будет иметь большой спрос у покупателей.</p>
         <p class="mt15">Малоэтажный комплекс с развитой инфраструктурой, расположенный в зеленой части города Одинцово, не оставит равнодушными ценителей комфорта и покоя. А спрос на жилье представленного проекта принесет пайщикам QBF доходность до 60%. <span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span></p>
         <p class="mt15">Подробнее: <a href="http://www.qbfin.ru/real-estate-gribovsky-les.html" class="weight-300">http://www.qbfin.ru/real-estate-gribovsky-les.html</a></p>
@@ -151,30 +151,41 @@
     <div class="clearfix"></div>
   </div>
   
-  <div class="text-center mt70"><img class="icon icon-contacts" src="img/icons/icon-earth.svg"></div>
   <!-- CONTENT -->
-  <div class="column-container mt-35">
+  <div class="column-container">
+    <div class="column">
+      <div class="text-center pt05r"><img class="icon icon-contacts" src="img/icons/icon-earth.svg"></div>
+      <div class="border-grey-top mt-35"></div>
+    </div>
+  </div>
+  <div class="clearfix"></div>
+  <div class="column-container">
     <div class="column-2">
-      <div class="gallery-offset w95r ml05r border-grey-top">
-        <div class="w100r h230 overflow-hidden">
-          <h2 class="size-12 uppercase line-h30 ml30 mt80 h80"><span class="color-teal">Обзоры</span>
+      <div class="column-offset">
+        <div class="mt10r">
+          <h2 class="size-12 uppercase line-h30 mt20"><span class="color-teal">Обзоры</span>
           &nbsp <a href="/reviews-1.php" class="gray-hover">СКОЛЬКО ДЕНЕГ ПРИДЕТСЯ НАПЕЧАТАТЬ ЕВРОПЕЙСКОМУ ЦБ, ЧТОБЫ ВОЗРОДИТЬ ЕВРОПЕЙСКУЮ ЭКОНОМИКУ</a> &nbsp <span class="color-teal">></span></h2>
           
-          <h2 class="size-12 uppercase line-h30 ml30"><span class="color-teal">ПРЕССА О НАС</span>
+          <h2 class="size-12 uppercase line-h30 mt20"><span class="color-teal">ПРЕССА О НАС</span>
           &nbsp <a href="/press-about-us.php" class="gray-hover">ПРЕМИИ «INVESTOR AWARDS» 2015 (INVESTORAWARDS)</a> &nbsp <span class="color-teal">></span></h2>
         </div>
       </div>
     </div>
-    <div class="column-2">
-      <div class="gallery-offset w95r mr05r border-grey-top">
-        <div class="w100r h230 overflow-hidden">
-          <h2 class="size-12 uppercase line-h30 ml50 mt80 h80"><span class="color-teal">ЭКСПЕРТ</span>
+    <div class="column-2 mt05r">
+      <div class="column-offset">
+        <div class="w100r">
+          <h2 class="size-12 uppercase line-h30 mt20"><span class="color-teal">ЭКСПЕРТ</span>
           &nbsp <a href="/expert.php" class="gray-hover">ЖИЗНЬ ПОСЛЕ ДЕОФШОРИЗАЦИИ - ПРОЕКТ: SPEAR'S RUSSIA</a> &nbsp <span class="color-teal">></span></h2>
           
-          <h2 class="size-12 uppercase line-h30 ml50"><span class="color-teal">АКЦИИ</span>
+          <h2 class="size-12 uppercase line-h30 mt20"><span class="color-teal">АКЦИИ</span>
           &nbsp <a href="/shares.php" class="gray-hover">ОБЗОР КОМПАНИИ ALIBABA GROUP</a> &nbsp <span class="color-teal">></span></h2>
         </div>
       </div>
+    </div>
+  </div>
+  <div class="column-container">
+    <div class="column pt05r">
+      <div class="border-grey-top"></div>
     </div>
   </div>
   <!-- /CONTENT -->

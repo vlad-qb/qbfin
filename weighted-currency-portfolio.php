@@ -27,7 +27,7 @@
             style="background-position: center bottom;">
         
       </div>
-      <div class="column-container">
+      <div id="headblock" class="column-container">
         <div class="column-2 content-margin text-center size-8 line-h24 uppercase">
           <div class="column-offset bg-white pt05r">
             <ul>
@@ -127,100 +127,103 @@
   <!--Text-->
   <div class="column-container pt05r">
     <div class="column">
+      <h3 class="w320 auto h40 line-h40 bg-gray2 text-center size-12 color-white"> ИНВЕСТИЦИОННАЯ АКТУАЛЬНОСТЬ СТРАТЕГИИ </h3>
       <div class="column-offset">
-        <h3 class="text-center size-12 color-white"><div class="w320 h40 line-h40 auto bg-gray2">ИНВЕСТИЦИОННАЯ АКТУАЛЬНОСТЬ СТРАТЕГИИ</div></h3>
         <div class="title-line-grey"></div>
       </div>
     </div>
   </div>
   <div class="column-container size-14 color-grey1 line-h26">
-    <div class="column-2">
-      <p class="mt70 ml07r mr10r size-14 weight-300"><span class="bold">Т</span>ак, например, актив, номинированный в долларах США, будет защищен от падения курса американской валюты с помощью позиций "Евро против доллара". </p>
-      
-      <p class="mt20 ml07r mr10r size-14 weight-300">Значимую долю портфеля составляют корпоративные ценные бумаги, такие как акции и облигации. Монетарная политика крупнейших ЦБ мира уже претерпевает изменения.</p>
+    <div class="column-2 pt05r">
+      <div class="column-offset pl05r pr05r">
+        <p class="size-14 weight-300"><span class="bold">Т</span>ак, например, актив, номинированный в долларах США, будет защищен от падения курса американской валюты с помощью позиций "Евро против доллара". </p>
+        <p class="mt20 size-14 weight-300">Значимую долю портфеля составляют корпоративные ценные бумаги, такие как акции и облигации. Монетарная политика крупнейших ЦБ мира уже претерпевает изменения.</p>
+      </div>
     </div>
-    <div class="column-2">
-      <p class="mt70 ml07r mr10r size-14 weight-300"><span class="bold">Т</span>ак, еще с конца 2013 ФРС года начала сокращение QE3, что положительно сказалось на курсе доллара. А вот ЕЦБ, напротив, стимулирует экономику, что ослабляет евро. </p>
-      
-      <p class="mt20 ml07r mr10r size-14 weight-300">Благодаря этим трендам часть портфеля, размещенная в валюте, будет приносить солидные дивиденды в ближайшие 1 - 2 года.</p>
+    <div class="column-2 pt05r">
+      <div class="column-offset pl05r pr05r">
+        <p class="size-14 weight-300"><span class="bold">Т</span>ак, еще с конца 2013 ФРС года начала сокращение QE3, что положительно сказалось на курсе доллара. А вот ЕЦБ, напротив, стимулирует экономику, что ослабляет евро. </p>
+        <p class="mt20 size-14 weight-300">Благодаря этим трендам часть портфеля, размещенная в валюте, будет приносить солидные дивиденды в ближайшие 1 - 2 года.</p>
+      </div>
+      <div class="clearfix"></div>
     </div>
     <div class="clearfix"></div>
   </div>
-  <!--Text-->
-  <!--Parallax-text-->
-  <div class="clearfix"></div>
-  <div id="parallax-menu" class="img-ipo-portfolio-2 w100r mt80 cover fixed" style="background-attachment: fixed; background-position: center bottom;">
+  <div id="weighted-currency-portfolio" class="img-ipo-portfolio-2 w100r mt05r cover fixed" style="background-attachment: fixed; background-position: center bottom;">
     <div class="label w90r auto bg bg-green-label line-h40 text-center">
-      <div class="column-3">
-        <div class="ml05r mr05r mt30">
-          <div class="border-white2 auto w100 mb10"></div>
-          <p class="size-12 color-white weight-300">СУММА ИНВЕСТИЦИЙ</p>
-          <p class="size-12 color-white weight-300">от $300.000 тыс</p>
-          <div class="border-white2 auto w100 mt10 mb10"></div>
-          <p class="size-12 color-white weight-300">УРОВЕНЬ ЗАЩИТЫ КАПИТАЛА</p>
-          <p class="size-12 color-white weight-300">75%</p>
-        </div>
+      <div class="w33r l pt04r pb02r">
+        <div class="border-white2 auto w100 mb10"></div>
+        <p class="size-12 color-white weight-300">СУММА ИНВЕСТИЦИЙ</p>
+        <p class="size-12 color-white weight-300">от $300.000 тыс</p>
+        <div class="border-white2 auto w100 mt10 mb10"></div>
+        <p class="size-12 color-white weight-300">УРОВЕНЬ ЗАЩИТЫ КАПИТАЛА</p>
+        <p class="size-12 color-white weight-300">75%</p>
       </div>
-      <div class="column-3">
-        <div class="ml05r mr05r mt30">
-          <div class="border-white2 auto w100 mb10"></div>
-          <p class="size-12 color-white weight-300">ЛИКВИДНОСТЬ</p>
-          <p class="size-12 color-white weight-300">7 дней</p>
-          <div class="border-white2 auto w100 mt10 mb10"></div>
-          <p class="size-12 color-white weight-300">МИНИМАЛЬНЫЙ СРОК ИНВЕСТИРОВАНИЯ</p>
-          <p class="size-12 color-white weight-300">1 год</p>
-        </div>
+      <div class="w33r l pt04r pb02r">
+        <div class="border-white2 auto w100 mb10"></div>
+        <p class="size-12 color-white weight-300">ЛИКВИДНОСТЬ</p>
+        <p class="size-12 color-white weight-300">7 дней</p>
+        <div class="border-white2 auto w100 mt10 mb10"></div>
+        <p class="size-12 color-white weight-300">МИНИМАЛЬНЫЙ СРОК ИНВЕСТИРОВАНИЯ</p>
+        <p class="size-12 color-white weight-300">1 год</p>
       </div>
-      <div class="column-3">
-        <div class="ml05r mr05r mt30">
-          <div class="border-white2 auto w100 mb10"></div>
-          <p class="size-12 color-white weight-300">ЦЕЛЕВАЯ ДОХОДНОСТЬ, $</p>
-          <p class="size-12 color-white weight-300">20-32%</p>
-          <div class="border-white2 auto w100 mt10 mb10"></div>
-          <p class="size-12 color-white weight-300">ВОЗНАГРАЖДЕНИЕ УПРАВЛЯЯЮЩЕГО</p>
-          <p class="size-12 color-white weight-300">комиссия за успех: 30%</p>
-        </div>
+      <div class="w33r l pt04r pb02r">
+        <div class="border-white2 auto w100 mb10"></div>
+        <p class="size-12 color-white weight-300">ЦЕЛЕВАЯ ДОХОДНОСТЬ, $</p>
+        <p class="size-12 color-white weight-300">20-32%</p>
+        <div class="border-white2 auto w100 mt10 mb10"></div>
+        <p class="size-12 color-white weight-300">ВОЗНАГРАЖДЕНИЕ УПРАВЛЯЯЮЩЕГО</p>
+        <p class="size-12 color-white weight-300">комиссия за успех: 30%</p>
       </div>
+      <div class="clearfix"></div>
     </div>
   </div>
   <div class="clearfix"></div>
   <!--Parallax-text-->
   <!--Text-->
   <div class="column-container size-14 line-h26">
-    <h3 class="text-center bold mt60">Структура портфеля</h3>
-    <div class="column-2">
-      <p class="mt70 ml07r mr10r size-14 weight-300"><span class="bold">Ч</span>тобы актив был отобран в портфель, он как минимум должен входить в один из крупнейших региональных фондовых индексов: STOXX Global 150, DJIA, S&P500, NASDAQ Composite, EURO STOXX 50, DAX, FTSE 100, CAC40</p>
+    <h3 class="text-center bold pt05r">Структура портфеля</h3>
+    <div class="column-2 pt05r">
+      <div class="column-offset pl05r pr05r">
+        <p class="size-14 weight-300"><span class="bold">Ч</span>тобы актив был отобран в портфель, он как минимум должен входить в один из крупнейших региональных фондовых индексов: STOXX Global 150, DJIA, S&P500, NASDAQ Composite, EURO STOXX 50, DAX, FTSE 100, CAC40</p>
+      </div>
     </div>
-    <div class="column-2">
-      <p class="mt70 ml07r mr10r size-14 weight-300"><span class="bold">В</span> зависимости от рыночной конъюнктуры, веса финансовых инструментов в портфеле могут варьироваться. Так, доля акций может составлять 50 - 60%, облигаций - 15 - 25%, валюты - 15 - 25%, ETF - 5 - 15%.</p>
+    <div class="column-2 pt05r">
+      <div class="column-offset pl05r pr05r">
+        <p class="size-14 weight-300"><span class="bold">В</span> зависимости от рыночной конъюнктуры, веса финансовых инструментов в портфеле могут варьироваться. Так, доля акций может составлять 50 - 60%, облигаций - 15 - 25%, валюты - 15 - 25%, ETF - 5 - 15%.</p>
+      </div>
     </div>
   </div>
   <div class="clearfix"></div>
   <!--Text-->
   <!--Image-->
-  <div class="column-container mt20">
-    <div class="column">
-      <div class="img-weighted-currency-portfolio-2 h400 contain mt30 mb50" style="background-size: contain; background-repeat: no-repeat; background-position: center center;"></div>
+  <div class="column-container">
+    <div id="img-weighted-currency-portfolio-2" class="mt05r column">
+      <div class="img-weighted-currency-portfolio-2 h400 contain" style="background-size: contain; background-repeat: no-repeat; background-position: center center;"></div>
     </div>
     <div class="clearfix"></div>
   </div>
   <!--Image-->
   <!--Text-->
   <div class="column-container size-14 line-h26">
-    <div class="column-2">
-      <p class="mt20 ml07r mr10r size-14 weight-300"><span class="bold">Н</span>а корпоративную часть портфеля положительное влияние окажет значительный приток капитала на американский финансовый рынок, вызванный повышением ставок и улучшением экономики.</p>
+    <div class="column-2 pt05r">
+      <div class="column-offset pl05r pr05r">
+        <p class="size-14 weight-300"><span class="bold">Н</span>а корпоративную часть портфеля положительное влияние окажет значительный приток капитала на американский финансовый рынок, вызванный повышением ставок и улучшением экономики.</p>
+      </div>
     </div>
-    <div class="column-2">
-      <p class="mt20 ml07r mr10r size-14 weight-300"><span class="bold">В</span> результате приток капитала вызовет рост стоимости акций и облигаций, что положительно повлияет на весь портфель в ближайшие 3 года.</p>
+    <div class="column-2 pt05r">
+      <div class="column-offset pl05r pr05r">
+        <p class="size-14 weight-300"><span class="bold">В</span> результате приток капитала вызовет рост стоимости акций и облигаций, что положительно повлияет на весь портфель в ближайшие 3 года.</p>
+      </div>
     </div>
   </div>
   <div class="clearfix"></div>
   <!--Text-->
   <div class="column-container">
-    <div class="column mt60 mb30 text-center">
+    <div class="column mt05r mb05r text-center">
       <div class="border-gray-bottom"></div>
-      <p class="mt60 size-12 color-teal uppercase line-h16 weight-300">В ЗАВИСИМОСТИ ОТ ПОСТАВЛЕННЫХ ЗАДАЧ, НАШИ СПЕЦИАЛИСТЫ ПОМОГУТ ВЫБРАТЬ НАИБОЛЕЕ ПОДХОДЯЩУЮ ДЛЯ ВАС СТРАТЕГИЮ</p>
-      <a href="/connect.php" class="size-14 line-h60 weight-300">задать вопрос специалисту </a><span class="color-teal weight-300">&gt;</span>
+      <p class="mt05r size-12 color-teal uppercase line-h16 weight-300">В ЗАВИСИМОСТИ ОТ ПОСТАВЛЕННЫХ ЗАДАЧ, НАШИ СПЕЦИАЛИСТЫ ПОМОГУТ ВЫБРАТЬ НАИБОЛЕЕ ПОДХОДЯЩУЮ ДЛЯ ВАС СТРАТЕГИЮ</p>
+      <a href="/connect.php" class="size-14 line-h40 weight-300">задать вопрос специалисту </a><span class="color-teal weight-300">&gt;</span>
     </div>
   </div>
   <div class="clearfix"></div>

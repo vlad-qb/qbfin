@@ -27,7 +27,7 @@
             style="background-position: center bottom;">
         
       </div>
-      <div class="column-container">
+      <div id="headblock" class="column-container">
         <div class="column-2 content-margin text-center size-8 line-h24 uppercase">
           <div class="column-offset bg-white pt05r">
             <ul>
@@ -97,7 +97,7 @@
         </div>
       </div>
       <div class="column-2 content-margin">
-        <div class="column-offset bg-white text-center pt05r">
+        <div class="column-offset pl05r pr05r bg-white text-center pt05r">
           <h2 class="size-18 color-teal uppercase text-center line-h110">ДЕПОЗИТНЫЙ СРЕДНЕВЗВЕШЕННЫЙ ПОРТФЕЛЬ</h2>
           <p class="size-11 line-h20 text-justify">
             <span class="bold">
@@ -130,27 +130,27 @@
   <!--Text-->
   <div class="column-container pt05r">
     <div class="column">
+      <h3 class="text-center size-12 color-white"><div class="w320 line-h40 auto bg-gray2">ИНВЕСТИЦИОННАЯ АКТУАЛЬНОСТЬ СТРАТЕГИИ</div></h3>
       <div class="column-offset">
-        <h3 class="text-center size-12 color-white"><div class="w320 h40 line-h40 auto bg-gray2">ИНВЕСТИЦИОННАЯ АКТУАЛЬНОСТЬ СТРАТЕГИИ</div></h3>
         <div class="title-line-grey"></div>
       </div>
     </div>
   </div>
   <div class="column-container size-14 color-grey1 line-h26">
     <div class="column-2">
-      <p class="mt70 ml07r mr10r size-14 weight-300"><span class="bold">В</span> такой ситуации наиболее эффективным решением является депонирование денежных средств инвестора в рублях и открытие инвестиционной компанией долларового счета на американских фондовых рынках под обеспечение данных средств, что и осуществляется за счёт депозитного средневзвешенного портфеля в рамках стратегии хеджирования риска падения доллара к рублю.</p>
+      <p class="mt05r ml07r mr10r size-14 weight-300"><span class="bold">В</span> такой ситуации наиболее эффективным решением является депонирование денежных средств инвестора в рублях и открытие инвестиционной компанией долларового счета на американских фондовых рынках под обеспечение данных средств, что и осуществляется за счёт депозитного средневзвешенного портфеля в рамках стратегии хеджирования риска падения доллара к рублю.</p>
     </div>
     <div class="column-2">
-      <p class="mt70 ml07r mr10r size-14 weight-300"><span class="bold">В</span> данной стратегии клиент не берет на себя валютные риски, связанные с тем, что вложение рублёвых денежных средств осуществляется по высокому курсу по отношению к доллару, а по окончании срока инвестирования конвертация долларовых активов в рубли происходит по более низкому курсу.</p>
+      <p class="mt05r ml07r mr10r size-14 weight-300"><span class="bold">В</span> данной стратегии клиент не берет на себя валютные риски, связанные с тем, что вложение рублёвых денежных средств осуществляется по высокому курсу по отношению к доллару, а по окончании срока инвестирования конвертация долларовых активов в рубли происходит по более низкому курсу.</p>
     </div>
     <div class="clearfix"></div>
   </div>
   <!--Text-->
   <!--Parallax-text-->
   <div class="clearfix"></div>
-  <div id="parallax-menu" class="img-deposit-weighted-average-portfolio-2 w100r mt80 cover fixed" style="background-attachment: fixed; background-position: center center;">
+  <div id="deposit-weighted-average-portfolio" class="img-deposit-weighted-average-portfolio-2 w100r mt05r cover fixed" style="background-attachment: fixed; background-position: center center;">
     <div class="label w90r auto bg bg-gray-label line-h40 text-center">
-      <div class="column-3">
+      <div class="w33r l">
         <div class="ml05r mr05r mt30">
           <div class="border-white2 auto w100 mb10"></div>
           <p class="size-12 color-white weight-300">СУММА ИНВЕСТИЦИЙ</p>
@@ -160,7 +160,7 @@
           <p class="size-12 color-white weight-300">75%</p>
         </div>
       </div>
-      <div class="column-3">
+      <div class="w33r l">
         <div class="ml05r mr05r mt30">
           <div class="border-white2 auto w100 mb10"></div>
           <p class="size-12 color-white weight-300">ЛИКВИДНОСТЬ</p>
@@ -170,7 +170,7 @@
           <p class="size-12 color-white weight-300">1 год</p>
         </div>
       </div>
-      <div class="column-3">
+      <div class="w33r l">
         <div class="ml05r mr05r mt30">
           <div class="border-white2 auto w100 mb10"></div>
           <p class="size-12 color-white weight-300">ЦЕЛЕВАЯ ДОХОДНОСТЬ, $</p>
@@ -180,26 +180,27 @@
           <p class="size-12 color-white weight-300">30% от прибыли</p>
         </div>
       </div>
+      <div class="clearfix"></div>
     </div>
   </div>
   <div class="clearfix"></div>
   <!--Parallax-text-->
   <!--Text-->
   <div class="column-container size-14 line-h26">
-    <h3 class="text-center bold mt60">Структура портфеля</h3>
+    <h3 class="text-center bold mt05r">Структура портфеля</h3>
     <div class="column-2">
-      <p class="mt70 ml07r mr10r size-14 weight-300">RUB - российский рубль / USD - акции, облигации компаний входящих в STOXX Global 150, DJIA, S&P500, NASDAQ Composite, EURO STOXX 50, DAX, FTSE 100, CAC40 и ETF с содержанием 25% структуры указанных выше индексов.</p>
+      <p class="mt05r ml07r mr10r size-14 weight-300">RUB - российский рубль / USD - акции, облигации компаний входящих в STOXX Global 150, DJIA, S&P500, NASDAQ Composite, EURO STOXX 50, DAX, FTSE 100, CAC40 и ETF с содержанием 25% структуры указанных выше индексов.</p>
     </div>
     <div class="column-2">
-      <p class="mt70 ml07r mr10r size-14 weight-300"><span class="bold">В</span> зависимости от рыночной конъюнктуры веса финансовых инструментов в портфеле могут варьироваться. Так, доля акций может составлять 65 - 85%, облигаций - 15 - 35%, ETF - 5-15%.</p>
+      <p class="mt05r ml07r mr10r size-14 weight-300"><span class="bold">В</span> зависимости от рыночной конъюнктуры веса финансовых инструментов в портфеле могут варьироваться. Так, доля акций может составлять 65 - 85%, облигаций - 15 - 35%, ETF - 5-15%.</p>
     </div>
   </div>
   <div class="clearfix"></div>
   <!--Text-->
   <!--Image-->
-  <div class="column-container mt20">
-    <div class="column">
-      <div class="img-deposit-weighted-average-portfolio-3 h400 contain mt30 mb50" style="background-size: contain; background-repeat: no-repeat; background-position: center center;"></div>
+  <div class="column-container">
+    <div id="graph-deposit-1" class="column">
+      <div class="img-deposit-weighted-average-portfolio-3 h400 contain" style="background-size: contain; background-repeat: no-repeat; background-position: center center;"></div>
     </div>
     <div class="clearfix"></div>
   </div>
@@ -216,10 +217,12 @@
   <div class="clearfix"></div>
   <!--Text-->
   <div class="column-container">
-    <div class="column mt60 mb30 text-center">
-      <div class="border-gray-bottom"></div>
-      <p class="mt60 size-12 color-teal uppercase line-h16 weight-300">В ЗАВИСИМОСТИ ОТ ПОСТАВЛЕННЫХ ЗАДАЧ, НАШИ СПЕЦИАЛИСТЫ ПОМОГУТ ВЫБРАТЬ НАИБОЛЕЕ ПОДХОДЯЩУЮ ДЛЯ ВАС СТРАТЕГИЮ</p>
-      <a href="/connect.php" class="size-14 line-h60 weight-300">задать вопрос специалисту </a><span class="color-teal weight-300">&gt;</span>
+    <div class="column text-center  mt05r">
+      <div class="column-offset border-gray-bottom"></div>
+      <div class="pt05r ml05r mr05r">
+        <p class="size-12 color-teal uppercase line-h16 weight-300">В ЗАВИСИМОСТИ ОТ ПОСТАВЛЕННЫХ ЗАДАЧ, НАШИ СПЕЦИАЛИСТЫ ПОМОГУТ ВЫБРАТЬ НАИБОЛЕЕ ПОДХОДЯЩУЮ ДЛЯ ВАС СТРАТЕГИЮ</p>
+        <a href="/connect.php" class="size-14 line-h60 weight-300">задать вопрос специалисту </a><span class="color-teal weight-300">&gt;</span>
+      </div>
     </div>
   </div>
   <div class="clearfix"></div>

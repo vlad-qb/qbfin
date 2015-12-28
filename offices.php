@@ -27,7 +27,7 @@
             style="background-position: center bottom;">
         
       </div>
-      <div class="column-container">
+      <div id="headblock" class="column-container">
         <div class="column-2 content-margin text-center size-8 line-h24 uppercase">
           <div class="column-offset bg-white pt05r">
             <ul>
@@ -113,10 +113,10 @@
     <!-- /HEADBLOCK -->
   <div class="clearfix"></div>
   <!-- CONTENT -->
-  <div class="column-container pt05r size-14 color-grey1 line-h26">
-    <div class="column-2">
+  <div class="column-container size-14 color-grey1 line-h26">
+    <div class="column-2 pt05r mt05r">
       <div class="column-offset">
-        <div class="mt20 auto">
+        <div class="">
           <h3 class="text-center size-12 color-white"><div class="w250 h40 line-h40 auto bg-gray2 weight-300">МОСКВА</div></h3>
           <div class="title-line-teal"></div>
           <h4 class="text-center size-14 mt40 line-h30 weight-300">123317, Москва</h4>
@@ -127,8 +127,11 @@
           <h4 class="text-center size-14 line-h30 weight-300"><a class="color-teal gray-hover" href="https://maps.yandex.ru/-/CVvQNJ37">маршрут на Яндекс.Картах</a></h4>
           <div class="img-offices-2 h500 mt30 cover" style="background-position: center center;"></div>
         </div>
-        
-        <div class="mt100 auto">
+      </div>
+    </div>
+    <div class="column-2 pt05r mt05r">
+      <div class="column-offset">  
+        <div class="">
           <h3 class="text-center size-12 color-white"><div class="w250 h40 line-h40 auto bg-gray2 weight-300">ЕКАТЕРИНБУРГ</div></h3>
           <div class="title-line-teal"></div>
           <h4 class="text-center size-14 mt40 line-h30 weight-300">620014, Екатеринбург</h4>
@@ -141,9 +144,9 @@
         </div>
       </div>
     </div>
-    <div class="column-2">
-      <div class="column-offset">
-        <div class="mt20 auto">
+    <div class="column-2 pt05r mt05r">
+      <div class="column-offset"> 
+        <div class="">
           <h3 class="text-center size-12 color-white"><div class="w250 h40 line-h40 auto bg-gray2 weight-300">САНКТ-ПЕТЕРБУРГ</div></h3>
           <div class="title-line-teal"></div>
           <h4 class="text-center size-14 mt40 line-h30 weight-300">195112, Санкт-Петербург</h4>
@@ -154,8 +157,11 @@
           <h4 class="text-center size-14 line-h30 weight-300"><a class="color-teal gray-hover" href="https://maps.yandex.ru/-/CVvQNJ37">маршрут на Яндекс.Картах</a></h4>
           <div class="img-offices-3 h500 mt30 cover" style="background-position: center center;"></div>
         </div>
-        
-        <div class="mt100 auto">
+      </div>
+    </div>
+    <div class="column-2 pt05r mt05r">
+      <div class="column-offset">   
+        <div class="">
           <h3 class="text-center size-12 color-white"><div class="w250 h40 line-h40 auto bg-gray2 weight-300">КИЕВ</div></h3>
           <div class="title-line-teal"></div>
           <h4 class="text-center size-14 mt40 line-h30 weight-300">01601, Киев</h4>

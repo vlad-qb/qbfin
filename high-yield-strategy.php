@@ -27,7 +27,7 @@
             style="background-position: center bottom;">
         
       </div>
-      <div class="column-container">
+      <div id="headblock" class="column-container">
         <div class="column-2 content-margin text-center size-8 line-h24 uppercase">
           <div class="column-offset bg-white pt05r">
             <ul>
@@ -124,37 +124,38 @@
     </div>
     <!-- /HEADBLOCK -->
     <div class="clearfix"></div>
-    <div id="parallax-menu" class="img-high-yield-strategy-3 w100r mt80 cover fixed" style="background-attachment: fixed; background-position: center bottom;">
+    <div id="high-yield-strategy" class="img-high-yield-strategy-3 w100r mt05r cover fixed" style="background-attachment: fixed; background-position: center bottom;">
       <div class="label w90r auto bg bg-blue-label text-center uppercase">
-        <div class="column-3">
-          <div class="ml05r mr05r mt30">
+        <div class="w33r l pt04r pb02r">
+          <div class="ml05r mr05r">
             <img src="img/icons/icon-reit-sentence.svg" class="icon icon-services w90 h90">
             <div class="mt10 border-blue-top border-blue-bottom lightblue-block-hover">
-              <div class="size-12 line-h18 mt20 mb20 ml25r mr25r"><a class="color-white white-hover" href="/ipo-portfolio.php">IPO портфель</a></div>
+              <div class="size-12 line-h18 mt20 mb20 pl02r pr02r"><a class="color-white white-hover" href="/ipo-portfolio.php">IPO портфель</a></div>
             </div>
           </div>
         </div>
-        <div class="column-3">
-          <div class="ml05r mr05r mt30">
+        <div class="w33r l pt04r pb02r">
+          <div class="ml05r mr05r">
             <img src="img/icons/icon-cogwheel.svg" class="icon icon-services w90 h90">
             <div class="mt10 border-blue-top border-blue-bottom lightblue-block-hover">
-              <div class="size-12 line-h18 mt20 mb20 ml25r mr25r"><a class="color-white white-hover" href="/high-yielding-currency-portfolio.php">высокодоходный валютный портфель</a></div>
+              <div class="size-12 line-h18 mt20 mb20 pl02r pr02r"><a class="color-white white-hover" href="/high-yielding-currency-portfolio.php">высокодоходный валютный портфель</a></div>
             </div>
           </div>
         </div>
-        <div class="column-3">
-          <div class="ml05r mr05r mt30">
+        <div class="w33r l pt04r pb02r">
+          <div class="ml05r mr05r">
             <img src="img/icons/icon-strongbox.svg" class="icon icon-services w90 h90">
             <div class="mt10 border-blue-top border-blue-bottom lightblue-block-hover">
-              <div class="size-12 line-h18 mt20 mb20 ml25r mr25r"><a class="color-white white-hover" href="/high-yielding-portfolio.php">высокодоходный портфель</a></div>
+              <div class="size-12 line-h18 mt20 mb20 pl02r pr02r"><a class="color-white white-hover" href="/high-yielding-portfolio.php">высокодоходный портфель</a></div>
             </div>
           </div>
         </div>
+        <div class="clearfix"></div>
       </div>
     </div>
     <div class="clearfix"></div>
     <!-- /ALERT -->
-    <div class="text-alert column-container mt70 w70r auto line-h20 size-14">
+    <div class="text-alert text-offset column-container mt05r w70r auto line-h20 size-14">
       <div class="column">
         <div class="column-offset">
           <div class="ml15r mr15r border-left-lightgray border-right-lightgray">
@@ -178,8 +179,8 @@
       <div class="clearfix"></div>
     </div>
     <!-- /ALERT -->
-    <div id="parallax-menu" class="img-high-yield-strategy-2 w100r mt80 cover bg-center fixed" style="background-attachment: fixed;">
-      <div class="label w90r auto bg bg-label text-center uppercase">
+    <div id="parallax-menu-" class="img-high-yield-strategy-2 w100r mt05r cover bg-center fixed" style="background-attachment: fixed;">
+      <div class="label w90r auto bg bg-label text-center uppercase pb05r">
         <h3 class="size-12 color-white pt30">ВСЕ СТРАТЕГИИ ДОВЕРИТЕЛЬНОГО УПРАВЛЕНИЯ</h3>
         <div class="column-4">
           <div class="ml05r mr05r mt30">
@@ -213,6 +214,7 @@
             </div>
           </div>
         </div>
+        <div class="clearfix"></div>
       </div>
     </div>
     <!-- FOOTER BLOCK -->

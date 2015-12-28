@@ -27,7 +27,7 @@
             style="background-position: center bottom;">
         
       </div>
-      <div class="column-container">
+      <div id="headblock" class="column-container">
         <div class="column-2 content-margin text-center size-8 line-h24 uppercase">
           <div class="column-offset bg-white pt05r">
             <ul>
@@ -127,32 +127,36 @@
   <!--Text-->
   <div class="column-container pt05r">
     <div class="column">
+      <h3 class="text-center size-12 color-white"><div class="w320 line-h40 auto bg-gray2">ИНВЕСТИЦИОННАЯ АКТУАЛЬНОСТЬ СТРАТЕГИИ</div></h3>
       <div class="column-offset">
-        <h3 class="text-center size-12 color-white"><div class="w320 h40 line-h40 auto bg-gray2">ИНВЕСТИЦИОННАЯ АКТУАЛЬНОСТЬ СТРАТЕГИИ</div></h3>
         <div class="title-line-grey"></div>
       </div>
     </div>
   </div>
   <div class="column-container size-14 color-grey1 line-h26">
     <div class="column-2">
-      <p class="mt70 ml07r mr10r size-14 weight-300"><span class="bold">Д</span>ля хеджирования возможных рисков в портфель включены опционы, валюты и корпоративные облигации. </p>
+      <div class="column-offset pt10r">
+        <p class="size-14 weight-300"><span class="bold">Д</span>ля хеджирования возможных рисков в портфель включены опционы, валюты и корпоративные облигации. </p>
       
-      <p class="mt20 ml07r mr10r size-14 weight-300">Благодаря такому набору активов перед инвестором открываются возможности заработка на любом тренде в любом регионе мира, в том числе и на падающих рынках.</p>
+        <p class="mt20 size-14 weight-300">Благодаря такому набору активов перед инвестором открываются возможности заработка на любом тренде в любом регионе мира, в том числе и на падающих рынках.</p>
+      </div>
     </div>
     <div class="column-2">
-      <p class="mt70 ml07r mr10r size-14 weight-300"><span class="bold">С</span>реди самых перспективных направлений в рамках стратегии - секторы, связанные с новыми технологиями: интернет-сервисы, 3D-печать, хранение информации и альтернативные источники энергии. </p>
+      <div class="column-offset pt05r">
+        <p class="size-14 weight-300"><span class="bold">С</span>реди самых перспективных направлений в рамках стратегии - секторы, связанные с новыми технологиями: интернет-сервисы, 3D-печать, хранение информации и альтернативные источники энергии. </p>
       
-      <p class="mt20 ml07r mr10r size-14 weight-300">Настоящая золотая жила для инвестора - американские энергетические компании малой капитализации, растущие на фоне сланцевой революции.</p>
+        <p class="mt20 size-14 weight-300">Настоящая золотая жила для инвестора - американские энергетические компании малой капитализации, растущие на фоне сланцевой революции.</p>
+      </div>
     </div>
     <div class="clearfix"></div>
   </div>
   <!--Text-->
   <!--Parallax-text-->
   <div class="clearfix"></div>
-  <div id="parallax-menu" class="img-ipo-portfolio-2 w100r mt80 cover fixed" style="background-attachment: fixed; background-position: center bottom;">
+  <div id="high-yielding-portfolio" class="img-ipo-portfolio-2 w100r mt05r cover fixed" style="background-attachment: fixed; background-position: center bottom;">
     <div class="label w90r auto bg bg-blue-label line-h40 text-center">
-      <div class="column-3">
-        <div class="ml05r mr05r mt30">
+        <div class="w33r l pt04r pb02r">
+          <div class="ml05r mr05r">
           <div class="border-white2 auto w100 mb10"></div>
           <p class="size-12 color-white weight-300">СУММА ИНВЕСТИЦИЙ</p>
           <p class="size-12 color-white weight-300">от $300.000 тыс</p>
@@ -161,8 +165,8 @@
           <p class="size-12 color-white weight-300">50%</p>
         </div>
       </div>
-      <div class="column-3">
-        <div class="ml05r mr05r mt30">
+        <div class="w33r l pt04r pb02r">
+          <div class="ml05r mr05r">
           <div class="border-white2 auto w100 mb10"></div>
           <p class="size-12 color-white weight-300">ЛИКВИДНОСТЬ</p>
           <p class="size-12 color-white weight-300">15 дней</p>
@@ -171,8 +175,8 @@
           <p class="size-12 color-white weight-300">1 год</p>
         </div>
       </div>
-      <div class="column-3">
-        <div class="ml05r mr05r mt30">
+        <div class="w33r l pt04r pb02r">
+          <div class="ml05r mr05r">
           <div class="border-white2 auto w100 mb10"></div>
           <p class="size-12 color-white weight-300">ЦЕЛЕВАЯ ДОХОДНОСТЬ, $</p>
           <p class="size-12 color-white weight-300">10-70%</p>
@@ -181,26 +185,31 @@
           <p class="size-12 color-white weight-300">комиссия за успех: 30%</p>
         </div>
       </div>
+      <div class="clearfix"></div>
     </div>
   </div>
   <div class="clearfix"></div>
   <!--Parallax-text-->
   <!--Text-->
   <div class="column-container size-14 line-h26">
-    <h3 class="text-center bold mt60">Структура портфеля</h3>
+    <h3 class="text-center bold mt05r">Структура портфеля</h3>
     <div class="column-2">
-      <p class="mt70 ml07r mr10r size-14 weight-300"><span class="bold">Ч</span>тобы актив был отобран в портфель, он как минимум должен входить в один из крупнейших региональных фондовых индексов: STOXX Global 150, DJIA, S&P500, NASDAQ Composite, Russell 2000, STOXX Europe 600, DAX, FTSE 100, FTSE 350, CAC40, STOXX Asia/Pacific 600.</p>
+      <div class="column-offset">
+        <p class="pt05r size-14 weight-300"><span class="bold">Ч</span>тобы актив был отобран в портфель, он как минимум должен входить в один из крупнейших региональных фондовых индексов: STOXX Global 150, DJIA, S&P500, NASDAQ Composite, Russell 2000, STOXX Europe 600, DAX, FTSE 100, FTSE 350, CAC40, STOXX Asia/Pacific 600.</p>
+      </div>
     </div>
     <div class="column-2">
-      <p class="mt70 ml07r mr10r size-14 weight-300"><span class="bold">В</span> зависимости от рыночной конъюнктуры, веса финансовых инструментов в портфеле могут варьироваться. Так, доля акций может составлять 55 - 65%, облигаций - 5 - 15%, валюты - 0 - 10%, опционов - 0 - 10%, ETF - 15 - 25%.</p>
+      <div class="column-offset">
+        <p class="pt05r size-14 weight-300"><span class="bold">В</span> зависимости от рыночной конъюнктуры, веса финансовых инструментов в портфеле могут варьироваться. Так, доля акций может составлять 55 - 65%, облигаций - 5 - 15%, валюты - 0 - 10%, опционов - 0 - 10%, ETF - 15 - 25%.</p>
+      </div>
     </div>
   </div>
   <div class="clearfix"></div>
   <!--Text-->
   <!--Image-->
-  <div class="column-container mt20">
+  <div id="img-high-yielding-portfolio-2" class="column-container pt05r">
     <div class="column">
-      <div class="img-high-yielding-portfolio-2 h400 contain mt30 mb50" style="background-size: contain; background-repeat: no-repeat; background-position: center center;"></div>
+      <div class="img-high-yielding-portfolio-2 h400 contain" style="background-size: contain; background-repeat: no-repeat; background-position: center center;"></div>
     </div>
     <div class="clearfix"></div>
   </div>
@@ -208,18 +217,22 @@
   <!--Text-->
   <div class="column-container size-14 line-h26">
     <div class="column-2">
-      <p class="mt20 ml07r mr10r size-14 weight-300"><span class="bold">Э</span>ти инвестиции интересны в перспективе 2 - 4 лет. Большие возможности откроются перед инвесторами в связи с начавшимся восстановлением финансового сектора проблемных стран Еврозоны (PIGS), которое продолжится еще 1-2 года.</p>
+      <div class="column-offset">
+        <p class="pt05r size-14 weight-300"><span class="bold">Э</span>ти инвестиции интересны в перспективе 2 - 4 лет. Большие возможности откроются перед инвесторами в связи с начавшимся восстановлением финансового сектора проблемных стран Еврозоны (PIGS), которое продолжится еще 1-2 года.</p>
+      </div>
     </div>
     <div class="column-2">
-      <p class="mt20 ml07r mr10r size-14 weight-300"><span class="bold">К</span>роме того, инвестиционной привлекательностью обладают телекоммуникационные компании из новых азиатских экономик: Вьетнама, Бангладеша и Таиланда.</p>
+      <div class="column-offset">
+        <p class="pt05r size-14 weight-300"><span class="bold">К</span>роме того, инвестиционной привлекательностью обладают телекоммуникационные компании из новых азиатских экономик: Вьетнама, Бангладеша и Таиланда.</p>
+      </div>
     </div>
   </div>
   <div class="clearfix"></div>
   <!--Text-->
   <div class="column-container">
-    <div class="column mt60 mb30 text-center">
+    <div class="column pt05r pb05r text-center">
       <div class="border-gray-bottom"></div>
-      <p class="mt60 size-12 color-teal uppercase line-h16 weight-300">В ЗАВИСИМОСТИ ОТ ПОСТАВЛЕННЫХ ЗАДАЧ, НАШИ СПЕЦИАЛИСТЫ ПОМОГУТ ВЫБРАТЬ НАИБОЛЕЕ ПОДХОДЯЩУЮ ДЛЯ ВАС СТРАТЕГИЮ</p>
+      <p class="mt05r size-12 color-teal uppercase line-h16 weight-300">В ЗАВИСИМОСТИ ОТ ПОСТАВЛЕННЫХ ЗАДАЧ, НАШИ СПЕЦИАЛИСТЫ ПОМОГУТ ВЫБРАТЬ НАИБОЛЕЕ ПОДХОДЯЩУЮ ДЛЯ ВАС СТРАТЕГИЮ</p>
       <a href="/connect.php" class="size-14 line-h60 weight-300">задать вопрос специалисту </a><span class="color-teal weight-300">&gt;</span>
     </div>
   </div>

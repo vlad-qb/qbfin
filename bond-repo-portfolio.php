@@ -27,7 +27,7 @@
             style="background-position: center bottom;">
         
       </div>
-      <div class="column-container">
+      <div id="headblock" class="column-container">
         <div class="column-2 content-margin text-center size-8 line-h24 uppercase">
           <div class="column-offset bg-white pt05r">
             <ul>
@@ -125,129 +125,145 @@
   <div class="clearfix"></div>
   <!--Text-->
   <div class="column-container pt05r">
-    <div class="column mt60">
+    <div class="column">
+      <h3 class="w320 auto h40 line-h40 bg-gray2 text-center size-12 color-white"> ИНВЕСТИЦИОННАЯ АКТУАЛЬНОСТЬ СТРАТЕГИИ </h3>
       <div class="column-offset">
-        <h3 class="text-center size-12 color-white"><div class="w320 h40 line-h40 auto bg-gray2">ИНВЕСТИЦИОННАЯ АКТУАЛЬНОСТЬ СТРАТЕГИИ</div></h3>
         <div class="title-line-grey"></div>
       </div>
     </div>
   </div>
   <div class="column-container size-14 color-grey1 line-h26">
-    <div class="column-2">
-      <p class="mt70 ml07r mr10r size-14 weight-300"><span class="bold">C</span>егодня крупнейшие ЦБ продолжают стимулировать экономический рост за счет сохранения ставки рефинансирования на рекордно низком уровне. ФРС США держит ее на уровне 0 - 0,25%, ЕЦБ - 0,15%, ЦБ Англии - 0,50%, ЦБ Японии - 0 - 0,10%, и ЦБ Швейцарии - 0,25%. </p>
-      
-      <p class="mt20 ml07r mr10r size-14 weight-300">При этом доходность по корпоративным облигациям с высоким кредитным рейтингом держится на уровне 5,5 - 6,5%.</p>
+    <div class="column-2 pt05r">
+      <div class="column-offset pl05r pr05r">
+        <p class="size-14 weight-300"><span class="bold">C</span>егодня крупнейшие ЦБ продолжают стимулировать экономический рост за счет сохранения ставки рефинансирования на рекордно низком уровне. ФРС США держит ее на уровне 0 - 0,25%, ЕЦБ - 0,15%, ЦБ Англии - 0,50%, ЦБ Японии - 0 - 0,10%, и ЦБ Швейцарии - 0,25%. </p>
+        <p class="mt20 size-14 weight-300">При этом доходность по корпоративным облигациям с высоким кредитным рейтингом держится на уровне 5,5 - 6,5%.</p>
+      </div>
     </div>
-    <div class="column-2">
-      <p class="mt70 ml07r mr10r size-14 weight-300"><span class="bold">В</span> результате инвесторы получают возможность занять капитал под залог высококачественных финансовых активов (корпоративных облигаций) и использовать его для покупки аналогичных финансовых инструментов. </p>
-      
-      <p class="mt20 ml07r mr10r size-14 weight-300">Заемный капитал позволяет получить доход 5,5 - 6,5% от суммы, в несколько раз превосходящей стартовую.</p>
+    <div class="column-2 pt05r">
+      <div class="column-offset pl05r pr05r">
+        <p class="size-14 weight-300"><span class="bold">В</span> результате инвесторы получают возможность занять капитал под залог высококачественных финансовых активов (корпоративных облигаций) и использовать его для покупки аналогичных финансовых инструментов. </p>
+        <p class="mt20 size-14 weight-300">Заемный капитал позволяет получить доход 5,5 - 6,5% от суммы, в несколько раз превосходящей стартовую.</p>
+      </div>
+      <div class="clearfix"></div>
     </div>
     <div class="clearfix"></div>
   </div>
-  <!--Text-->
-  <!--Parallax-text-->
+
   <div class="clearfix"></div>
-  <div id="parallax-menu" class="img-conservative-portfolio-2 w100r mt80 cover fixed" style="background-attachment: fixed; background-position: center center;">
+  <div id="bond-repo-portfolio" class="img-conservative-portfolio-2 w100r mt05r cover fixed" style="background-attachment: fixed; background-position: center center;">
     <div class="label w90r auto bg bg-yellow-label line-h40 text-center">
-      <div class="column-3">
-        <div class="ml05r mr05r mt30">
-          <div class="border-white2 auto w100 mb5"></div>
-          <p class="size-12 color-white weight-300">СУММА ИНВЕСТИЦИЙ</p>
-          <p class="size-12 color-white weight-300">от $1.000.000 млн.</p>
-          <div class="border-white2 auto w100 mt10 mb5"></div>
-          <p class="size-12 color-white weight-300">УРОВЕНЬ ЗАЩИТЫ КАПИТАЛА</p>
-          <p class="size-12 color-white weight-300">90%</p>
-        </div>
+      <div class="w33r l pt04r pb02r">
+        <div class="border-white2 auto w100 mb5"></div>
+        <p class="size-12 color-white weight-300">СУММА ИНВЕСТИЦИЙ</p>
+        <p class="size-12 color-white weight-300">от $1.000.000 млн.</p>
+        <div class="border-white2 auto w100 mt10 mb5"></div>
+        <p class="size-12 color-white weight-300">УРОВЕНЬ ЗАЩИТЫ КАПИТАЛА</p>
+        <p class="size-12 color-white weight-300">90%</p>
       </div>
-      <div class="column-3">
-        <div class="ml05r mr05r mt30">
-          <div class="border-white2 auto w100 mb5"></div>
-          <p class="size-12 color-white weight-300">ЛИКВИДНОСТЬ</p>
-          <p class="size-12 color-white weight-300">15 дней</p>
-          <div class="border-white2 auto w100 mt10 mb5"></div>
-          <p class="size-12 color-white weight-300">МИНИМАЛЬНЫЙ СРОК ИНВЕСТИРОВАНИЯ</p>
-          <p class="size-12 color-white weight-300">1 год</p>
-        </div>
+      <div class="w33r l pt04r pb02r">
+        <div class="border-white2 auto w100 mb5"></div>
+        <p class="size-12 color-white weight-300">ЛИКВИДНОСТЬ</p>
+        <p class="size-12 color-white weight-300">15 дней</p>
+        <div class="border-white2 auto w100 mt10 mb5"></div>
+        <p class="size-12 color-white weight-300">МИНИМАЛЬНЫЙ СРОК ИНВЕСТИРОВАНИЯ</p>
+        <p class="size-12 color-white weight-300">1 год</p>
       </div>
-      <div class="column-3">
-        <div class="ml05r mr05r mt30">
-          <div class="border-white2 auto w100 mb5"></div>
-          <p class="size-12 color-white weight-300">ЦЕЛЕВАЯ ДОХОДНОСТЬ, $</p>
-          <p class="size-12 color-white weight-300">12-17%</p>
-          <div class="border-white2 auto w100 mt10 mb5"></div>
-          <p class="size-12 color-white weight-300">ВОЗНАГРАЖДЕНИЕ УПРАВЛЯЮЩЕГО</p>
-          <p class="size-12 color-white weight-300">комиссия за управление: 2%</p>
-        </div>
+      <div class="w33r l pt04r pb02r">
+        <div class="border-white2 auto w100 mb5"></div>
+        <p class="size-12 color-white weight-300">ЦЕЛЕВАЯ ДОХОДНОСТЬ, $</p>
+        <p class="size-12 color-white weight-300">12-17%</p>
+        <div class="border-white2 auto w100 mt10 mb5"></div>
+        <p class="size-12 color-white weight-300">ВОЗНАГРАЖДЕНИЕ УПРАВЛЯЮЩЕГО</p>
+        <p class="size-12 color-white weight-300">комиссия за управление: 2%</p>
       </div>
+      <div class="clearfix"></div>
     </div>
   </div>
   <div class="clearfix"></div>
-  <!--Parallax-text-->
-  <!--Text-->
+
   <div class="column-container size-14 line-h26">
-    <h3 class="text-center bold mt60">Структура портфеля</h3>
-    <div class="column-2">
-      <p class="mt70 ml07r mr10r size-14 weight-300"><span class="bold">Ч</span>тобы облигация была отобрана в портфель, она должна обладать высоким кредитным рейтингом от Standard & Poor's, Moody's и Fitch для корпоративных облигаций. </p>
-      <p class="mt20 ml07r mr10r size-14 weight-300">Целевой доходностью по облигациям служит отметка 6% годовых.</p>
+    <h3 class="text-center bold mt05r">Структура портфеля</h3>
+    <div class="column-2 pt05r">
+      <div class="column-offset pl05r pr05r">
+        <p class="size-14 weight-300"><span class="bold">Ч</span>тобы облигация была отобрана в портфель, она должна обладать высоким кредитным рейтингом от Standard & Poor's, Moody's и Fitch для корпоративных облигаций. </p>
+        <p class="mt20 size-14 weight-300">Целевой доходностью по облигациям служит отметка 6% годовых.</p>
+      </div>
     </div>
-    <div class="column-2">
-      <p class="mt70 ml07r mr10r size-14 weight-300"><span class="bold">К</span>роме того, эмитент должен входить в индекс S&P500 или в основные региональные индексы (для неамериканских эмитентов). Показатели TDB/EBITDA и TDB/Assets эмитента не выше средних значений по отрасли. </p>
-      <p class="mt20 ml07r mr10r size-14 weight-300">Во время управления портфелем в его структуру могут быть включены аналогичные активы других эмитентов.</p>
+    <div class="column-2 pt05r">
+      <div class="column-offset pl05r pr05r">
+        <p class="size-14 weight-300"><span class="bold">К</span>роме того, эмитент должен входить в индекс S&P500 или в основные региональные индексы (для неамериканских эмитентов). Показатели TDB/EBITDA и TDB/Assets эмитента не выше средних значений по отрасли. </p>
+        <p class="mt20 size-14 weight-300">Во время управления портфелем в его структуру могут быть включены аналогичные активы других эмитентов.</p>
+      </div>
+      <div class="clearfix"></div>
     </div>
+    <div class="clearfix"></div>
   </div>
   <div class="clearfix"></div>
-  <!--Text-->
-  <!--Image-->
-  <div class="column-container mt60">
-    <h3 class="text-center size-14 line-h26 bold mt60 mb60">Расчет доходности портфеля</h3>
+
+<div class="column-container">
+  <div class="pl05r pr05r">
+    <h3 class="text-center size-14 line-h26 bold pt05r pb05r pb04r">Расчет доходности портфеля</h3>
     <div class="clearfix"></div>
-    <div class="column-3">
-      <div class="img-bond-repo-portfolio-2 h450 contain mt30 mb50" style="background-size: contain; background-repeat: no-repeat; background-position: center center;"></div>
-    </div>
-    <div class="column-2 size-14 line-h32 w60r mr03r r">
-      <div>
-        <div class="border-lightgray text-center weight-300 mb5">
+    <div class="column-3-2 size-14 line-h28" style="float:right;">
+      <div class="">
+        <div class="border-lightgray text-center weight-300 mb5 pt02r pb01r">
           <span>первоначальные инвестиции<br/></span>
-          <span class="color-yellow">•︎</span> $1 000 000</div>
-          <div class="border-lightgray text-center weight-300 mb5">
-            <span>стоимость заемного капитала<br/></span>
-            <span class="color-yellow">•︎</span> 1,5% ($30 000)</div>
-            <div class="border-lightgray text-center weight-300 mb5">
-              <span>капитализация с учетом заемного капитала<br/></span>
-              <span class="color-yellow">•︎</span> $3 000 000</div>
-              <div class="border-lightgray text-center weight-300 mb5">
-                <span>доходность / портфель<br/></span>
-                <span class="color-yellow">•︎</span> 5,5 - 6,5% ($165 000 - $195 000)</div>
-                <div class="border-lightgray text-center weight-300 mb5">
-                  <span>доходность / инвестиции<br/></span>
-                  <span class="color-yellow">•︎</span> 13,5% - 16,5% ($135 000 - $165 000)</div>
-                  <div class="border-lightgray text-center weight-300 mb5">
-                    <span>учет вознаграждения управляющего<br/></span>
-                    <span class="color-yellow">•︎</span> 2% ($22 700 - $23 300)</div>
-                    <div class="border-lightgray text-center weight-300 mb5">
-                      <span>чистая прибыль<br/></span>
-                      <span class="color-yellow">•︎</span> 11,2 - 14,1% ($112 000 - $141 000)</div>
-                    </div>
-                  </div>
-                  <div class="clearfix"></div>
-                </div>
-                <!--Image-->
-                <!--Text-->
-                <div class="column-container size-14 line-h26">
-                  <div class="column-2">
-                    <p class="mt20 ml07r mr10r size-14 weight-300"><span class="bold">С</span>ущественная разница между стоимостью заемного капитала и доходностью корпоративных долговых инструментов сохранится в мировой экономике еще на протяжении 2 - 3 лет.</p>
-                  </div>
-                  <div class="column-2">
-                    <p class="mt20 ml07r mr10r size-14 weight-300"><span class="bold">Ц</span>ентральные банки будут придерживаться ультрамягкой политики в отношении процентных ставок до полного восстановления мировой экономики. Компании же в такой ситуации считают приемлемым фондироваться на рынке под 5,5 - 6,5% годовых.</p>
-                  </div>
-                </div>
-                <div class="clearfix"></div>
-                <!--Text-->
+          <span class="color-yellow">•︎</span> $1 000 000
+        </div>
+        <div class="border-lightgray text-center weight-300 mb5 pt02r pb01r">
+          <span>стоимость заемного капитала<br/></span>
+          <span class="color-yellow">•︎</span> 1,5% ($30 000)
+        </div>
+        <div class="border-lightgray text-center weight-300 mb5 pt02r pb01r">
+          <span>капитализация с учетом заемного капитала<br/></span>
+          <span class="color-yellow">•︎</span> $3 000 000
+        </div>
+        <div class="border-lightgray text-center weight-300 mb5 pt02r pb01r">
+          <span>доходность / портфель<br/></span>
+          <span class="color-yellow">•︎</span> 5,5 - 6,5% ($165 000 - $195 000)
+        </div>
+        <div class="border-lightgray text-center weight-300 mb5 pt02r pb01r">
+          <span>доходность / инвестиции<br/></span>
+          <span class="color-yellow">•︎</span> 13,5% - 16,5% ($135 000 - $165 000)
+        </div>
+        <div class="border-lightgray text-center weight-300 mb5 pt02r pb01r">
+          <span>учет вознаграждения управляющего<br/></span>
+          <span class="color-yellow">•︎</span> 2% ($22 700 - $23 300)
+        </div>
+        <div class="border-lightgray text-center weight-300 mb5 pt02r pb01r">
+          <span>чистая прибыль<br/></span>
+          <span class="color-yellow">•︎</span> 11,2 - 14,1% ($112 000 - $141 000)
+        </div>
+      </div>
+    </div>
+    <div id="img-bond-repo-portfolio-2" class="column-3-1">
+      <div class="img-bond-repo-portfolio-2 h450 contain" style="background-size: contain; background-repeat: no-repeat; background-position: center center;"></div>
+    </div>
+     <div class="clearfix"></div>
+  </div>
+</div>
+ <div class="clearfix"></div>
+  <div class="column-container size-14 line-h26">
+    <h3 class="text-center bold mt05r">Структура портфеля</h3>
+    <div class="column-2 pt05r">
+      <div class="column-offset pl05r pr05r">
+        <p class="size-14 weight-300"><span class="bold">С</span>ущественная разница между стоимостью заемного капитала и доходностью корпоративных долговых инструментов сохранится в мировой экономике еще на протяжении 2 - 3 лет. </p>
+      </div>
+    </div>
+    <div class="column-2 pt05r">
+      <div class="column-offset pl05r pr05r">
+        <p class="size-14 weight-300"><span class="bold">Ц</span>ентральные банки будут придерживаться ультрамягкой политики в отношении процентных ставок до полного восстановления мировой экономики. Компании же в такой ситуации считают приемлемым фондироваться на рынке под 5,5 - 6,5% годовых. </p>
+      </div>
+      <div class="clearfix"></div>
+    </div>
+    <div class="clearfix"></div>
+  </div>
+  <div class="clearfix"></div>
+
                 <div class="column-container">
-                  <div class="column mt60 mb30 text-center">
+                  <div class="column pt05r pb05r text-center">
                     <div class="border-gray-bottom"></div>
-                    <p class="mt60 size-12 color-teal uppercase line-h16 weight-300">В ЗАВИСИМОСТИ ОТ ПОСТАВЛЕННЫХ ЗАДАЧ, НАШИ СПЕЦИАЛИСТЫ ПОМОГУТ ВЫБРАТЬ НАИБОЛЕЕ ПОДХОДЯЩУЮ ДЛЯ ВАС СТРАТЕГИЮ</p>
+                    <p class="mt05r size-12 color-teal uppercase line-h16 weight-300">В ЗАВИСИМОСТИ ОТ ПОСТАВЛЕННЫХ ЗАДАЧ, НАШИ СПЕЦИАЛИСТЫ ПОМОГУТ ВЫБРАТЬ НАИБОЛЕЕ ПОДХОДЯЩУЮ ДЛЯ ВАС СТРАТЕГИЮ</p>
                     <a href="/connect.php" class="size-14 line-h60 weight-300">задать вопрос специалисту </a><span class="color-teal weight-300">&gt;</span>
                   </div>
                 </div>

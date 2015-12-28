@@ -27,7 +27,7 @@
             style="background-position: center bottom;">
         
       </div>
-      <div class="column-container">
+      <div id="headblock" class="column-container">
         <div class="column-2 content-margin text-center size-8 line-h24 uppercase">
           <div class="column-offset bg-white pt05r">
             <ul>
@@ -128,28 +128,28 @@
   <!--Text-->
   <div class="column-container pt05r">
     <div class="column">
+      <h3 class="text-center size-12 color-white"><div class="w320 line-h40 auto bg-gray2">ИНВЕСТИЦИОННАЯ АКТУАЛЬНОСТЬ СТРАТЕГИИ</div></h3>
       <div class="column-offset">
-        <h3 class="text-center size-12 color-white"><div class="w320 h40 line-h40 auto bg-gray2">ИНВЕСТИЦИОННАЯ АКТУАЛЬНОСТЬ СТРАТЕГИИ</div></h3>
-        <div class="title-line-grey"></div>
+       <div class="title-line-grey"></div>
       </div>
     </div>
   </div>
   <div class="column-container size-14 color-grey1 line-h26">
     <div class="column-2">
-      <p class="mt70 ml07r mr10r size-14 weight-300"><span class="bold">Н</span>а фоне взаимных санкций России, ЕС и США в течение последнего полугодия отмечается резкое сокращение притока инвестиционного капитала на российский рынок. Мы ожидаем продолжения сложившейся внешнеэкономической ситуации в течение следующего года, а также возможность сохранения негативного влияния санкций на экономический рост отечественной экономики в последующие 2-3 года.</p>
+      <p class="pt05r ml07r mr10r size-14 weight-300"><span class="bold">Н</span>а фоне взаимных санкций России, ЕС и США в течение последнего полугодия отмечается резкое сокращение притока инвестиционного капитала на российский рынок. Мы ожидаем продолжения сложившейся внешнеэкономической ситуации в течение следующего года, а также возможность сохранения негативного влияния санкций на экономический рост отечественной экономики в последующие 2-3 года.</p>
     </div>
     <div class="column-2">
-      <p class="mt70 ml07r mr10r size-14 weight-300"><span class="bold">Н</span>аравне с этим существуют трудности во внутриэкономической политике страны: ЦБ находится перед сложным выбором - стимулирование экономического роста либо сдерживание темпов инфляции.</p>
+      <p class="pt05r ml07r mr10r size-14 weight-300"><span class="bold">Н</span>аравне с этим существуют трудности во внутриэкономической политике страны: ЦБ находится перед сложным выбором - стимулирование экономического роста либо сдерживание темпов инфляции.</p>
     </div>
     <div class="clearfix"></div>
   </div>
   <!--Text-->
   <!--Parallax-text-->
   <div class="clearfix"></div>
-  <div id="parallax-menu" class="img-deposit-weighted-average-portfolio-2 w100r mt80 cover fixed" style="background-attachment: fixed; background-position: center center;">
-    <div class="label w90r auto bg bg-gray-label line-h40 text-center">
-      <div class="column-3">
-        <div class="ml05r mr05r mt30">
+  <div id="hedging-the-risk-of-ruble" class="img-deposit-weighted-average-portfolio-2 w100r mt05r cover fixed" style="background-attachment: fixed; background-position: center center;">
+    <div class="column-container label w90r auto bg bg-gray-label line-h40 text-center">
+      <div class="w33r l pt04r pb02r">
+        <div class="ml05r mr05r">
           <div class="border-white2 auto w100 mb10"></div>
           <p class="size-12 color-white weight-300">СУММА ИНВЕСТИЦИЙ</p>
           <p class="size-12 color-white weight-300">от 1.000.000 млн. руб</p>
@@ -158,8 +158,8 @@
           <p class="size-12 color-white weight-300">75%</p>
         </div>
       </div>
-      <div class="column-3">
-        <div class="ml05r mr05r mt30">
+      <div class="w33r l pt04r pb02r">
+        <div class="ml05r mr05r">
           <div class="border-white2 auto w100 mb10"></div>
           <p class="size-12 color-white weight-300">ЛИКВИДНОСТЬ</p>
           <p class="size-12 color-white weight-300">30 дней</p>
@@ -168,8 +168,8 @@
           <p class="size-12 color-white weight-300">1 год</p>
         </div>
       </div>
-      <div class="column-3">
-        <div class="ml05r mr05r mt30">
+      <div class="w33r l pt04r pb02r">
+        <div class="ml05r mr05r">
           <div class="border-white2 auto w100 mb10"></div>
           <p class="size-12 color-white weight-300">ЦЕЛЕВАЯ ДОХОДНОСТЬ, $</p>
           <p class="size-12 color-white weight-300">22-29%</p>
@@ -178,24 +178,25 @@
           <p class="size-12 color-white weight-300">30% от прибыли</p>
         </div>
       </div>
+      <div class="clearfix"></div>
     </div>
   </div>
   <div class="clearfix"></div>
   <!--Parallax-text-->
   <!--Text-->
-  <div class="column-container size-14 line-h26">
-    <h3 class="text-center bold mt60">Структура портфеля</h3>
+  <div class="column-container size-14 line-h26 pt05r">
+    <h3 class="text-center bold ">Структура портфеля</h3>
     <div class="column-2">
-      <p class="mt70 ml07r mr10r size-14 weight-300"><span class="bold">И</span>сходя из возникших потребностей поддержания рублевых активов был разработан портфель «Хеджирование рублевых рисков». Стратегией предусмотрено открытие позиции по фьючерсам на валютную пару USD/RUB в размере 7-10% от суммы рублевых активов.</p>
+      <p class="pt05r ml07r mr10r size-14 weight-300"><span class="bold">И</span>сходя из возникших потребностей поддержания рублевых активов был разработан портфель «Хеджирование рублевых рисков». Стратегией предусмотрено открытие позиции по фьючерсам на валютную пару USD/RUB в размере 7-10% от суммы рублевых активов.</p>
     </div>
     <div class="column-2">
-      <p class="mt70 ml07r mr10r size-14 weight-300"><span class="bold">Т</span>аким образом, если происходит снижение стоимости российской валюты, то позиция по фьючерсам приносит прибыль, которая компенсирует обесценивание рубля. В случае если рубль растет или остается без изменения, происходит закрытие позиции без убытка или позиция вовсе не открывается.</p>
+      <p class="pt05r ml07r mr10r size-14 weight-300"><span class="bold">Т</span>аким образом, если происходит снижение стоимости российской валюты, то позиция по фьючерсам приносит прибыль, которая компенсирует обесценивание рубля. В случае если рубль растет или остается без изменения, происходит закрытие позиции без убытка или позиция вовсе не открывается.</p>
     </div>
   </div>
   <div class="clearfix"></div>
   <!--Text-->
   <!--Image-->
-  <div class="column-container mt20">
+  <div id="img-hedging-the-risk-of-ruble-2" class="column-container pt05r">
     <div class="column">
       <div class="img-hedging-the-risk-of-ruble-2 h400 contain mt30 mb50" style="background-size: contain; background-repeat: no-repeat; background-position: center center;"></div>
     </div>
@@ -205,19 +206,19 @@
   <!--Text-->
   <div class="column-container size-14 line-h26">
     <div class="column-2">
-      <p class="mt20 ml07r mr10r size-14 weight-300"><span class="bold">Т</span>ак, экономический рост в 2013-2015 годах составит не более 0,5% г/г, а инфляция по самым консервативным сценариям превысит 7%. Также политика ЦБ в ближайшее время будет нацелена на сдерживание инфляции в ущерб экономическому росту, что подтверждает повышение ЦБ процентных ставок.</p>
+      <p class="pt05r ml07r mr10r size-14 weight-300"><span class="bold">Т</span>ак, экономический рост в 2013-2015 годах составит не более 0,5% г/г, а инфляция по самым консервативным сценариям превысит 7%. Также политика ЦБ в ближайшее время будет нацелена на сдерживание инфляции в ущерб экономическому росту, что подтверждает повышение ЦБ процентных ставок.</p>
     </div>
     <div class="column-2">
-      <p class="mt20 ml07r mr10r size-14 weight-300"><span class="bold">Н</span>а фоне сложившейся экономической ситуации мы ожидаем давление на рубль и рублевые активы в рамках вышеуказанных 2-3 лет.</p>
+      <p class="pt05r ml07r mr10r size-14 weight-300"><span class="bold">Н</span>а фоне сложившейся экономической ситуации мы ожидаем давление на рубль и рублевые активы в рамках вышеуказанных 2-3 лет.</p>
     </div>
   </div>
   <div class="clearfix"></div>
   <!--Text-->
-  <div class="column-container">
-    <div class="column mt60 mb30 text-center">
+  <div class="column-container mt02r">
+    <div class="column pt02r pb04r text-center">
       <div class="border-gray-bottom"></div>
-      <p class="mt60 size-12 color-teal uppercase line-h16 weight-300">В ЗАВИСИМОСТИ ОТ ПОСТАВЛЕННЫХ ЗАДАЧ, НАШИ СПЕЦИАЛИСТЫ ПОМОГУТ ВЫБРАТЬ НАИБОЛЕЕ ПОДХОДЯЩУЮ ДЛЯ ВАС СТРАТЕГИЮ</p>
-      <a href="/connect.php" class="size-14 line-h60 weight-300">задать вопрос специалисту </a><span class="color-teal weight-300">&gt;</span>
+      <p class="pt05r size-12 color-teal uppercase line-h16 weight-300">В ЗАВИСИМОСТИ ОТ ПОСТАВЛЕННЫХ ЗАДАЧ, НАШИ СПЕЦИАЛИСТЫ ПОМОГУТ ВЫБРАТЬ НАИБОЛЕЕ ПОДХОДЯЩУЮ ДЛЯ ВАС СТРАТЕГИЮ</p>
+      <a href="/connect.php" class="size-14 line-h60 weight-300 mt20">задать вопрос специалисту </a><span class="color-teal weight-300">&gt;</span>
     </div>
   </div>
   <div class="clearfix"></div>
@@ -229,15 +230,15 @@
       </div>
       <div class="pl02r pr02r pt02r pb02r">
         <div class="column-2">
-          <div class="ml05r mr05r mt30">
+          <div class="ml05r mr05r pt05r">
             <img src="img/icons/icon-reit-sentence.svg" class="icon icon-services w90 h90">
             <div class="mt10 border-gray-top border-gray-bottom lightgray-block-hover">
-              <div class="size-12 line-h18 mt20 mb20 ml25r mr25r"><a class="color-white white-hover" href="/deposit-weighted-average-portfolio.php">ДЕПОЗИТНЫЙ СРЕДНЕВЗВЕШЕННЫЙ ПОРТФЕЛЬ</a></div>
+              <div class="size-12 line-h18 pt05r ml25r mr25r"><a class="color-white white-hover" href="/deposit-weighted-average-portfolio.php">ДЕПОЗИТНЫЙ СРЕДНЕВЗВЕШЕННЫЙ ПОРТФЕЛЬ</a></div>
             </div>
           </div>
         </div>
         <div class="column-2">
-          <div class="ml05r mr05r mt30">
+          <div class="ml05r mr05r pt05r">
             <img src="img/icons/icon-cogwheel.svg" class="icon icon-services w90 h90">
             <div class="mt10 border-gray-top border-gray-bottom bg-gray">
               <div class="size-12 line-h18 mt20 mb20 ml25r mr25r"><a class="color-white white-hover" href="/hedging-the-risk-of-ruble.php">ХЕДЖИРОВАНИЕ РУБЛЕВЫХ РИСКОВ</a></div>

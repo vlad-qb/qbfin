@@ -236,7 +236,7 @@
       </div>
     </div>
     <div class="column-2">
-      <div class="gallery-offset w80r auto mt90 line-h24 size-14">
+      <div class="gallery-offset w80r auto mt60 line-h24 size-14">
         <div class="text-center"><img class="icon icon-portfolio" src="/img/bg/archive-shares.gif"></div>
         <div class="title-line-teal2"></div>
         <p class="mt35">Постепенно в нашей структуре мы начали развивать и девелоперское направление. Принципы остались неизменны - мы всегда ориентируемся на скорость реализации проекта (ликвидность), доходность, сохранность нашего капитала и капитала наших клиентов, достигаемую через прозрачность регулирования и отчетность.</p>
@@ -250,8 +250,8 @@
     </div>
   </div>
   <div class="clearfix"></div>
-  <div class="img-history-2 w100r h300 mt60 cover" style="background-attachment: fixed;">
-    <h4 class="line-h40 color-white uppercase size-16 text-center bold pt70">ВЫСОКОКВАЛИФИЦИРОВАННАЯ КОМАНДА<br/>
+  <div class="img-history-2 w100r mt10r cover" style="background-attachment: fixed;">
+    <h4 class="line-h40 color-white uppercase size-16 text-center weight-500 pt05r pb05r pl05r pr05r">ВЫСОКОКВАЛИФИЦИРОВАННАЯ КОМАНДА<br/>
     МЕНЕДЖЕРОВ И ПОРТФЕЛЬНЫХ УПРАВЛЯЮЩИХ,<br/>
     ИМЕЮЩАЯ ЗНАЧИТЕЛЬНЫЙ ОПЫТ РАБОТЫ<br/>
     НА РЫНКЕ ЦЕННЫХ БУМАГ.

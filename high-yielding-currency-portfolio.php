@@ -127,32 +127,33 @@
   <!--Text-->
   <div class="column-container pt05r">
     <div class="column">
+      <h3 class="text-center size-12 color-white"><div class="w320 line-h40 auto bg-gray2">ИНВЕСТИЦИОННАЯ АКТУАЛЬНОСТЬ СТРАТЕГИИ</div></h3>
       <div class="column-offset">
-        <h3 class="text-center size-12 color-white"><div class="w320 h40 line-h40 auto bg-gray2">ИНВЕСТИЦИОННАЯ АКТУАЛЬНОСТЬ СТРАТЕГИИ</div></h3>
         <div class="title-line-grey"></div>
       </div>
     </div>
   </div>
   <div class="column-container size-14 color-grey1 line-h26">
-    <div class="column-2">
-      <p class="mt70 ml07r mr10r size-14 weight-300"><span class="bold">П</span>рибыль для инвестора генерируют пять алгоритмов, каждый из которых ориентирован на отдельную валютную пару: EUR/USD, USD/JPY, GBP/USD, EUR/GBP и EUR/CAD. </p>
-      
-      <p class="mt20 ml07r mr10r size-14 weight-300">Алгоритм, или робот - программа, которая автоматически выполняет сотни торговых операций в день, основываясь на определенных закономерностях, заложенных в нее при создании.</p>
+    <div class="column-2 pt05r">
+      <div class="column-offset">
+        <p class="size-14 weight-300"><span class="bold">П</span>рибыль для инвестора генерируют пять алгоритмов, каждый из которых ориентирован на отдельную валютную пару: EUR/USD, USD/JPY, GBP/USD, EUR/GBP и EUR/CAD. </p>
+        <p class="mt20 size-14 weight-300">Алгоритм, или робот - программа, которая автоматически выполняет сотни торговых операций в день, основываясь на определенных закономерностях, заложенных в нее при создании.</p>
+      </div>
     </div>
-    <div class="column-2">
-      <p class="mt70 ml07r mr10r size-14 weight-300"><span class="bold">Н</span>езначительная часть портфеля в пределах 15% распределяется на деривативы: опционы и биржевые фонды (ETF). </p>
-      
-      <p class="mt20 ml07r mr10r size-14 weight-300">Эта стратегия позволяет зарабатывать на валютных трендах, например таких, как недавнее ослабление японской йены на фоне кардинального изменения монетарной политики ЦБ Японии.</p>
+    <div class="column-2 pt05r">
+      <div class="column-offset">
+        <p class=" size-14 weight-300"><span class="bold">Н</span>езначительная часть портфеля в пределах 15% распределяется на деривативы: опционы и биржевые фонды (ETF). </p>
+        <p class="mt20 size-14 weight-300">Эта стратегия позволяет зарабатывать на валютных трендах, например таких, как недавнее ослабление японской йены на фоне кардинального изменения монетарной политики ЦБ Японии.</p>
+      </div>
     </div>
-    <div class="clearfix"></div>
   </div>
   <!--Text-->
   <!--Parallax-text-->
   <div class="clearfix"></div>
-  <div id="parallax-menu" class="img-ipo-portfolio-2 w100r mt80 cover fixed" style="background-attachment: fixed; background-position: center bottom;">
+  <div id="high-yielding-currency-portfolio" class="img-ipo-portfolio-2 w100r mt05r cover fixed" style="background-attachment: fixed; background-position: center bottom;">
     <div class="label w90r auto bg bg-blue-label line-h40 text-center">
-      <div class="column-3">
-        <div class="ml05r mr05r mt30">
+        <div class="w33r l pt04r pb02r">
+          <div class="ml05r mr05r">
           <div class="border-white2 auto w100 mb10"></div>
           <p class="size-12 color-white weight-300">СУММА ИНВЕСТИЦИЙ</p>
           <p class="size-12 color-white weight-300">от $300.000 тыс</p>
@@ -161,8 +162,8 @@
           <p class="size-12 color-white weight-300">50%</p>
         </div>
       </div>
-      <div class="column-3">
-        <div class="ml05r mr05r mt30">
+        <div class="w33r l pt04r pb02r">
+          <div class="ml05r mr05r">
           <div class="border-white2 auto w100 mb10"></div>
           <p class="size-12 color-white weight-300">ЛИКВИДНОСТЬ</p>
           <p class="size-12 color-white weight-300">15 дней</p>
@@ -171,8 +172,8 @@
           <p class="size-12 color-white weight-300">1 год</p>
         </div>
       </div>
-      <div class="column-3">
-        <div class="ml05r mr05r mt30">
+        <div class="w33r l pt04r pb02r">
+          <div class="ml05r mr05r">
           <div class="border-white2 auto w100 mb10"></div>
           <p class="size-12 color-white weight-300">ЦЕЛЕВАЯ ДОХОДНОСТЬ, $</p>
           <p class="size-12 color-white weight-300">10-70%</p>
@@ -181,26 +182,31 @@
           <p class="size-12 color-white weight-300">комиссия за успех: 30%</p>
         </div>
       </div>
+      <div class="clearfix"></div>
     </div>
   </div>
   <div class="clearfix"></div>
   <!--Parallax-text-->
   <!--Text-->
   <div class="column-container size-14 line-h26">
-    <h3 class="text-center bold mt60">Структура портфеля</h3>
+    <h3 class="text-center bold pt05r">Структура портфеля</h3>
     <div class="column-2">
-      <p class="mt70 ml07r mr10r size-14 weight-300"><span class="bold">В</span> рамках портфеля используются наиболее ликвидные валютные пары (EUR/USD, USD/JPY, GBP/USD, EUR/GBP, EUR/CAD), что позволяет эффективно хеджировать страновые риски и значительно повышает ликвидность портфеля.</p>
+      <div class="column-offset">
+        <p class="pt05r size-14 weight-300"><span class="bold">В</span> рамках портфеля используются наиболее ликвидные валютные пары (EUR/USD, USD/JPY, GBP/USD, EUR/GBP, EUR/CAD), что позволяет эффективно хеджировать страновые риски и значительно повышает ликвидность портфеля.</p>
+      </div>
     </div>
     <div class="column-2">
-      <p class="mt70 ml07r mr10r size-14 weight-300"><span class="bold">В</span> зависимости от рыночной конъюнктуры, веса финансовых инструментов в портфеле могут варьироваться. Так, доля валюты может составлять 80 - 90%, опционов - 0 - 10%, ETF - 5-15%.</p>
+      <div class="column-offset">
+        <p class="pt05r size-14 weight-300"><span class="bold">В</span> зависимости от рыночной конъюнктуры, веса финансовых инструментов в портфеле могут варьироваться. Так, доля валюты может составлять 80 - 90%, опционов - 0 - 10%, ETF - 5-15%.</p>
+      </div>
     </div>
   </div>
   <div class="clearfix"></div>
   <!--Text-->
   <!--Image-->
-  <div class="column-container mt20">
+  <div id="img-high-yielding-currency-portfolio-2" class="column-container mt05r">
     <div class="column">
-      <div class="img-high-yielding-currency-portfolio-2 h400 contain mt30 mb50" style="background-size: contain; background-repeat: no-repeat; background-position: center center;"></div>
+      <div class="img-high-yielding-currency-portfolio-2 h400 contain" style="background-size: contain; background-repeat: no-repeat; background-position: center center;"></div>
     </div>
     <div class="clearfix"></div>
   </div>
@@ -208,18 +214,22 @@
   <!--Text-->
   <div class="column-container size-14 line-h26">
     <div class="column-2">
-      <p class="mt20 ml07r mr10r size-14 weight-300"><span class="bold">В</span>алютный рынок открывает множество возможностей для извлечения прибыли. В ближайшие 3 - 5 лет произойдут изменения в монетарной политике крупнейших экономических центров мира: США, еврозоны, Великобритании и Китая.</p>
+      <div class="column-offset">
+        <p class="mt20 size-14 weight-300"><span class="bold">В</span>алютный рынок открывает множество возможностей для извлечения прибыли. В ближайшие 3 - 5 лет произойдут изменения в монетарной политике крупнейших экономических центров мира: США, еврозоны, Великобритании и Китая.</p>
+      </div>
     </div>
     <div class="column-2">
-      <p class="mt20 ml07r mr10r size-14 weight-300"><span class="bold">И</span>нвестиционную привлекательность представляет волатильность валют развивающихся экономик: Бразилии (реал), Индии (рупия) и ЮАР (ранд), которые будут колебаться на фоне внутренних и внешних факторов.</p>
+      <div class="column-offset">
+        <p class="mt20 size-14 weight-300"><span class="bold">И</span>нвестиционную привлекательность представляет волатильность валют развивающихся экономик: Бразилии (реал), Индии (рупия) и ЮАР (ранд), которые будут колебаться на фоне внутренних и внешних факторов.</p>
+      </div>
     </div>
   </div>
   <div class="clearfix"></div>
   <!--Text-->
   <div class="column-container">
-    <div class="column mt60 mb30 text-center">
+    <div class="column pb05r mt05r text-center">
       <div class="border-gray-bottom"></div>
-      <p class="mt60 size-12 color-teal uppercase line-h16 weight-300">В ЗАВИСИМОСТИ ОТ ПОСТАВЛЕННЫХ ЗАДАЧ, НАШИ СПЕЦИАЛИСТЫ ПОМОГУТ ВЫБРАТЬ НАИБОЛЕЕ ПОДХОДЯЩУЮ ДЛЯ ВАС СТРАТЕГИЮ</p>
+      <p class="mt05r size-12 color-teal uppercase line-h16 weight-300">В ЗАВИСИМОСТИ ОТ ПОСТАВЛЕННЫХ ЗАДАЧ, НАШИ СПЕЦИАЛИСТЫ ПОМОГУТ ВЫБРАТЬ НАИБОЛЕЕ ПОДХОДЯЩУЮ ДЛЯ ВАС СТРАТЕГИЮ</p>
       <a href="/connect.php" class="size-14 line-h60 weight-300">задать вопрос специалисту </a><span class="color-teal weight-300">&gt;</span>
     </div>
   </div>

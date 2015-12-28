@@ -27,7 +27,7 @@
             style="background-position: center top;">
         
       </div>
-      <div class="column-container">
+      <div id="headblock" class="column-container">
         <div class="column-2 content-margin text-center size-8 line-h24 uppercase">
           <div class="column-offset bg-white pt05r">
             <ul>
@@ -85,9 +85,9 @@
         </div>
       </div>
       <div class="column-2 content-margin">
-        <div class="column-offset bg-white text-center pt05r">
-          <h2 class="size-18 color-teal uppercase text-center line-h110">КОНТАКТЫ</h2>
-          <p class="size-11 line-h20 text-justify">
+        <div class="column-offset bg-white text-center pt05r pl05r pr05r">
+          <h2 class="size-18 color-teal uppercase text-center line-h50">КОНТАКТЫ</h2>
+          <p class="size-11 line-h20 mt30 text-justify">
             <span class="bold"> КОНТРОЛЬ КАЧЕСТВА </span> 
 			<span class="bold">  ФИЛИАЛЫ И ПРЕДСТАВИТЕЛЬСТВА </span><span class="color-teal size-12 weight-300"> QBF ||| investment</span> <span class="bold">РАСПОЛОЖЕНЫ В ГОРОДАХ РОССИИ: МОСКВА, САНКТ-ПЕТЕРБУРГ, БЕЛГОРОД, ЕКАТЕРИНБУРГ, А ТАКЖЕ НА ТЕРРИТОРИИ УКРАИНЫ - КИЕВ. </span>
           </p>
@@ -113,20 +113,20 @@
     <!-- /HEADBLOCK -->
   <div class="clearfix"></div>
   <!-- /CONTENT -->
-  <div id="gallery" class="column-container pt05r">
+  <div id="gallery" class="column-container">
     
-    <div class="column-2 mt50">
-      <div class="gallery-offset w85r line-h24 size-14 ml10r">
+    <div class="column-2 pt05r">
+      <div class="column-offset pl05r pr05r line-h24 size-14">
         
         <h4 class="size-14 line-h20">Воспользуйтесь формой обратной связи, чтобы задать интересующий Вас вопрос по инвестиционному бизнесу или свяжитесь с нашими специалистами в конкренном офисе по телефону или электронной почте. </h4>
-        <div class="text-center mt40 mb40"><img class="icon icon-contacts" src="/img/icons/icon-earth.svg"></div>
+        <div class="text-center mt10r mb10r"><img class="icon icon-contacts" src="/img/icons/icon-earth.svg"></div>
         <h4 class="size-14 line-h20">Воспользуйтесь формой обратной связи, чтобы задать интересующий Вас вопрос по инвестиционному бизнесу или свяжитесь с нашими специалистами в конкренном офисе по телефону или электронной почте. </h4>
       </div>
     </div>
     
     
-    <div class="column-2">
-      <div id="form-1" class="mr10r mt40">
+    <div class="column-2 pt05r">
+      <div class="column-offset pl05r pr05r line-h26 size-12">
         <div class="text-center mb20">
           <p>имя</p>
           <p><input id="Name2" class="form-item text-center" name="Name2" placeholder="Full Name" required="required" type="text"></p>

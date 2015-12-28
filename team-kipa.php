@@ -27,7 +27,7 @@
             style="background-position: right bottom;">
         
       </div>
-      <div class="column-container">
+      <div id="headblock" class="column-container">
         <div class="column-2 content-margin text-center size-8 line-h24 uppercase">
           <div class="column-offset bg-white pt05r">
             <ul>
@@ -144,86 +144,92 @@
     <!-- /HEADBLOCK -->
   <div class="clearfix"></div>
   <!--Text-->
-  <div class="column-container size-14 line-h20 pt05r">
+  <div class="column-container size-14 line-h20">
     <div class="column-2">
-      <p class="mt100 ml07r mr10r size-14 weight-300"><span class="bold">З</span>адача сохранения и приумножения капитала остается одной из самых важных для каждого из нас и, принимая решение о размещении средств, мы хотим быть уверены в правильности своего выбора.</p>
-      <p class="mt20 ml07r mr10r size-14 weight-300">Проанализировав российский рынок инвестиционных услуг, с полной уверенностью могу сказать, что начало работы с нашей компанией - правильный выбор для клиента. Почему? Вот несколько из основных причин:</p>
-      
-      <p class="mt50 ml10r mr10r size-12 color-teal uppercase line-h16 weight-300">ОПТИМАЛЬНЫЙ ПЕРЕЧЕНЬ УСЛУГ, АБСОЛЮТНО КАЖДЫЙ ЖЕЛАЮЩИЙ СМОЖЕТ ПОДОБРАТЬ ДЛЯ СЕБЯ ПОДХОДЯЩИЕ УСЛОВИЯ</p>
-      <p class="mt10 ml10r mr10r size-12 color-teal uppercase line-h16 weight-300">ВЫГОДНЫЙ КУРС ОБМЕНА ВАЛЮТЫ ПО ИНВЕСТИЦИОННЫМ ПОРТФЕЛЯМ ДЕЙСТВУЮЩИХ КЛИЕНТОВ</p>
-      <p class="mt10 ml10r mr10r size-12 color-teal uppercase line-h16 weight-300">НЕЗАВИСИМОСТЬ ОТ ПОЛИТИЧЕСКОЙ КОНЪЮНКТУРЫ</p>
-      <p class="mt10 ml10r mr10r size-12 color-teal uppercase line-h16 weight-300">ВОЗМОЖНОСТЬ РЕШЕНИЯ ИНДИВИДУАЛЬНЫХ ЗАДАЧ ДЛЯ КЛИЕНТА</p>
-      <p class="mt10 ml10r mr10r size-12 color-teal uppercase line-h16 weight-300">НАДЕЖНАЯ ЗАЩИТА КАПИТАЛА, ЗАКРЕПЛЕННАЯ В КЛИЕНТСКИХ ДОГОВОРАХ И ИМЕЮЩАЯ ПРОЗРАЧНОЕ ПРАВОВОЕ РЕГУЛИРОВАНИЕ</p>
-      <p class="mt10 ml10r mr10r size-12 color-teal uppercase line-h16 weight-300">ПОЛОЖИТЕЛЬНЫЙ ФИНАНСОВЫЙ РЕЗУЛЬТАТ ДЛЯ КЛИЕНТА ПО ИТОГУ ПЕРИОДА УПРАВЛЕНИЯ</p>
-      <p class="mt10 ml10r mr10r size-12 color-teal uppercase line-h16 weight-300">МАСШТАБНЫЕ ДОЛГОСРОЧНЫЕ ЦЕЛИ, КОТОРЫЕ СТАВИТ ПЕРЕД СОБОЙ РУКОВОДСТВО КОМПАНИИ</p>
+      <div class="column-offset pt05r">
+        <p class="size-14 weight-300"><span class="bold">З</span>адача сохранения и приумножения капитала остается одной из самых важных для каждого из нас и, принимая решение о размещении средств, мы хотим быть уверены в правильности своего выбора.</p>
+        <p class="mt20 size-14 weight-300">Проанализировав российский рынок инвестиционных услуг, с полной уверенностью могу сказать, что начало работы с нашей компанией - правильный выбор для клиента. Почему? Вот несколько из основных причин:</p>
+      </div>
+      <div class="column-offset pt05r pl05r pr05r">
+        <p class="size-12 color-teal uppercase line-h16 weight-300">ОПТИМАЛЬНЫЙ ПЕРЕЧЕНЬ УСЛУГ, АБСОЛЮТНО КАЖДЫЙ ЖЕЛАЮЩИЙ СМОЖЕТ ПОДОБРАТЬ ДЛЯ СЕБЯ ПОДХОДЯЩИЕ УСЛОВИЯ</p>
+        <p class="mt10 size-12 color-teal uppercase line-h16 weight-300">ВЫГОДНЫЙ КУРС ОБМЕНА ВАЛЮТЫ ПО ИНВЕСТИЦИОННЫМ ПОРТФЕЛЯМ ДЕЙСТВУЮЩИХ КЛИЕНТОВ</p>
+        <p class="mt10 size-12 color-teal uppercase line-h16 weight-300">НЕЗАВИСИМОСТЬ ОТ ПОЛИТИЧЕСКОЙ КОНЪЮНКТУРЫ</p>
+        <p class="mt10 size-12 color-teal uppercase line-h16 weight-300">ВОЗМОЖНОСТЬ РЕШЕНИЯ ИНДИВИДУАЛЬНЫХ ЗАДАЧ ДЛЯ КЛИЕНТА</p>
+        <p class="mt10 size-12 color-teal uppercase line-h16 weight-300">НАДЕЖНАЯ ЗАЩИТА КАПИТАЛА, ЗАКРЕПЛЕННАЯ В КЛИЕНТСКИХ ДОГОВОРАХ И ИМЕЮЩАЯ ПРОЗРАЧНОЕ ПРАВОВОЕ РЕГУЛИРОВАНИЕ</p>
+        <p class="mt10 size-12 color-teal uppercase line-h16 weight-300">ПОЛОЖИТЕЛЬНЫЙ ФИНАНСОВЫЙ РЕЗУЛЬТАТ ДЛЯ КЛИЕНТА ПО ИТОГУ ПЕРИОДА УПРАВЛЕНИЯ</p>
+        <p class="mt10 size-12 color-teal uppercase line-h16 weight-300">МАСШТАБНЫЕ ДОЛГОСРОЧНЫЕ ЦЕЛИ, КОТОРЫЕ СТАВИТ ПЕРЕД СОБОЙ РУКОВОДСТВО КОМПАНИИ</p>
+      </div>
     </div>
     <div class="column-2">
-      <p class="mt100 ml07r mr10r size-14 weight-300">Тот, кто выбирает нас, не сомневается в том, что в его интересах действуют специалисты, заинтересованные в положительном результате для клиента. Мы не стремимся предлагать массовый продукт, ведь у каждого из нас финансовое планирование зависит в первую очередь от наших целей и потребностей.</p>
-      <p class="mt20 ml07r mr10r size-14 weight-300">Нам важны комфорт и уверенность клиентов в вопросе выбора направления (способа, стратегии) размещения средств, будь то консервативная, средневзвешенная либо высокодоходная стратегии в рамках услуг доверительного и консультационного управления, услуг по инвестициям в недвижимость, иных услуг компании.</p>
-      <p class="mt20 ml07r mr10r size-14 weight-300">Взаимодействие с нашими клиентами и работа сотрудников внутри коллектива компании основываются на искренних и справедливых взаимоотношениях. Мы знаем, что заинтересованность и профессионализм работают на положительный результат для наших клиентов, а, следовательно, и для нас.</p>
-      <p class="mt20 ml07r mr10r size-14 weight-300">Успех наших клиентов - наш успех. Вне зависимости от того, в чью пользу Вы в итоге сделаете выбор, дам один совет: выбирайте для себя тех, кто добивается результата. <span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span></p>
-      <p class="mt40 ml07r mr10r size-14 weight-300 line-h30 r text-right">С уважением,<br/>
-        <span class="bold">Дмитрий Кипа</span>, Руководитель аналитического отдела</p>
+      <div class="column-offset pt05r">
+        <p class="size-14 weight-300">Тот, кто выбирает нас, не сомневается в том, что в его интересах действуют специалисты, заинтересованные в положительном результате для клиента. Мы не стремимся предлагать массовый продукт, ведь у каждого из нас финансовое планирование зависит в первую очередь от наших целей и потребностей.</p>
+        <p class="mt20 size-14 weight-300">Нам важны комфорт и уверенность клиентов в вопросе выбора направления (способа, стратегии) размещения средств, будь то консервативная, средневзвешенная либо высокодоходная стратегии в рамках услуг доверительного и консультационного управления, услуг по инвестициям в недвижимость, иных услуг компании.</p>
+        <p class="mt20 size-14 weight-300">Взаимодействие с нашими клиентами и работа сотрудников внутри коллектива компании основываются на искренних и справедливых взаимоотношениях. Мы знаем, что заинтересованность и профессионализм работают на положительный результат для наших клиентов, а, следовательно, и для нас.</p>
+        <p class="mt20 size-14 weight-300">Успех наших клиентов - наш успех. Вне зависимости от того, в чью пользу Вы в итоге сделаете выбор, дам один совет: выбирайте для себя тех, кто добивается результата. <span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span></p>
+        <p class="mt40 size-14 weight-300 line-h30 r text-right">С уважением,<br/>
+          <span class="bold">Дмитрий Кипа</span>, Руководитель аналитического отдела</p>
+      </div>
+    </div>
+  </div>
+    <div class="clearfix"></div>
+    <div class="column-container">
+      <div class="column pt10r">
+        <h3 class="text-center size-12"><div class="w250 line-h40 auto bold bg-white">ПУБЛИКАЦИИ</div></h3>
+        <div class="title-line-teal"></div>
       </div>
     </div>
     <div class="clearfix"></div>
-    <!--Text-->
-    <!-- Publications -->
-    <div id="offices" class="CUSTOM-1 column-container">
-      <div class="column">
-        <div class="column-offset">
-          <div class="column-20r mt90" style="padding-top:2%;">
-            <div class="img-team-kipa-2 contain w120 h120 auto"></div>
-          </div>
-          <div class="column-30r mt90" style="padding-top:2%;">
+    <div id="offices" class="CUSTOM-1 column-container">  
+          <div class="column-20r pt05r">
             <div class="column-offset">
-              <div class="text-center weight-300 size-14 line-h40">
-                <a href="/expert-1.php" class="size-12 bold gray-hover">ШЕЛКОВЫЙ ДРАКОН</a>
-                <div class="w100r auto border-grey-bottom"></div>
+              <div class="img-team-kipa-2 contain w120 h120 auto"></div>
+            </div>
+          </div>
+          <div class="column-30r pt05r">
+            <div class="column-offset pl05r pr05r">
+              <div class="text-center weight-300 size-14 line-h20">
+                <a href="/expert-1.php" class="size-12 bold gray-hover">ШЕЛКОВЫЙ ДРАКОН</a>
+                <div class="w100r auto border-grey-bottom mt5 mb10"></div>
                 <h4 class="size-12"><span class="color-teal weight-300">17.04.2015</span> <span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span> архив</h4>
               </div>
               <div class="clearfix"></div>
             </div>
           </div>
-          <div class="column-50r mt90" style="padding-top:2%;">
-            <div class="column-offset">
-              <div class="size-14 line-h20 ml10r mr05r">
+          <div class="column-50r pt05r">
+            <div class="column-offset pl05r pr05r">
+              <div class="size-14 line-h20">
                 <a href="/expert-1.php" class="weight-300 gray-hover"><span class="bold">Д</span>митрий Кипа - о новейшей истории и планах Поднебесной империи, которые изменят расстановку сил во всем мире. Современный Китай - какой он? Чтобы приблизиться к пониманию этого вопроса, нужно посмотреть, с какой позиции был осуществлен старт... </a><span class="color-teal weight-300">&gt;</span>
               </div>
             </div>
           </div>
-        </div>
-      </div>
     </div>
     <div class="clearfix"></div>
-    <!-- Publications -->
-    <div id="offices" class="CUSTOM-1 column-container">
-      <div class="column">
-        <div class="column-offset">
-          <div class="column-20r mt90" style="padding-top:2%;">
-            <div class="img-team-kipa-3 contain w120 h120 auto"></div>
-          </div>
-          <div class="column-30r mt90" style="padding-top:2%;">
+    <div id="offices" class="CUSTOM-1 column-container">  
+          <div class="column-20r pt05r">
             <div class="column-offset">
-              <div class="text-center weight-300 size-14 line-h40">
+              <div class="img-team-kipa-3 contain w120 h120 auto"></div>
+            </div>
+          </div>
+          <div class="column-30r pt05r">
+            <div class="column-offset pl05r pr05r">
+              <div class="text-center weight-300 size-14 line-h20">
                 <a href="/expert-1.php" class="size-12 bold gray-hover">ЛИКВИДНАЯ НЕДВИЖИМОСТЬ</a>
-                <div class="w100r auto border-grey-bottom"></div>
+                <div class="w100r auto border-grey-bottom mt5 mb10"></div>
                 <h4 class="size-12"><span class="color-teal weight-300">07.09.2014</span> <span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span> архив</h4>
               </div>
               <div class="clearfix"></div>
             </div>
           </div>
-          <div class="column-50r mt90" style="padding-top:2%;">
-            <div class="column-offset">
-              <div class="size-14 line-h20 ml10r mr05r">
+          <div class="column-50r pt05r">
+            <div class="column-offset pl05r pr05r">
+              <div class="size-14 line-h20">
                 <a href="/expert-1.php" class="weight-300 gray-hover"><span class="bold">В</span> условиях геополитической нестабильности недвижимость становится одним из самых надежных способов сохранения капитала, уверены Николай Михайлов и Дмитрий Лепешкин. Поэтому они предлагают присмотреться к инвестиционным фондам недвижимости, которые могут приносить стабильный доход, опережающий темпы инфляции.... </a><span class="color-teal weight-300">&gt;</span>
               </div>
             </div>
           </div>
-        </div>
-      </div>
     </div>
-    <!-- Publications -->
+    <div class="clearfix"></div>
+
     <!-- FOOTER BLOCK -->
     <div class="clearfix"></div>
     <div class="w100r">
