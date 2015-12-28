@@ -886,3 +886,544 @@
 .img-team-kipa-3{
     background: url(/img/bg/team-kipa-3.png);
 }
+
+
+@media screen and (max-width: 1200px) {
+			/* company.html */
+			.img-company-1{
+				background: url(/img/bg/2400/company-1.jpg);
+			}
+
+			/* mission.html */
+			.img-mission-1{
+				background: url(/img/bg/2400/mission-1.jpg);
+			}
+
+			/* history.html */
+			.img-history-1{
+				background: url(/img/bg/2400/history-1.jpg);
+			}
+			.img-history-2{
+				background: url(/img/bg/2400/history-2.jpeg);
+			}
+
+			/* branch-office.html */
+			.img-branch-office-1{
+				background: url(/img/bg/2400/branch-office-1.jpeg);
+			}
+
+			/* documents.html */
+			.img-documents-1{
+				background: url(/img/bg/2400/documents-1.jpeg);
+			}
+
+			/* service.html */
+			.img-service-1{
+				background: url(/img/bg/2400/service-1.jpeg);
+			}
+
+			/* asset-management.html */
+			.img-asset-management-1{
+				background: url(/img/bg/2400/asset-management-1.jpeg);
+			}
+			.img-asset-management-2{
+				background: url(/img/bg/2400/asset-management-2.jpeg);
+			}
+
+			/* consulting-management.html */
+			.img-consulting-management-2{
+				background: url(/img/bg/2400/consulting-management-2.jpeg);
+			}
+
+			/* analytics.html */
+			.img-analytics-1{
+				background: url(/img/bg/2400/analytics-1.jpeg);
+			}
+
+			/* vacancies.html */
+			.img-vacancies-2{
+				background: url(/img/bg/2400/vacancies-2.jpeg);
+			}
+
+
+			/* banking-information.html */
+			.img-banking-information-1{
+				background: url(/img/bg/2400/banking-information-1.jpeg);
+			}
+
+			/* calculation.html */
+			.img-calculation-1{
+				background: url(/img/bg/2400/calculation-1.jpeg);
+			}
+
+			/* notification.html */
+			.img-notification-1{
+				background: url(/img/bg/2400/notification-1.jpeg);
+			}
+
+			/* privacy-policy.html */
+			.img-privacy-policy-1{
+				background: url(/img/bg/2400/privacy-policy-1.jpeg);
+			}
+
+			/* high-yield-strategy.html */
+			.img-high-yield-strategy-3{
+				background: url(/img/bg/2400/high-yield-strategy-3.jpeg);
+			}
+
+			/* weighted-average-strategy.html */
+			.img-weighted-average-strategy-2{
+				background: url(/img/bg/2400/weighted-average-strategy-2.jpeg);
+			}
+
+			/* conservative-strategy.html */
+			.img-conservative-strategy-2{
+				background: url(/img/bg/2400/conservative-strategy-2.jpeg);
+			}
+
+			/* strategy-for-the-protection-of-ruble-assets.html */
+			.img-strategy-protection-2{
+				background: url(/img/bg/2400/strategy-protection-2.jpeg);
+			}
+
+			/* ipo-portfolio.html */
+			.img-ipo-portfolio-2{
+				background: url(/img/bg/2400/ipo-portfolio-2.jpeg);
+			}
+
+
+			/* deposit-weighted-average-portfolio.html */
+			.img-deposit-weighted-average-portfolio-2{
+				background: url(/img/bg/2400/deposit-weighted-average-portfolio-2.jpeg);
+			}
+
+			/* index-portfolio.html */
+			.img-index-portfolio-2{
+				background: url(/img/bg/2400/index-portfolio-2.jpeg);
+			}
+
+			/* conservative-portfolio.html */
+			.img-conservative-portfolio-2{
+				background: url(/img/bg/2400/conservative-portfolio-2.jpeg);
+			}
+
+}
+@media screen and (max-width: 768px) {
+			/* index.html */
+			.img-index-1{
+				background: url(/img/bg/1536/index-1.jpeg);
+			}
+
+			/* company.html */
+			.img-company-1{
+				background: url(/img/bg/1536/company-1.jpg);
+			}
+
+			/* about.html */
+			.img-about-1{
+				background: url(/img/bg/1536/about-1.jpeg);
+			}
+
+			/* mission.html */
+			.img-mission-1{
+				background: url(/img/bg/1536/mission-1.jpg);
+			}
+			.img-mission-3{
+				background: url(/img/bg/1536/mission-3.jpeg);
+			}
+
+			/* history.html */
+			.img-history-1{
+				background: url(/img/bg/1536/history-1.jpg);
+			}
+			.img-history-2{
+				background: url(/img/bg/1536/history-2.jpeg);
+			}
+
+			/* team.html */
+			.img-team-1{
+				background: url(/img/bg/1536/team-1.jpg);
+			}
+
+			/* clients-and-partners.html */
+			.img-clients-1{
+				background: url(/img/bg/1536/clients-1.jpeg);
+			}
+			.img-clients-2{
+				background: url(/img/bg/1536/clients-2.jpeg);
+			}
+
+			/* awards-and-ratings.html */
+			.img-awards-1{
+				background: url(/img/bg/1536/awards-1.jpg);
+			}
+
+			/* branch-office.html */
+			.img-branch-office-1{
+				background: url(/img/bg/1536/branch-office-1.jpeg);
+			}
+
+			/* documents.html */
+			.img-documents-1{
+				background: url(/img/bg/1536/documents-1.jpeg);
+			}
+
+			/* service.html */
+			.img-service-1{
+				background: url(/img/bg/1536/service-1.jpeg);
+			}
+			.img-service-2{
+				background: url(/img/bg/1536/service-2.jpg);
+			}
+			.img-service-3{
+				background: url(/img/bg/1536/service-3.jpg);
+			}
+			.img-service-4{
+				background: url(/img/bg/1536/service-4.jpeg);
+			}
+
+			/* asset-management.html */
+			.img-asset-management-1{
+				background: url(/img/bg/1536/asset-management-1.jpeg);
+			}
+			.img-asset-management-2{
+				background: url(/img/bg/1536/asset-management-2.jpeg);
+			}
+
+			/* consulting-management.html */
+			.img-consulting-management-1{
+				background: url(/img/bg/1536/consulting-management-1.jpeg);
+			}
+			.img-consulting-management-2{
+				background: url(/img/bg/1536/consulting-management-2.jpeg);
+			}
+			.img-consulting-management-3{
+				background: url(/img/bg/1536/consulting-management-3.jpeg);
+			}
+
+			/* real-estate.html */
+			.img-real-estate-1{
+				background: url(/img/bg/1536/real-estate-1.jpeg);
+			}
+
+			/* analytics.html */
+			.img-analytics-1{
+				background: url(/img/bg/1536/analytics-1.jpeg);
+			}
+			.img-analytics-2{
+				background: url(/img/bg/1536/analytics-2.jpeg);
+			}
+			.img-analytics-3{
+				background: url(/img/bg/1536/analytics-3.jpeg);
+			}
+			.img-analytics-4{
+				background: url(/img/bg/1536/analytics-4.jpeg);
+			}
+			.img-analytics-5{
+				background: url(/img/bg/1536/analytics-5.jpeg);
+			}
+
+			/* markets.html */
+			.img-markets-1{
+				background: url(/img/bg/1536/markets-1.jpeg);
+			}
+
+			/* shares.html */
+			.img-shares-1{
+				background: url(/img/bg/1536/shares-1.jpeg);
+			}
+
+			/* reviews.html */
+			.img-reviews-1{
+				background: url(/img/bg/1536/reviews-1.jpeg);
+			}
+
+			/* expert.html */
+			.img-expert-1{
+				background: url(/img/bg/1536/expert-1.jpeg);
+			}
+
+			/* archive-analytics.html */
+			.img-archive-analytics-1{
+				background: url(/img/bg/1536/archive-analytics-1.jpeg);
+			}
+
+			/* news.html */
+			.img-news-1{
+				background: url(/img/bg/1536/news-1.jpeg);
+			}
+
+			/* events.html */
+			.img-events-1{
+				background: url(/img/bg/1536/events-1.jpeg);
+			}
+
+			/* laws.html */
+			.img-laws-1{
+				background: url(/img/bg/1536/laws-1.jpeg);
+			}
+
+			/* press-about-us.html */
+			.img-press-1{
+				background: url(/img/bg/1536/press-1.jpeg);
+			}
+
+			/* press-company.html */
+			.img-press-company-1{
+				background: url(/img/bg/1536/press-company-1.jpeg);
+			}
+
+			/* archive-news.html */
+			.img-archive-news-1{
+				background: url(/img/bg/1536/archive-news-1.jpeg);
+			}
+
+			/* career.html */
+			.img-career-1{
+				background: url(/img/bg/1536/career-1.jpeg);
+			}
+
+			/* culture.html */
+			.img-culture-1{
+				background: url(/img/bg/1536/culture-1.jpeg);
+			}
+
+			/* colleague.html */
+			.img-colleague-1{
+				background: url(/img/bg/1536/colleague-1.jpeg);
+			}
+
+			/* departments.html */
+			.img-departments-1{
+				background: url(/img/bg/1536/departments-1.jpeg);
+			}
+
+			/* vacancies.html */
+			.img-vacancies-1{
+				background: url(/img/bg/1536/vacancies-1.jpeg);
+			}
+			.img-vacancies-2{
+				background: url(/img/bg/1536/vacancies-2.jpeg);
+			}
+
+			/* connect.html */
+			.img-connect-1{
+				background: url(/img/bg/1536/connect-1.jpeg);
+			}
+
+			/* offices.html */
+			.img-offices-1{
+				background: url(/img/bg/1536/offices-1.jpeg);
+			}
+
+			/* quality-control.html */
+			.img-quality-control-1{
+				background: url(/img/bg/1536/quality-control-1.jpeg);
+			}
+
+			/* reviews-1-1.html */
+			.img-reviews-1-1{
+				background: url(/img/bg/1536/reviews-1-1.jpeg);
+			}
+			.img-reviews-1-2{
+				background: url(/img/bg/1536/reviews-1-2.jpg);
+			}
+			.img-reviews-1-3{
+				background: url(/img/bg/1536/reviews-1-3.jpg);
+			}
+			.img-reviews-1-4{
+				background: url(/img/bg/1536/reviews-1-4.jpg);
+			}
+
+			/* archive-markets.html */
+			.img-archive-markets{
+				background: url(/img/bg/1536/archive-markets.jpeg);
+			}
+
+			/* events-1.html */
+			.img-events-1-1{
+				background: url(/img/bg/1536/events-1-1.jpeg);
+			}
+
+			/* banking-information.html */
+			.img-banking-information-1{
+				background: url(/img/bg/1536/banking-information-1.jpeg);
+			}
+			.img-banking-information-2{
+				background: url(/img/bg/1536/banking-information-2.jpeg);
+			}
+
+			/* calculation.html */
+			.img-calculation-1{
+				background: url(/img/bg/1536/calculation-1.jpeg);
+			}
+
+			/* notification.html */
+			.img-notification-1{
+				background: url(/img/bg/1536/notification-1.jpeg);
+			}
+			.img-notification-2{
+				background: url(/img/bg/1536/notification-2.jpeg);
+			}
+
+			/* privacy-policy.html */
+			.img-privacy-policy-1{
+				background: url(/img/bg/1536/privacy-policy-1.jpeg);
+			}
+
+			/* high-yield-strategy.html */
+			.img-high-yield-strategy-1{
+				background: url(/img/bg/1536/high-yield-strategy-1.jpeg);
+			}
+			.img-high-yield-strategy-2{
+				background: url(/img/bg/1536/high-yield-strategy-2.jpeg);
+			}
+			.img-high-yield-strategy-3{
+				background: url(/img/bg/1536/high-yield-strategy-3.jpeg);
+			}
+
+			/* weighted-average-strategy.html */
+			.img-weighted-average-strategy-1{
+				background: url(/img/bg/1536/weighted-average-strategy-1.jpeg);
+			}
+			.img-weighted-average-strategy-2{
+				background: url(/img/bg/1536/weighted-average-strategy-2.jpeg);
+			}
+
+			/* conservative-strategy.html */
+			.img-conservative-strategy-1{
+				background: url(/img/bg/1536/conservative-strategy-1.jpeg);
+			}
+			.img-conservative-strategy-2{
+				background: url(/img/bg/1536/conservative-strategy-2.jpeg);
+			}
+
+			/* strategy-for-the-protection-of-ruble-assets.html */
+			.img-strategy-protection-1{
+				background: url(/img/bg/1536/strategy-protection-1.jpeg);
+			}
+			.img-strategy-protection-2{
+				background: url(/img/bg/1536/strategy-protection-2.jpeg);
+			}
+
+			/* ipo-portfolio.html */
+			.img-ipo-portfolio-1{
+				background: url(/img/bg/1536/ipo-portfolio-1.jpeg);
+			}
+			.img-ipo-portfolio-2{
+				background: url(/img/bg/1536/ipo-portfolio-2.jpeg);
+			}
+
+			/* high-yielding-portfolio.html */
+			.img-high-yielding-portfolio-1{
+				background: url(/img/bg/1536/high-yielding-portfolio-1.jpeg);
+			}
+
+			/* high-yielding-currency-portfolio.html */
+			.img-high-yielding-currency-portfolio-1{
+				background: url(/img/bg/1536/high-yielding-currency-portfolio-1.jpeg);
+			}
+
+			/* deposit-weighted-average-portfolio.html */
+			.img-deposit-weighted-average-portfolio-1{
+				background: url(/img/bg/1536/deposit-weighted-average-portfolio-1.jpeg);
+			}
+			.img-deposit-weighted-average-portfolio-2{
+				background: url(/img/bg/1536/deposit-weighted-average-portfolio-2.jpeg);
+			}
+
+			/* hedging-the-risk-of-ruble.html */
+			.img-hedging-the-risk-of-ruble-1{
+				background: url(/img/bg/1536/hedging-the-risk-of-ruble-1.jpeg);
+			}
+
+			/* index-portfolio.html */
+			.img-index-portfolio-1{
+				background: url(/img/bg/1536/index-portfolio-1.jpeg);
+			}
+			.img-index-portfolio-2{
+				background: url(/img/bg/1536/index-portfolio-2.jpeg);
+			}
+
+
+			/* weighted-average-portfolio.html */
+			.img-weighted-average-portfolio-1{
+				background: url(/img/bg/1536/weighted-average-portfolio-1.jpeg);
+			}
+
+			/* weighted-currency-portfolio.html */
+			.img-weighted-currency-portfolio-1{
+				background: url(/img/bg/1536/weighted-currency-portfolio-1.jpeg);
+			}
+			
+			/* conservative-portfolio.html */
+			.img-conservative-portfolio-1{
+				background: url(/img/bg/1536/conservative-portfolio-1.jpeg);
+			}
+			.img-conservative-portfolio-2{
+				background: url(/img/bg/1536/conservative-portfolio-2.jpeg);
+			}
+
+			/* bond-option-portfolio.html */
+			.img-bond-option-portfolio-1{
+				background: url(/img/bg/1536/bond-option-portfolio-1.jpeg);
+			}
+
+			/* bond-repo-portfolio.html */
+			.img-bond-repo-portfolio-1{
+				background: url(/img/bg/1536/bond-repo-portfolio-1.jpeg);
+			}
+
+			/* structured-bond-portfolio.html */
+			.img-structured-bond-portfolio-1{
+				background: url(/img/bg/1536/structured-bond-portfolio-1.jpeg);
+			}
+
+			/* team-frolov.html */
+			.img-team-frolov-1{
+				background: url(/img/bg/1536/team-frolov-1.jpeg);
+			}
+
+			/* team-shpakov.html */
+			.img-team-shpakov-1{
+				background: url(/img/bg/1536/team-shpakov-1.jpeg);
+			}
+
+			/* team-pahomov.html */
+			.img-team-pahomov-1{
+				background: url(/img/bg/1536/team-pahomov-1.jpeg);
+			}
+
+			/* team-munaev.html */
+			.img-team-munaev-1{
+				background: url(/img/bg/1536/team-munaev-1.jpeg);
+			}
+
+			/* team-gorsheneva.html */
+			.img-team-gorsheneva-1{
+				background: url(/img/bg/1536/team-gorsheneva-1.jpeg);
+			}
+
+			/* team-michailov.html */
+			.img-team-michailov-1{
+				background: url(/img/bg/1536/team-michailov-1.jpeg);
+			}
+
+			/* team-selivanov.html */
+			.img-team-selivanov-1{
+				background: url(/img/bg/1536/team-selivanov-1.jpeg);
+			}
+
+			/* team-kipa.html */
+			.img-team-kipa-1{
+				background: url(/img/bg/1536/team-kipa-1.jpeg);
+			}
+}
+@media screen and (max-width: 480px) {
+    .img-example-1{
+        background: url(/img/bg/1536/img-example-1.jpeg);
+    }
+}
+@media screen and (max-width: 375px) {
+
+}
