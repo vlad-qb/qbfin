@@ -128,7 +128,7 @@
   <!--Text-->
   <div class="column-container pt05r">
     <div class="column">
-      <h3 class="text-center size-12 color-white"><div class="w320 line-h40 auto bg-gray2">ИНВЕСТИЦИОННАЯ АКТУАЛЬНОСТЬ СТРАТЕГИИ</div></h3>
+      <h3 class="text-center size-12 color-white"><div class="w288 line-h40 auto bg-gray2">ИНВЕСТИЦИОННАЯ АКТУАЛЬНОСТЬ СТРАТЕГИИ</div></h3>
       <div class="column-offset">
        <div class="title-line-grey"></div>
       </div>
@@ -233,7 +233,7 @@
           <div class="ml05r mr05r pt05r">
             <img src="img/icons/icon-reit-sentence.svg" class="icon icon-services w90 h90">
             <div class="mt10 border-gray-top border-gray-bottom lightgray-block-hover">
-              <div class="size-12 line-h18 pt05r ml25r mr25r"><a class="color-white white-hover" href="/deposit-weighted-average-portfolio.php">ДЕПОЗИТНЫЙ СРЕДНЕВЗВЕШЕННЫЙ ПОРТФЕЛЬ</a></div>
+              <div class="size-12 line-h18 mt20 mb20 ml25r mr25r"><a class="color-white white-hover" href="/deposit-weighted-average-portfolio.php">ДЕПОЗИТНЫЙ СРЕДНЕВЗВЕШЕННЫЙ ПОРТФЕЛЬ</a></div>
             </div>
           </div>
         </div>

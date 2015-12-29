@@ -145,7 +145,7 @@
   <div class="clearfix"></div>
   <div class="column-container pt05r">
     <div class="column-2">
-      <div class="gallery-offset w80r auto line-h24 size-14">
+      <div class="column-offset line-h24 size-14">
         <div class="text-center"><img class="icon icon-portfolio" src="/img/bg/archive-shares-7.gif"></div>
         <div class="title-line-teal2"></div>
         <p class="mt35">История компании началась в 2008 году. Тогда мы создавали компанию для работы с несколькими инвесторами. Закрытый офис для состоятельных клиентов, которые доверили нам свои средства для того, что бы этих средств становилось больше. </p>
@@ -158,7 +158,7 @@
       </div>
     </div>
     <div class="column-2">
-      <div class="gallery-offset w80r auto line-h24 size-14">
+      <div class="column-offset pt05r line-h24 size-14">
         <div class="text-center"><img class="icon icon-portfolio" src="/img/bg/archive-shares-6.gif"></div>
         <div class="title-line-teal2"></div>
         <p class="mt35">Уже через полтора года работы с инвесторами мы имели внушительные результаты по итогам управления капиталом и стали задумываться о развитии нашего бизнеса и услуги Доверительного управления. </p>
@@ -176,7 +176,7 @@
   <div class="clearfix"></div>
   <div class="column-container">
     <div class="column-2">
-      <div class="gallery-offset w80r auto mt90 line-h24 size-14">
+      <div class="column-offset pt05r line-h24 size-14">
         <div class="text-center"><img class="icon icon-portfolio" src="/img/bg/archive-shares-5.gif"></div>
         <div class="title-line-teal2"></div>
         <p class="mt35">В 2010 году мы окончательно решили, что наша идея создать закрытый офис по управлению капиталом не столь привлекательна с точки зрения тех активов, на которые можно ориентироваться, запустив массовую услугу. </p>
@@ -187,7 +187,7 @@
       </div>
     </div>
     <div class="column-2">
-      <div class="gallery-offset w80r auto mt90 line-h24 size-14">
+      <div class="column-offset pt05r line-h24 size-14">
         <div class="text-center"><img class="icon icon-portfolio" src="/img/bg/archive-shares-3.gif"></div>
         <div class="title-line-teal2"></div>
         <p class="mt35">С 2012 года наша филиальная сеть представлена в крупнейших городах России: Москва, Санкт-Петербург, Екатеринбург, а также на территории Украины - Киев и Казахстана - Алматы. Пока мы больше развиваемся в России, ведь нам очень хочется достичь совместно с государством планов по развитию финансовой грамотности населения.</p>
@@ -202,7 +202,7 @@
   <div class="clearfix"></div>
   <div class="column-container">
     <div class="column-2">
-      <div class="gallery-offset w80r auto mt90 line-h24 size-14">
+      <div class="column-offset pt05r line-h24 size-14">
         <div class="text-center"><img class="icon icon-portfolio" src="/img/bg/archive-shares-3.gif"></div>
         <div class="title-line-teal2"></div>
         <p class="mt35">Поставив во главу угла финансовый результат для нашего клиента, наша компания сконцентрировала свое внимание на очень доходных продуктах, которые бы позволили вместе с тем обеспечить сохранность капитала, волнующую граждан нашей страны и во всем мире. Ведь капитал, который мы все зарабатываем с огромными усилиями и энергией, безусловно, мы также все желаем всячески сохранить.</p>
@@ -213,7 +213,7 @@
       </div>
     </div>
     <div class="column-2">
-      <div class="gallery-offset w80r auto mt90 line-h24 size-14">
+      <div class="column-offset pt05r line-h24 size-14">
         <div class="text-center"><img class="icon icon-portfolio" src="/img/bg/archive-shares-2.gif"></div>
         <div class="title-line-teal2"></div>
         <p class="mt35">Уже в 2013 году мы задумались о том, как можно было бы расширить спектр своих услуг для крупных капиталов и инвесторов, которым еще не совем понятен инвестиционный продукт или они по каким-то причинам не лояльно относятся к финансовому рынку. </p>
@@ -225,7 +225,7 @@
   <div class="clearfix"></div>
   <div class="column-container">
     <div class="column-2">
-      <div class="gallery-offset w80r auto mt90 line-h24 size-14">
+      <div class="column-offset pt05r line-h24 size-14">
         <div class="text-center"><img class="icon icon-portfolio" src="/img/bg/archive-shares-1.gif"></div>
         <div class="title-line-teal2"></div>
         <p class="mt35">В 2014 году в нашей структуре появилась управляющая компания (УК), которая предлагает инвесторам стать владельцами паев закрытых фондов, чтобы с большей уверенностью относиться к инвестиционному процессу и понимать, за счет чего обеспечивается надежность.</p>
@@ -236,7 +236,7 @@
       </div>
     </div>
     <div class="column-2">
-      <div class="gallery-offset w80r auto mt60 line-h24 size-14">
+      <div class="column-offset pt05r line-h24 size-14">
         <div class="text-center"><img class="icon icon-portfolio" src="/img/bg/archive-shares.gif"></div>
         <div class="title-line-teal2"></div>
         <p class="mt35">Постепенно в нашей структуре мы начали развивать и девелоперское направление. Принципы остались неизменны - мы всегда ориентируемся на скорость реализации проекта (ликвидность), доходность, сохранность нашего капитала и капитала наших клиентов, достигаемую через прозрачность регулирования и отчетность.</p>

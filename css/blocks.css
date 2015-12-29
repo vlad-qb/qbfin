@@ -346,7 +346,9 @@
     padding-right: 2%;
     padding-top: 2%;
 }
-
+#headblock h2{line-height: 30px;padding-bottom: 5%;}
+    .shpakov-desktop{display: block;}
+    .shpakov-moblile{display: none;}
 @media screen and (min-width: 1200px) {
     .column-2.content-margin{
         margin-top:-35px;
@@ -395,6 +397,8 @@
     #documents .w33r{width:100%;}
     #news-list .pl05r{padding-left: 0;}
     #news-list .pr05r{padding-right: 0;}
+    .shpakov-desktop{display: none;}
+    .shpakov-moblile{display: block;}
 }
 
 @media screen and (max-width: 480px) {

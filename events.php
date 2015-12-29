@@ -106,8 +106,8 @@
       </div>
       <div class="column-2 content-margin">
         <div class="column-offset bg-white text-center pt05r">
-          <h2 class="size-18 color-teal uppercase text-center line-h110">СОБЫТИЯ</h2>
-          <p class="size-12 line-h20 text-center">
+          <h2 class="size-18 color-teal uppercase text-center line-h30">СОБЫТИЯ</h2>
+          <p class="size-12 line-h20 text-center pt05r">
             <span class="color-teal">15.06.2015</span> <span class="color-whitesmoke">•</span> <a href="/expert-1.html"><span class="bold gray-hover">ЛИКВИДНАЯ НЕДВИЖИМОСТЬ</span></a>
           </p>
           <p class="size-14 line-h20 text-justify mt05r">

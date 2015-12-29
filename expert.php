@@ -106,8 +106,8 @@
       </div>
       <div class="column-2 content-margin">
         <div class="column-offset bg-white text-center pt05r">
-          <h2 class="size-18 color-teal uppercase text-center line-h110">ЭКСПЕРТ</h2>
-		  <p class="text-center size-12"><span class="color-teal text-center">12.07.2015</span> <span class="color-whitesmoke">•</span> <a class="bold" href="/expert-1.php">СТРАТЕГИЯ В ПЕРИОД НЕОПРЕДЕЛЕННОСТИ</a></p><br/>
+          <h2 class="size-18 color-teal uppercase text-center line-h30">ЭКСПЕРТ</h2>
+		  <p class="text-center size-12 pt05r"><span class="color-teal text-center">12.07.2015</span> <span class="color-whitesmoke">•</span> <a class="bold" href="/expert-1.php">СТРАТЕГИЯ В ПЕРИОД НЕОПРЕДЕЛЕННОСТИ</a></p><br/>
         <p class="size-12 line-h20 ml40 mr40 text-justify">
 		  <a href="/expert-1.php"><span class="size-14 gray-hover text-left">В условиях геополитической нестабильности недвижимость становится одним из самых надежных способов сохранения капитала, уверены Николай Михайлов и Дмитрий Лепешкин... </span></a>
         </p>

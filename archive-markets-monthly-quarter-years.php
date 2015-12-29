@@ -132,7 +132,7 @@
   <!-- /HEADBLOCK -->
 <div class="clearfix"></div>
 <!-- CONTENT -->	
-<div class="column-container w87r pt05r">
+<div class="column-container pt05r">
     <div class="column">
         <div class="column-offset">
             <h3 class="text-center size-12 color-white"><div class="w288 h40 line-h40 auto bg-teal">РЫНКИ ЗА МЕСЯЦ</div></h3>

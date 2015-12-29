@@ -98,8 +98,8 @@
       </div>
       <div class="column-2 content-margin">
         <div class="column-offset bg-white text-center pt05r">
-          <h2 class="size-18 color-teal uppercase text-center line-h110">ВЫСОКОДОХОДНЫЙ ВАЛЮТНЫЙ ПОРТФЕЛЬ</h2>
-          <p class="size-11 line-h20 text-justify">
+          <h2 class="size-18 color-teal uppercase text-center line-h30">ВЫСОКОДОХОДНЫЙ ВАЛЮТНЫЙ ПОРТФЕЛЬ</h2>
+          <p class="size-11 line-h20 text-justify pt05r">
             <span class="bold">
             ОСНОВНАЯ ЗАДАЧА ПОРТФЕЛЯ - ПРИНЕСТИ ИНВЕСТОРУ МАКСИМУМ ДОХОДА ПРИ 50-ПРОЦЕНТНОЙ ЗАЩИТЕ КАПИТАЛА. ПОРТФЕЛЬ ОБЛАДАЕТ ЗНАЧИТЕЛЬНОЙ ВОЛАТИЛЬНОСТЬЮ И КОРРЕЛИРУЕТ С ДИНАМИКОЙ ВАЛЮТНОГО РЫНКА.</span>
           </p>

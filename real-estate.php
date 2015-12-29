@@ -148,7 +148,7 @@
     </div>
     <div class="column-2 pt05r">
       <div class="column-offset">
-        <div class="bg-lightgray2 size-12 line-h26">
+        <div class="bg-lightgray2 size-12 line-h22">
           <div class="l w120 h120 mr20 bg-dark-gray">
             <img src="img/icons/icon-reit-sentence.svg" class="icon icon-services w80 mt20 ml20">
           </div>
@@ -158,7 +158,7 @@
           </div>
           <div class="clearfix"></div>
         </div>
-        <div class="bg-lightgray2 size-12 line-h26 mt30">
+        <div class="bg-lightgray2 size-12 line-h22 mt30">
           <div class="l w120 h120 mr20 bg-dark-gray">
             <img src="img/icons/icon-reit-sentence.svg" class="icon icon-services w80 mt20 ml20">
           </div>
@@ -168,7 +168,7 @@
           </div>
           <div class="clearfix"></div>
         </div>
-        <div class="bg-lightgray2 size-12 line-h26 mt30">
+        <div class="bg-lightgray2 size-12 line-h22 mt30">
           <div class="l w120 h120 mr20 bg-dark-gray">
             <img src="img/icons/icon-reit-sentence.svg" class="icon icon-services w80 mt20 ml20">
           </div>

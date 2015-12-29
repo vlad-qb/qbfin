@@ -106,8 +106,8 @@
       </div>
       <div class="column-2 content-margin">
         <div class="column-offset bg-white text-center pt05r">
-          <h2 class="size-18 color-teal uppercase text-center line-h110">ЭКСПЕРТ</h2>
-		  <p class="size-11 line-h20 text-justify">
+          <h2 class="size-18 color-teal uppercase text-center line-h30">ЭКСПЕРТ</h2>
+		  <p class="size-11 line-h20 text-justify pt05r">
             <span class="color-teal weight-300">18.07.2014</span> <span class="color-whitesmoke">•</span> <span class="bold">СКОЛЬКО ДЕНЕГ ПРИДЕТСЯ НАПЕЧАТАТЬ ЕВРОПЕЙСКОМУ ЦБ, ЧТОБЫ ВОЗРОДИТЬ ЕВРОПЕЙСКУЮ ЭКОНОМИКУ</span>
           </p>
           <div class="w100r mt05r text-center">

@@ -180,7 +180,7 @@
     </div>
     <!-- /ALERT -->
     <div id="parallax-menu-" class="img-high-yield-strategy-2 w100r mt05r cover bg-center fixed" style="background-attachment: fixed;">
-      <div class="label w90r auto bg bg-label text-center uppercase pb05r">
+      <div class="label w90r auto bg bg-label text-center uppercase">
         <h3 class="size-12 color-white pt30">ВСЕ СТРАТЕГИИ ДОВЕРИТЕЛЬНОГО УПРАВЛЕНИЯ</h3>
         <div class="column-4">
           <div class="ml05r mr05r mt30">

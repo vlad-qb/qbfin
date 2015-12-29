@@ -175,26 +175,26 @@
       <div id="form-1" class="mr10r mt50">
         <div class="text-center mb20">
           <p>имя</p>
-          <p><input id="Name2" class="form-item" name="Name2" placeholder="Full Name" required="required" type="text"></p>
+          <p><input id="Name2" class="form-item" name="Name2" placeholder="Full Name" required="required" type="text" style="border-radius:0;"></p>
         </div>
         <div class="text-center mb20">
           <p>mail</p>
-          <p><input id="Email2" class="form-item" name="Email2" placeholder="address@domain.com" required="required" type="email"></p>
+          <p><input id="Email2" class="form-item" name="Email2" placeholder="address@domain.com" required="required" type="email" style="border-radius:0;"></p>
         </div>
         <div class="text-center mb20">
           <p>телефон</p>
-          <p><input id="Telephone2" class="form-item" name="Telephone2" placeholder="01234 567890" required="required" type="tel"></p>
+          <p><input id="Telephone2" class="form-item" name="Telephone2" placeholder="01234 567890" required="required" type="tel" style="border-radius:0;"></p>
         </div>
         <div class="text-center mb20">
           <p>тема сообщения</p>
-          <p><input id="Subject2" class="form-item" name="Subject2" placeholder="Email subject" required="required" type="text"></p>
+          <p><input id="Subject2" class="form-item" name="Subject2" placeholder="Email subject" required="required" type="text" style="border-radius:0;"></p>
         </div>
         <div class="text-center mb15">
           <p>сообщение</p>
-          <p><textarea id="Message2" class="form-item" rows="9" name="Message2" placeholder="Please enter your message!" required="required"></textarea></p>
+          <p><textarea id="Message2" class="form-item" rows="9" name="Message2" placeholder="Please enter your message!" required="required" style="border-radius:0;"></textarea></p>
         </div>
         <div class="text-center">
-          <p><input id="Send2" class="form-item" value="отправить" type="submit"></p>
+          <p><input id="Send2" class="form-item" value="отправить" type="submit" style="border-radius:0;"></p>
         </div>
         
       </div>

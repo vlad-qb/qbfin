@@ -131,7 +131,7 @@
   <!-- /departments -->
   <div class="column-container">
     <div class="column pt05r">
-        <h3 class="mt30 text-center size-12 color-white"><div class="w320 line-h40 auto bg-teal">ДЕПАРТАМЕНТ ИНВЕСТИЦИОННЫХ УСЛУГ</div></h3>
+        <h3 class="mt30 text-center size-12 color-white"><div class="w288 line-h40 auto bg-teal">ДЕПАРТАМЕНТ ИНВЕСТИЦИОННЫХ УСЛУГ</div></h3>
         <div class="column-offset">
         <div class="title-line-teal"></div>
         <h3 class="text-center size-12 line-h26 pt05r bold color-teal">ФИНАНСОВЫЙ СОВЕТНИК</h3>
@@ -163,7 +163,7 @@
 
   <div class="column-container">
     <div class="column pt05r">
-        <h3 class="mt30 text-center size-12 color-white"><div class="w320 line-h40 auto bg-teal">ДЕПАРТАМЕНТ МЕЖДУНАРОДНОГО ТРЕЙДИНГА</div></h3>
+        <h3 class="mt30 text-center size-12 color-white"><div class="w288 line-h40 auto bg-teal">ДЕПАРТАМЕНТ МЕЖДУНАРОДНОГО ТРЕЙДИНГА</div></h3>
         <div class="column-offset">
         <div class="title-line-teal"></div>
         <h3 class="text-center size-12 line-h26 pt05r bold color-teal">PORTFOLIO MANAGER</h3>
@@ -228,7 +228,7 @@
 
   <div class="column-container">
     <div class="column pt05r">
-        <h3 class="mt30 text-center size-12 color-white"><div class="w320 line-h40 auto bg-teal">ДЕПАРТАМЕНТ АЛГОРИТМИЧЕСКОГО ТРЕЙДИНГА</div></h3>
+        <h3 class="mt30 text-center size-12 color-white"><div class="w288 line-h40 auto bg-teal">ДЕПАРТАМЕНТ АЛГОРИТМИЧЕСКОГО ТРЕЙДИНГА</div></h3>
         <div class="column-offset">
         <div class="title-line-teal"></div>
         <h3 class="text-center size-12 line-h26 pt05r bold color-teal">РАЗРАБОТЧИК В ОТДЕЛ АЛГОРИТМИЧЕСКОГО ТРЕЙДИНГА</h3>

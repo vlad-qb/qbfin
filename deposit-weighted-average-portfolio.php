@@ -98,13 +98,14 @@
       </div>
       <div class="column-2 content-margin">
         <div class="column-offset pl05r pr05r bg-white text-center pt05r">
-          <h2 class="size-18 color-teal uppercase text-center line-h110">ДЕПОЗИТНЫЙ СРЕДНЕВЗВЕШЕННЫЙ ПОРТФЕЛЬ</h2>
-          <p class="size-11 line-h20 text-justify">
-            <span class="bold">
+          <h2 class="size-18 color-teal uppercase text-center line-h30">ДЕПОЗИТНЫЙ СРЕДНЕВЗВЕШЕННЫЙ ПОРТФЕЛЬ</h2>
+          <p class="size-11 line-h20 pt05r text-justify bold">
+
               С НАЧАЛА ЯНВАРЯ 2014 ГОДА ДО КОНЦА ОКТЯБРЯ 2014 ГОДА КУРС РУБЛЯ ПО ОТНОШЕНИЮ К ДОЛЛАРУ ОСЛАБ БОЛЕЕ ЧЕМ НА 20% И ДОСТИГ 43 РУБЛЕЙ ЗА 1 ДОЛЛАР США. ОДНАКО ДАЛЬНЕЙШЕЕ УКРЕПЛЕНИЕ ДОЛЛАРА ВЫЗЫВАЕТ У АНАЛИТИКОВ ОПРЕДЕЛЕННЫЕ СОМНЕНИЯ.
-              <br/><br/>
+          </p>
+          <p class="size-11 line-h20 pt05r text-justify bold">
               В ЭТОЙ СВЯЗИ ИНВЕСТИЦИИ В ДОЛЛАРОВЫЕ АКТИВЫ (ВАЛЮТА, АКЦИИ, ОБЛИГАЦИИ И ETF) ПОСРЕДСТВОМ ОБМЕНА РУБЛЕЙ НА ДОЛЛАРЫ МОГУТ ОКАЗАТЬСЯ РИСКОВАННЫМИ ИЗ-ЗА ВОЗМОЖНОСТИ СТАБИЛИЗАЦИИ РУБЛЯ ПО ОТНОШЕНИЮ К АМЕРИКАНСКОМУ ДОЛЛАРУ.
-            </span>
+
           </p>
           <div class="w100r mt05r text-center">
             <ul class="social-offset auto">
