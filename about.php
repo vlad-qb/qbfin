@@ -149,15 +149,17 @@
         <div class="column-2 pt05r">
           <div class="column-offset">
             <div class="img-about-2 w100r h200 cover bg-center">
-              <div class="avatar l img-about-6 contain w100 h100"></div>
+              <div class="avatar img-about-6 contain w100 h100"></div>
             </div>
             <div class="w100r">
               <div class="mt15">
-                <div class="ml175">
-                  <div class="w100r pb02r border-grey-bottom">
-                    <p class="size-12 line-h16 color-gray">
+                <div class="ml120">
+                  <div class="w100r">
+                    <div class="border-grey-bottom h32">
+                    <p class="size-12 line-h16 color-gray pb01r ml05r">
                       Роман Шпаков - председатель совета директоров
                     </p>
+                    </div>
                   </div>
                 </div>
                 <div>
@@ -181,10 +183,14 @@
               <div class="avatar l img-about-7 contain w100 h100"></div>
             </div>
             <div class="w100r">
-              <div class="line-h24 mt15">
-                <div class="ml175">
-                  <div class="w100r pb02r size-12 color-gray line-h16 border-grey-bottom">
-                    Владимир Пахомов - директор филиальной сети
+              <div class="mt15">
+                <div class="ml120">
+                  <div class="w100r">
+                    <div class="border-grey-bottom h32">
+                      <p class="size-12 line-h16 color-gray pb01r ml05r">
+                      Владимир Пахомов - директор филиальной сети
+                      </p>
+                    </div>
                   </div>
                 </div>
                 <div class="line-h20 size-14">
@@ -204,11 +210,13 @@
             </div>
             <div class="w100r">
               <div class="mt15">
-                <div class="ml175">
-                  <div class="w100r pb02r border-grey-bottom">
-                    <p class="size-12 line-h16 color-gray">
-                      Александр Зайцев - директор по всему на свете
-                    </p>
+                <div class="ml120">
+                  <div class="w100r">
+                    <div class="border-grey-bottom h32">
+                      <p class="size-12 line-h16 color-gray pb01r ml05r">
+                        Александр Зайцев - директор по всему на свете
+                      </p>
+                    </div>
                   </div>
                 </div>
                 <div>
@@ -232,10 +240,14 @@
               <div class="avatar l img-about-9 contain w100 h100"></div>
             </div>
             <div class="w100r">
-              <div class="line-h24 mt15">
-                <div class="ml175">
-                  <div class="w100r pb02r size-12 color-gray line-h16 border-grey-bottom">
-                    Дмитрий Лепешкин - директор по инвестициям
+              <div class="mt15">
+                <div class="ml120">
+                  <div class="w100r">
+                    <div class="border-grey-bottom h32">
+                      <p class="size-12 line-h16 color-gray pb01r ml05r">
+                        Дмитрий Лепешкин - директор по инвестициям
+                      </p>
+                    </div>
                   </div>
                 </div>
                 <div class="line-h20 size-14">

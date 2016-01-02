@@ -63,6 +63,7 @@
 .h20{height:20px;}
 .h25{height:25px;}
 .h30{height:30px;}
+.h32{height:32px;}
 .h40{height:40px;}
 .h50{height:50px;}
 .h60{height:60px;}
@@ -199,6 +200,8 @@
 .mr120{margin-right:120px;}
 .ml140{margin-left:140px;}
 .mr140{margin-right:140px;}
+.ml150{margin-left:150px;}
+.mr150{margin-right:150px;}
 .ml160{margin-left:160px;}
 .mr160{margin-right:160px;}
 .ml175{margin-left:175px;}
@@ -279,6 +282,8 @@
 .pr05{padding-right: 5px;}
 .pl10{padding-left: 10px;}
 .pr10{padding-right: 10px;}
+.pl15{padding-left: 15px;}
+.pr15{padding-right: 15px;}
 .pl20{padding-left: 20px;}
 .pr20{padding-right: 20px;}
 .pl30{padding-left: 30px;}
