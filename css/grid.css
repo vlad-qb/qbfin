@@ -11,7 +11,7 @@
         width:100%;
     }
     .column .column-offset{
-        margin:0 2.5%;
+        margin:0 5%;
     }
     .column-2{
         float:left;
@@ -27,6 +27,14 @@
     .column-3 .column-offset{
         margin:0 7.5%;
     }
+    .column-3-1{
+        float:left;
+        width:33.333%;
+    }
+    .column-3-2{
+        float:left;
+        width:66.666%;
+    }
     .column-4{
         float:left;
         width:25%;
@@ -34,6 +42,7 @@
     .column-4 .column-offset{
         margin:0 5%;
     }
+    .mobile{display:none;}
 }
 @media screen and (max-width: 1200px) {
     .container-wide {
@@ -48,7 +57,7 @@
         width:100%;
     }
     .column .column-offset{
-        margin:0 2.5%;
+        margin:0 5%;
     }
     .column-2{
         float:left;
@@ -64,6 +73,14 @@
     .column-3 .column-offset{
         margin:0 7.5%;
     }
+    .column-3-1{
+        float:left;
+        width:40%;
+    }
+    .column-3-2{
+        float:left;
+        width:60%;
+    }
     .column-4{
         float:left;
         width:25%;
@@ -72,6 +89,7 @@
         margin:0 5%;
     }
     .no-tablet-h{display:none;}
+    .mobile{display:none;}
 }
 @media screen and (max-width: 768px) {
     .container-wide {
@@ -86,7 +104,7 @@
         width:100%;
     }
     .column .column-offset{
-        margin:0 2.5%;
+        margin:0 5%;
     }
     .column-2{
         float:left;
@@ -102,6 +120,14 @@
     .column-3 .column-offset{
         margin:0 2.5%;
     }
+    .column-3-1{
+        float:left;
+        width:100%;
+    }
+    .column-3-2{
+        float:left;
+        width:100%;
+    }
     .column-4{
         float:left;
         width:100%;
@@ -110,6 +136,7 @@
         margin:0 5%;
     }
     .no-tablet-v{display:none;}
+    .mobile{display:none;}
     #gallery .gallery-offset{
         width:95%;
         margin-left:2.5%;
@@ -133,7 +160,7 @@
         width:100%;
     }
     .column .column-offset{
-        margin:0 2.5%;
+        margin:0 5%;
     }
     .column-2{
         float:left;
@@ -157,6 +184,7 @@
         margin:0 2.5%;
     }
     .no-mobile{display:none;}
+    .mobile{display:block;}
     #gallery .gallery-offset{
         width:95%;
         margin-left:2.5%;
@@ -180,7 +208,7 @@
         width:100%;
     }
     .column .column-offset{
-        margin:0 2.5%;
+        margin:0 5%;
     }
     .column-2{
         float:left;
@@ -204,6 +232,7 @@
         margin:0 7.5%;
     }
     .no-mobile{display:none;}
+    .mobile{display:block;}
     #gallery .gallery-offset{
         width:95%;
         margin-left:2.5%;
@@ -223,8 +252,6 @@
     }
     #parallax-menu{height:240px;}
     #parallax-menu .label{height:240px;}
-	#parallax-menu2{height:300px;}
-    #parallax-menu2 .label{height:300px;}
 }
 @media screen and (max-width: 1200px) {
     .text-offset{
@@ -233,8 +260,6 @@
     }
     #parallax-menu{height:240px;}
     #parallax-menu .label{height:240px;}
-	#parallax-menu2{height:300px;}
-    #parallax-menu2 .label{height:300px;}
 }
 @media screen and (max-width: 768px) {
     .text-offset{
@@ -243,8 +268,6 @@
     }
     #parallax-menu{height:820px;}
     #parallax-menu .label{height:820px;}
-	#parallax-menu2{height:860px;}
-    #parallax-menu2 .label{height:860px;}
 }
 @media screen and (max-width: 480px) {
     .text-offset{
@@ -253,8 +276,6 @@
     }
     #parallax-menu{height:860px;}
     #parallax-menu .label{height:860px;}
-	#parallax-menu2{height:900px;}
-    #parallax-menu2 .label{height:900px;}
 }
 @media screen and (max-width: 375px) {
     .text-offset{
@@ -263,8 +284,6 @@
     }
     #parallax-menu{height:860px;}
     #parallax-menu .label{height:860px;}
-	#parallax-menu2{height:900px;}
-    #parallax-menu2 .label{height:900px;}
 }
 
 .CUSTOM-1 .column-20r{width:20%;float:left;}

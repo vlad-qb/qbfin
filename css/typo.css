@@ -18,6 +18,9 @@ body{
 .weight-100{font-weight: 100;}
 .weight-200{font-weight: 200;}
 .weight-300{font-weight: 300;}
+.weight-400{font-weight: 400;}
+.weight-500{font-weight: 500;}
+.weight-600{font-weight: 600;}
 .italic{font-style: italic;}
 .underline{text-decoration: underline;}
 .smallcaps{font-variant: small-caps;}
@@ -70,6 +73,7 @@ a.active{color:#008080;}
 .line-h24{line-height:24px;}
 .line-h22{line-height:22px;}
 .line-h26{line-height:26px;}
+.line-h28{line-height:28px;}
 .line-h30{line-height:30px;}
 .line-h32{line-height:32px;}
 .line-h36{line-height:36px;}

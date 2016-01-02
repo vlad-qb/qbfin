@@ -54,6 +54,7 @@
 .border-paleturquoise{
     border-bottom:1px solid #A7C5BD;
 }
+.border-left-teal{border-left: 1px solid #A7C5BD;}
 .border-white2{border:1px solid #fff;}
 .border-left-lightgray{border-left: 1px solid #EBECEB;}
 .border-right-lightgray{border-right: 1px solid #EBECEB;}
@@ -157,6 +158,15 @@
 }
 .lightgray-block-hover:hover{
     background-color: #CCC;
+    cursor:pointer;
+    -webkit-transition:all 0.4s ease-out;
+    -moz-transition:all 0.4s ease-out;
+    -o-transition:all 0.4s ease-out;
+    transition:all 0.4s ease-out
+}
+.lightgray-block-hover2:hover{
+    color:#333;
+    background-color: #e6e6e6;
     cursor:pointer;
     -webkit-transition:all 0.4s ease-out;
     -moz-transition:all 0.4s ease-out;

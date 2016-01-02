@@ -24,7 +24,7 @@
     <?php include 'html/header.html';?>
     <!-- HEADBLOCK -->
     <div id="cover" 
-          class="img-mission-1 cover w100r h480 mt-80" 
+          class="img-mission-1 cover w100r h400 mt-80" 
           style="background-position: center bottom;">
       
     </div>
@@ -64,7 +64,7 @@
             </li>
           </ul>
           <div class="clearfix"></div>
-          <div class="size-14 color-teal line-h70 mt10">
+          <div class="size-14 color-teal line-h50 mt10">
             <span class="weight-300"> +7 (495) 123 45 67 </span> 
             <span class="color-grey1 ml005r mr005r"> ~ </span> 
             <span class="weight-300"> INVEST@QBFIN.RU </span>
@@ -182,19 +182,19 @@
     </div>
   </div>
   <!-- /CONTENT -->
-  <!-- FOOTER BLOCK -->
-  <div class="clearfix"></div>
-  <div class="text-center pt03r">
-    <img src="img/icons/icon-lighthouse.svg" class="icon icon-main">
-  </div>
-  <div class="text-center pt01r">
-    <span class="size-12 line-h40 uppercase"> < </span>
-    <a href="/company.php" class="size-12 line-h40 uppercase">Компания</a>
-    <span class="color-teal size-10"> • </span>
-    <a href="/documents.php" class="size-12 line-h40 uppercase">Документы</a>
-    <span class="size-12 line-h40 uppercase"> > </span>
-  </div>
-  <!-- /FOOTER BLOCK -->
+<!-- FOOTER BLOCK -->
+<div class="clearfix"></div>
+<div class="text-center pt03r">
+  <img src="img/icons/icon-lighthouse.svg" class="icon icon-main">
+</div>
+<div class="text-center pt01r">
+  <span class="size-12 line-h40 uppercase"> < </span>
+  <a href="/company.php" class="size-12 line-h40 uppercase">Компания</a>
+  <span class="color-teal size-10"> • </span>
+  <a href="/documents.php" class="size-12 line-h40 uppercase">Документы</a>
+  <span class="size-12 line-h40 uppercase"> > </span>
+</div>
+<!-- /FOOTER BLOCK -->
   <div class="clearfix"></div>
   <?php include 'html/footer.html';?>
   <script src="/js/jquery.min.js"></script>

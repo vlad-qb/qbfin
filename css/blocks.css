@@ -43,6 +43,7 @@
 .w25r{width:25%;}
 .w28r{width:28%;}
 .w30r{width:30%;}
+.w33r{width:33.333%;}
 .w35r{width:35%;}
 .w50r{width:50%;}
 .w60r{width:60%;}
@@ -181,6 +182,8 @@
 .ml80{margin-left:80px;}
 .ml90{margin-left:90px;}
 .ml100{margin-left:100px;}
+.ml120{margin-left:120px;}
+.ml140{margin-left:140px;}
 
 .mr5{margin-right:5px;}
 .mr10{margin-right:10px;}
@@ -194,6 +197,8 @@
 .mr80{margin-right:80px;}
 .mr90{margin-right:90px;}
 .mr100{margin-right:100px;}
+.mr120{margin-right:120px;}
+.mr140{margin-right:140px;}
 
 .ml025r{margin-left:2.5%;}
 .mr025r{margin-right:2.5%;}
@@ -332,6 +337,8 @@
 .pr12r{padding-right: 12%;}
 .pl16r{padding-left:16%;}
 .pr16r{padding-right: 16%;}
+.pl20r{padding-left:20%;}
+.pr20r{padding-right: 20%;}
 
 .social-offset{width:60%;}
 .title-block-offset-2{
@@ -339,7 +346,9 @@
     padding-right: 2%;
     padding-top: 2%;
 }
-
+#headblock h2{line-height: 30px;padding-bottom: 5%;}
+    .shpakov-desktop{display: block;}
+    .shpakov-moblile{display: none;}
 @media screen and (min-width: 1200px) {
     .column-2.content-margin{
         margin-top:-35px;
@@ -359,6 +368,8 @@
         margin-top:0;
     }
     .social-offset{width:100%;}
+    #documents .w33r{width:50%;}
+    #team .w33r{width:50%;}
 }
 @media screen and (max-width: 768px) {
     .title-block-offset-2{
@@ -377,6 +388,17 @@
     .column-3.content-margin{
         margin-top:0;
     }
+    .text-alert.text-offset{
+        width:100%;
+    }
+    #consulting-management .w33r{width:100%;}
+    #departments .w33r{width:100%;}
+    #team .w33r{width:100%;}
+    #documents .w33r{width:100%;}
+    #news-list .pl05r{padding-left: 0;}
+    #news-list .pr05r{padding-right: 0;}
+    .shpakov-desktop{display: none;}
+    .shpakov-moblile{display: block;}
 }
 
 @media screen and (max-width: 480px) {
@@ -396,6 +418,41 @@
     .column-3.content-margin{
         margin-top:0;
     }
+    .text-alert.text-offset{
+        width:100%;
+    }
+    .text-alert.text-offset p{
+        margin-left: 0;
+    }
+    #headblock h2{line-height: 32px;padding-top: 10%;padding-bottom: 10%;}
+    #gallery .bg-label-2{width:60%;}
+    #bond-option-portfolio .w33r{width:100%;}
+    #deposit-weighted-average-portfolio .w33r{width:100%;}
+    #consulting-management .w33r{width:100%;}
+    #hedging-the-risk-of-ruble .w33r{width:100%;}
+    #high-yield-strategy .w33r{width:100%;}
+    #high-yielding-currency-portfolio .w33r{width:100%;}
+    #high-yielding-portfolio .w33r{width:100%;}
+    #index-portfolio .w33r{width:100%;}
+    #index-portfolio-2 .w33r{width:100%;}
+    #ipo-portfolio .w33r{width:100%;}
+    #structured-bond-portfolio .w33r{width:100%;}
+    #weighted-average-portfolio .w33r{width:100%;}
+    #weighted-average-strategy .w33r{width:100%;}
+    #weighted-currency-portfolio .w33r{width:100%;}
+    #bond-repo-portfolio .w33r{width:100%;}
+    #departments .w33r{width:100%;}
+    #graph-option-1 .h400{height:320px;}
+    #graph-deposit-1 .h400{height:250px;}
+    #img-hedging-the-risk-of-ruble-2 .h400{height:250px;}
+    #img-high-yielding-currency-portfolio-2 .h400{height:250px;}
+    #img-high-yielding-portfolio-2 .h400{height:250px;}
+    #img-weighted-average-portfolio-2 .h400{height:250px;}
+    #img-weighted-currency-portfolio-2 .h400{height:200px;}
+    #img-bond-repo-portfolio-2 .h450{height:250px;}
+    #img-ipo-portfolio-3 .h400{height:250px;}
+    #img-conservative-portfolio-3 {height:320px;}
+    .conservative-strategy.text-alert{width:100%;}
 }
 
 @media screen and (max-width: 375px) {
@@ -416,4 +473,8 @@
         margin-top:0;
     }
     #licenses img{width: 100%;}
+    #bond-option-portfolio .w33r{width:100%;}
+    #deposit-weighted-average-portfolio .w33r{width:100%;}
+    #consulting-management .w33r{width:100%;}
+    #departments .w33r{width:100%;}
 }

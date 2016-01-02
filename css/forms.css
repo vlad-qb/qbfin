@@ -1,3 +1,7 @@
+input {
+    -webkit-appearance: none;
+    border-radius: 0;
+}
 #form-1{
 	width: 80%;
     float: right;
