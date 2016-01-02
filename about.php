@@ -154,8 +154,8 @@
             <div class="w100r">
               <div class="mt15">
                 <div class="ml175">
-                  <div class="w90r pb10  border-grey-bottom">
-                    <p class="size-12 line-h24 color-gray">
+                  <div class="w100r pb02r border-grey-bottom">
+                    <p class="size-12 line-h16 color-gray">
                       Роман Шпаков - председатель совета директоров
                     </p>
                   </div>
@@ -183,7 +183,7 @@
             <div class="w100r">
               <div class="line-h24 mt15">
                 <div class="ml175">
-                  <div class="w90r pb10 size-12 color-gray line-h24 border-grey-bottom">
+                  <div class="w100r pb02r size-12 color-gray line-h16 border-grey-bottom">
                     Владимир Пахомов - директор филиальной сети
                   </div>
                 </div>
@@ -205,8 +205,8 @@
             <div class="w100r">
               <div class="mt15">
                 <div class="ml175">
-                  <div class="w90r pb10  border-grey-bottom">
-                    <p class="size-12 line-h24 color-gray">
+                  <div class="w100r pb02r border-grey-bottom">
+                    <p class="size-12 line-h16 color-gray">
                       Александр Зайцев - директор по всему на свете
                     </p>
                   </div>
@@ -234,7 +234,7 @@
             <div class="w100r">
               <div class="line-h24 mt15">
                 <div class="ml175">
-                  <div class="w90r pb10 size-12 color-gray line-h24 border-grey-bottom">
+                  <div class="w100r pb02r size-12 color-gray line-h16 border-grey-bottom">
                     Дмитрий Лепешкин - директор по инвестициям
                   </div>
                 </div>
