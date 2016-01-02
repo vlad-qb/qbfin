@@ -5,6 +5,10 @@
 	width: 100%;
 }
 #cover{background-size:cover;}
+#cover.h400{height: 480px;}
+@media screen and (max-width: 768px) {
+    #cover.h400{height: 400px;}
+}
 #gallery .cover{background-size:cover;}
 #gallery .bg-center{background-position: center center;}
 #about-us .bg-center{background-position: 0 center;}

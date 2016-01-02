@@ -133,6 +133,8 @@
 .mt130{margin-top:130px;}
 .mb130{margin-bottom:130px;}
 
+.mt01r{margin-top:1%;}
+.mb01r{margin-bottom:1%;}
 .mt02r{margin-top:2%;}
 .mb02r{margin-bottom:2%;}
 .mt04r{margin-top:4%;}
@@ -356,6 +358,7 @@
 #headblock h2{line-height: 30px;padding-bottom: 5%;}
     .shpakov-desktop{display: block;}
     .shpakov-moblile{display: none;}
+.portfolio-menu .button .h{height: 90px;}
 @media screen and (min-width: 1200px) {
     .column-2.content-margin{
         margin-top:-35px;
@@ -377,6 +380,17 @@
     .social-offset{width:100%;}
     #documents .w33r{width:50%;}
     #team .w33r{width:50%;}
+    .portfolio-menu .column-3 .button .h{height: 75px;}
+    .portfolio-menu .column-3 .button .h div{
+        margin-top: 25px;
+        margin-left: 0%;
+        margin-right: 0%;
+    }
+    .portfolio-menu .column-4 .button .h div{
+        margin-top: 25px;
+        margin-left: 0%;
+        margin-right: 0%;
+    }
 }
 @media screen and (max-width: 768px) {
     .title-block-offset-2{
@@ -406,6 +420,7 @@
     #news-list .pr05r{padding-right: 0;}
     .shpakov-desktop{display: none;}
     .shpakov-moblile{display: block;}
+    .portfolio-menu .column-4 .button .h{height: 75px;}
 }
 
 @media screen and (max-width: 480px) {
@@ -417,7 +432,13 @@
         margin-top:-35px;
     }
     .column-2.content-margin{
-        margin-top:0;
+         margin-top:-35px;
+    }
+    .column-2.content-margin:first-child .bg-white{
+        background-color: white;
+    }
+    .column-2.content-margin .bg-white{
+        background-color: transparent;
     }
     .column-3.content-margin:first-child{
         margin-top:-35px;
@@ -467,11 +488,20 @@
         padding-top: 6%;
         padding-bottom: 3%;
     }
+    .column-2.content-margin{
+        margin-top:0;
+    }
     .column-2.content-margin:first-child{
         margin-top:-35px;
     }
     .column-2.content-margin{
-        margin-top:0;
+        margin-top:-35px;
+    }
+    .column-2.content-margin:first-child .bg-white{
+        background-color: white;
+    }
+    .column-2.content-margin .bg-white{
+        background-color: transparent;
     }
     .column-3.content-margin:first-child{
         margin-top:-35px;

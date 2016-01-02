@@ -1,0 +1,18 @@
+#headblock .title{
+    color:#008080;
+    font-size:18px;
+    line-height: 32px;
+    text-align: center;
+    text-transform:uppercase;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+#headblock .description{
+    font-size:11px;
+    line-height: 20px;
+    text-align: justify;
+    font-family: 'HelveticaBold';
+    padding-top: 10px;
+    padding-left: 5%;
+    padding-right: 5%;
+}
