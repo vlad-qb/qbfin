@@ -27,9 +27,9 @@
       class="img-index-1 cover w100r h480 mt-80"
       style="background-position: center bottom;">
     </div>
-    <div class="column-container text-center">
+    <div id="headblock" class="column-container text-center">
       <div class="column-3 content-margin pb02r">
-        <div class="column-offset bg-white">
+        <div class="column-offset bg-white pt35">
           <h3 class="size-18 color-teal line-h50"> СТРАТЕГИИ </h3>
           <div class="auto line-black line-h70 mt10" style="width:180px;"></div>
           <h3>
@@ -109,6 +109,7 @@
     <!-- /HEADBLOCK -->
     <div class="clearfix"></div>
     <!-- CONTENT -->
+	<div id="content">
     <div class="column-container pt03r">
       <div class="column mt20 mb20 text-center">
         <div class="border-grey-top"></div>
@@ -170,8 +171,9 @@
       </div>
     </div>
     <div class="clearfix pt03r"></div>
+	 </div>
     <!-- /CONTENT -->
-    <!-- FOOTER BLOCK -->
+   <!-- FOOTER BLOCK -->
     <?php include 'html/footer2.html';?>
     <script src="/js/jquery.min.js"></script>
     <script src="/js/main.js"></script>

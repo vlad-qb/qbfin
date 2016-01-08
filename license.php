@@ -28,35 +28,35 @@
           style="background-position: center bottom;">
       
     </div>
-    <div class="column-container">
+    <div id="headblock" class="column-container">
       <div class="column-2 content-margin text-center size-8 line-h24 uppercase">
-        <div class="column-offset bg-white pt05r">
+        <div class="column-offset bg-white pt35">
           <ul>
-            <li class="w15r ml025r mr025r l auto">
+            <li class="w15r ml025r mr025r l auto lightgray-block-hover3">
               <a href="/events.php">
                 <img src="img/icons/icon-menu-processes.svg" class="icon icon-menu w100r"><br>
                 <span> события </span>
               </a>
             </li>
-            <li class="w15r ml025r mr025r l auto">
+            <li class="w15r ml025r mr025r l auto lightgray-block-hover3">
               <a href="#">
                 <img src="img/icons/icon-menu-call.svg" class="icon icon-menu w100r"><br>
                 <span> звонок </span>
               </a>
             </li>
-            <li class="w15r ml025r mr025r l auto">
+            <li class="w15r ml025r mr025r l auto lightgray-block-hover3">
               <a href="/service.php">
                 <img src="img/icons/icon-menu-services.svg" class="icon icon-menu w100r"><br>
                 <span> услуги </span>
               </a>
             </li>
-            <li class="w15r ml025r mr025r l auto">
+            <li class="w15r ml025r mr025r l auto lightgray-block-hover3">
               <a href="/branch-office.php">
                 <img src="img/icons/icon-menu-affiliates.svg" class="icon icon-menu w100r"><br>
                 <span> филиалы </span>
               </a>
             </li>
-            <li class="w15r ml025r mr025r l auto">
+            <li class="w15r ml025r mr025r l auto lightgray-block-hover3">
               <a href="#">
                 <img src="img/icons/icon-menu-mail.svg" class="icon icon-menu w100r"><br>
                 <span> почта </span>
@@ -155,9 +155,10 @@
       </div>
     </div>
   </div>
-  <!-- /HEADBLOCK -->
-  <div class="clearfix"></div>
+  <!-- /HEADBLOCK --> 
+  <div class="clearfix"></div> 
   <!-- CONTENT -->
+  <div id="content">
   <div id="licenses" class="column-container text-center pt07r">
     <div class="column-3 mt10">
       <div class="column-offset pt05r pb05r pr05r pl05r bg-lightgray">
@@ -180,6 +181,7 @@
         <h2 class="size-12 uppercase bold"> управление ценными бумагами </h2>
       </div>
     </div>
+  </div>
   </div>
   <!-- /CONTENT -->
 <!-- FOOTER BLOCK -->

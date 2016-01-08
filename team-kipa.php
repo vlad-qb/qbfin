@@ -29,33 +29,33 @@
       </div>
       <div id="headblock" class="column-container">
         <div class="column-2 content-margin text-center size-8 line-h24 uppercase">
-          <div class="column-offset bg-white pt05r">
+          <div class="column-offset bg-white pt35">
             <ul>
-              <li class="w15r ml025r mr025r l auto">
+              <li class="w15r ml025r mr025r l auto lightgray-block-hover3">
                 <a href="/events.php">
                   <img src="img/icons/icon-menu-processes.svg" class="icon icon-menu w100r"><br>
                   <span> события </span>
                 </a>
               </li>
-              <li class="w15r ml025r mr025r l auto">
+              <li class="w15r ml025r mr025r l auto lightgray-block-hover3">
                 <a href="#">
                   <img src="img/icons/icon-menu-call.svg" class="icon icon-menu w100r"><br>
                   <span> звонок </span>
                 </a>
               </li>
-              <li class="w15r ml025r mr025r l auto">
+              <li class="w15r ml025r mr025r l auto lightgray-block-hover3">
                 <a href="/service.php">
                   <img src="img/icons/icon-menu-services.svg" class="icon icon-menu w100r"><br>
                   <span> услуги </span>
                 </a>
               </li>
-              <li class="w15r ml025r mr025r l auto">
+              <li class="w15r ml025r mr025r l auto lightgray-block-hover3">
                 <a href="/branch-office.php">
                   <img src="img/icons/icon-menu-affiliates.svg" class="icon icon-menu w100r"><br>
                   <span> филиалы </span>
                 </a>
               </li>
-              <li class="w15r ml025r mr025r l auto">
+              <li class="w15r ml025r mr025r l auto lightgray-block-hover3">
                 <a href="#">
                   <img src="img/icons/icon-menu-mail.svg" class="icon icon-menu w100r"><br>
                   <span> почта </span>
@@ -141,9 +141,10 @@
         </div>
       </div>
     </div>
-    <!-- /HEADBLOCK -->
-  <div class="clearfix"></div>
+    <!-- /HEADBLOCK --> 
+	<div class="clearfix"></div> 
   <!--Text-->
+<div id="content">
   <div class="column-container size-14 line-h20">
     <div class="column-2">
       <div class="column-offset pt05r">
@@ -230,7 +231,8 @@
     </div>
     <div class="clearfix"></div>
 
-    <!-- FOOTER BLOCK -->
+    </div>
+	<!-- FOOTER BLOCK -->
     <div class="clearfix"></div>
     <div class="w100r">
           <div class="text-center pt05r">

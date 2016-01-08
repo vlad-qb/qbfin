@@ -122,8 +122,8 @@
         </div>
       </div>
     </div>
-    <!-- /HEADBLOCK -->
-  <div class="clearfix"></div>
+    <!-- /HEADBLOCK --> 
+	<div class="clearfix"></div>
   <!--Text-->
   <div id="content">
     <div class="column-container pt05r">

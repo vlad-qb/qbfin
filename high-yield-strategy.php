@@ -29,33 +29,33 @@
       </div>
       <div id="headblock" class="column-container">
         <div class="column-2 content-margin text-center size-8 line-h24 uppercase">
-          <div class="column-offset bg-white pt05r">
+          <div class="column-offset bg-white pt35">
             <ul>
-              <li class="w15r ml025r mr025r l auto">
+              <li class="w15r ml025r mr025r l auto lightgray-block-hover3">
                 <a href="/events.php">
                   <img src="img/icons/icon-menu-processes.svg" class="icon icon-menu w100r"><br>
                   <span> события </span>
                 </a>
               </li>
-              <li class="w15r ml025r mr025r l auto">
+              <li class="w15r ml025r mr025r l auto lightgray-block-hover3">
                 <a href="#">
                   <img src="img/icons/icon-menu-call.svg" class="icon icon-menu w100r"><br>
                   <span> звонок </span>
                 </a>
               </li>
-              <li class="w15r ml025r mr025r l auto">
+              <li class="w15r ml025r mr025r l auto lightgray-block-hover3">
                 <a href="/service.php">
                   <img src="img/icons/icon-menu-services.svg" class="icon icon-menu w100r"><br>
                   <span> услуги </span>
                 </a>
               </li>
-              <li class="w15r ml025r mr025r l auto">
+              <li class="w15r ml025r mr025r l auto lightgray-block-hover3">
                 <a href="/branch-office.php">
                   <img src="img/icons/icon-menu-affiliates.svg" class="icon icon-menu w100r"><br>
                   <span> филиалы </span>
                 </a>
               </li>
-              <li class="w15r ml025r mr025r l auto">
+              <li class="w15r ml025r mr025r l auto lightgray-block-hover3">
                 <a href="#">
                   <img src="img/icons/icon-menu-mail.svg" class="icon icon-menu w100r"><br>
                   <span> почта </span>
@@ -124,6 +124,8 @@
     </div>
     <!-- /HEADBLOCK -->
     <div class="clearfix"></div>
+	<!-- CONTENT -->
+	<div id="content">
     <div id="high-yield-strategy" class="img-high-yield-strategy-3 w100r mt05r cover fixed" style="background-attachment: fixed; background-position: center bottom;">
       <div class="label w90r auto bg bg-blue-label text-center uppercase">
         <div class="w33r l pt04r pb02r">
@@ -217,7 +219,9 @@
         <div class="clearfix"></div>
       </div>
     </div>
-    <!-- FOOTER BLOCK -->
+    </div>
+	<!-- CONTENT -->
+	<!-- FOOTER BLOCK -->
 	<div class="clearfix"></div>
 	<div class="text-center pt03r">
 		<img src="img/icons/icon-lighthouse.svg" class="icon icon-main">
