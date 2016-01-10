@@ -143,36 +143,33 @@
     <div class="clearfix"></div>
     <!-- CONTENT -->
 	<div id="content">
-    <div class="column-container pt05r">
-      <div class="column">
-        <div class="column-offset line-h24 size-14">
-          <div class="text-center"><img class="icon icon-portfolio" src="/img/bg/archive-shares.gif"></div>
-          <div class="title-line-teal2"></div>
-        </div>
+    <div class="column pt05r pb05r">
+      <div class="pl05r pr05r auto line-h24 size-14">
+        <div class="text-center"><img class="icon icon-portfolio" src="/img/bg/archive-shares.gif"></div>
+        <div class="title-line-teal2"></div>
       </div>
-      <div class="clearfix"></div>
     </div>
     <div class="column-container pt05r pb05r">
       <div class="column-2">
         <div class="column-offset line-h26 size-14">
-          <h4 class="size-14 ml05r weight-300"><span class="color-teal weight-300">05.12.2015</span> <span class="size-11 color-lightgray"> •︎ </span><a href="/markets-review-15-08-2015.php">Эксклюзив на фондовом рынке</a></h4>
-          <h4 class="size-14 ml05r weight-300"><span class="color-teal weight-300">08.11.2015</span> <span class="size-11 color-lightgray"> •︎ </span><a href="/markets-review-15-08-2015.php">Точки роста</a></h4>
-          <h4 class="size-14 ml05r weight-300"><span class="color-teal weight-300">12.10.2015</span> <span class="size-11 color-lightgray"> •︎ </span><a href="/markets-review-15-08-2015.php">Ликвидная недвижимость</a></h4>
-          <h4 class="size-14 ml05r weight-300"><span class="color-teal weight-300">15.09.2015</span> <span class="size-11 color-lightgray"> •︎ </span><a href="/markets-review-15-08-2015.php">Человек с одним миллионом долларов</a></h4>
-          <h4 class="size-14 ml05r weight-300"><span class="color-teal weight-300">07.09.2015</span> <span class="size-11 color-lightgray"> •︎ </span><a href="/markets-review-15-08-2015.php">Африка для бизнеса</a></h4>
-          <h4 class="size-14 ml05r weight-300"><span class="color-teal weight-300">21.08.2015</span> <span class="size-11 color-lightgray"> •︎ </span><a href="/markets-review-15-08-2015.php">Как прожить на миллион</a></h4>
-          <h4 class="size-14 ml05r weight-300"><span class="color-teal weight-300">05.08.2015</span> <span class="size-11 color-lightgray"> •︎ </span><a href="/markets-review-15-08-2015.php">Ослабление рубля станет помехой для ЦБ в борьбе с инфляцией</a></h4>
+          <h4 class="size-14 weight-300"><span class="color-teal weight-300">05.12.2015</span> <span class="size-11 color-lightgray"> •︎ </span><a href="/markets-review-15-08-2015.php">Эксклюзив на фондовом рынке</a></h4>
+          <h4 class="size-14 weight-300"><span class="color-teal weight-300">08.11.2015</span> <span class="size-11 color-lightgray"> •︎ </span><a href="/markets-review-15-08-2015.php">Точки роста</a></h4>
+          <h4 class="size-14 weight-300"><span class="color-teal weight-300">12.10.2015</span> <span class="size-11 color-lightgray"> •︎ </span><a href="/markets-review-15-08-2015.php">Ликвидная недвижимость</a></h4>
+          <h4 class="size-14 weight-300"><span class="color-teal weight-300">15.09.2015</span> <span class="size-11 color-lightgray"> •︎ </span><a href="/markets-review-15-08-2015.php">Человек с одним миллионом долларов</a></h4>
+          <h4 class="size-14 weight-300"><span class="color-teal weight-300">07.09.2015</span> <span class="size-11 color-lightgray"> •︎ </span><a href="/markets-review-15-08-2015.php">Африка для бизнеса</a></h4>
+          <h4 class="size-14 weight-300"><span class="color-teal weight-300">21.08.2015</span> <span class="size-11 color-lightgray"> •︎ </span><a href="/markets-review-15-08-2015.php">Как прожить на миллион</a></h4>
+          <h4 class="size-14 weight-300"><span class="color-teal weight-300">05.08.2015</span> <span class="size-11 color-lightgray"> •︎ </span><a href="/markets-review-15-08-2015.php">Ослабление рубля станет помехой для ЦБ в борьбе с инфляцией</a></h4>
         </div>
       </div>
       <div class="column-2">
         <div class="column-offset line-h26 size-14">
-          <h4 class="size-14 ml05r weight-300"><span class="color-teal weight-300">01.08.2015</span> <span class="size-11 color-lightgray"> •︎ </span><a href="/markets-review-15-08-2015.php">Лучшее место для лучших вещей</a></h4>
-          <h4 class="size-14 ml05r weight-300"><span class="color-teal weight-300">18.07.2015</span> <span class="size-11 color-lightgray"> •︎ </span><a href="/markets-review-15-08-2015.php">Сколько денег придется напечатать ЕЦБ, чтобы возродить европейскую экономику</a></h4>
-          <h4 class="size-14 ml05r weight-300"><span class="color-teal weight-300">30.04.2015</span> <span class="size-11 color-lightgray"> •︎ </span><a href="/markets-review-15-08-2015.php">В поисках панацеи</a></h4>
-          <h4 class="size-14 ml05r weight-300"><span class="color-teal weight-300">22.04.2015</span> <span class="size-11 color-lightgray"> •︎ </span><a href="/markets-review-15-08-2015.php">Рыночное курсообразование рубля - новая реальность</a></h4>
-          <h4 class="size-14 ml05r weight-300"><span class="color-teal weight-300">17.04.2015</span> <span class="size-11 color-lightgray"> •︎ </span><a href="/markets-review-15-08-2015.php">Обзор акций компании Schlumberger Limited</a></h4>
-          <h4 class="size-14 ml05r weight-300"><span class="color-teal weight-300">15.04.2015</span> <span class="size-11 color-lightgray"> •︎ </span><a href="/markets-review-15-08-2015.php">Страна, где ничего не происходит</a></h4>
-          <h4 class="size-14 ml05r weight-300"><span class="color-teal weight-300">21.03.2015</span> <span class="size-11 color-lightgray"> •︎ </span><a href="/markets-review-15-08-2015.php">Что будет после повышения процентных ставок ФРС США</a></h4>
+          <h4 class="size-14 weight-300"><span class="color-teal weight-300">01.08.2015</span> <span class="size-11 color-lightgray"> •︎ </span><a href="/markets-review-15-08-2015.php">Лучшее место для лучших вещей</a></h4>
+          <h4 class="size-14 weight-300"><span class="color-teal weight-300">18.07.2015</span> <span class="size-11 color-lightgray"> •︎ </span><a href="/markets-review-15-08-2015.php">Сколько денег придется напечатать ЕЦБ, чтобы возродить европейскую экономику</a></h4>
+          <h4 class="size-14 weight-300"><span class="color-teal weight-300">30.04.2015</span> <span class="size-11 color-lightgray"> •︎ </span><a href="/markets-review-15-08-2015.php">В поисках панацеи</a></h4>
+          <h4 class="size-14 weight-300"><span class="color-teal weight-300">22.04.2015</span> <span class="size-11 color-lightgray"> •︎ </span><a href="/markets-review-15-08-2015.php">Рыночное курсообразование рубля - новая реальность</a></h4>
+          <h4 class="size-14 weight-300"><span class="color-teal weight-300">17.04.2015</span> <span class="size-11 color-lightgray"> •︎ </span><a href="/markets-review-15-08-2015.php">Обзор акций компании Schlumberger Limited</a></h4>
+          <h4 class="size-14 weight-300"><span class="color-teal weight-300">15.04.2015</span> <span class="size-11 color-lightgray"> •︎ </span><a href="/markets-review-15-08-2015.php">Страна, где ничего не происходит</a></h4>
+          <h4 class="size-14 weight-300"><span class="color-teal weight-300">21.03.2015</span> <span class="size-11 color-lightgray"> •︎ </span><a href="/markets-review-15-08-2015.php">Что будет после повышения процентных ставок ФРС США</a></h4>
         </div>
       </div>
       <div class="clearfix"></div>

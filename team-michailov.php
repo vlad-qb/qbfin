@@ -189,7 +189,7 @@
           </div>
           <div class="column-50r pt05r">
             <div class="column-offset pl05r pr05r">
-              <div class="size-14 line-h20">
+              <div class="size-14 line-h20 pl05r pr05r">
                 <a href="/expert-1.php" class="weight-300 gray-hover"><span class="bold">Н</span>едвижимость сегодня - это по-прежнему защитный актив или верный способ прогадать на депрессивном рынке? Николай Михайлов уверен: второй вариант куда более вероятен. Недвижимость в настоящее время - это в какой-то мере способ потерять ликвидность.... </a><span class="color-teal weight-300">&gt;</span>
               </div>
             </div>
@@ -214,7 +214,7 @@
           </div>
           <div class="column-50r pt05r">
             <div class="column-offset pl05r pr05r">
-              <div class="size-14 line-h20">
+              <div class="size-14 line-h20 pl05r pr05r">
                 <a href="/expert-1.php" class="weight-300 gray-hover"><span class="bold">В</span> условиях геополитической нестабильности недвижимость становится одним из самых надежных способов сохранения капитала, уверены Николай Михайлов и Дмитрий Лепешкин. Поэтому они предлагают присмотреться к инвестиционным фондам недвижимости, которые могут приносить стабильный доход, опережающий темпы инфляции.... </a><span class="color-teal weight-300">&gt;</span>
               </div>
             </div>

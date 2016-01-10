@@ -141,7 +141,7 @@
           <h3 class="text-center size-12 color-white"><div class="w250 h40 line-h40 auto bg-gray2 weight-300">INVESTORAWARDS</div></h3>
           <div class="title-line-grey2"></div>
           <h4 class="size-12 line-h40 text-center mt10"><span class="bold">ОБЗОР </span><span class="weight-400">QB FINANCE</span></h4>
-          <div class="line-h20 weight-300 mt5 ml30 mr30">
+          <div class="line-h20 weight-300 mt5">
             Я продолжаю ходить по фешенебельным и не очень офисам столичных инвест-компаний в поисках интересных стратегий для инвестиций. На этот раз я наведался в центральный офис QB Finance в "Москва-Сити". Они стали лауреатами премии "Лучшая инвестиционная компания за 2014 год" в рамках SPEAR'S Russia Awards... <span class="color-teal weight-300">&gt;</span>
           </div>
           <div class="text-center mt10">
@@ -156,7 +156,7 @@
           <h3 class="text-center size-12 color-white"><div class="w250 h40 line-h40 auto bg-gray2 weight-300">ТРИБУНА</div></h3>
           <div class="title-line-grey2"></div>
           <h4 class="size-12 line-h40 text-center mt10"><span class="bold">В РАМКАХ КОНКУРСА ОТОБРАНЫ ПОБЕДИТЕЛИ</span></h4>
-          <div class="line-h20 weight-300 mt5 ml30 mr30">
+          <div class="line-h20 weight-300 mt5 ">
             В июле 2012 года уже в очередном ежегодном конкурсе с общим призовым фондом в 23 млрд рублей была отобрана группа организаций, уполномоченных осуществлять отбор и заключать договора подряда, с целью реализации инвестиционных проектов, получивших инвестиционное финансирование по Конкурсу. В результате решения... <span class="color-teal weight-300">&gt;</span>
           </div>
           <div class="text-center mt10">
@@ -171,7 +171,7 @@
           <h3 class="text-center size-12 color-white"><div class="w250 h40 line-h40 auto bg-gray2 weight-300">PBWM</div></h3>
           <div class="title-line-grey2"></div>
           <h4 class="size-12 line-h40 text-center mt10"><span class="weight-400">QB FINANCE <span class="bold">ВЫИГРАЛА «СТАРТ ГОДА»</span></span></h4>
-          <div class="line-h20 weight-300 mt5 ml30 mr30">
+          <div class="line-h20 weight-300 mt5 ">
             Специальный приз от главного редактора SPEAR'S Russia в номинации «Лучшая инвестиционная компания года» вручен QB Finance. В состав жюри Премии в этом году входят: главный редактор WATCH Russia Александр Гафин, старший партнер GHP Group Марк Гарбер, главный исполнительный директор группы Deutsche Bank... <span class="color-teal weight-300">&gt;</span>
           </div>
           <div class="text-center mt10">
@@ -186,7 +186,7 @@
           <h3 class="text-center size-12 color-white"><div class="w250 h40 line-h40 auto bg-gray2 weight-300">ВЕСТИ.RU</div></h3>
           <div class="title-line-grey2"></div>
           <h4 class="size-12 line-h40 text-center mt10"><span class="bold">РЕЙТИНГ РАБОТОДАТЕЛЕЙ-2012</span></h4>
-          <div class="line-h20 weight-300 mt5 ml30 mr30">
+          <div class="line-h20 weight-300 mt5  ">
             "Рейтинг этого года показал, что объективная система отсчета, помогающая сориентироваться работникам, очень востребована, - отметил председатель совета директоров HeadHunter Юрий Вировец. - Количество участников рейтинга значительно выросло по сравнению с прошлым годом, а значит, компании серьезно озабочены привлечением... <span class="color-teal weight-300">&gt;</span>
           </div>
           <div class="text-center mt10">

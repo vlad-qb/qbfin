@@ -190,7 +190,7 @@
           </div>
           <div class="column-50r pt05r">
             <div class="column-offset pl05r pr05r">
-              <div class="size-14 line-h20">
+              <div class="size-14 line-h20 pl05r pr05r">
                 <a href="/expert-1.php" class="weight-300 gray-hover"><span class="bold">Д</span>митрий Кипа и Никита Селиванов объясняют природу «спроса на люкс» среди инвесторов и советуют им поторопиться: ближайшее интересное событие - IPO Ferrari. Количество состоятельных людей растет высокими темпами. В 2013 году число долларовых миллионеров достигло 16,3 млн, увеличившись с 2008 года на 90%.... </a><span class="color-teal weight-300">&gt;</span>
               </div>
             </div>

@@ -135,13 +135,13 @@
     </div>
   </div>
   <div class="column-container size-14 color-grey1 line-h26">
-    <div class="column-2">
-      <div class="column-offset pt05r">
+    <div class="column-2 pt05r">
+      <div class="column-offset">
         <p class="size-14 weight-300"><span class="bold">ETF</span> - Exchange Traded Fund (публично торгуемый фонд) - фонд, специализирующийся на инвестициях в определенный вид активов.</p>
       </div>
     </div>
-    <div class="column-2">
-      <div class="column-offset pt05r">
+    <div class="column-2 pt05r">
+      <div class="column-offset">
         <p class="size-14 weight-300"><span class="bold">П</span>оскольку такие фонды свободно обращаются на фондовой бирже NYSE ARCA, то ETF-инструменты зачастую имеют более высокий по отношению к рынку уровень ликвидности.</p>
       </div>
     </div>

@@ -136,7 +136,7 @@
 <div id="content">
 <div class="column-container pt05r">
     <div class="column">
-        <div class="column-offset">
+        <div class="pl05r pr05r">
             <h3 class="text-center size-12 color-white"><div class="w288 h40 line-h40 auto bg-teal">РЫНКИ ЗА МЕСЯЦ</div></h3>
             <div class="title-line-teal"></div>
         </div>
@@ -195,8 +195,8 @@
   <!-- /CONTENT -->
   <!-- CONTENT-2 -->
   <div class="column-container auto">
-      <div class="column mt60">
-          <div class="column-offset">
+      <div class="column pt05r">
+          <div class="pl05r pr05r">
               <h3 class="text-center size-12 color-white"><div class="w288 h40 line-h40 auto bg-teal"> РЫНКИ ЗА КВАРТАЛ </div></h3>
               <div class="title-line-teal"></div>
           </div>

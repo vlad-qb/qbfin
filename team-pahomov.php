@@ -199,7 +199,7 @@
           </div>
           <div class="column-50r pt05r">
             <div class="column-offset pl05r pr05r">
-              <div class="size-14 line-h20">
+              <div class="size-14 line-h20 pl05r pr05r">
                 <a href="/expert-1.php" class="weight-300 gray-hover"><span class="bold">К</span>урс на импортозамещение стимулирует развитие российских регионов. Однако положительный эффект возможен только в краткосрочном периоде. Для дальнейшего развития необходимо повышать качество продукции, чтобы она выдержала конкуренцию и после отмены санкций, уверен Владимир Пахомов.... </a><span class="color-teal weight-300">&gt;</span>
               </div>
             </div>
@@ -224,7 +224,7 @@
           </div>
           <div class="column-50r pt05r">
             <div class="column-offset pl05r pr05r">
-              <div class="size-14 line-h20">
+              <div class="size-14 line-h20 pl05r pr05r">
                 <a href="/expert-1.php" class="weight-300 gray-hover"><span class="bold">И</span>менно этот человек зачастую становится первым, с кем знакомится хайнет, приходя в private-банк. Владимир Пахомов рассуждает о том, какими качествами должен обладать хороший финансовый советник и где можно найти таких людей. Сегодня профессионал, способный предоставлять услуги высочайшего уровня, - это своего рода «священный грааль», для поисков которого нужно приложить огромные усилия... </a><span class="color-teal weight-300">&gt;</span>
               </div>
             </div>

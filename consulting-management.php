@@ -499,59 +499,61 @@
       </div>
     </div>
       <div class="column-2 pt05r">
-        <div class="column-offset bg-lightgray2">
-          <div class="l w120 h120 bg-dark-gray mr20">
-            <div class="w80 auto pt20">
-              <img src="img/icons/icon-strongbox.svg" class="icon icon-services w80">
+        <div class="column-offset">
+          <div class="bg-lightgray2">
+            <div class="l w120 h120 bg-dark-gray mr20">
+              <div class="w80 auto pt20">
+                <img src="img/icons/icon-strongbox.svg" class="icon icon-services w80">
+              </div>
+            </div>
+            <div class="size-12 uppercase line-h26 mb02r color-teal ml140">
+              СУММА ИНВЕСТИЦИЙ - QB TRADER PRO
+            </div>
+            <div class="size-12 uppercase line-h26 mb33 weight-300 ml140">ОТ $50.000
+              <div class="clearfix"></div>
             </div>
           </div>
-          <div class="size-12 uppercase line-h26 mb02r color-teal ml140">
-            СУММА ИНВЕСТИЦИЙ - QB TRADER PRO
-          </div>
-          <div class="size-12 uppercase line-h26 mb33 weight-300 ml140">ОТ $50.000
-            <div class="clearfix"></div>
-          </div>
-        </div>
-        
-        <div class="column-offset bg-lightgray2">
-          <div class="l w120 h120 bg-dark-gray mr20">
-            <div class="w80 auto pt20">
-              <img src="img/icons/icon-calendar.svg" class="icon icon-services w80">
+          
+          <div class="bg-lightgray2">
+            <div class="l w120 h120 bg-dark-gray mr20">
+              <div class="w80 auto pt20">
+                <img src="img/icons/icon-calendar.svg" class="icon icon-services w80">
+              </div>
+            </div>
+            <div class="size-12 uppercase line-h26 mb02r color-teal ml140">
+              АБОНЕНТСКАЯ ПЛАТА
+            </div>
+            <div class="size-12 uppercase line-h26 mb33 weight-300 ml140">$150 / МЕСЯЦ
+              <div class="clearfix"></div>
             </div>
           </div>
-          <div class="size-12 uppercase line-h26 mb02r color-teal ml140">
-            АБОНЕНТСКАЯ ПЛАТА
-          </div>
-          <div class="size-12 uppercase line-h26 mb33 weight-300 ml140">$150 / МЕСЯЦ
-            <div class="clearfix"></div>
-          </div>
-        </div>
-        
-        <div class="column-offset bg-lightgray2">
-          <div class="l w120 h120 bg-dark-gray mr20">
-            <div class="w80 auto pt20">
-              <img src="img/icons/icon-hammer.svg" class="icon icon-services w80">
+          
+          <div class="bg-lightgray2">
+            <div class="l w120 h120 bg-dark-gray mr20">
+              <div class="w80 auto pt20">
+                <img src="img/icons/icon-hammer.svg" class="icon icon-services w80">
+              </div>
+            </div>
+            <div class="size-12 uppercase line-h26 mb02r color-teal ml140">
+              ФУНКЦИОНАЛ ПЛАТФОРМЫ
+            </div>
+            <div class="size-12 uppercase line-h26 mb33 weight-300 ml140">ДОСТУП К БИРЖАМ - NYSE, AMEX, NASDAQ
+              <div class="clearfix"></div>
             </div>
           </div>
-          <div class="size-12 uppercase line-h26 mb02r color-teal ml140">
-            ФУНКЦИОНАЛ ПЛАТФОРМЫ
-          </div>
-          <div class="size-12 uppercase line-h26 mb33 weight-300 ml140">ДОСТУП К БИРЖАМ - NYSE, AMEX, NASDAQ
-            <div class="clearfix"></div>
-          </div>
-        </div>
-        
-        <div class="column-offset bg-lightgray2">
-          <div class="l w120 h120 bg-dark-gray mr20">
-            <div class="w80 auto pt20">
-              <img src="img/icons/icon-calculator.svg" class="icon icon-services w80">
+          
+          <div class="bg-lightgray2">
+            <div class="l w120 h120 bg-dark-gray mr20">
+              <div class="w80 auto pt20">
+                <img src="img/icons/icon-calculator.svg" class="icon icon-services w80">
+              </div>
             </div>
-          </div>
-          <div class="size-12 uppercase line-h26 mb02r color-teal ml140">
-            ВОЗМОЖНОСТИ ПЛАТФОРМЫ
-          </div>
-          <div class="size-12 uppercase line-h26 mb33 weight-300 ml140">УДАЛЕННАЯ ТОРГОВЛЯ / АНАЛИЗ КОТИРОВОК / НОВОСТНАЯ ЛЕНТА / ЭКСПОРТ ДАННЫХ
-            <div class="clearfix"></div>
+            <div class="size-12 uppercase line-h26 mb02r color-teal ml140">
+              ВОЗМОЖНОСТИ ПЛАТФОРМЫ
+            </div>
+            <div class="size-12 uppercase line-h26 mb33 weight-300 ml140">УДАЛЕННАЯ ТОРГОВЛЯ / АНАЛИЗ КОТИРОВОК / НОВОСТНАЯ ЛЕНТА / ЭКСПОРТ ДАННЫХ
+              <div class="clearfix"></div>
+            </div>
           </div>
         </div>
       </div>

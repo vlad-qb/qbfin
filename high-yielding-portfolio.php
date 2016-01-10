@@ -135,15 +135,15 @@
     </div>
   </div>
   <div class="column-container size-14 color-grey1 line-h26">
-    <div class="column-2">
-      <div class="column-offset pt10r">
+    <div class="column-2 pt05r">
+      <div class="column-offset">
         <p class="size-14 weight-300"><span class="bold">Д</span>ля хеджирования возможных рисков в портфель включены опционы, валюты и корпоративные облигации. </p>
       
         <p class="mt20 size-14 weight-300">Благодаря такому набору активов перед инвестором открываются возможности заработка на любом тренде в любом регионе мира, в том числе и на падающих рынках.</p>
       </div>
     </div>
-    <div class="column-2">
-      <div class="column-offset pt05r">
+    <div class="column-2 pt05r">
+      <div class="column-offset">
         <p class="size-14 weight-300"><span class="bold">С</span>реди самых перспективных направлений в рамках стратегии - секторы, связанные с новыми технологиями: интернет-сервисы, 3D-печать, хранение информации и альтернативные источники энергии. </p>
       
         <p class="mt20 size-14 weight-300">Настоящая золотая жила для инвестора - американские энергетические компании малой капитализации, растущие на фоне сланцевой революции.</p>

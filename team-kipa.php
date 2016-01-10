@@ -199,7 +199,7 @@
           </div>
           <div class="column-50r pt05r">
             <div class="column-offset pl05r pr05r">
-              <div class="size-14 line-h20">
+              <div class="size-14 line-h20 pl05r pr05r">
                 <a href="/expert-1.php" class="weight-300 gray-hover"><span class="bold">Д</span>митрий Кипа - о новейшей истории и планах Поднебесной империи, которые изменят расстановку сил во всем мире. Современный Китай - какой он? Чтобы приблизиться к пониманию этого вопроса, нужно посмотреть, с какой позиции был осуществлен старт... </a><span class="color-teal weight-300">&gt;</span>
               </div>
             </div>
@@ -224,7 +224,7 @@
           </div>
           <div class="column-50r pt05r">
             <div class="column-offset pl05r pr05r">
-              <div class="size-14 line-h20">
+              <div class="size-14 line-h20 pl05r pr05r">
                 <a href="/expert-1.php" class="weight-300 gray-hover"><span class="bold">В</span> условиях геополитической нестабильности недвижимость становится одним из самых надежных способов сохранения капитала, уверены Николай Михайлов и Дмитрий Лепешкин. Поэтому они предлагают присмотреться к инвестиционным фондам недвижимости, которые могут приносить стабильный доход, опережающий темпы инфляции.... </a><span class="color-teal weight-300">&gt;</span>
               </div>
             </div>

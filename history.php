@@ -146,8 +146,8 @@
 	<div class="clearfix"></div> 
 	<!-- CONTENT -->
 <div id="content">
-  <div class="column-container pt05r">
-    <div class="column-2">
+  <div class="column-container">
+    <div class="column-2 pt05r">
       <div class="column-offset line-h24 size-14">
         <div class="text-center"><img class="icon icon-portfolio" src="/img/bg/archive-shares-7.gif"></div>
         <div class="title-line-teal2"></div>
@@ -160,8 +160,8 @@
         <p class="mt15">Мы достаточно хорошо понимаем менталитет страны и правила, что является нашим серьезным преимуществом в работе с американскими рынками.</p>
       </div>
     </div>
-    <div class="column-2">
-      <div class="column-offset pt05r line-h24 size-14">
+    <div class="column-2 pt05r">
+      <div class="column-offset line-h24 size-14">
         <div class="text-center"><img class="icon icon-portfolio" src="/img/bg/archive-shares-6.gif"></div>
         <div class="title-line-teal2"></div>
         <p class="mt35">Уже через полтора года работы с инвесторами мы имели внушительные результаты по итогам управления капиталом и стали задумываться о развитии нашего бизнеса и услуги Доверительного управления. </p>

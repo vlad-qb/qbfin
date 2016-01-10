@@ -129,10 +129,10 @@
     <div class="column-container pt05r">
       <div class="column-2 line-h20 size-14">
         <div class="column-offset">
-          <p class="mt20 ml05r mr05r size-14 weight-300">
+          <p class="mt20 size-14 weight-300">
             <span class="bold">И</span>нвестиционная компания QBF ||| investment предлагает три стратегии доверительного управления финансовыми активами: <a href="/high-yield-strategy.php" class="color-gray light-gray-hover italic">высокодоходная,</a> <a href="/weighted-average-strategy.php" class="color-gray light-gray-hover italic">средневзвешенная и</a> <a href="/conservative-strategy.php" class="color-gray light-gray-hover italic">консервативная стратегия.</a>
           </p>
-          <p class="mt20 ml05r mr05r size-14 weight-300">
+          <p class="mt20 size-14 weight-300">
             Мы также предоставляем клиентам два варианта стратегии защиты рублевых активов: <a href="/strategy-for-the-protection-of-ruble-assets.php" class="color-gray light-gray-hover italic">депозитный средневзвешенный портфель и хеджирование рублевых рисков.</a>
           </p>
         </div>

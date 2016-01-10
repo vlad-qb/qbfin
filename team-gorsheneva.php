@@ -188,7 +188,7 @@
           </div>
           <div class="column-50r pt05r">
             <div class="column-offset pl05r pr05r">
-              <div class="size-14 line-h20">
+              <div class="size-14 line-h20 pl05r pr05r">
                 <a href="/expert-1.php" class="weight-300 gray-hover"><span class="bold">В</span> мировой экономике создано слишком много дисбалансов, чтобы думать, что есть абсолютно безопасные рынки. Но откуда ждать самых больших неприятностей и как застраховаться инвестору? Марго Горшенева формирует тезисы для создания инвестстратегии, подходящей для нашего времени.... </a><span class="color-teal weight-300">&gt;</span>
               </div>
             </div>
@@ -213,7 +213,7 @@
           </div>
           <div class="column-50r pt05r">
             <div class="column-offset pl05r pr05r">
-              <div class="size-14 line-h20">
+              <div class="size-14 line-h20 pl05r pr05r">
                 <a href="/expert-1.php" class="weight-300 gray-hover"><span class="bold">К</span>рупнейшие корпорации и инвесторы всего мира устремляются в страны БРИКС в поисках возможностей для развития бизнеса. Марго Горшенева и Дмитрий Лепешкин советуют присмотреться к Африке, утверждая, что потенциал роста региона зашкаливает.... </a><span class="color-teal weight-300">&gt;</span>
               </div>
             </div>
@@ -238,7 +238,7 @@
           </div>
           <div class="column-50r pt05r">
             <div class="column-offset pl05r pr05r">
-              <div class="size-14 line-h20">
+              <div class="size-14 line-h20 pl05r pr05r">
                 <a href="/expert-1.php" class="weight-300 gray-hover"><span class="bold">З</span>адумываясь о сохранности драгоценных металлов и камней, предметов искусства и старины, коллекционных вин и ретроавтомобилей, обратите внимание на фрипорты, советуют Марго Горшенева и Александр Соколов. Коллекционеры сходятся в одном - в стремлении сохранить объекты своей страсти.... </a><span class="color-teal weight-300">&gt;</span>
               </div>
             </div>
@@ -263,7 +263,7 @@
           </div>
           <div class="column-50r pt05r">
             <div class="column-offset pl05r pr05r">
-              <div class="size-14 line-h20">
+              <div class="size-14 line-h20 pl05r pr05r">
                 <a href="/expert-1.php" class="weight-300 gray-hover"><span class="bold">П</span>ерспективы развития Азиатско-Тихоокеанского региона обсуждаются на протяжении многих лет, и каждый положительный прогноз сбывается из года в год. Новая Зеландия и Австралия - страны, географический климат и государственный строй которых притягивают состоятельных жителей.... </a><span class="color-teal weight-300">&gt;</span>
               </div>
             </div>
