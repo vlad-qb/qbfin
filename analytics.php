@@ -185,9 +185,9 @@
       <!-- /CONTENT -->
 	  <!-- FOOTER BLOCK -->
       <div class="clearfix"></div>
-      <div class="text-center pt03r">
+      <div class="text-center pt02r pb02r">
         <img src="img/icons/icon-lighthouse.svg" class="icon icon-main"><br>
-        <a href="/archive-analytics.php" class="size-12 line-h40 uppercase">Архив</a>
+        <a href="/archive-analytics.php" class="size-12 uppercase">Архив</a>
       </div>
       <!-- /FOOTER BLOCK -->
       <div class="clearfix"></div>

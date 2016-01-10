@@ -200,15 +200,15 @@
     <div class="clearfix"></div>
     <!-- FOOTER BLOCK -->
     <div class="clearfix"></div>
-    <div class="text-center pt03r">
+    <div class="text-center pt02r">
       <img src="img/icons/icon-lighthouse.svg" class="icon icon-main">
     </div>
-    <div class="text-center pt01r">
-      <span class="size-12 line-h40 uppercase"> < </span>
-      <a href="/company.php" class="size-12 line-h40 uppercase">Компания</a>
+    <div class="text-center pb02r">
+ 
+      <a href="/company.php" class="size-12 uppercase">Компания</a>
       <span class="color-teal size-10"> • </span>
-      <a href="/documents.php" class="size-12 line-h40 uppercase">Документы</a>
-      <span class="size-12 line-h40 uppercase"> > </span>
+      <a href="/documents.php" class="size-12 uppercase">Документы</a>
+ 
     </div>
     <!-- /FOOTER BLOCK -->
     <div class="clearfix"></div>

@@ -166,6 +166,11 @@
   </div>
   </div>
   <div class="clearfix"></div>
+          <div class="text-center pt02r pb02r">
+            <img src="img/icons/icon-lighthouse.svg" class="icon icon-main"><br>
+            <a href="/service.php" class="size-12 uppercase">Услуги</a>
+          </div>    
+  <div class="clearfix"></div>
   <?php include 'html/footer.html';?>
   <script src="/js/jquery.min.js"></script>
   <script src="/js/main.js"></script>

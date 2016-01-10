@@ -301,14 +301,12 @@
 <!-- /CONTENT -->
 <!-- FOOTER BLOCK -->
 	<div class="clearfix"></div>
-	<div class="text-center pt03r">
+	<div class="text-center pt02r">
 		<img src="img/icons/icon-lighthouse.svg" class="icon icon-main">
 	</div>
-	<div class="text-center pt01r">
-		<a href="/analytics.php"><span class="size-14"> < </span></a>
-		<a href="/analytics.php" class="size-12 line-h40 uppercase">АНАЛИТИКА</a> <span class="color-teal size-10">•︎</span> 
-		<a href="/archive-expert.php" class="size-12 line-h40 uppercase">АРХИВ: Эксперт</a>
-		<a href="/archive-expert.php"><span class="size-14"> > </span></a>
+	<div class="text-center pb02r">
+		<a href="/analytics.php" class="size-12 uppercase">АНАЛИТИКА</a> <span class="color-teal size-10">•︎</span> 
+		<a href="/archive-expert.php" class="size-12 uppercase">АРХИВ: Эксперт</a>
 	</div>
 	<!-- /FOOTER BLOCK -->
 <div class="clearfix"></div>

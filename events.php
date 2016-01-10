@@ -293,14 +293,12 @@
   <!-- /CONTENT -->
   <!-- FOOTER BLOCK -->
 	<div class="clearfix"></div>
-	<div class="text-center pt03r">
+	<div class="text-center pt02r">
 		<img src="img/icons/icon-lighthouse.svg" class="icon icon-main">
 	</div>
-	<div class="text-center pt01r">
-		<a href="/news.php"><span class="size-14"> < </span></a>
-		<a href="/news.php" class="size-12 line-h40 uppercase">НОВОСТИ</a> <span class="color-teal size-10">•︎</span> 
-		<a href="/archive-events-2015.php" class="size-12 line-h40 uppercase">АРХИВ: СОБЫТИЯ</a>
-		<a href="/archive-events-2015.php"><span class="size-14"> > </span></a>
+	<div class="text-center pb02r">
+		<a href="/news.php" class="size-12 uppercase">НОВОСТИ</a> <span class="color-teal size-10">•︎</span> 
+		<a href="/archive-events-2015.php" class="size-12 uppercase">АРХИВ: СОБЫТИЯ</a>
 	</div>
 	<!-- /FOOTER BLOCK -->
   <div class="clearfix"></div>

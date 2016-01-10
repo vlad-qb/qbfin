@@ -205,11 +205,11 @@
   <!-- FOOTER BLOCK -->
     <div class="clearfix"></div>
     <div class="w100r">
-          <div class="text-center pt03r">
+          <div class="text-center pt02r pb02r">
             <img src="img/icons/icon-lighthouse.svg" class="icon icon-main"><br>
-            <a href="/news.php"><span class="size-14">< </span></a><a href="/news.php" class="size-12 line-h40 uppercase">НОВОСТИ</a>
+            <a href="/news.php" class="size-12 uppercase">НОВОСТИ</a>
 			<span class="color-teal size-10">•︎</span> 
-			<a href="/archive-press-company-2.php" class="size-12 line-h40 uppercase">АРХИВ: КОМПАНИЯ В СМИ</a><a href="/archive-press-company-2.php"><span class="size-14"> ></span>
+			<a href="/archive-press-company-2.php" class="size-12 uppercase">АРХИВ: КОМПАНИЯ В СМИ</a>
           </div>	  
     </div>		
     <!-- /FOOTER BLOCK -->

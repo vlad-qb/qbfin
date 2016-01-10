@@ -236,11 +236,11 @@
 	<!-- FOOTER BLOCK -->
     <div class="clearfix"></div>
     <div class="w100r">
-          <div class="text-center pt05r">
+          <div class="text-center pt02r pb02r">
             <img src="img/icons/icon-lighthouse.svg" class="icon icon-main"><br>
-            <a href="/company.php"><span class="size-14">< </span></a><a href="/company.php" class="size-12 line-h40 uppercase">Компания</a>
+            <a href="/company.php" class="size-12 uppercase">Компания</a>
 			<span class="color-teal size-10">•︎</span> 
-			<a href="/team.php" class="size-12 line-h40 uppercase">Руководство</a><a href="/team.php"><span class="size-14"> ></span>
+			<a href="/team.php" class="size-12 uppercase">Руководство</a>
           </div>	  
     </div>		
     <!-- /FOOTER BLOCK -->

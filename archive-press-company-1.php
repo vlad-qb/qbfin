@@ -327,14 +327,12 @@
 </div>
 <!-- FOOTER BLOCK -->
 <div class="clearfix"></div>
-<div class="text-center pt03r">
+<div class="text-center pt02r">
   <img src="img/icons/icon-lighthouse.svg" class="icon icon-main">
 </div>
-<div class="text-center pt01r">
-  <a href="/news.php"><span class="size-14"> < </span></a>
-  <a href="/news.php" class="size-12 line-h40 uppercase">НОВОСТИ</a> <span class="color-teal size-10">•︎</span> 
-  <a href="/press-company.php" class="size-12 line-h40 uppercase">КОМПАНИЯ В СМИ</a>
-  <a href="/press-company.php"><span class="size-14"> > </span></a>
+<div class="text-center pb02r">
+  <a href="/news.php" class="size-12 uppercase">НОВОСТИ</a> <span class="color-teal size-10">•︎</span> 
+  <a href="/press-company.php" class="size-12 uppercase">КОМПАНИЯ В СМИ</a>
 </div>
 <!-- /FOOTER BLOCK -->
 <div class="clearfix"></div>

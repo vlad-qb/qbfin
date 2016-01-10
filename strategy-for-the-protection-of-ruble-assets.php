@@ -217,14 +217,12 @@
   <!-- /Content-->
   <!-- FOOTER BLOCK -->
 	<div class="clearfix"></div>
-	<div class="text-center pt03r">
+	<div class="text-center pt02r">
 		<img src="img/icons/icon-lighthouse.svg" class="icon icon-main">
 	</div>
-	<div class="text-center pt01r">
-		<a href="/service.php"><span class="size-14"> < </span></a>
-		<a href="/service.php" class="size-12 line-h40 uppercase">УСЛУГИ</a> <span class="color-teal size-10">•︎</span> 
-		<a href="/asset-management.php" class="size-12 line-h40 uppercase">ДОВЕРИТЕЛЬНОЕ УПРАВЛЕНИЕ</a>
-		<a href="/asset-management.php"><span class="size-14"> > </span></a>
+	<div class="text-center pb02r">
+		<a href="/service.php" class="size-12 uppercase">УСЛУГИ</a> <span class="color-teal size-10">•︎</span> 
+		<a href="/asset-management.php" class="size-12 uppercase">ДОВЕРИТЕЛЬНОЕ УПРАВЛЕНИЕ</a>
 	</div>
 	<!-- /FOOTER BLOCK -->
   <?php include 'html/footer.html';?>

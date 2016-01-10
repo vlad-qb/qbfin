@@ -195,13 +195,13 @@
     <!-- FOOTER BLOCK -->
     <div class="clearfix"></div>
     <div class="w100r">
-      <div class="text-center pt05r">
+      <div class="text-center pt02r pb02r">
         <img src="img/icons/icon-lighthouse.svg" class="icon icon-main"><br>
-        <a href="/analytics.php"><span class="size-14"> < </span></a>
-        <a href="/analytics.php" class="size-12 line-h40 uppercase"> АНАЛИТИКА </a>
+ 
+        <a href="/analytics.php" class="size-12 uppercase"> АНАЛИТИКА </a>
 			  <span class="color-teal size-10">•︎</span> 
-			  <a href="/reviews.php" class="size-12 line-h40 uppercase"> ОБЗОРЫ </a>
-        <a href="/reviews.php"><span class="size-14"> > </span>
+			  <a href="/reviews.php" class="size-12 uppercase"> ОБЗОРЫ </a>
+ 
       </div>	  
     </div>		
     <!-- /FOOTER BLOCK -->

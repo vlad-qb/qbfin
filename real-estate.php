@@ -224,9 +224,9 @@
 <!-- FOOTER BLOCK -->
 <div class="clearfix"></div>
 <div class="w100r">
-       <div class="text-center pt05r">
+       <div class="text-center pt02r pb02r">
            <img src="img/icons/icon-lighthouse.svg" class="icon icon-main"><br>
-           <a href="/service.php" class="size-12 line-h40 uppercase">УСЛУГИ</a>
+           <a href="/service.php" class="size-12 uppercase">УСЛУГИ</a>
        </div>	  
 </div>		
 <!-- /FOOTER BLOCK -->

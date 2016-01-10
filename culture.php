@@ -229,9 +229,9 @@
   <!-- FOOTER BLOCK -->
     <div class="clearfix"></div>
     <div class="w100r">
-          <div class="text-center pt05r">
+          <div class="text-center pt02r pb02r">
             <img src="img/icons/icon-lighthouse.svg" class="icon icon-main"><br>
-            <a href="/career.php" class="size-12 line-h40 uppercase">Карьера</a>
+            <a href="/career.php" class="size-12 uppercase">Карьера</a>
           </div>	  
     </div>		
     <!-- /FOOTER BLOCK -->
