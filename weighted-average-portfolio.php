@@ -129,7 +129,7 @@
     <div class="column-container pt05r">
       <div class="column">
         <h3 class="w320 auto h40 line-h40 bg-gray2 text-center size-12 color-white"> ИНВЕСТИЦИОННАЯ АКТУАЛЬНОСТЬ СТРАТЕГИИ </h3>
-        <div class="column-offset">
+        <div class="pl05r pr05r">
           <div class="title-line-grey"></div>
         </div>
       </div>
@@ -137,14 +137,14 @@
       <div class="size-14 line-h20 color-grey1">
         <div class="column-2 pt05r">
           <div class="column-offset pl05r pr05r">
-            <p class="mt05r weight-300">
+            <p class="weight-300">
               <span class="bold">П</span>ортфель имеет высокую степень ликвидности, что позволяет оперативно изменять структуру активов, извлекать прибыли даже на падающем рынке. Наиболее актуальными сегодня выглядят инвестиции в строительный и биофармацевтический сектора с перспективой до 5 лет.
             </p>
           </div>
         </div>
         <div class="column-2 pt05r">
           <div class="column-offset pl05r pr05r">
-            <p class="mt05r weight-300">
+            <p class="weight-300">
               <span class="bold">С</span>троительный сектор в США сейчас активно восстанавливается после спада, а биофармацевтический - переживает бурный рост на фоне серьезных научных открытий в области медицины.
             </p>
           </div>
@@ -203,7 +203,7 @@
     <div class="clearfix"></div>
     <!--Text-->
     <!--Image-->
-    <div id="img-weighted-average-portfolio-2" class="column-container">
+    <div id="img-weighted-average-portfolio-2" class="column-container pt05r">
       <div class="column">
         <div class="img-weighted-average-portfolio-2 h400 contain" style="background-size: contain; background-repeat: no-repeat; background-position: center center;"></div>
       </div>

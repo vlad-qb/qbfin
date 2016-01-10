@@ -207,7 +207,7 @@
   <div class="clearfix"></div>
   <!--Text-->
   <!--Image-->
-  <div id="img-ipo-portfolio-3" class="column-container">
+  <div id="img-ipo-portfolio-3" class="column-container pt05r pb05r">
     <div class="column">
       <div class="img-ipo-portfolio-3 h400 contain" style="background-size: contain; background-repeat: no-repeat; background-position: center center;"></div>
     </div>

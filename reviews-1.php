@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+динамика уровня безработиц<!DOCTYPE html>
 <html lang="ru">
   <head>
     <meta charset="utf-8">
@@ -155,7 +155,9 @@
   <div class="clearfix"></div>
   <div class="column pt05r">
     <h4 class="size-14 line-h30 text-center"><span class="color-teal weight-300">график 1: </span><span class="bold">доходность по 10-летним казначейским облигациям США</span></h4>
-    <img class="w100r" src="/img/bg/reviews-1-2.jpg" />
+    <div class="pl05r pr05r">
+      <img class="w100r" src="/img/bg/reviews-1-2.jpg" />
+    </div>
   </div>
   <div class="clearfix"></div>
   <div class="column-2 pt05r">
@@ -171,7 +173,9 @@
   <div class="clearfix"></div>
   <div class="column pt05r">
     <h4 class="size-14 line-h30 text-center"><span class="color-teal weight-300">график 2: </span><span class="bold">динамика уровня безработицы в США и баланса ФРС</span></h4>
-    <img class="w100r" src="/img/bg/reviews-1-3.jpg" />
+    <div class="pl05r pr05r">
+      <img class="w100r" src="/img/bg/reviews-1-3.jpg" />
+    </div>
   </div>
   <div class="clearfix"></div>
   <div class="column-2 pt05r">
@@ -187,7 +191,9 @@
   <div class="clearfix"></div>
   <div class="column pt05r">
     <h4 class="size-14 line-h30 text-center"><span class="color-teal weight-300">график 3: </span><span class="bold">динамика уровня безработицы в еврозоне и баланса ЕЦБ</span></h4>
-    <img class="w100r" src="/img/bg/reviews-1-4.jpg" />
+    <div class="pl05r pr05r">
+      <img class="w100r" src="/img/bg/reviews-1-4.jpg" />
+    </div>
   </div>
   <div class="clearfix"></div>
   <div class="column-2 pt05r">

@@ -147,9 +147,9 @@
   
   <!-- CONTENT -->
   <div id="content">
-  <div id="team" class="column-container">
+  <div id="team" class="column-container pt05r">
     <div class="w33r l">
-      <div class="mt05r ml07r mr07r pt20 border-grey-top">
+      <div class="ml07r mr07r pt20 border-grey-top">
         <a href="/team-frolov.php">
           <div class="img-team-2 w200 h200 auto cover bg-center" style="background-size:cover;backgroun-position:center;">
           
@@ -161,7 +161,7 @@
       </div>
     </div>
     <div class="w33r l">
-      <div class="mt05r ml07r mr07r pt20 border-grey-top">
+      <div class="ml07r mr07r pt20 border-grey-top">
         <a href="/team-shpakov.php">
           <div class="img-team-3 w200 h200 auto cover bg-center" style="background-size:cover;backgroun-position:center;">
 
@@ -173,7 +173,7 @@
       </div>
     </div>
     <div class="w33r l">
-      <div class="mt05r ml07r mr07r pt20 border-grey-top">
+      <div class="ml07r mr07r pt20 border-grey-top">
         <a href="/team-pahomov.php">
           <div class="img-team-4 w200 h200 auto cover bg-center" style="background-size:cover;backgroun-position:center;">
           
@@ -184,8 +184,8 @@
         <h2 class="text-center mt5"><img class="icon icon-mini" src="img/icons/icon-mail.svg"> &nbsp &nbsp <a href="/team-pahomov.php"><img class="icon icon-mini" src="img/icons/arrow-right.svg"></a></h2>
       </div>
     </div>
-    <div class="w33r l">
-      <div class="mt05r ml07r mr07r pt20 border-grey-top">
+    <div class="w33r l mt05r">
+      <div class=" ml07r mr07r pt20 border-grey-top">
         <a href="/team-munaev.php">
           <div class="img-team-5 w200 h200 auto cover bg-center" style="background-size:cover;backgroun-position:center;">
           
@@ -196,8 +196,8 @@
         <h2 class="text-center mt5"><img class="icon icon-mini" src="img/icons/icon-mail.svg"> &nbsp &nbsp <a href="/team-munaev.php"><img class="icon icon-mini" src="img/icons/arrow-right.svg"></a></h2>
       </div>
     </div>
-    <div class="w33r l">
-      <div class="mt05r ml07r mr07r pt20 border-grey-top">
+    <div class="w33r l mt05r">
+      <div class=" ml07r mr07r pt20 border-grey-top">
         <a href="/team-gorsheneva.php">
           <div class="img-team-6 w200 h200 auto cover bg-center" style="background-size:cover;backgroun-position:center;">
 
@@ -208,8 +208,8 @@
         <h2 class="text-center mt5"><img class="icon icon-mini" src="img/icons/icon-mail.svg"> &nbsp &nbsp <a href="/team-gorsheneva.php"><img class="icon icon-mini" src="img/icons/arrow-right.svg"></a></h2>
       </div>
     </div>
-    <div class="w33r l">
-      <div class="mt05r ml07r mr07r pt20 border-grey-top">
+    <div class="w33r l mt05r">
+      <div class=" ml07r mr07r pt20 border-grey-top">
         <a href="/team-michailov.php">
           <div class="img-team-7 w200 h200 auto cover bg-center" style="background-size:cover;backgroun-position:center;">
           
@@ -220,8 +220,8 @@
         <h2 class="text-center mt5"><img class="icon icon-mini" src="img/icons/icon-mail.svg"> &nbsp &nbsp <a href="/team-michailov.php"><img class="icon icon-mini" src="img/icons/arrow-right.svg"></a></h2>
       </div>
     </div>
-    <div class="w33r l">
-      <div class="mt05r ml07r mr07r pt20 border-grey-top">
+    <div class="w33r l mt05r">
+      <div class=" ml07r mr07r pt20 border-grey-top">
         <a href="/team-selivanov.php">
           <div class="img-team-8 w200 h200 auto cover bg-center" style="background-size:cover;backgroun-position:center;">
 
@@ -232,8 +232,8 @@
         <h2 class="text-center mt5"><img class="icon icon-mini" src="img/icons/icon-mail.svg"> &nbsp &nbsp <a href="/team-selivanov.php"><img class="icon icon-mini" src="img/icons/arrow-right.svg"></a></h2>
       </div>
     </div>
-    <div class="w33r l">
-      <div class="mt05r ml07r mr07r pt20 border-grey-top">
+    <div class="w33r l mt05r">
+      <div class=" ml07r mr07r pt20 border-grey-top">
         <a href="/team-kipa.php">
           <div class="img-team-9 w200 h200 auto cover bg-center" style="background-size:cover;backgroun-position:center;">
           

@@ -127,10 +127,10 @@
 	<div class="clearfix"></div> 
 	<!-- Content-->
 	<div id="content">
-    <div class="column-container pt07r">
+    <div class="column-container pt05r">
       <div class="column">
         <h3 class="w288 auto h40 line-h40 bg-gray2 text-center size-12 color-white"> ИНВЕСТИЦИОННАЯ АКТУАЛЬНОСТЬ СТРАТЕГИИ </h3>
-        <div class="column-offset">
+        <div class="pl05r pr05r">
           <div class="title-line-grey"></div>
         </div>
       </div>
@@ -138,23 +138,23 @@
       <div class="size-14 line-h20 color-grey1">
         <div class="column-2 pt05r">
           <div class="column-offset pl05r pr05r">
-            <p class="mt05r weight-300">
+            <p class="weight-300">
               <span class="bold">Д</span>ля реализации стратегии используются корпоративные облигации и акции с дивидендной доходностью. 
             </p>
-            <p class="mt05r weight-300">
+            <p class="mt15 weight-300">
               Дополнительный доход инвестор получает от роста стоимости акций / опционов или премии от продажи опционных контрактов. 
             </p>
-            <p class="mt05r weight-300">
+            <p class="mt15 weight-300">
               Последний сценарий возможен в случае низкой волатильности базового актива (акции).
             </p>
           </div>
         </div>
         <div class="column-2 pt05r">
           <div class="column-offset pl05r pr05r">
-            <p class="mt05r weight-300">
+            <p class="weight-300">
               <span class="bold">Р</span>иск-менеджмент портфеля предусматривает инвестирование в облигации с максимально возможным кредитным рейтингом и в акции компаний с капитализацией свыше $10 млрд, с дивидендной доходностью от 5% годовых.
             </p>
-            <p class="mt05r weight-300">
+            <p class="mt15 weight-300">
               Работа с опционами строится на основе анализа особенностей базового актива, и подход управляющих может меняться в зависимости от рыночной конъюнктуры.
             </p>
           </div>
@@ -205,10 +205,14 @@
   <div class="column-container size-14 line-h26">
     <h3 class="text-center bold pt05r">Структура портфеля</h3>
     <div class="column-2 pt05r">
-      <p class="column-offset pl05r pr05r size-14 weight-300"><span class="bold">Ч</span>тобы облигация была отобрана в портфель, она должна обладать высоким кредитным рейтингом от Standard & Poor's, Moody's и Fitch для корпоративных облигаций. Целевой доходностью по облигациям служит отметка 6% годовых, а акции рассматриваются с дивидендной доходность свыше 5% годовых.</p>
+      <div class="column-offset pl05r pr05r">
+        <p class=" size-14 weight-300"><span class="bold">Ч</span>тобы облигация была отобрана в портфель, она должна обладать высоким кредитным рейтингом от Standard & Poor's, Moody's и Fitch для корпоративных облигаций. Целевой доходностью по облигациям служит отметка 6% годовых, а акции рассматриваются с дивидендной доходность свыше 5% годовых.</p>
+      </div>
     </div>
     <div class="column-2 pt05r">
-      <p class="column-offset pl05r pr05r size-14 weight-300"><span class="bold">К</span>роме того, активы в рамках стратегии должны входить в индекс S&P500 или в основные региональные индексы (для неамериканских эмитентов). Показатели TDB/EBITDA и TDB/Assets не выше средних значений по отрасли.</p>
+      <div class="column-offset pl05r pr05r">
+        <p class="size-14 weight-300"><span class="bold">К</span>роме того, активы в рамках стратегии должны входить в индекс S&P500 или в основные региональные индексы (для неамериканских эмитентов). Показатели TDB/EBITDA и TDB/Assets не выше средних значений по отрасли.</p>
+      </div>
     </div>
   </div>
   <div class="clearfix"></div>

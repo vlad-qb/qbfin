@@ -130,7 +130,7 @@
   <div class="column-container pt05r">
     <div class="column">
       <h3 class="w288 auto h40 line-h40 bg-gray2 text-center size-12 color-white"> ИНВЕСТИЦИОННАЯ АКТУАЛЬНОСТЬ СТРАТЕГИИ </h3>
-      <div class="column-offset">
+      <div class="pl05r pr05r">
         <div class="title-line-grey"></div>
       </div>
     </div>

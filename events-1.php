@@ -161,24 +161,35 @@
   </div>
   <div class="clearfix"></div>
   <div class="column-container">
-    <div class="column-2">
+    <div class="column-2 mt05r">
       <div class="column-offset">
-        <div class="mt10r">
-          <h2 class="size-12 uppercase line-h30 mt20"><span class="color-teal">Обзоры</span>
+        <div class="">
+          <h2 class="size-12 uppercase line-h30"><span class="color-teal">Обзоры</span>
           &nbsp <a href="/reviews-1.php" class="gray-hover">СКОЛЬКО ДЕНЕГ ПРИДЕТСЯ НАПЕЧАТАТЬ ЕВРОПЕЙСКОМУ ЦБ, ЧТОБЫ ВОЗРОДИТЬ ЕВРОПЕЙСКУЮ ЭКОНОМИКУ</a> &nbsp <span class="color-teal">></span></h2>
-          
-          <h2 class="size-12 uppercase line-h30 mt20"><span class="color-teal">ПРЕССА О НАС</span>
-          &nbsp <a href="/press-about-us.php" class="gray-hover">ПРЕМИИ «INVESTOR AWARDS» 2015 (INVESTORAWARDS)</a> &nbsp <span class="color-teal">></span></h2>
-        </div>
+         </div>
       </div>
     </div>
     <div class="column-2 mt05r">
       <div class="column-offset">
         <div class="w100r">
-          <h2 class="size-12 uppercase line-h30 mt20"><span class="color-teal">ЭКСПЕРТ</span>
+          <h2 class="size-12 uppercase line-h30"><span class="color-teal">ЭКСПЕРТ</span>
           &nbsp <a href="/expert.php" class="gray-hover">ЖИЗНЬ ПОСЛЕ ДЕОФШОРИЗАЦИИ - ПРОЕКТ: SPEAR'S RUSSIA</a> &nbsp <span class="color-teal">></span></h2>
-          
-          <h2 class="size-12 uppercase line-h30 mt20"><span class="color-teal">АКЦИИ</span>
+        </div>
+      </div>
+    </div>
+    <div class="clearfix"></div>
+    <div class="column-2 mt02r">
+      <div class="column-offset">
+        <div class="">
+          <h2 class="size-12 uppercase line-h30"><span class="color-teal">ПРЕССА О НАС</span>
+          &nbsp <a href="/press-about-us.php" class="gray-hover">ПРЕМИИ «INVESTOR AWARDS» 2015 (INVESTORAWARDS)</a> &nbsp <span class="color-teal">></span></h2>
+        </div>
+      </div>
+    </div>
+    <div class="column-2 mt02r">
+      <div class="column-offset">
+        <div class="w100r">
+          <h2 class="size-12 uppercase line-h30"><span class="color-teal">АКЦИИ</span>
           &nbsp <a href="/shares.php" class="gray-hover">ОБЗОР КОМПАНИИ ALIBABA GROUP</a> &nbsp <span class="color-teal">></span></h2>
         </div>
       </div>

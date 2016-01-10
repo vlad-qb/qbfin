@@ -182,10 +182,10 @@
 
       </div>
       <div class="border-grey-top mt10">
-        <h2 class="size-12 uppercase line-h50 ml10 mr20"><a href="/markets-review-08-2015.php" class="gray-hover bold">ГОДОВОЙ ОБЗОР РЫНКОВ </a><span class="color-teal weight-300">></span></h2>
-        <h4 class="size-12 line-h16 ml10 mr20"><span class="color-teal weight-300">2015 </span><span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span><a href="/archive-news.php" class="gray-hover"> архив</a></h4>
+        <h2 class="size-12 uppercase line-h50"><a href="/markets-review-08-2015.php" class="gray-hover bold">ГОДОВОЙ ОБЗОР РЫНКОВ </a><span class="color-teal weight-300">></span></h2>
+        <h4 class="size-12 line-h16"><span class="color-teal weight-300">2015 </span><span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span><a href="/archive-news.php" class="gray-hover"> архив</a></h4>
         <br/>
-        <h4 class="size-14 line-h20 ml10 h60 overflow-hidden"><a href="/markets-review-08-2015.php" class="gray-hover h60 ellipsis">По итогам недели, с окончанием 28 августа, основные мировые биржевые индексы закрылись разнонаправленно. Главной темой для инвесторов остался вопрос замедления темпов роста экономики Китая... </a><span class="color-teal weight-300">></span></h4>
+        <h4 class="size-14 line-h20 h60 overflow-hidden"><a href="/markets-review-08-2015.php" class="gray-hover h60 ellipsis">По итогам недели, с окончанием 28 августа, основные мировые биржевые индексы закрылись разнонаправленно. Главной темой для инвесторов остался вопрос замедления темпов роста экономики Китая... </a><span class="color-teal weight-300">></span></h4>
       </div>
     </div>
   </div>
