@@ -13,6 +13,7 @@
     <link href="/css/gallery.css" rel="stylesheet">
     <link href="/css/blocks.css" rel="stylesheet">
     <link href="/css/forms.css" rel="stylesheet">
+    <link href="/css/theme.css" rel="stylesheet">
     <!-- HTML5 for IE8 -->
     <!--[if lt IE 9]>
     <script src="js/html5shiv.min.js"></script>
@@ -85,10 +86,11 @@
         </div>
       </div>
       <div class="column-2 content-margin">
-        <div class="column-offset bg-white text-center pt05r">
-          <h2 class="size-18 color-teal uppercase text-center line-h110">КОНТАКТЫ</h2>
-          <p class="size-11 line-h20 text-justify">
-            <span class="bold">ФИЛИАЛЫ И ПРЕДСТАВИТЕЛЬСТВА </span> <span class="color-teal size-12 weight-300"> QBF ||| investment</span><span class="bold"> РАСПОЛОЖЕНЫ В ГОРОДАХ РОССИИ: МОСКВА, САНКТ-ПЕТЕРБУРГ, БЕЛГОРОД, ЕКАТЕРИНБУРГ, А ТАКЖЕ НА ТЕРРИТОРИИ УКРАИНЫ - КИЕВ.</span>
+        <div class="column-offset bg-white text-center pt50">
+          <h2 class="title">КОНТАКТЫ</h2>
+          <p class="description">
+            <span class="bold l">ФИЛИАЛЫ И ПРЕДСТАВИТЕЛЬСТВА </span> 
+            <span class="company pl05 pr05"> QBF ||| investment</span><span class="bold"> РАСПОЛОЖЕНЫ В ГОРОДАХ РОССИИ: МОСКВА, САНКТ-ПЕТЕРБУРГ, БЕЛГОРОД, ЕКАТЕРИНБУРГ, А ТАКЖЕ НА ТЕРРИТОРИИ УКРАИНЫ - КИЕВ.</span>
             <br/><br/>
             <span class="bold">ВОСПОЛЬЗУЙТЕСЬ ФОРМОЙ ОБРАТНОЙ СВЯЗИ, ЧТОБЫ ЗАДАТЬ ИНТЕРЕСУЮЩИЙ ВАС ВОПРОС ПО ИНВЕСТИЦИОННОМУ БИЗНЕСУ ИЛИ СВЯЖИТЕСЬ С НАШИМИ СПЕЦИАЛИСТАМИ В КОНКРЕННОМ ОФИСЕ ПО ТЕЛЕФОНУ ИЛИ ЭЛЕКТРОННОЙ ПОЧТЕ.</span>
           </p>

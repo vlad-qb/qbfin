@@ -221,3 +221,11 @@
 .border-darkgray2-bottom{
     border-bottom:1px solid #7f7f7f;
 }
+.social-offset img{opacity:1;}
+.social-offset img:hover{
+    opacity:0.8;
+    -webkit-transition:all 0.4s ease-out;
+    -moz-transition:all 0.4s ease-out;
+    -o-transition:all 0.4s ease-out;
+    transition:all 0.4s ease-out
+}

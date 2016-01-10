@@ -13,6 +13,7 @@
     <link href="/css/gallery.css" rel="stylesheet">
     <link href="/css/blocks.css" rel="stylesheet">
     <link href="/css/forms.css" rel="stylesheet">
+    <link href="/css/theme.css" rel="stylesheet">
     <!-- HTML5 for IE8 -->
     <!--[if lt IE 9]>
     <script src="js/html5shiv.min.js"></script>
@@ -97,14 +98,14 @@
         </div>
       </div>
       <div class="column-2 content-margin">
-        <div class="column-offset pl05r pr05r bg-white text-center pt05r">
-          <h2 class="size-18 color-teal uppercase text-center line-h30">ДЕПОЗИТНЫЙ СРЕДНЕВЗВЕШЕННЫЙ ПОРТФЕЛЬ</h2>
-          <p class="size-11 line-h20 pt05r text-justify bold">
+        <div class="column-offset pl05r pr05r bg-white text-center pt50">
+          <h2 class="title">ДЕПОЗИТНЫЙ СРЕДНЕВЗВЕШЕННЫЙ ПОРТФЕЛЬ</h2>
+          <p class="description">
 
               С НАЧАЛА ЯНВАРЯ 2014 ГОДА ДО КОНЦА ОКТЯБРЯ 2014 ГОДА КУРС РУБЛЯ ПО ОТНОШЕНИЮ К ДОЛЛАРУ ОСЛАБ БОЛЕЕ ЧЕМ НА 20% И ДОСТИГ 43 РУБЛЕЙ ЗА 1 ДОЛЛАР США. ОДНАКО ДАЛЬНЕЙШЕЕ УКРЕПЛЕНИЕ ДОЛЛАРА ВЫЗЫВАЕТ У АНАЛИТИКОВ ОПРЕДЕЛЕННЫЕ СОМНЕНИЯ.
           </p>
-          <p class="size-11 line-h20 pt05r text-justify bold">
-              В ЭТОЙ СВЯЗИ ИНВЕСТИЦИИ В ДОЛЛАРОВЫЕ АКТИВЫ (ВАЛЮТА, АКЦИИ, ОБЛИГАЦИИ И ETF) ПОСРЕДСТВОМ ОБМЕНА РУБЛЕЙ НА ДОЛЛАРЫ МОГУТ ОКАЗАТЬСЯ РИСКОВАННЫМИ ИЗ-ЗА ВОЗМОЖНОСТИ СТАБИЛИЗАЦИИ РУБЛЯ ПО ОТНОШЕНИЮ К АМЕРИКАНСКОМУ ДОЛЛАРУ.
+          <p class="description pt05r">
+              В ЭТОЙ СВЯЗИ ИНВЕСТИЦИИ В ДОЛЛАРОВЫЕ АКТИВЫ (ВАЛЮТА, АКЦИИ, ОБЛИГАЦИИ И ETF) ПОСРЕДСТВОМ ОБМЕНА РУБЛЕЙ НА ДОЛЛАРЫ МОГУТ ОКАЗАТЬСЯ РИСКОВАННЫМИ ИЗ-ЗА ВОЗМОЖНОСТИ СТАБИЛИЗАЦИИ РУБЛЯ ПО ОТНОШЕНИЮ К АМЕРИКАНСКОМУ ДОЛЛАРУ.
 
           </p>
           <div class="w100r mt05r text-center">

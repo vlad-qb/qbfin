@@ -13,6 +13,7 @@
     <link href="/css/gallery.css" rel="stylesheet">
     <link href="/css/blocks.css" rel="stylesheet">
     <link href="/css/forms.css" rel="stylesheet">
+    <link href="/css/theme.css" rel="stylesheet">
     <!-- HTML5 for IE8 -->
     <!--[if lt IE 9]>
     <script src="js/html5shiv.min.js"></script>
@@ -105,10 +106,10 @@
         </div>
       </div>
       <div class="column-2 content-margin">
-        <div class="column-offset bg-white text-center pt05r">
-          <h2 class="size-18 color-teal uppercase text-center line-h30">ЭКСПЕРТ</h2>
-		  <p class="size-11 line-h20 text-justify pt05r">
-            <span class="color-teal weight-300">18.07.2014</span> <span class="color-whitesmoke">•</span> <span class="bold">СКОЛЬКО ДЕНЕГ ПРИДЕТСЯ НАПЕЧАТАТЬ ЕВРОПЕЙСКОМУ ЦБ, ЧТОБЫ ВОЗРОДИТЬ ЕВРОПЕЙСКУЮ ЭКОНОМИКУ</span>
+        <div class="column-offset bg-white text-center pt50">
+          <h2 class="title">ЭКСПЕРТ</h2>
+		      <p class="description">
+            <span class="date">18.07.2014</span> <span class="color-whitesmoke pl05 pr05">•</span> СКОЛЬКО ДЕНЕГ ПРИДЕТСЯ НАПЕЧАТАТЬ ЕВРОПЕЙСКОМУ ЦБ, ЧТОБЫ ВОЗРОДИТЬ ЕВРОПЕЙСКУЮ ЭКОНОМИКУ
           </p>
           <div class="w100r mt05r text-center">
             <ul class="social-offset auto">

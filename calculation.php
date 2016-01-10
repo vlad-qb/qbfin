@@ -13,6 +13,7 @@
     <link href="/css/gallery.css" rel="stylesheet">
     <link href="/css/blocks.css" rel="stylesheet">
     <link href="/css/forms.css" rel="stylesheet">
+    <link href="/css/theme.css" rel="stylesheet">
     <!-- HTML5 for IE8 -->
     <!--[if lt IE 9]>
     <script src="js/html5shiv.min.js"></script>
@@ -117,10 +118,10 @@
         </div>
       </div>
       <div class="column-2 content-margin">
-        <div class="column-offset bg-white text-center pt05r">
-          <h2 class="size-18 line-h50 color-teal uppercase"> РАСКРЫТИЕ ИНФОРМАЦИИ </h2>
-          <p class="size-14 line-h30 text-center mt30 pl05r pr05r">
-		        <a href="#"> Перечень инсайдерской информации </a><span class="color-teal">></span><br/>
+        <div class="column-offset bg-white text-center pt50">
+          <h2 class="title"> РАСКРЫТИЕ ИНФОРМАЦИИ </h2>
+          <p class="description">
+		        <a href="#"> Перечень инсайдерской информации </a><span class="color-teal">></span><br/>
 		        <a href="#"> Критерии отнесения клиентов к категории иностранных налогоплательщиков </a><span class="color-teal">></span>
           </p>
           <div class="w100r mt05r text-center">

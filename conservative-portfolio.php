@@ -13,6 +13,7 @@
     <link href="/css/gallery.css" rel="stylesheet">
     <link href="/css/blocks.css" rel="stylesheet">
     <link href="/css/forms.css" rel="stylesheet">
+    <link href="/css/theme.css" rel="stylesheet">
     <!-- HTML5 for IE8 -->
     <!--[if lt IE 9]>
     <script src="js/html5shiv.min.js"></script>
@@ -97,9 +98,9 @@
         </div>
       </div>
       <div class="column-2 content-margin">
-        <div class="column-offset bg-white text-center pt05r">
-          <h2 class="size-18 color-teal uppercase text-center line-h110">КОНСЕРВАТИВНый портфель</h2>
-          <p class="size-11 line-h20 text-justify">
+        <div class="column-offset bg-white text-center pt50">
+          <h2 class="title">КОНСЕРВАТИВНый портфель</h2>
+          <p class="description">
             <span class="bold">
             ДАННЫЙ ПОРТФЕЛЬ - ПОДХОДЯЩЕЕ РЕШЕНИЕ ДЛЯ ТЕХ, КТО ВЫБИРАЕТ НАДЕЖНОСТЬ И РАЗУМНЫЙ УРОВЕНЬ ПРИБЫЛИ. В РАМКАХ ПОРТФЕЛЯ ПРЕОБЛАДАЮТ ИНСТРУМЕНТЫ С ФИКСИРОВАННОЙ ДОХОДНОСТЬЮ, ЧТО ОБЕСПЕЧИВАЕТ СТАБИЛЬНОСТЬ ИНВЕСТИЦИЙ И ЗАЩИТУ ОТ ИНФЛЯЦИОННЫХ РИСКОВ.</span>
           </p>

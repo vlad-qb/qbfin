@@ -13,6 +13,7 @@
     <link href="/css/gallery.css" rel="stylesheet">
     <link href="/css/blocks.css" rel="stylesheet">
     <link href="/css/forms.css" rel="stylesheet">
+    <link href="/css/theme.css" rel="stylesheet">
     <link href='https://fonts.googleapis.com/css?family=Lato:400,300,700,100' rel='stylesheet' type='text/css'>
     <!-- HTML5 for IE8 -->
     <!--[if lt IE 9]>
@@ -118,12 +119,12 @@
       </div>
     </div>
     <div class="column-2 content-margin">
-      <div class="column-offset bg-white text-center pt05r">
-        <h2 class="size-18 line-h50 color-teal uppercase"> ЛИЦЕНЗИИ </h2>
-        <p class="size-11 line-h20 text-center mt30 pl05r pr05r">
-          <span class="bold"> ОРИЕНТИРОВАННЫЙ НА КЛИЕНТА ПОДХОД К ВЕДЕНИЮ БРОКЕРСКОГО БИЗНЕСА </span>
+      <div class="column-offset bg-white text-center pt50">
+        <h2 class="title"> ЛИЦЕНЗИИ </h2>
+        <p class="description" style="text-align:center;">
+          ОРИЕНТИРОВАННЫЙ НА КЛИЕНТА ПОДХОД К ВЕДЕНИЮ БРОКЕРСКОГО БИЗНЕСА
         </p>
-        <p class="weight-300 text-left size-14 line-h22 mt10 pl05r pr05r pb05r">
+        <p class="description-2 mt10">
           <span> надежность </span>
           <span class="size-10 color-teal pl05 pr05"> •︎ </span>
           <span> полная конфиденциальность </span>

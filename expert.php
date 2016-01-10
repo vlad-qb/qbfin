@@ -13,6 +13,7 @@
     <link href="/css/gallery.css" rel="stylesheet">
     <link href="/css/blocks.css" rel="stylesheet">
     <link href="/css/forms.css" rel="stylesheet">
+    <link href="/css/theme.css" rel="stylesheet">
     <!-- HTML5 for IE8 -->
     <!--[if lt IE 9]>
     <script src="js/html5shiv.min.js"></script>
@@ -105,12 +106,14 @@
         </div>
       </div>
       <div class="column-2 content-margin">
-        <div class="column-offset bg-white text-center pt05r">
-          <h2 class="size-18 color-teal uppercase text-center line-h30">ЭКСПЕРТ</h2>
-		  <p class="text-center size-12 pt05r"><span class="color-teal text-center">12.07.2015</span> <span class="color-whitesmoke">•</span> <a class="bold" href="/expert-1.php">СТРАТЕГИЯ В ПЕРИОД НЕОПРЕДЕЛЕННОСТИ</a></p><br/>
-        <p class="size-12 line-h20 ml40 mr40 text-justify">
-		  <a href="/expert-1.php"><span class="size-14 gray-hover text-left">В условиях геополитической нестабильности недвижимость становится одним из самых надежных способов сохранения капитала, уверены Николай Михайлов и Дмитрий Лепешкин... </span></a>
-        </p>
+        <div class="column-offset bg-white text-center pt50">
+          <h2 class="title">ЭКСПЕРТ</h2>
+		      <p class="description" style="text-align:center;">
+            <span class="date" style="float:none;">12.07.2015</span> <span class="color-whitesmoke pl05 pr05">•</span> СТРАТЕГИЯ В ПЕРИОД НЕОПРЕДЕЛЕННОСТИ
+          </p>
+          <p class="description-2">
+    		    В условиях геополитической нестабильности недвижимость становится одним из самых надежных способов сохранения капитала, уверены Николай Михайлов и Дмитрий Лепешкин...
+          </p>
           <div class="w100r mt05r text-center">
             <ul class="social-offset auto">
               <li class="w25r l">

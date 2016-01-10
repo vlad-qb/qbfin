@@ -13,6 +13,7 @@
     <link href="/css/gallery.css" rel="stylesheet">
     <link href="/css/blocks.css" rel="stylesheet">
     <link href="/css/forms.css" rel="stylesheet">
+    <link href="/css/theme.css" rel="stylesheet">
     <!-- HTML5 for IE8 -->
     <!--[if lt IE 9]>
     <script src="js/html5shiv.min.js"></script>
@@ -105,10 +106,10 @@
         </div>
       </div>
       <div class="column-2 content-margin">
-        <div class="column-offset bg-white text-center pt05r">
-        <h2 class="size-18 color-teal uppercase text-center line-h110">СОБЫТИЯ</h2>
-        <p class="size-12 line-h20 ml40 mr40 text-center">
-          <span class="color-teal">15.06.2015</span> <span class="color-whitesmoke">•</span> <a href="/events-1.php"><span class="bold gray-hover">ЭФФЕКТИВНЫЕ ИНВЕСТИЦИИ В НЕДВИЖИМОСТЬ НОВОГО ФОРМАТА</span></a>
+        <div class="column-offset bg-white text-center pt50">
+        <h2 class="title">СОБЫТИЯ</h2>
+        <p class="description">
+          <span class="date">15.06.2015</span> <span class="color-whitesmoke pl05 pr05">•</span> ЭФФЕКТИВНЫЕ ИНВЕСТИЦИИ В НЕДВИЖИМОСТЬ НОВОГО ФОРМАТА
         </p>
           <div class="w100r mt05r text-center">
             <ul class="social-offset auto">

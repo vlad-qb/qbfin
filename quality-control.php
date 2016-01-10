@@ -13,6 +13,7 @@
     <link href="/css/gallery.css" rel="stylesheet">
     <link href="/css/blocks.css" rel="stylesheet">
     <link href="/css/forms.css" rel="stylesheet">
+    <link href="/css/theme.css" rel="stylesheet">
     <!-- HTML5 for IE8 -->
     <!--[if lt IE 9]>
     <script src="js/html5shiv.min.js"></script>
@@ -85,11 +86,10 @@
         </div>
       </div>
       <div class="column-2 content-margin">
-        <div class="column-offset bg-white text-center pt05r pl05r pr05r">
-          <h2 class="size-18 color-teal uppercase text-center line-h50">КОНТАКТЫ</h2>
-          <p class="size-11 line-h20 mt30 text-justify">
-            <span class="bold"> КОНТРОЛЬ КАЧЕСТВА </span> 
-			<span class="bold">  ФИЛИАЛЫ И ПРЕДСТАВИТЕЛЬСТВА </span><span class="color-teal size-12 weight-300"> QBF ||| investment</span> <span class="bold">РАСПОЛОЖЕНЫ В ГОРОДАХ РОССИИ: МОСКВА, САНКТ-ПЕТЕРБУРГ, БЕЛГОРОД, ЕКАТЕРИНБУРГ, А ТАКЖЕ НА ТЕРРИТОРИИ УКРАИНЫ - КИЕВ. </span>
+        <div class="column-offset bg-white text-center pt50">
+          <h2 class="title">КОНТРОЛЬ КАЧЕСТВА</h2>
+          <p class="description">
+			     <span class="bold l">  ФИЛИАЛЫ И ПРЕДСТАВИТЕЛЬСТВА </span><span class="company pl05 pr05"> QBF ||| investment</span> <span class="bold">РАСПОЛОЖЕНЫ В ГОРОДАХ РОССИИ: МОСКВА, САНКТ-ПЕТЕРБУРГ, БЕЛГОРОД, ЕКАТЕРИНБУРГ, А ТАКЖЕ НА ТЕРРИТОРИИ УКРАИНЫ - КИЕВ. </span>
           </p>
           <div class="w100r mt05r text-center">
             <ul class="social-offset auto">

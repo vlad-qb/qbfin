@@ -13,6 +13,7 @@
       <link href="/css/gallery.css" rel="stylesheet">
       <link href="/css/blocks.css" rel="stylesheet">
       <link href="/css/forms.css" rel="stylesheet">
+      <link href="/css/theme.css" rel="stylesheet">
       <!-- HTML5 for IE8 -->
       <!--[if lt IE 9]>
         <script src="js/html5shiv.min.js"></script>
@@ -117,10 +118,10 @@
         </div>
       </div>
       <div class="column-2 content-margin">
-        <div class="column-offset bg-white text-center pt05r">
-          <h2 class="size-18 line-h50 color-teal uppercase"> О НАС </h2>
-          <p class="size-11 line-h20 text-justify mt30 pl05r pr05r">
-            <span class="color-teal size-12 weight-300"> QBF ||| investment </span> - <span class="bold"> МЕЖДУНАРОДНАЯ ИНВЕСТИЦИОННАЯ КОМПАНИЯ, ПРЕДОСТАВЛЯЮЩАЯ УСЛУГИ ПО УПРАВЛЕНИЮ АКТИВАМИ НА ФИНАНСОВЫХ РЫНКАХ СЕВЕРНОЙ АМЕРИКИ, ЕВРОПЫ И РОССИИ. </span>
+        <div class="column-offset bg-white text-center pt50">
+          <h2 class="title"> О НАС </h2>
+          <p class="description">
+            <span class="company"> QBF ||| investment </span><span class="sep"> - </span> МЕЖДУНАРОДНАЯ ИНВЕСТИЦИОННАЯ КОМПАНИЯ, ПРЕДОСТАВЛЯЮЩАЯ УСЛУГИ ПО УПРАВЛЕНИЮ АКТИВАМИ НА ФИНАНСОВЫХ РЫНКАХ СЕВЕРНОЙ АМЕРИКИ, ЕВРОПЫ И РОССИИ.
           </p>
           <div class="w100r mt05r text-center">
             <ul class="social-offset auto">

@@ -13,6 +13,7 @@
     <link href="/css/gallery.css" rel="stylesheet">
     <link href="/css/blocks.css" rel="stylesheet">
     <link href="/css/forms.css" rel="stylesheet">
+    <link href="/css/theme.css" rel="stylesheet">
     <!-- HTML5 for IE8 -->
     <!--[if lt IE 9]>
     <script src="js/html5shiv.min.js"></script>
@@ -97,12 +98,10 @@
         </div>
       </div>
       <div class="column-2 content-margin">
-        <div class="column-offset bg-white text-center pt05r">
-          <h2 class="size-18 color-teal uppercase text-center line-h110">ХЕДЖИРОВАНИЕ РУБЛЕВЫХ РИСКОВ</h2>
-          <p class="size-11 line-h20 text-justify">
-            <span class="bold">
-              В РАМКАХ ДАННОГО ПОРТФЕЛЯ РЕАЛИЗУЕТСЯ СТРАТЕГИЯ, ПОЗВОЛЯЮЩАЯ ЗАЩИТИТЬ РУБЛЕВЫЕ АКТИВЫ ИНВЕСТОРА ОТ СНИЖЕНИЯ СТОИМОСТИ РУБЛЯ ПО ОТНОШЕНИЮ К АМЕРИКАНСКОМУ ДОЛЛАРУ, ЧТО ДЕЛАЕТ ЭТУ СТРАТЕГИЮ ВЕСЬМА АКТУАЛЬНОЙ ВВИДУ ТЕКУЩИХ ГЕОПОЛИТИЧЕСКИХ И ЭКОНОМИЧЕСКИХ УСЛОВИЙ В РОССИИ.
-            </span>
+        <div class="column-offset bg-white text-center pt50">
+          <h2 class="title">ХЕДЖИРОВАНИЕ РУБЛЕВЫХ РИСКОВ</h2>
+          <p class="description">
+              В РАМКАХ ДАННОГО ПОРТФЕЛЯ РЕАЛИЗУЕТСЯ СТРАТЕГИЯ, ПОЗВОЛЯЮЩАЯ ЗАЩИТИТЬ РУБЛЕВЫЕ АКТИВЫ ИНВЕСТОРА ОТ СНИЖЕНИЯ СТОИМОСТИ РУБЛЯ ПО ОТНОШЕНИЮ К АМЕРИКАНСКОМУ ДОЛЛАРУ, ЧТО ДЕЛАЕТ ЭТУ СТРАТЕГИЮ ВЕСЬМА АКТУАЛЬНОЙ ВВИДУ ТЕКУЩИХ ГЕОПОЛИТИЧЕСКИХ И ЭКОНОМИЧЕСКИХ УСЛОВИЙ В РОССИИ.
           </p>
           <div class="w100r mt05r text-center">
             <ul class="social-offset auto">
@@ -130,19 +129,23 @@
   <div class="column-container pt05r">
     <div class="column">
       <h3 class="text-center size-12 color-white"><div class="w288 line-h40 auto bg-gray2">ИНВЕСТИЦИОННАЯ АКТУАЛЬНОСТЬ СТРАТЕГИИ</div></h3>
-      <div class="column-offset">
-       <div class="title-line-grey"></div>
+      <div class="pl05r pr05r">
+        <div class="title-line-grey"></div>
       </div>
     </div>
   </div>
-  <div class="column-container size-14 color-grey1 line-h26">
-    <div class="column-2">
-      <p class="pt05r ml07r mr10r size-14 weight-300"><span class="bold">Н</span>а фоне взаимных санкций России, ЕС и США в течение последнего полугодия отмечается резкое сокращение притока инвестиционного капитала на российский рынок. Мы ожидаем продолжения сложившейся внешнеэкономической ситуации в течение следующего года, а также возможность сохранения негативного влияния санкций на экономический рост отечественной экономики в последующие 2-3 года.</p>
-    </div>
-    <div class="column-2">
-      <p class="pt05r ml07r mr10r size-14 weight-300"><span class="bold">Н</span>аравне с этим существуют трудности во внутриэкономической политике страны: ЦБ находится перед сложным выбором - стимулирование экономического роста либо сдерживание темпов инфляции.</p>
-    </div>
-    <div class="clearfix"></div>
+  <div class="column-container pt05r size-14 color-grey1 line-h26">
+      <div class="column-2">
+        <div class="column-offset">
+          <p class="pt05r size-14 weight-300"><span class="bold">Н</span>а фоне взаимных санкций России, ЕС и США в течение последнего полугодия отмечается резкое сокращение притока инвестиционного капитала на российский рынок. Мы ожидаем продолжения сложившейся внешнеэкономической ситуации в течение следующего года, а также возможность сохранения негативного влияния санкций на экономический рост отечественной экономики в последующие 2-3 года.</p>
+        </div>
+      </div>
+      <div class="column-2">
+        <div class="column-offset">
+          <p class="pt05r size-14 weight-300"><span class="bold">Н</span>аравне с этим существуют трудности во внутриэкономической политике страны: ЦБ находится перед сложным выбором - стимулирование экономического роста либо сдерживание темпов инфляции.</p>
+        </div>
+      </div>
+      <div class="clearfix"></div>
   </div>
   <!--Text-->
   <!--Parallax-text-->

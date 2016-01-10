@@ -13,6 +13,7 @@
     <link href="/css/gallery.css" rel="stylesheet">
     <link href="/css/blocks.css" rel="stylesheet">
     <link href="/css/forms.css" rel="stylesheet">
+    <link href="/css/theme.css" rel="stylesheet">
     <!-- HTML5 for IE8 -->
     <!--[if lt IE 9]>
     <script src="js/html5shiv.min.js"></script>
@@ -105,12 +106,12 @@
         </div>
       </div>
       <div class="column-2 content-margin">
-        <div class="column-offset bg-white text-center pt05r">
-          <h2 class="size-18 line-h50 color-teal uppercase"> АРХИВ : КОМПАНИЯ В СМИ </h2>
-          <p class="size-11 line-h20 text-justify mt30 pl05r pr05r">
-		        <span class="bold"> ЭКСПЕРТЫ И АНАЛИТИКИ </span>
-            <span class="color-teal weight-300"> QBF ||| investment </span> 
-            <span class="bold"> КОММЕНТИРУЮТ В СМИ ТЕКУЩИЕ СОБЫТИЯ РОССИЙСКОЙ И МЕЖДУНАРОДНОЙ ЭКОНОМИКИ. </span>
+        <div class="column-offset bg-white text-center pt50">
+          <h2 class="title"> АРХИВ : КОМПАНИЯ В СМИ </h2>
+          <p class="description">
+		        <span class="l"> ЭКСПЕРТЫ И АНАЛИТИКИ </span>
+            <span class="company"> QBF ||| investment </span> 
+            КОММЕНТИРУЮТ В СМИ ТЕКУЩИЕ СОБЫТИЯ РОССИЙСКОЙ И МЕЖДУНАРОДНОЙ ЭКОНОМИКИ.
           </p>
           <div class="w100r mt05r text-center">
             <ul class="social-offset auto">

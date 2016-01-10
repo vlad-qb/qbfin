@@ -13,6 +13,7 @@
     <link href="/css/gallery.css" rel="stylesheet">
     <link href="/css/blocks.css" rel="stylesheet">
     <link href="/css/forms.css" rel="stylesheet">
+    <link href="/css/theme.css" rel="stylesheet">
     <!-- HTML5 for IE8 -->
     <!--[if lt IE 9]>
     <script src="js/html5shiv.min.js"></script>
@@ -106,13 +107,14 @@
         </div>
       </div>
       <div class="column-2 content-margin">
-        <div class="column-offset bg-white text-center pt05r">
-          <h2 class="size-18 color-teal uppercase text-center line-h110">15.02.2015 <span class="color-whitesmoke">◼</span> РЫНКИ ЗА 2014 ГОД</h2>
-          <p class="size-11 line-h20 ml40 mr40 text-justify bold">
-          ПО ИТОГАМ НЕДЕЛИ, С ОКОНЧАНИЕМ 28 АВГУСТА, ОСНОВНЫЕ МИРОВЫЕ БИРЖЕВЫЕ ИНДЕКСЫ ЗАКРЫЛИСЬ РАЗНОНАПРАВЛЕННО. ГЛАВНОЙ ТЕМОЙ ДЛЯ ИНВЕСТОРОВ ОСТАЛСЯ ВОПРОС ЗАМЕДЛЕНИЯ ТЕМПОВ РОСТА ЭКОНОМИКИ КИТАЯ, А ТАКЖЕ СВЯЗАННОЕ С ЭТИМ ПАДЕНИЕ ФОНДОВЫХ РЫНКОВ ПОДНЕБЕСНОЙ. 
-          <br><br>
-          НА ТЕКУЩЕЙ НЕДЕЛЕ МИРОВОЕ ИНВЕСТИЦИОННОЕ СООБЩЕСТВО СТАЛО СВИДЕТЕЛЕМ ВВЕДЕНИЯ ОЧЕРЕДНЫХ ДОПОЛНИТЕЛЬНЫХ СТИМУЛИРУЮЩИХ МЕР НАРОДНЫМ БАНКОМ КИТАЯ.
-        </p>
+        <div class="column-offset bg-white text-center pt50">
+          <h2 class="title">15.02.2015 <span class="color-whitesmoke pl05 pr05">◼</span> РЫНКИ ЗА 2014 ГОД</h2>
+          <p class="description">
+            ПО ИТОГАМ НЕДЕЛИ, С ОКОНЧАНИЕМ 28 АВГУСТА, ОСНОВНЫЕ МИРОВЫЕ БИРЖЕВЫЕ ИНДЕКСЫ ЗАКРЫЛИСЬ РАЗНОНАПРАВЛЕННО. ГЛАВНОЙ ТЕМОЙ ДЛЯ ИНВЕСТОРОВ ОСТАЛСЯ ВОПРОС ЗАМЕДЛЕНИЯ ТЕМПОВ РОСТА ЭКОНОМИКИ КИТАЯ, А ТАКЖЕ СВЯЗАННОЕ С ЭТИМ ПАДЕНИЕ ФОНДОВЫХ РЫНКОВ ПОДНЕБЕСНОЙ. 
+          </p>
+          <p class="description">
+            НА ТЕКУЩЕЙ НЕДЕЛЕ МИРОВОЕ ИНВЕСТИЦИОННОЕ СООБЩЕСТВО СТАЛО СВИДЕТЕЛЕМ ВВЕДЕНИЯ ОЧЕРЕДНЫХ ДОПОЛНИТЕЛЬНЫХ СТИМУЛИРУЮЩИХ МЕР НАРОДНЫМ БАНКОМ КИТАЯ.
+          </p>
           <div class="w100r mt05r text-center">
             <ul class="social-offset auto">
               <li class="w25r l">

@@ -29,7 +29,7 @@
     </div>
     <div id="headblock" class="column-container text-center">
       <div class="column-3 content-margin pb02r">
-        <div class="column-offset bg-white pt35">
+        <div class="column-offset bg-white">
           <h3 class="size-18 color-teal line-h50"> СТРАТЕГИИ </h3>
           <div class="auto line-black line-h70 mt10" style="width:180px;"></div>
           <h3>
