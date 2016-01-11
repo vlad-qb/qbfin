@@ -4,14 +4,20 @@ jQuery( document ).ready(function() {
         $("html, body").animate({ scrollTop: 0 }, 600);
         return false;
     });
+    $( ".ARROW-FIXED" ).hide();
 });
 
 $( document ).scroll(function() {
   var h = $(document).height() - $(window).height();
   var scroll = $(window).scrollTop();
   var bottomscroll = h - scroll;
-  if(bottomscroll > 200){
+  if(scroll > 100){
     $( ".ARROW-FIXED" ).show();
+      if(bottomscroll > 200){
+        $( ".ARROW-FIXED" ).show();
+      }else{
+        $( ".ARROW-FIXED" ).hide();
+      }
   }else{
     $( ".ARROW-FIXED" ).hide();
   }
