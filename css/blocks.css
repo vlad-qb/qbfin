@@ -359,6 +359,7 @@
     .shpakov-desktop{display: block;}
     .shpakov-moblile{display: none;}
 .portfolio-menu .button .h{height: 90px;}
+.portfolio-menu .column-2 .button .h{height: 65px;}
 @media screen and (min-width: 1200px) {
     .column-2.content-margin{
         margin-top:-35px;
@@ -381,6 +382,11 @@
     #documents .w33r{width:50%;}
     #team .w33r{width:50%;}
     .portfolio-menu .column-3 .button .h{height: 75px;}
+    .portfolio-menu .column-2 .button .h div{
+        margin-top: 25px;
+        margin-left: 0%;
+        margin-right: 0%;
+    }
     .portfolio-menu .column-3 .button .h div{
         margin-top: 25px;
         margin-left: 0%;

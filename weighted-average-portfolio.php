@@ -150,42 +150,46 @@
           </div>
         </div>
       </div>
-      <div class="clearfix"></div>
-    <!--Text-->
-    <!--Parallax-text-->
     <div class="clearfix"></div>
   </div>
-    <div id="weighted-average-portfolio" class="img-ipo-portfolio-2 w100r mt05r cover fixed" style="background-attachment: fixed; background-position: center bottom;">
-      <div class="label w90r auto bg bg-green-label line-h40 text-center">
-        <div class="w33r l pt04r pb02r">
-            <div class="border-white2 auto w100 mb10"></div>
-            <p class="size-12 color-white weight-300">СУММА ИНВЕСТИЦИЙ</p>
-            <p class="size-12 color-white weight-300">от $300.000 тыс</p>
-            <div class="border-white2 auto w100 mt10 mb10"></div>
-            <p class="size-12 color-white weight-300">УРОВЕНЬ ЗАЩИТЫ КАПИТАЛА</p>
-            <p class="size-12 color-white weight-300">75%</p>
+  <!--Parallax-text-->
+    <div class="clearfix"></div>
+    <div
+      id="bond-option-portfolio"
+      class="img-ipo-portfolio-2 w100r mt05r cover fixed"
+      style="background-attachment: fixed; background-position: center center;">
+      <div class="w90r auto bg bg-green-label text-center">
+        <div class="column-container size-11 line-h22 color-white">
+          <div class="w33r l pt04r pb02r">
+            <div class="border-white2 w100 auto"></div>
+            <p class="weight-300 mt02r pt05r pb05r pl05r pr05r">СУММА ИНВЕСТИЦИЙ</p>
+            <p class="weight-300 mb02r pt05r pb05r pl05r pr05r">от $300.000 тыс</p>
+            <div class="border-white2 w100 auto"></div>
+            <p class="weight-300 mt05r pt05r pb05r pl05r pr05r">УРОВЕНЬ ЗАЩИТЫ КАПИТАЛА</p>
+            <p class="weight-300 pt05r pl05r pr05r">75%</p>
+          </div>
+          <div class="w33r l pt04r pb02r">
+            <div class="border-white2 w100 auto"></div>
+            <p class="weight-300 mt02r pt05r pb05r pl05r pr05r">ЛИКВИДНОСТЬ</p>
+            <p class="weight-300 mb02r pt05r pb05r pl05r pr05r">7 дней</p>
+            <div class="border-white2 w100 auto"></div>
+            <p class="weight-300 mt05r pt05r pb05r pl05r pr05r">МИНИМАЛЬНЫЙ СРОК ИНВЕСТИРОВАНИЯ</p>
+            <p class="weight-300 pt05r pl05r pr05r">1 год</p>
+          </div>
+          <div class="w33r l pt04r pb02r">
+            <div class="border-white2 w100 auto"></div>
+            <p class="weight-300 mt02r pt05r pb05r pl05r pr05r">ЦЕЛЕВАЯ ДОХОДНОСТЬ, $</p>
+            <p class="weight-300 mb02r pt05r pb05r pl05r pr05r">20-32%</p>
+            <div class="border-white2 w100 auto"></div>
+            <p class="weight-300 mt05r pt05r pl05r pr05r">ВОЗНАГРАЖДЕНИЕ УПРАВЛЯЮЩЕГО</p>
+            <p class="weight-300 pt05r pl05r pr05r">комиссия за успех: 30%</p>
+          </div>
+          <div class="clearfix"></div>
         </div>
-        <div class="w33r l pt04r pb02r">
-            <div class="border-white2 auto w100 mb10"></div>
-            <p class="size-12 color-white weight-300">ЛИКВИДНОСТЬ</p>
-            <p class="size-12 color-white weight-300">7 дней</p>
-            <div class="border-white2 auto w100 mt10 mb10"></div>
-            <p class="size-12 color-white weight-300">МИНИМАЛЬНЫЙ СРОК ИНВЕСТИРОВАНИЯ</p>
-            <p class="size-12 color-white weight-300">1 год</p>
-        </div>
-        <div class="w33r l pt04r pb02r">
-            <div class="border-white2 auto w100 mb10"></div>
-            <p class="size-12 color-white weight-300">ЦЕЛЕВАЯ ДОХОДНОСТЬ, $</p>
-            <p class="size-12 color-white weight-300">20-32%</p>
-            <div class="border-white2 auto w100 mt10 mb10"></div>
-            <p class="size-12 color-white weight-300">ВОЗНАГРАЖДЕНИЕ УПРАВЛЯЯЮЩЕГО</p>
-            <p class="size-12 color-white weight-300">комиссия за успех: 30%</p>
-        </div>
-        <div class="clearfix"></div>
       </div>
     </div>
     <div class="clearfix"></div>
-    <!--Parallax-text-->
+  <!--Parallax-text-->
     <!--Text-->
     <div class="column-container size-14 line-h20 color-grey1 pt05r">
       <h3 class="text-center bold">Структура портфеля</h3>
@@ -235,8 +239,8 @@
     <div class="clearfix"></div>
     <!-- PORTFOLIO MENU -->
     <div class="img-high-yield-strategy-2 w100r mt05r fixed" style="background-attachment: fixed;">
-      <div class="portfolio-menu bg-green-label w90r auto bg bg-label text-center color-white uppercase">
-        <div class="title-block-offset-2">
+      <div class="portfolio-menu pt02r bg-green-label w90r auto bg bg-label text-center color-white uppercase">
+        <div class="">
           <h2 class="size-12 line-h22 uppercase">ВАРИАНТЫ ВЫСОКОДОХОДНОЙ СТРАТЕГИИ</h2>
         </div>
         <div class="pl02r pr02r pt02r pb02r">
@@ -268,7 +272,7 @@
             <div class="column-offset">
               <a class="button color-white white-hover block" href="/weighted-average-portfolio.php">
                 <img class="icon icon-services pt03r pb03r" src="img/icons/icon-strongbox.svg">
-                <div class="mt10 h border-green-top border-green-bottom lightgreen-block-hover">
+                <div class="mt10 h border-green-top border-green-bottom bg-lightgreen">
                   <div class="size-12 line-h18 mt25 mb20 ml25r mr25r">
                     СРЕДНЕВЗВЕШЕННЫЙ портфель
                   </div>
@@ -279,13 +283,13 @@
           <div class="clearfix"></div>
         </div>
       </div>
-      <div class="portfolio-menu label w90r auto bg bg-label text-center color-white uppercase">
-        <div class="title-block-offset-2">
+      <div class="portfolio-menu label pt02r w90r auto bg bg-label text-center color-white uppercase">
+        <div class="">
           <h2 class="size-12 line-h22 uppercase">ВСЕ СТРАТЕГИИ ДОВЕРИТЕЛЬНОГО УПРАВЛЕНИЯ</h2>
         </div>
         <div class="pl02r pr02r pt02r pb02r">
           <div class="column-4">
-            <div class="ml05r mr05r mt30">
+            <div class="ml05r mr05r">
               <a class="button color-white white-hover block" href="/high-yield-strategy.php">
                 <img src="img/icons/icon-marker.svg" class="icon icon-services w50 h50">
                 <div class="mt10 h border-darkgray-top border-darkgray-bottom blue-block-hover">
@@ -295,7 +299,7 @@
             </div>
           </div>
           <div class="column-4">
-            <div class="ml05r mr05r mt30">
+            <div class="ml05r mr05r">
               <a class="button color-white white-hover block" href="/weighted-average-strategy.php">
                 <img src="img/icons/icon-marker.svg" class="icon icon-services w50 h50">
                 <div class="mt10 h border-darkgray-top border-darkgray-bottom green-block-hover">
@@ -305,7 +309,7 @@
             </div>
           </div>
           <div class="column-4">
-            <div class="ml05r mr05r mt30">
+            <div class="ml05r mr05r">
               <a class="button color-white white-hover block" href="/conservative-strategy.php">
                 <img src="img/icons/icon-marker.svg" class="icon icon-services w50 h50">
                 <div class="mt10 h border-darkgray-top border-darkgray-bottom orange-block-hover">
@@ -315,7 +319,7 @@
             </div>
           </div>
           <div class="column-4">
-            <div class="ml05r mr05r mt30">
+            <div class="ml05r mr05r">
               <a class="button color-white white-hover block" href="/strategy-for-the-protection-of-ruble-assets.php">
                 <img src="img/icons/icon-marker.svg" class="icon icon-services w50 h50">
                 <div class="mt10 h border-darkgray-top border-darkgray-bottom grey-block-hover">

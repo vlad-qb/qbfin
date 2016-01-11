@@ -127,36 +127,53 @@
     <div class="clearfix"></div>
 	<!-- CONTENT -->
 	<div id="content">
-    <div id="weighted-average-strategy" class="img-weighted-average-strategy-2 w100r mt05r cover bg-center fixed" style="background-attachment: fixed;">
-      <div class="label w90r auto bg bg-green-label text-center uppercase">
-        <div class="w33r l pt04r pb02r">
-            <img src="img/icons/icon-reit-sentence.svg" class="icon icon-services w90 h90">
-            <div class="pl05r pr05r">
-              <div class="mt10 border-green-top border-green-bottom lightgreen-block-hover">
-                <div class="size-12 line-h18 mt20 mb20 "><a class="color-white white-hover" href="/index-portfolio.php">ИНДЕКСНЫЙ ETF ПОРТФЕЛЬ</a></div>
-              </div>
+<!-- PORTFOLIO MENU -->
+    <div class="img-weighted-average-strategy-2 w100r mt05r fixed" style="background-attachment: fixed;">
+      <div class="portfolio-menu bg-green-label w90r auto bg bg-label text-center color-white uppercase">
+        <div class="pl02r pr02r pt02r pb02r">
+          <div class="column-3">
+            <div class="column-offset">
+              <a class="button color-white white-hover block" href="/index-portfolio.php">
+                <img class="icon icon-services pt03r pb03r" src="img/icons/icon-reit-sentence.svg">
+                <div class="mt10 h border-green-top border-green-bottom lightgreen-block-hover">
+                  <div class="size-12 line-h18 mt25 mb20 ml25r mr25r">
+                    ИНДЕКСНЫЙ ETF ПОРТФЕЛЬ
+                  </div>
+                </div>
+              </a>
             </div>
-        </div>
-        <div class="w33r l pt04r pb02r">
-            <img src="img/icons/icon-cogwheel.svg" class="icon icon-services w90 h90">
-            <div class="pl05r pr05r">
-              <div class="mt10 border-green-top border-green-bottom lightgreen-block-hover">
-                <div class="size-12 line-h18 mt20 mb20 pl05r pr05r"><a class="color-white white-hover" href="/weighted-currency-portfolio.php">СРЕДНЕВЗВЕШЕННЫЙ ВАЛЮТНЫЙ ПОРТФЕЛЬ</a></div>
-              </div>
+          </div>
+          <div class="column-3">
+            <div class="column-offset">
+              <a class="button color-white white-hover block" href="/weighted-currency-portfolio.php">
+                <img class="icon icon-services pt03r pb03r" src="img/icons/icon-cogwheel.svg">
+                <div class="mt10 h border-green-top border-green-bottom lightgreen-block-hover">
+                  <div class="size-12 line-h18 mt25 mb20 ml25r mr25r">
+                    СРЕДНЕВЗВЕШЕННЫЙ ВАЛЮТНЫЙ ПОРТФЕЛЬ
+                  </div>
+                </div>
+              </a>
             </div>
-        </div>
-        <div class="w33r l pt04r pb02r">
-            <img src="img/icons/icon-strongbox.svg" class="icon icon-services w90 h90">
-            <div class="pl05r pr05r">
-              <div class="mt10 border-green-top border-green-bottom lightgreen-block-hover">
-                <div class="size-12 line-h18 mt20 mb20 pl05r pr05r"><a class="color-white white-hover" href="/weighted-average-portfolio.php">СРЕДНЕВЗВЕШЕННЫЙ ПОРТФЕЛЬ</a></div>
-              </div>
+          </div>
+          <div class="column-3">
+            <div class="column-offset">
+              <a class="button color-white white-hover block" href="/weighted-average-portfolio.php">
+                <img class="icon icon-services pt03r pb03r" src="img/icons/icon-strongbox.svg">
+                <div class="mt10 h border-green-top border-green-bottom lightgreen-block-hover">
+                  <div class="size-12 line-h18 mt25 mb20 ml25r mr25r">
+                    СРЕДНЕВЗВЕШЕННЫЙ портфель
+                  </div>
+                </div>
+              </a>
             </div>
+          </div>
+          <div class="clearfix"></div>
         </div>
-        <div class="clearfix"></div>
       </div>
     </div>
     <div class="clearfix"></div>
+  </div>
+  <!-- /PORTFOLIO MENU -->
     <!-- /ALERT -->
     <div class="text-alert text-offset column-container mt05r w70r auto line-h20 size-14">
       <div class="column">
@@ -182,45 +199,60 @@
       <div class="clearfix"></div>
     </div>
     <!-- /ALERT -->
-    <div class="img-high-yield-strategy-2 w100r mt05r cover bg-center fixed" style="background-attachment: fixed;">
-      <div class="label w90r auto bg bg-label text-center uppercase">
-        <h3 class="size-12 color-white pt30">ВСЕ СТРАТЕГИИ ДОВЕРИТЕЛЬНОГО УПРАВЛЕНИЯ</h3>
-        <div class="column-4">
-          <div class="ml05r mr05r mt30">
-            <img src="img/icons/icon-marker.svg" class="icon icon-services w50 h50">
-            <div class="mt10 border-darkgray-top border-darkgray-bottom blue-block-hover">
-              <div class="size-11 line-h18 mt20 mb20 ml25r mr25r"><a class="color-white white-hover" href="/high-yield-strategy.php">Высокодоходная стратегия</a></div>
+<!-- PORTFOLIO MENU -->
+    <div class="img-high-yield-strategy-2 w100r mt05r fixed" style="background-attachment: fixed;">
+      <div class="portfolio-menu label pt02r w90r auto bg bg-label text-center color-white uppercase">
+        <div class="">
+          <h2 class="size-12 line-h22 uppercase">ВСЕ СТРАТЕГИИ ДОВЕРИТЕЛЬНОГО УПРАВЛЕНИЯ</h2>
+        </div>
+        <div class="pl02r pr02r pt02r pb02r">
+          <div class="column-4">
+            <div class="ml05r mr05r">
+              <a class="button color-white white-hover block" href="/high-yield-strategy.php">
+                <img src="img/icons/icon-marker.svg" class="icon icon-services w50 h50">
+                <div class="mt10 h border-darkgray-top border-darkgray-bottom blue-block-hover">
+                  <div class="size-11 line-h18 mt25 mb20 ml25r mr25r">Высокодоходная стратегия</div>
+                </div>
+              </a>
             </div>
           </div>
-        </div>
-        <div class="column-4">
-          <div class="ml05r mr05r mt30">
-            <img src="img/icons/icon-marker.svg" class="icon icon-services w50 h50">
-            <div class="mt10 border-darkgray-top border-darkgray-bottom bg-green-label">
-              <div class="size-11 line-h18 mt20 mb20 ml25r mr25r"><a class="color-white white-hover" href="/weighted-average-strategy.php">Средневзвешенная стратегия</a></div>
+          <div class="column-4">
+            <div class="ml05r mr05r">
+              <a class="button color-white white-hover block" href="/weighted-average-strategy.php">
+                <img src="img/icons/icon-marker.svg" class="icon icon-services w50 h50">
+                <div class="mt10 h border-darkgray-top border-darkgray-bottom bg-green-label">
+                  <div class="size-11 line-h18 mt25 mb20 ml25r mr25r">Средневзвешенная стратегия</div>
+                </div>
+              </a>
             </div>
           </div>
-        </div>
-        <div class="column-4">
-          <div class="ml05r mr05r mt30">
-            <img src="img/icons/icon-marker.svg" class="icon icon-services w50 h50">
-            <div class="mt10 border-darkgray-top border-darkgray-bottom orange-block-hover">
-              <div class="size-11 line-h18 mt20 mb20 ml25r mr25r"><a class="color-white white-hover" href="/conservative-strategy.php">Консервативная стратегия</a></div>
+          <div class="column-4">
+            <div class="ml05r mr05r">
+              <a class="button color-white white-hover block" href="/conservative-strategy.php">
+                <img src="img/icons/icon-marker.svg" class="icon icon-services w50 h50">
+                <div class="mt10 h border-darkgray-top border-darkgray-bottom orange-block-hover">
+                  <div class="size-11 line-h18 mt25 mb20 ml25r mr25r">Консервативная стратегия</div>
+                </div>
+              </a>
             </div>
           </div>
-        </div>
-        <div class="column-4">
-          <div class="ml05r mr05r mt30">
-            <img src="img/icons/icon-marker.svg" class="icon icon-services w50 h50">
-            <div class="mt10 border-darkgray-top border-darkgray-bottom grey-block-hover">
-              <div class="size-11 line-h18 mt20 mb20 ml25r mr25r"><a class="color-white white-hover" href="/strategy-for-the-protection-of-ruble-assets.php">Стратегия защиты активов</a></div>
+          <div class="column-4">
+            <div class="ml05r mr05r">
+              <a class="button color-white white-hover block" href="/strategy-for-the-protection-of-ruble-assets.php">
+                <img src="img/icons/icon-marker.svg" class="icon icon-services w50 h50">
+                <div class="mt10 h border-darkgray-top border-darkgray-bottom grey-block-hover">
+                  <div class="size-11 line-h18 mt25 mb20 ml25r mr25r">Стратегия защиты активов</div>
+                </div>
+              </a>
             </div>
           </div>
+          <div class="clearfix"></div>
         </div>
-        <div class="clearfix"></div>
       </div>
     </div>
     <div class="clearfix"></div>
+  </div>
+  <!-- /PORTFOLIO MENU -->
     </div>
 	<!-- CONTENT -->
 	<!-- FOOTER BLOCK -->
