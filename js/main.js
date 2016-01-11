@@ -6,6 +6,16 @@ jQuery( document ).ready(function() {
     });
 });
 
+$( document ).scroll(function() {
+  var h = $(document).height() - $(window).height();
+  var scroll = $(window).scrollTop();
+  var bottomscroll = h - scroll;
+  if(bottomscroll > 200){
+    $( ".ARROW-FIXED" ).show();
+  }else{
+    $( ".ARROW-FIXED" ).hide();
+  }
+});
 
 
 var menu = {

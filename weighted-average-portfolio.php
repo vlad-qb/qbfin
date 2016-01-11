@@ -227,16 +227,24 @@
         </div>
       </div>
     </div>
+    <!-- CONNECT -->
     <div class="clearfix"></div>
-    <!--Text-->
-    <div class="column-container">
-      <div class="column mt05r text-center">
+    <div class="column-container mt05r">
+      <div class="column">
         <div class="border-gray-bottom"></div>
-        <p class="pt05r size-12 color-teal uppercase line-h16 weight-300">В ЗАВИСИМОСТИ ОТ ПОСТАВЛЕННЫХ ЗАДАЧ, НАШИ СПЕЦИАЛИСТЫ ПОМОГУТ ВЫБРАТЬ НАИБОЛЕЕ ПОДХОДЯЩУЮ ДЛЯ ВАС СТРАТЕГИЮ</p>
-        <a href="/connect.php" class="size-14 line-h60 weight-300">задать вопрос специалисту </a><span class="color-teal weight-300">&gt;</span>
+        <div class="pt05r pl05r pr05r text-center">
+          <p class="size-12 color-teal uppercase line-h20 weight-300">
+            В ЗАВИСИМОСТИ ОТ ПОСТАВЛЕННЫХ ЗАДАЧ, НАШИ СПЕЦИАЛИСТЫ ПОМОГУТ ВЫБРАТЬ НАИБОЛЕЕ ПОДХОДЯЩУЮ ДЛЯ ВАС СТРАТЕГИЮ
+          </p>
+          <p class="mt20">
+            <a href="/connect.php" class="size-14 weight-300">задать вопрос специалисту </a>
+            <span class="color-teal weight-300">&gt;</span>
+          </p>
+        </div>
       </div>
     </div>
     <div class="clearfix"></div>
+    <!-- /CONNECT -->
     <!-- PORTFOLIO MENU -->
     <div class="img-high-yield-strategy-2 w100r mt05r fixed" style="background-attachment: fixed;">
       <div class="portfolio-menu pt02r bg-green-label w90r auto bg bg-label text-center color-white uppercase">

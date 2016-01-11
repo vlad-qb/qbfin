@@ -129,7 +129,7 @@
     <div class="column-container pt05r">
       <div class="column-2 line-h20 size-14">
         <div class="column-offset">
-          <p class="mt20 size-14 weight-300">
+          <p class=" mt20 size-14 weight-300">
             <span class="bold">И</span>нвестиционная компания QBF ||| investment предлагает три стратегии доверительного управления финансовыми активами: <a href="/high-yield-strategy.php" class="color-gray light-gray-hover italic">высокодоходная,</a> <a href="/weighted-average-strategy.php" class="color-gray light-gray-hover italic">средневзвешенная и</a> <a href="/conservative-strategy.php" class="color-gray light-gray-hover italic">консервативная стратегия.</a>
           </p>
           <p class="mt20 size-14 weight-300">
@@ -140,7 +140,7 @@
       <div class="column-2">
         <div class="column-offset">
           <div class="border-left-lightgray border-right-lightgray">
-            <div class="mt05r ml05r mr05r pt05r pb05r">
+            <div class="ml05r mr05r pt05r pb05r">
               <p class="ml025r mr025r mt20 line-h24 size-12 color-teal weight-300">
                 В ЗАВИСИМОСТИ ОТ ПОСТАВЛЕННЫХ ЗАДАЧ, НАШИ СПЕЦИАЛИСТЫ ПОМОГУТ ВЫБРАТЬ НАИБОЛЕЕ ПОДХОДЯЩУЮ ДЛЯ ВАС СТРАТЕГИЮ
               </p>
@@ -208,7 +208,7 @@
     <!-- CONTENT-2 -->
     <div class="text-alert column-container pt05r line-h20 size-14">
       <div class="column">
-        <div class="column-offset">
+        <div class="column-offset pl05r pr05r">
           <div class="border-left-lightgray border-right-lightgray">
             <div class="ml05r mr05r pt03r pb03r">
               <p class="ml025r">

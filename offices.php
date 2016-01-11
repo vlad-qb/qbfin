@@ -115,7 +115,7 @@
   <!-- CONTENT -->
   <div id="content">
   <div class="column-container size-14 color-grey1 line-h26">
-    <div class="column-2 pt05r mt05r">
+    <div class="column-2 pt05r">
       <div class="column-offset">
         <div class="">
           <h3 class="text-center size-12 color-white"><div class="w250 h40 line-h40 auto bg-gray2 weight-300">МОСКВА</div></h3>
@@ -130,7 +130,7 @@
         </div>
       </div>
     </div>
-    <div class="column-2 pt05r mt05r">
+    <div class="column-2 pt05r">
       <div class="column-offset">  
         <div class="">
           <h3 class="text-center size-12 color-white"><div class="w250 h40 line-h40 auto bg-gray2 weight-300">ЕКАТЕРИНБУРГ</div></h3>
@@ -145,7 +145,7 @@
         </div>
       </div>
     </div>
-    <div class="column-2 pt05r mt05r">
+    <div class="column-2 pt05r">
       <div class="column-offset"> 
         <div class="">
           <h3 class="text-center size-12 color-white"><div class="w250 h40 line-h40 auto bg-gray2 weight-300">САНКТ-ПЕТЕРБУРГ</div></h3>
@@ -160,7 +160,7 @@
         </div>
       </div>
     </div>
-    <div class="column-2 pt05r mt05r">
+    <div class="column-2 pt05r">
       <div class="column-offset">   
         <div class="">
           <h3 class="text-center size-12 color-white"><div class="w250 h40 line-h40 auto bg-gray2 weight-300">КИЕВ</div></h3>

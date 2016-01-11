@@ -135,7 +135,7 @@
 <div class="clearfix"></div>
 <!-- CONTENT -->
 <div id="content">
-<div id="news-list" class="column-container pt05r">
+<div id="news-list" class="column-container">
     <div class="column-2 pt05r">
       <div class="column-offset">
         <div class="img-reviews-2 h200" style="background-size:cover;background-position:center;">
@@ -234,7 +234,7 @@
 </div>
 <!-- /CONTENT -->
 <div class="clearfix"></div>
-<div class="text-center pt10r">
+<div class="text-center pt05r">
   <a href="/archive-news.php" class="size-12 line-h30 uppercase">РАНЕЕ В РАЗДЕЛЕ: ОБЗОРЫ</a>
   <div class="text-center size-18 line-h26 weight-300"><a href="/archive-news.php" class="color-teal gray-hover">2 0 1 5</a> <span class="color-whitesmoke">•︎</span> <a href="/archive-news.php" class="color-teal gray-hover">2 0 1 4</a></div>
 </div>

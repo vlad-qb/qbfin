@@ -221,7 +221,7 @@
       <div class="pl05r pr05r">
         <h3 class="text-center size-14 line-h26 bold pt05r pb05r pb04r">Расчет доходности портфеля</h3>
         <div class="clearfix"></div>
-        <div class="column-3-2 size-14 line-h28" style="float:right;">
+        <div class="column-2 size-14 line-h28" style="float:right;">
         <div>
           <div class="border-lightgray bg-lightgray text-center mb5 line-h40 bold">расчет доходности портфеля | фиксированная часть</div>
           <div class="border-lightgray bg-lightgray text-center mb5 line-h40">актив: корпоративные облигации</div>
@@ -252,12 +252,12 @@
             </div>
           </div>
         </div>
-        <div id="graph-option-1" class="column-3-1">
+        <div id="graph-option-1" class="column-2 pt05r">
           <div class="img-structured-bond-portfolio-2 h400 contain" style="background-size: contain; background-repeat: no-repeat; background-position: center center;"></div>
         </div>
       </div>
     </div>
-
+<div class="clearfix"></div>
         <div class="column-container size-14 line-h26">
           <div class="column-2 pt05r">
             <p class="column-offset pl05r pr05r size-14 weight-300"><span class="bold">П</span>ортфельная стратегия будет актуальна в периоды, когда монетарная политика международных регуляторов не изменяется в сторону ужесточения, что позволяет эффективно проводить сделки РЕПО, имея значительный спред между стоимостью заемного капитала и купонным доходом по облигациям. </p>
@@ -266,16 +266,24 @@
             <p class="column-offset pl05r pr05r size-14 weight-300"><span class="bold">В</span>ажным фактором является и то, что дивидендная политика отбираемых в портфель эмитентов неизменна на протяжении многих лет, и, как правило, влиять на нее могут только серьезные изменения в финансовом состоянии компании.</p>
           </div>
         </div>
-        <div class="clearfix"></div>
-        <!--Text-->
-        <div class="column-container">
-          <div class="column pt05r text-center">
-            <div class="border-gray-bottom"></div>
-            <p class=" pt05r size-12 color-teal uppercase line-h16 weight-300">В ЗАВИСИМОСТИ ОТ ПОСТАВЛЕННЫХ ЗАДАЧ, НАШИ СПЕЦИАЛИСТЫ ПОМОГУТ ВЫБРАТЬ НАИБОЛЕЕ ПОДХОДЯЩУЮ ДЛЯ ВАС СТРАТЕГИЮ</p>
-            <a href="/connect.php" class="size-14 line-h26 weight-300">задать вопрос специалисту </a><span class="color-teal weight-300">&gt;</span>
-          </div>
+    <!-- CONNECT -->
+    <div class="clearfix"></div>
+    <div class="column-container mt05r">
+      <div class="column">
+        <div class="border-gray-bottom"></div>
+        <div class="pt05r pl05r pr05r text-center">
+          <p class="size-12 color-teal uppercase line-h20 weight-300">
+            В ЗАВИСИМОСТИ ОТ ПОСТАВЛЕННЫХ ЗАДАЧ, НАШИ СПЕЦИАЛИСТЫ ПОМОГУТ ВЫБРАТЬ НАИБОЛЕЕ ПОДХОДЯЩУЮ ДЛЯ ВАС СТРАТЕГИЮ
+          </p>
+          <p class="mt20">
+            <a href="/connect.php" class="size-14 weight-300">задать вопрос специалисту </a>
+            <span class="color-teal weight-300">&gt;</span>
+          </p>
         </div>
-        <div class="clearfix"></div>
+      </div>
+    </div>
+    <div class="clearfix"></div>
+    <!-- /CONNECT -->
 <!-- PORTFOLIO MENU -->
     <div class="img-high-yield-strategy-2 w100r mt05r fixed" style="background-attachment: fixed;">
       <div class="portfolio-menu label pt02r w90r auto bg bg-yellow-label text-center color-white uppercase">

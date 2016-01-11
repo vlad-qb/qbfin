@@ -147,7 +147,7 @@
     <!-- CONTENT -->
 	<div id="content">
     <div class="column-container pt05r">
-      <div class="column pt03r">
+      <div class="column">
         <h3 class="text-center size-12 color-white">
           <div class="w288 h40 line-h40 auto bg-teal">КОНТРАГЕНТЫ КОМПАНИИ</div>
         </h3>
@@ -155,8 +155,8 @@
       </div>
     </div>
     <div class="column-container size-14 color-grey1 line-h24">
-      <div class="column-2">
-        <div class="column-offset pt04r pl05r pr05r">
+      <div class="column-2 pt05r">
+        <div class="column-offset pl05r pr05r">
           <div class="weight-300 size-18 color-teal mt15">Альфа-Банк</div>
           <p class="weight-300 mt15">Основной российский контрагент по расчетным операциям и брокерскому обслуживанию. </p>
           <p class="weight-300 mt15">Россия, Москва, 107078 | ул. Каланчевская, 27</p>
@@ -164,8 +164,8 @@
           <div class="weight-300 mt15">сайт: <a href="http://alfabank.ru/" class="color-gray">http://alfabank.ru/</a></div>
         </div>
       </div>
-      <div class="column-2">
-        <div class="column-offset pt04r pl05r pr05r">
+      <div class="column-2 pt05r">
+        <div class="column-offset pl05r pr05r">
           <div class="weight-300 size-18 color-teal mt15">JP Morgan Chase&Co. </div>
           <p class="weight-300 mt15">270 Park Ave. | New York, NY 10017-2070 | USA</p>
           <p class="weight-300 mt15">Phone: 212 270 60 00</p>
@@ -175,7 +175,7 @@
       <div class="clearfix"></div>
     </div>
     <div class="column-container pt05r">
-      <div class="column pt03r">
+      <div class="column">
         <h3 class="text-center size-12 color-white">
           <div class="w288 h40 line-h40 auto bg-teal">ПАРТНЕРЫ КОМПАНИИ</div>
         </h3>
@@ -183,16 +183,16 @@
       </div>
     </div>
     <div class="column-container size-14 color-grey1 line-h24">
-      <div class="column-2">
-        <div class="column-offset pt04r pl05r pr05r">
+      <div class="column-2 pt05r">
+        <div class="column-offset pl05r pr05r">
           <div class="weight-300 size-18 color-teal mt15">Lek Securities</div>
           <p class="weight-300 mt15">140 Broadway, 29 | New York, NY 10006 | USA</p>
           <p class="weight-300 mt15">Phone: 212 509 23 00</p>
           <p class="weight-300 mt15">сайт: <a href="http://www.leksecurities.com/" class="color-gray">http://www.leksecurities.com/</a></p>
         </div>
       </div>
-      <div class="column-2">
-        <div class="column-offset pt04r pl05r pr05r">
+      <div class="column-2 pt05r">
+        <div class="column-offset pl05r pr05r">
           <div class="weight-300 size-18 color-teal mt15">Piraeus Bank</div>
           <p class="weight-300 mt15">25700, 1 Spyrou Kyprianou Ave. | 1065 Nicosia | Cyprus</p>
           <p class="weight-300 mt15">Phone: +357 22 57 55 55</p>

@@ -136,7 +136,7 @@
 <div id="content">
 <div id="gallery" class="column-container pt05r">
   <div class="column-2">
-    <div class="gallery-offset w85r line-h24 size-14 ml10r pt10r pb10r">
+    <div class="gallery-offset w85r line-h24 size-14 ml10r pb10r">
       <h3 class="text-center size-14 color-white"><div class="w288 h40 line-h40 auto bg-gray2">2015</div></h3>
       <div class="title-line-teal"></div>
       <div class="pt05r">
@@ -240,7 +240,7 @@
     </div>
   </div>
   <div class="column-2">
-    <div class="gallery-offset w85r line-h24 size-14 ml10r pt10r pb10r">
+    <div class="gallery-offset w85r line-h24 size-14 ml10r pb10r">
       <h3 class="text-center size-14 color-white"><div class="w288 h40 line-h40 auto bg-gray2">2014</div></h3>
       <div class="title-line-teal"></div>
       <div class="pt05r">
@@ -345,7 +345,7 @@
   </div>
   <div class="clearfix"></div>
   <div class="column-2">
-    <div class="gallery-offset w85r line-h24 size-14 ml10r pt10r pb10r">
+    <div class="gallery-offset w85r line-h24 size-14 ml10r pt05r pb10r">
       <h3 class="text-center size-14 color-white"><div class="w288 h40 line-h40 auto bg-gray2">2013</div></h3>
       <div class="title-line-teal"></div>
       <div class="pt05r">
@@ -449,7 +449,7 @@
     </div>
   </div>
   <div class="column-2">
-    <div class="gallery-offset w85r line-h24 size-14 ml10r pt10r pb10r">
+    <div class="gallery-offset w85r line-h24 size-14 ml10r pt05r pb10r">
       <h3 class="text-center size-14 color-white"><div class="w288 h40 line-h40 auto bg-gray2">2012</div></h3>
       <div class="title-line-teal"></div>
       <div class="pt05r">

@@ -127,7 +127,7 @@
 	<!-- CONTENT --> 
 <div id="content">
   <div class="img-service-2 mt05r w100r h300 border-bottom-white fixed" style="background-attachment: fixed;">
-    <div class="label l h300 bg bg-label-2 text-center color-white uppercase">
+    <div class="label l h300 bg bg-label-2 text-center color-white uppercase pl05r pr05r">
       <div class="column">
         <div class="ml05r mr05r mt90">
           <img class="icon icon-services" src="img/icons/icon-umbrella.svg">
@@ -140,7 +140,7 @@
   </div>
   <div class="clearfix"></div>
   <div class="img-service-3 w100r h300 border-bottom-white fixed" style="background-attachment: fixed;">
-    <div class="label h300 bg bg-label-2 text-center color-white uppercase r">
+    <div class="label h300 bg bg-label-2 text-center color-white uppercase r pl05r pr05r">
       <div class="column">
         <div class="ml05r mr05r mt90">
           <img class="icon icon-services" src="img/icons/icon-horse.svg">
@@ -153,7 +153,7 @@
   </div>
   <div class="clearfix"></div>
   <div class="img-service-4 w100r h300 border-bottom-white fixed" style="background-attachment: fixed;">
-    <div class="label l h300 bg bg-label-2 text-center color-white uppercase">
+    <div class="label l h300 bg bg-label-2 text-center color-white uppercase  pl05r pr05r">
       <div class="column">
         <div class="ml05r mr05r mt90">
           <img class="icon icon-services" src="img/icons/icon-leaves.svg">

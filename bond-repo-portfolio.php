@@ -129,7 +129,7 @@
   <div class="column-container pt05r">
     <div class="column">
       <h3 class="w320 auto h40 line-h40 bg-gray2 text-center size-12 color-white"> ИНВЕСТИЦИОННАЯ АКТУАЛЬНОСТЬ СТРАТЕГИИ </h3>
-      <div class="column-offset">
+      <div class="pl05r pr05r">
         <div class="title-line-grey"></div>
       </div>
     </div>
@@ -151,38 +151,44 @@
     <div class="clearfix"></div>
   </div>
 
-  <div class="clearfix"></div>
-  <div id="bond-repo-portfolio" class="img-conservative-portfolio-2 w100r mt05r cover fixed" style="background-attachment: fixed; background-position: center center;">
-    <div class="label w90r auto bg bg-yellow-label line-h40 text-center">
-      <div class="w33r l pt04r pb02r">
-        <div class="border-white2 auto w100 mb5"></div>
-        <p class="size-12 color-white weight-300">СУММА ИНВЕСТИЦИЙ</p>
-        <p class="size-12 color-white weight-300">от $1.000.000 млн.</p>
-        <div class="border-white2 auto w100 mt10 mb5"></div>
-        <p class="size-12 color-white weight-300">УРОВЕНЬ ЗАЩИТЫ КАПИТАЛА</p>
-        <p class="size-12 color-white weight-300">90%</p>
+  <!--Parallax-text-->
+    <div class="clearfix"></div>
+    <div
+      id="bond-option-portfolio"
+      class="img-conservative-portfolio-2 w100r mt05r cover fixed"
+      style="background-attachment: fixed; background-position: center center;">
+      <div class="w90r auto bg bg-yellow-label text-center">
+        <div class="column-container size-11 line-h22 color-white">
+          <div class="w33r l pt04r pb02r">
+            <div class="border-white2 w100 auto"></div>
+            <p class="weight-300 mt02r pt05r pb05r pl05r pr05r">СУММА ИНВЕСТИЦИЙ</p>
+            <p class="weight-300 mb02r pt05r pb05r pl05r pr05r">от $1.000.000 млн.</p>
+            <div class="border-white2 w100 auto"></div>
+            <p class="weight-300 mt05r pt05r pb05r pl05r pr05r">УРОВЕНЬ ЗАЩИТЫ КАПИТАЛА</p>
+            <p class="weight-300 pt05r pl05r pr05r">90%</p>
+          </div>
+          <div class="w33r l pt04r pb02r">
+            <div class="border-white2 w100 auto"></div>
+            <p class="weight-300 mt02r pt05r pb05r pl05r pr05r">ЛИКВИДНОСТЬ</p>
+            <p class="weight-300 mb02r pt05r pb05r pl05r pr05r">15 дней</p>
+            <div class="border-white2 w100 auto"></div>
+            <p class="weight-300 mt05r pt05r pb05r pl05r pr05r">МИНИМАЛЬНЫЙ СРОК ИНВЕСТИРОВАНИЯ</p>
+            <p class="weight-300 pt05r pl05r pr05r">1 год</p>
+          </div>
+          <div class="w33r l pt04r pb02r">
+            <div class="border-white2 w100 auto"></div>
+            <p class="weight-300 mt02r pt05r pb05r pl05r pr05r">ЦЕЛЕВАЯ ДОХОДНОСТЬ, $</p>
+            <p class="weight-300 mb02r pt05r pb05r pl05r pr05r">12-17%</p>
+            <div class="border-white2 w100 auto"></div>
+            <p class="weight-300 mt05r pt05r pl05r pr05r">ВОЗНАГРАЖДЕНИЕ УПРАВЛЯЮЩЕГО</p>
+            <p class="weight-300 pt05r pl05r pr05r">комиссия за управление: 2%</p>
+          </div>
+          <div class="clearfix"></div>
+        </div>
       </div>
-      <div class="w33r l pt04r pb02r">
-        <div class="border-white2 auto w100 mb5"></div>
-        <p class="size-12 color-white weight-300">ЛИКВИДНОСТЬ</p>
-        <p class="size-12 color-white weight-300">15 дней</p>
-        <div class="border-white2 auto w100 mt10 mb5"></div>
-        <p class="size-12 color-white weight-300">МИНИМАЛЬНЫЙ СРОК ИНВЕСТИРОВАНИЯ</p>
-        <p class="size-12 color-white weight-300">1 год</p>
-      </div>
-      <div class="w33r l pt04r pb02r">
-        <div class="border-white2 auto w100 mb5"></div>
-        <p class="size-12 color-white weight-300">ЦЕЛЕВАЯ ДОХОДНОСТЬ, $</p>
-        <p class="size-12 color-white weight-300">12-17%</p>
-        <div class="border-white2 auto w100 mt10 mb5"></div>
-        <p class="size-12 color-white weight-300">ВОЗНАГРАЖДЕНИЕ УПРАВЛЯЮЩЕГО</p>
-        <p class="size-12 color-white weight-300">комиссия за управление: 2%</p>
-      </div>
-      <div class="clearfix"></div>
     </div>
-  </div>
-  <div class="clearfix"></div>
-
+    <div class="clearfix"></div>
+  <!--Parallax-text-->
   <div class="column-container size-14 line-h26">
     <h3 class="text-center bold mt05r">Структура портфеля</h3>
     <div class="column-2 pt05r">
@@ -206,7 +212,7 @@
   <div class="pl05r pr05r">
     <h3 class="text-center size-14 line-h26 bold pt05r pb05r pb04r">Расчет доходности портфеля</h3>
     <div class="clearfix"></div>
-    <div class="column-3-2 size-14 line-h28" style="float:right;">
+    <div class="column-2 size-14 line-h28" style="float:right;">
       <div class="">
         <div class="border-lightgray text-center weight-300 mb5 pt02r pb01r">
           <span>первоначальные инвестиции<br/></span>
@@ -238,7 +244,7 @@
         </div>
       </div>
     </div>
-    <div id="img-bond-repo-portfolio-2" class="column-3-1">
+    <div id="img-bond-repo-portfolio-2" class="column-2 pt05r">
       <div class="img-bond-repo-portfolio-2 h450 contain" style="background-size: contain; background-repeat: no-repeat; background-position: center center;"></div>
     </div>
      <div class="clearfix"></div>
@@ -260,16 +266,24 @@
     </div>
     <div class="clearfix"></div>
   </div>
-  <div class="clearfix"></div>
-
-                <div class="column-container">
-                  <div class="column pt05r pb05r text-center">
-                    <div class="border-gray-bottom"></div>
-                    <p class="mt05r size-12 color-teal uppercase line-h16 weight-300">В ЗАВИСИМОСТИ ОТ ПОСТАВЛЕННЫХ ЗАДАЧ, НАШИ СПЕЦИАЛИСТЫ ПОМОГУТ ВЫБРАТЬ НАИБОЛЕЕ ПОДХОДЯЩУЮ ДЛЯ ВАС СТРАТЕГИЮ</p>
-                    <a href="/connect.php" class="size-14 line-h60 weight-300">задать вопрос специалисту </a><span class="color-teal weight-300">&gt;</span>
-                  </div>
-                </div>
-                <div class="clearfix"></div>
+    <!-- CONNECT -->
+    <div class="clearfix"></div>
+    <div class="column-container mt05r">
+      <div class="column">
+        <div class="border-gray-bottom"></div>
+        <div class="pt05r pl05r pr05r text-center">
+          <p class="size-12 color-teal uppercase line-h20 weight-300">
+            В ЗАВИСИМОСТИ ОТ ПОСТАВЛЕННЫХ ЗАДАЧ, НАШИ СПЕЦИАЛИСТЫ ПОМОГУТ ВЫБРАТЬ НАИБОЛЕЕ ПОДХОДЯЩУЮ ДЛЯ ВАС СТРАТЕГИЮ
+          </p>
+          <p class="mt20">
+            <a href="/connect.php" class="size-14 weight-300">задать вопрос специалисту </a>
+            <span class="color-teal weight-300">&gt;</span>
+          </p>
+        </div>
+      </div>
+    </div>
+    <div class="clearfix"></div>
+    <!-- /CONNECT -->
 <!-- PORTFOLIO MENU -->
     <div class="img-high-yield-strategy-2 w100r mt05r fixed" style="background-attachment: fixed;">
       <div class="portfolio-menu label pt02r w90r auto bg bg-yellow-label text-center color-white uppercase">

@@ -130,7 +130,9 @@
   <div class="column-container pt05r">
     <div class="column">
         <h3 class="text-center size-12 color-white"><div class="w320 h40 line-h40 auto bg-gray2">ИНВЕСТИЦИОННАЯ АКТУАЛЬНОСТЬ СТРАТЕГИИ</div></h3>
+      <div class="pl05r pr05r"> 
         <div class="title-line-grey"></div>
+      </div> 
     </div>
   </div>
   <div class="column-container size-14 color-grey1 line-h26">
@@ -228,18 +230,24 @@
       </div>
     </div>
   </div>
-  <div class="clearfix"></div>
-  <!--Text-->
-  <div class="column-container">
-    <div class="column text-center pt05r">
-      <div class="column-offset">
+    <!-- CONNECT -->
+    <div class="clearfix"></div>
+    <div class="column-container mt05r">
+      <div class="column">
         <div class="border-gray-bottom"></div>
-        <p class="pt05r size-12 color-teal uppercase line-h16 weight-300">В ЗАВИСИМОСТИ ОТ ПОСТАВЛЕННЫХ ЗАДАЧ, НАШИ СПЕЦИАЛИСТЫ ПОМОГУТ ВЫБРАТЬ НАИБОЛЕЕ ПОДХОДЯЩУЮ ДЛЯ ВАС СТРАТЕГИЮ</p>
-        <a href="/connect.php" class="size-14 line-h26 weight-300">задать вопрос специалисту </a><span class="color-teal weight-300">&gt;</span>
+        <div class="pt05r pl05r pr05r text-center">
+          <p class="size-12 color-teal uppercase line-h20 weight-300">
+            В ЗАВИСИМОСТИ ОТ ПОСТАВЛЕННЫХ ЗАДАЧ, НАШИ СПЕЦИАЛИСТЫ ПОМОГУТ ВЫБРАТЬ НАИБОЛЕЕ ПОДХОДЯЩУЮ ДЛЯ ВАС СТРАТЕГИЮ
+          </p>
+          <p class="mt20">
+            <a href="/connect.php" class="size-14 weight-300">задать вопрос специалисту </a>
+            <span class="color-teal weight-300">&gt;</span>
+          </p>
+        </div>
       </div>
     </div>
-  </div>
-  <div class="clearfix"></div>
+    <div class="clearfix"></div>
+    <!-- /CONNECT -->
 <!-- PORTFOLIO MENU -->
     <div class="img-high-yield-strategy-2 w100r mt05r fixed" style="background-attachment: fixed;">
       <div class="portfolio-menu label pt02r w90r auto bg bg-yellow-label text-center color-white uppercase">

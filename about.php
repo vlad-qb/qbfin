@@ -146,7 +146,7 @@
     <div class="clearfix"></div>
     <!-- CONTENT -->
     <div id="content">	  
-      <div id="about-us" class="column-container pt02r">
+      <div id="about-us" class="column-container">
         <div>
           <div class="column-2 pt05r">
             <div class="column-offset">

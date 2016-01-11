@@ -218,7 +218,7 @@
 <!-- CONTENT -->
 
   <div class="clearfix"></div>
-  <div class="text-center pt10r">
+  <div class="text-center pt05r">
     <a href="/archive-shares.php" class="size-12 line-h30 uppercase">РАНЕЕ В РАЗДЕЛЕ: Акции</a>
     <div class="text-center size-18 line-h26 weight-300"><a href="/archive-shares.php" class="color-teal gray-hover">2 0 1 5</a> <span class="color-whitesmoke">•︎</span> <a href="/archive-shares.php" class="color-teal gray-hover">2 0 1 4</a> <span class="color-whitesmoke">•︎</span> <a href="/archive-shares.php" class="color-teal gray-hover">2 0 1 3</a></div>
   </div>

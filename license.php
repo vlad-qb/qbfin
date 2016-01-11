@@ -160,22 +160,22 @@
   <div class="clearfix"></div> 
   <!-- CONTENT -->
   <div id="content">
-  <div id="licenses" class="column-container text-center pt07r">
-    <div class="column-3 mt10">
+  <div id="licenses" class="column-container text-center">
+    <div class="column-3 pt05r">
       <div class="column-offset pt05r pb05r pr05r pl05r bg-lightgray">
         <img class="w280 auto block" src="/img/resources/license-2.jpg">
         <h2 class="size-12 line-h40 uppercase"> лицензия: № 077-12805-100000 </h2>
         <h2 class="size-12 uppercase bold"> брокерская деятельность </h2>
       </div>
     </div>
-    <div class="column-3 mt10">
+    <div class="column-3 pt05r">
       <div class="column-offset pt05r pb05r pr05r pl05r bg-lightgray">
         <img class="w280 auto block" src="/img/resources/license-2.jpg">
         <h2 class="size-12 line-h40 uppercase"> лицензия: № 077-12816-010000 </h2>
         <h2 class="size-12 uppercase bold"> дилерская деятельность </h2>
       </div>
     </div>
-    <div class="column-3 mt10">
+    <div class="column-3 pt05r">
       <div class="column-offset pt05r pb05r pr05r pl05r bg-lightgray">
         <img class="w280 auto block" src="/img/resources/license-2.jpg">
         <h2 class="size-12 line-h40 uppercase"> лицензия: № 077-12828-001000 </h2>

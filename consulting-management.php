@@ -129,13 +129,13 @@
   <div class="column-container pt05r">
     <div class="column-2">
       <div class="column-offset pl05r pr05r auto line-h20 size-14">
-        <p class="mt20 size-14 weight-300">QBF ||| investment предлагает своим клиентам услугу Консультационного Управления, в рамках которой компания предоставляет каждому клиенту личного финансового советника. </p>
+        <p class="size-14 weight-300">QBF ||| investment предлагает своим клиентам услугу Консультационного Управления, в рамках которой компания предоставляет каждому клиенту личного финансового советника. </p>
         <p class="mt20 size-14 weight-300">Вы получаете возможность управления своими активами, опираясь на рекомендации и помощь команды профессионалов.</p>
       </div>
     </div>
     <div class="column-2">
       <div class="column-offset pl05r pr05r auto line-h20 size-14">
-        <p class="mt20 size-14 weight-300">Консультационное управление - это услуга, которая в одинаковой мере востребована как у начинающих, так и у опытных управляющих. </p>
+        <p class="size-14 weight-300">Консультационное управление - это услуга, которая в одинаковой мере востребована как у начинающих, так и у опытных управляющих. </p>
         <p class="mt20 size-14 weight-300">QBF Investment предоставляет каждому клиенту персонального финансового советника, для того чтобы Вы могли опираться на команду профессионалов в процессе управления своими активами.</p>
       </div>
     </div>
@@ -165,7 +165,7 @@
   </div>
   <!-- Two colums portfolio -->
   <div class="column-container">
-    <div class="column-2 pt05r pb05r">
+    <div class="column-2 pt05r">
       <div class="column-offset">
         <div class="l w120 h120 bg-dark-gray mr20">
           <div class="w80 auto pt20">
@@ -184,11 +184,11 @@
           </p>
         </div>
         <div class="h20"></div>
-        <a href="#" class="size-12 ml05r uppercase color-teal weight-300">ПОСМОТРЕТЬ ПРЕДЛОЖЕНИЕ &gt;</a>
+        <a href="#" class="size-12 uppercase color-teal weight-300">ПОСМОТРЕТЬ ПРЕДЛОЖЕНИЕ &gt;</a>
         <div class="clearfix"></div>
       </div>
     </div>
-    <div class="column-2 pt05r pb05r">
+    <div class="column-2 pt05r ">
       <div class="column-offset">
         <div class="l w120 h120 bg-dark-gray mr20">
           <div class="w80 auto pt20">
@@ -207,7 +207,7 @@
           </p>
         </div>
         <div class="h20"></div>
-        <a href="#" class="size-12 ml05r uppercase color-teal weight-300">ПОСМОТРЕТЬ ПРЕДЛОЖЕНИЕ &gt;</a>
+        <a href="#" class="size-12 uppercase color-teal weight-300">ПОСМОТРЕТЬ ПРЕДЛОЖЕНИЕ &gt;</a>
         <div class="clearfix"></div>
       </div>
     </div>
@@ -216,7 +216,7 @@
   <!-- Two colums portfolio -->
   <!-- Two colums portfolio -->
   <div class="column-container">
-    <div class="column-2 pt05r pb05r">
+    <div class="column-2 pt05r">
       <div class="column-offset">
         <div class="l w120 h120 bg-dark-gray mr20">
           <div class="w80 auto pt20">
@@ -235,11 +235,11 @@
           </p>
         </div>
         <div class="h20"></div>
-        <a href="#" class="size-12 ml05r uppercase color-teal weight-300">ПОСМОТРЕТЬ ПРЕДЛОЖЕНИЕ &gt;</a>
+        <a href="#" class="size-12 uppercase color-teal weight-300">ПОСМОТРЕТЬ ПРЕДЛОЖЕНИЕ &gt;</a>
         <div class="clearfix"></div>
       </div>
     </div>
-    <div class="column-2 pt05r pb05r">
+    <div class="column-2 pt05r">
       <div class="column-offset">
         <div class="l w120 h120 bg-dark-gray mr20">
           <div class="w80 auto pt20">
@@ -258,7 +258,7 @@
           </p>
         </div>
         <div class="h20"></div>
-        <a href="#" class="size-12 ml05r uppercase color-teal weight-300">ПОСМОТРЕТЬ ПРЕДЛОЖЕНИЕ &gt;</a>
+        <a href="#" class="size-12 uppercase color-teal weight-300">ПОСМОТРЕТЬ ПРЕДЛОЖЕНИЕ &gt;</a>
         <div class="clearfix"></div>
       </div>
     </div>
@@ -267,7 +267,7 @@
   <!-- Two colums portfolio -->
   <!-- Two colums portfolio -->
   <div class="column-container">
-    <div class="column-2 pt05r pb05r">
+    <div class="column-2 pt05r">
       <div class="column-offset">
         <div class="l w120 h120 bg-dark-gray mr20">
           <div class="w80 auto pt20">
@@ -286,11 +286,11 @@
           </p>
         </div>
         <div class="h20"></div>
-        <a href="#" class="size-12 ml05r uppercase color-teal weight-300">ПОСМОТРЕТЬ ПРЕДЛОЖЕНИЕ &gt;</a>
+        <a href="#" class="size-12 uppercase color-teal weight-300">ПОСМОТРЕТЬ ПРЕДЛОЖЕНИЕ &gt;</a>
         <div class="clearfix"></div>
       </div>
     </div>
-    <div class="column-2 pt05r pb05r">
+    <div class="column-2 pt05r">
       <div class="column-offset">
         <div class="l w120 h120 bg-dark-gray mr20">
           <div class="w80 auto pt20">
@@ -309,7 +309,7 @@
           </p>
         </div>
         <div class="h20"></div>
-        <a href="#" class="size-12 ml05r uppercase color-teal weight-300">ПОСМОТРЕТЬ ПРЕДЛОЖЕНИЕ &gt;</a>
+        <a href="#" class="size-12 uppercase color-teal weight-300">ПОСМОТРЕТЬ ПРЕДЛОЖЕНИЕ &gt;</a>
         <div class="clearfix"></div>
       </div>
     </div>

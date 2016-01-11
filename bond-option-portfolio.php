@@ -129,7 +129,7 @@
     <div class="column-container pt07r">
       <div class="column">
         <h3 class="w288 auto h40 line-h40 bg-gray2 text-center size-12 color-white"> ИНВЕСТИЦИОННАЯ АКТУАЛЬНОСТЬ СТРАТЕГИИ </h3>
-        <div class="column-offset">
+        <div class="pl05r pr05r">
           <div class="title-line-grey"></div>
         </div>
       </div>
@@ -213,7 +213,7 @@
       <div class="pl05r pr05r">
         <h3 class="text-center size-14 line-h26 bold pt05r pb05r pb04r">Расчет доходности портфеля</h3>
         <div class="clearfix"></div>
-        <div class="column-3-2 size-14 line-h28" style="float:right;">
+        <div class="column-2 size-14 line-h28" style="float:right;">
           <div class="">
             <div class="border-lightgray text-center weight-300 mb5 pt02r pb01r">
               <span>первоначальные инвестиции<br/></span>
@@ -242,7 +242,7 @@
             </div>
           </div>
         </div>
-        <div id="graph-option-1" class="column-3-1">
+        <div id="graph-option-1" class="column-2 pt05r">
           <div class="img-bond-option-portfolio-2 h400 contain" style="background-size: contain; background-repeat: no-repeat; background-position: center center;"></div>
         </div>
       </div>
@@ -260,18 +260,24 @@
         </div>
       </div>
     </div>
+    <!-- CONNECT -->
     <div class="clearfix"></div>
     <div class="column-container">
-      <div class="column text-center">
+      <div class="column">
         <div class="border-gray-bottom"></div>
-        <p class="size-12 color-teal uppercase line-h20 weight-300 pt05r pb01r pl05r pr05r">
-          В ЗАВИСИМОСТИ ОТ ПОСТАВЛЕННЫХ ЗАДАЧ, НАШИ СПЕЦИАЛИСТЫ ПОМОГУТ ВЫБРАТЬ НАИБОЛЕЕ ПОДХОДЯЩУЮ ДЛЯ ВАС СТРАТЕГИЮ
-        </p>
-        <a href="/connect.php" class="size-14 line-h26 weight-300">задать вопрос специалисту </a>
-        <span class="color-teal weight-300">&gt;</span>
+        <div class="pt05r pl05r pr05r text-center">
+          <p class="size-12 color-teal uppercase line-h20 weight-300">
+            В ЗАВИСИМОСТИ ОТ ПОСТАВЛЕННЫХ ЗАДАЧ, НАШИ СПЕЦИАЛИСТЫ ПОМОГУТ ВЫБРАТЬ НАИБОЛЕЕ ПОДХОДЯЩУЮ ДЛЯ ВАС СТРАТЕГИЮ
+          </p>
+          <p class="mt20">
+            <a href="/connect.php" class="size-14 weight-300">задать вопрос специалисту </a>
+            <span class="color-teal weight-300">&gt;</span>
+          </p>
+        </div>
       </div>
     </div>
-  <div class="clearfix"></div>
+    <div class="clearfix"></div>
+    <!-- /CONNECT -->
   </div>
     <!-- PORTFOLIO MENU -->
     <div class="img-high-yield-strategy-2 w100r mt05r fixed" style="background-attachment: fixed;">

@@ -159,7 +159,6 @@
         </div>
       </div>
       <div class="column-2">
-        <div class="column-offset">
           <div class="column-offset pt05r pb05r">
             <h3 class="text-center size-12 color-white"><div class="w250 h40 line-h40 auto bg-gray2 weight-300">ООО «Альфа-Банк»</div></h3>
             <div class="title-line-teal"></div>
@@ -167,7 +166,6 @@
             <h4 class="size-14 line-h40 text-center mt10 weight-300">к/с № 30101810200000000593</h4>
             <h4 class="size-14 line-h40 text-center mt10 weight-300">БИК 044525593</h4>
           </div>
-        </div>
       </div>
       <div class="clearfix"></div>
     </div>
