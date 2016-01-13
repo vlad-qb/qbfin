@@ -79,7 +79,7 @@
             <div class="w85r auto size-12 color-grey1 uppercase mt30">
               <ul>
                 <li class="inline">
-                  <a class="size-12" href="/company.php"> КОМПАНИЯ </a>
+                  <a class="size-12 active" href="/company.php"> КОМПАНИЯ </a>
                   <span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span>
                 </li>
                 <li class="inline">
@@ -251,7 +251,7 @@
   <!-- /CONTENT -->
   <div class="clearfix"></div>
   <div class="text-center pt02r pb02r">
-    <img src="img/icons/icon-lighthouse.svg" class="icon icon-main"><br>
+    <img src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r"><br>
     <a href="/company.php" class="size-12 uppercase">Компания</a>
   </div>    
   <?php include 'html/footer.html';?>

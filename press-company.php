@@ -21,7 +21,7 @@
     <![endif]-->
   </head>
   <body>
-    <?php include 'html/header.html';?>
+    <?php include 'html/header-news.html';?>
     <!-- HEADBLOCK -->
       <div id="cover" 
             class="img-press-company-1 cover w100r h400 mt-80" 
@@ -95,7 +95,7 @@
                   <span class="color-teal"> • </span>
                 </li>
                 <li class="inline">
-                  <a href="/press-company.php"> КОМПАНИЯ В СМИ </a>
+                  <a class="active" href="/press-company.php"> КОМПАНИЯ В СМИ </a>
                   <span class="color-teal"> • </span>
                 </li>
                 <li class="inline">
@@ -206,7 +206,7 @@
     <div class="clearfix"></div>
     <div class="w100r">
           <div class="text-center pt02r pb02r">
-            <img src="img/icons/icon-lighthouse.svg" class="icon icon-main"><br>
+            <img src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r"><br>
             <a href="/news.php" class="size-12 uppercase">НОВОСТИ</a>
 			<span class="color-teal size-10">•︎</span> 
 			<a href="/archive-press-company-2.php" class="size-12 uppercase">АРХИВ: КОМПАНИЯ В СМИ</a>
@@ -214,7 +214,7 @@
     </div>		
     <!-- /FOOTER BLOCK -->
   <div class="clearfix"></div>
-  <?php include 'html/footer.html';?>
+  <?php include 'html/footer-news.html';?>
   <script src="/js/jquery.min.js"></script>
   <script src="/js/main.js"></script>
 </body>

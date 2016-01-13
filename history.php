@@ -91,7 +91,7 @@
                   <span class="color-teal"> • </span>
                 </li>
                 <li class="inline">
-                  <a href="/history.php"> ИСТОРИЯ </a>
+                  <a class="active" href="/history.php"> ИСТОРИЯ </a>
                   <span class="color-teal"> • </span>
                 </li>
                 <li class="inline">
@@ -266,7 +266,7 @@
     <div class="clearfix"></div>
     <div class="w100r">
           <div class="text-center pt02r pb02r">
-            <img src="img/icons/icon-lighthouse.svg" class="icon icon-main"><br>
+            <img src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r"><br>
             <a href="/company.php" class="size-12 uppercase">Компания</a>
           </div>	  
     </div>		

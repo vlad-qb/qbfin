@@ -79,27 +79,39 @@
             <div class="w85r auto size-12 color-grey1 uppercase mt30">
               <ul>
                 <li class="inline">
-                  <a class="size-12" href="/news.php"> НОВОСТИ </a>
+                  <a class="size-12" href="/company.php"> КОМПАНИЯ </a>
                   <span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span>
                 </li>
                 <li class="inline">
-                  <a href="/events.php"> СОБЫТИЯ </a>
+                  <a href="/about.php"> О НАС </a>
                   <span class="color-teal"> • </span>
                 </li>
                 <li class="inline">
-                  <a href="/laws.php"> ЗАКОНОДАТЕЛЬСТВО </a>
+                  <a href="/mission.php"> МИССИЯ И ЦЕННОСТИ </a>
                   <span class="color-teal"> • </span>
                 </li>
                 <li class="inline">
-                  <a href="/press-about-us.php"> ПРЕССА О НАС </a>
+                  <a href="/history.php"> ИСТОРИЯ </a>
                   <span class="color-teal"> • </span>
                 </li>
                 <li class="inline">
-                  <a href="/press-company.php"> КОМПАНИЯ В СМИ </a>
+                  <a href="/team.php"> РУКОВОДСТВО </a>
                   <span class="color-teal"> • </span>
                 </li>
                 <li class="inline">
-                  <a href="/archive-news.php"> АРХИВ </a>
+                  <a href="/clients-and-partners.php"> КЛИЕНТЫ И ПАРТНЕРЫ </a>
+                  <span class="color-teal">•</span>
+                </li>
+                <li class="inline">
+                  <a class="active" href="/awards-and-ratings.php"> НАГРАДЫ И РЕЙТИНГИ </a>
+                  <span class="color-teal">•</span>
+                </li>
+                <li class="inline">
+                  <a href="/branch-office.php"> ФИЛИАЛЫ </a>
+                  <span class="color-teal"> • </span>
+                </li>
+                <li class="inline">
+                  <a href="/documents.php"> ДОКУМЕНТЫ </a>
                 </li>
               </ul>
             </div> 
@@ -295,7 +307,7 @@
     <div class="clearfix"></div>
     <div class="w100r">
       <div class="text-center pt02r pb02r">
-        <img src="img/icons/icon-lighthouse.svg" class="icon icon-main"><br>
+        <img src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r"><br>
         <a href="/company.php" class="size-12 uppercase">Компания</a>
       </div>	  
     </div>		

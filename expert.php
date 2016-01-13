@@ -21,7 +21,7 @@
     <![endif]-->
   </head>
   <body>
-    <?php include 'html/header.html';?>
+    <?php include 'html/header-analytics.html';?>
     <!-- HEADBLOCK -->
     <div id="cover"
       class="img-expert-1 cover w100r h400 mt-80"
@@ -95,7 +95,7 @@
                 <span class="color-teal"> • </span>
               </li>
               <li class="inline">
-                <a href="/expert.php"> ЭКСПЕРТ </a>
+                <a class="active" href="/expert.php"> ЭКСПЕРТ </a>
                 <span class="color-teal"> • </span>
               </li>
               <li class="inline">
@@ -302,7 +302,7 @@
 <!-- FOOTER BLOCK -->
 	<div class="clearfix"></div>
 	<div class="text-center pt02r">
-		<img src="img/icons/icon-lighthouse.svg" class="icon icon-main">
+		<img src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r">
 	</div>
 	<div class="text-center pb02r">
 		<a href="/analytics.php" class="size-12 uppercase">АНАЛИТИКА</a> <span class="color-teal size-10">•︎</span> 
@@ -310,7 +310,7 @@
 	</div>
 	<!-- /FOOTER BLOCK -->
 <div class="clearfix"></div>
-<?php include 'html/footer.html';?>
+<?php include 'html/footer-analytics.html';?>
 <script src="/js/jquery.min.js"></script>
 <script src="/js/main.js"></script>
 </body>

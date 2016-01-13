@@ -111,7 +111,7 @@
                   <span class="color-teal"> • </span>
                 </li>
                 <li class="inline">
-                  <a href="/documents.php"> ДОКУМЕНТЫ </a>
+                  <a class="active" href="/documents.php"> ДОКУМЕНТЫ </a>
                 </li>
               </ul>
             </div> 
@@ -201,7 +201,7 @@
     <!-- FOOTER BLOCK -->
     <div class="clearfix"></div>
     <div class="text-center pt02r">
-      <img src="img/icons/icon-lighthouse.svg" class="icon icon-main">
+      <img src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r">
     </div>
     <div class="text-center pb02r">
  

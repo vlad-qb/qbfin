@@ -21,7 +21,7 @@
       <![endif]-->
     </head>
     <body>
-      <?php include 'html/header.html';?>
+      <?php include 'html/header-analytics.html';?>
     <!-- HEADBLOCK -->
     <div id="cover" 
           class="img-analytics-1 cover w100r h400 mt-80" 
@@ -79,7 +79,7 @@
           <div class="w85r auto size-12 color-grey1 uppercase mt30">
             <ul>
               <li class="inline">
-                <a class="size-12" href="/analytics.php"> АНАЛИТИКА </a>
+                <a class="size-12 active" href="/analytics.php"> АНАЛИТИКА </a>
                 <span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span>
               </li>
               <li class="inline">
@@ -186,12 +186,12 @@
 	  <!-- FOOTER BLOCK -->
       <div class="clearfix"></div>
       <div class="text-center pt02r pb02r">
-        <img src="img/icons/icon-lighthouse.svg" class="icon icon-main"><br>
+        <img src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r"><br>
         <a href="/archive-analytics.php" class="size-12 uppercase">Архив</a>
       </div>
       <!-- /FOOTER BLOCK -->
       <div class="clearfix"></div>
-      <?php include 'html/footer.html';?>
+      <?php include 'html/footer-analytics.html';?>
       <script src="/js/jquery.min.js"></script>
       <script src="/js/main.js"></script>
     </body>

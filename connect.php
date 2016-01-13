@@ -21,7 +21,7 @@
     <![endif]-->
   </head>
   <body>
-    <?php include 'html/header.html';?>
+    <?php include 'html/header-connect.html';?>
     <!-- HEADBLOCK -->
       <div id="cover" 
             class="img-connect-1 cover w100r h400 mt-80" 
@@ -77,7 +77,7 @@
               </tr>
             </table>
            <div class="w85r auto size-12 color-grey1 uppercase mt30">
-             <a class="size-12" href="/connect.php">КОНТАКТЫ</a>
+             <a class="size-12 active" href="/connect.php">КОНТАКТЫ</a>
              <span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span>
              <a href="/offices.php">ОФИСЫ</a>
              <span class="color-teal">•</span>
@@ -208,14 +208,9 @@
     </div>
     
   </div>
-  </div>
-  <div class="clearfix"></div>
-  <div class="text-center pt02r pb02r">
-    <img src="img/icons/icon-lighthouse.svg" class="icon icon-main"><br>
-    <a href="/connect.php" class="size-12 uppercase">Контакты</a>
-  </div>  
-  <div class="clearfix"></div>
-  <?php include 'html/footer.html';?>
+  </div> 
+  <div class="clearfix pt05r"></div>
+  <?php include 'html/footer-connect.html';?>
   <script src="/js/jquery.min.js"></script>
   <script src="/js/main.js"></script>
 </body>

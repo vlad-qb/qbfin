@@ -21,7 +21,7 @@
     <![endif]-->
   </head>
   <body>
-    <?php include 'html/header.html';?>
+    <?php include 'html/header-career.html';?>
     <!-- HEADBLOCK -->
       <div id="cover" 
             class="img-departments-1 cover w100r h400 mt-80" 
@@ -91,7 +91,7 @@
                   <span class="color-teal"> • </span>
                 </li>
                 <li class="inline">
-                  <a href="/departments.php"> ДЕПАРТАМЕНТЫ </a>
+                  <a class="active" href="/departments.php"> ДЕПАРТАМЕНТЫ </a>
                   <span class="color-teal"> • </span>
                 </li>
                 <li class="inline">
@@ -141,7 +141,7 @@
             <p class="mt25 size-14 ml07r mr07r">Департамент способен оказать всю необходимую помощь нашим клиентам, заинтересованным в проведении оценки или аудита своего бизнеса. Ведь достоверная информация о ключевых показателях компании и оценка эффективности необходима в планировании бизнеса на долгие годы вперед. Помимо этого наши специалисты могут предоставить консультации и помочь в совершении сделок по реструктуризации бизнеса или привлечения финансирования для клиентов, готовых вывести свой бизнес на новый более высокий уровень.</p>
             <p class="mt15 mb15 size-14 ml07r mr07r">В штат департамента входят специалисты сферы финансового консультирования, чей большой опыт и подготовленность в области проведения сделок, обеспечивают предоставление согласованных и качественных услуг в соответствии с международными стандартами.</p>
             <div class="column-offset">
-              <h3 class="text-center size-14"><div class="w100r h40 line-h40 auto bg-lightgray"><a class="color-teal gray-hover" href="/vacancies.php">актуальные вакансии ></a></div></h3>
+              <h3 class="text-center size-14"><div class="w100r h40 line-h40 auto bg-lightgray lightgray-block-hover2"><a class="color-teal" href="/vacancies.php">актуальные вакансии ></a></div></h3>
             </div>
           </div>
         </div>
@@ -153,7 +153,7 @@
             <p class="mt25 size-14 ml07r mr07r">Основная задача этого подразделения - это обеспечение надежной правовой защиты бизнеса как компании, так и ее клиентов. Выстраивание правильной системы взаимоотношений с нашими клиентами и для наших клиентов в условиях постоянно изменяющейся мировой экономики требует профессиональной эрудиции, оперативности, индивидуальной и командной дисциплины. Стабильное выполнение данной задачи является абсолютным императивом.</p>
             <p class="mt15 mb15 size-14 ml07r mr07r">Вторая, не менее важная функция связана с участием юридического подразделения в управлении бизнесом. Активное участие в принятии как тактических, так и стратегических управленческих решений, а также в их реализация позволяет более продуктивно, и в первую очередь с экономической точки зрения, вести бизнес на мировой арене.</p>
             <div class="column-offset">
-              <h3 class="text-center size-14"><div class="w100r h40 line-h40 auto bg-lightgray"><a class="color-teal gray-hover" href="/vacancies.php">актуальные вакансии ></a></div></h3>
+              <h3 class="text-center size-14"><div class="w100r h40 line-h40 auto bg-lightgray lightgray-block-hover2"><a class="color-teal" href="/vacancies.php">актуальные вакансии ></a></div></h3>
             </div>
           </div>
         </div>
@@ -165,7 +165,7 @@
             <p class="mt25 size-14 ml07r mr07r">Специалисты Департамента международного трейдинга осуществляют реализацию инвестиционных стратегий и торговых идей. В сферу их компетенции входит технический анализ основных фондовых и сырьевых рынков, а также анализ котировок внутри торгового дня. Ключевыми функциями данного департамента являются разработка и контроль за системой риск-менеджмента и управление активами как наших клиентов, так и самой компании.</p>
             <p class="mt15 mb15 size-14 ml07r mr07r">Департамент состоит из профессионалов, имеющих богатый опыт работы в международных финансовых корпорациях. Багаж знаний и квалификация наших специалистов обуславливают извлечение прибыли при любых рыночных ситуациях.</p>
             <div class="column-offset">
-              <h3 class="text-center size-14"><div class="w100r h40 line-h40 auto bg-lightgray"><a class="color-teal gray-hover" href="/vacancies.php">актуальные вакансии ></a></div></h3>
+              <h3 class="text-center size-14"><div class="w100r h40 line-h40 auto bg-lightgray lightgray-block-hover2"><a class="color-teal" href="/vacancies.php">актуальные вакансии ></a></div></h3>
             </div>
           </div>
         </div>
@@ -190,7 +190,7 @@
             <p class="mt25 size-14 ml07r mr07r">Деятельность данного департамента связана с созданием и осуществлением работы современных алгоритмических и высокочастотных систем осуществления торговли на международных фондовых площадках. Благодаря работе специалистов этого департамента, наша компания может молниеносно реагировать на любые мировые события и извлекать из них прибыль для наших клиентов.</p>
             <p class="mt15 mb15 size-14 ml07r mr07r">В штат входят выпускники ведущих технических высших учебных заведений России и Европы. Это позволяет достичь соответствия наших торговых систем высочайшим стандартам мирового уровня.</p>
             <div class="column-offset">
-              <h3 class="text-center size-14"><div class="w100r h40 line-h40 auto bg-lightgray"><a class="color-teal gray-hover" href="/vacancies.php">актуальные вакансии ></a></div></h3>
+              <h3 class="text-center size-14"><div class="w100r h40 line-h40 auto bg-lightgray lightgray-block-hover2"><a class="color-teal" href="/vacancies.php">актуальные вакансии ></a></div></h3>
             </div>
           </div>
         </div>
@@ -201,7 +201,7 @@
             <p class="mt25 size-14 ml07r mr07r">Департамент инвестиционных услуг - это команда финансовых консультантов, готовых 24 часа 7 дней в неделю помочь в принятии финансовых решений. Тот, кто выбирает нас, не сомневается в том, что в его интересах действуют специалисты, заинтересованные в положительном для клиента результате. Нам важны комфорт и уверенность клиентов в вопросе выбора направления инвестирования средств, будь то доверительное или консультационное управление активами.</p>
             <p class="mt15 mb15 size-14 ml07r mr07r">Взаимодействие с нашими клиентами и работа сотрудников внутри коллектива компании основываются на искренних и справедливых взаимоотношениях. Мы знаем, что заинтересованность и профессионализм работают на положительный результат для наших клиентов, а, следовательно, и для нас. Успех наших клиентов - наш успех.</p>
             <div class="column-offset">
-              <h3 class="text-center size-14"><div class="w100r h40 line-h40 auto bg-lightgray"><a class="color-teal gray-hover" href="/vacancies.php">актуальные вакансии ></a></div></h3>
+              <h3 class="text-center size-14"><div class="w100r h40 line-h40 auto bg-lightgray lightgray-block-hover2"><a class="color-teal" href="/vacancies.php">актуальные вакансии ></a></div></h3>
             </div>
           </div>
         </div>
@@ -213,7 +213,7 @@
             <p class="mt15 mb15 size-14 ml07r mr07r">Ставя приоритетным лучше понимать предпочтения и потребности клиентов, департамент выстраивает связующий путь между представлениями населения и ценностями компании.</p>
             <p class="mt15 mb15 size-14 ml07r mr07r">Мы стремимся быть понятыми для людей с любым образованием. Для нас важно выбрать те пути коммуникации, которые формируют представление о корпорации, как о своем частном партнере и личном друге. На которого можно положиться, и которому можно доверять в условиях меняющейся экономической ситуации.</p>
             <div class="column-offset">
-              <h3 class="text-center size-14"><div class="w100r h40 line-h40 auto bg-lightgray"><a class="color-teal gray-hover" href="/vacancies.php">актуальные вакансии ></a></div></h3>
+              <h3 class="text-center size-14"><div class="w100r h40 line-h40 auto bg-lightgray lightgray-block-hover2"><a class="color-teal" href="/vacancies.php">актуальные вакансии ></a></div></h3>
             </div>
           </div>
         </div>
@@ -240,7 +240,7 @@
             <p class="mt15 mb15 size-14 ml07r mr07r">Специалисты компании имеют большой опыт работы на международных финансовых рынках, и, благодаря им, компании смогла пройти через все штормы и кризисы в мировой экономике, продолжая показывать высокие результаты для наших клиентов. </p>
             
             <div class="column-offset">
-              <h3 class="text-center size-14"><div class="w100r h40 line-h40 auto bg-lightgray"><a class="color-teal gray-hover" href="/vacancies.php">актуальные вакансии ></a></div></h3>
+              <h3 class="text-center size-14"><div class="w100r h40 line-h40 auto bg-lightgray lightgray-block-hover2"><a class="color-teal" href="/vacancies.php">актуальные вакансии ></a></div></h3>
             </div>
           </div>
         </div>
@@ -254,7 +254,7 @@
             <p class="mt15 mb15 size-14 ml07r mr07r">Профессиональные навыки и компетентность специалистов данного отдела позволили нам добиться высоких профессиональных результатов и помогают двигаться вперед, опираясь на международные практики и стандарты организации труда.</p>
             
             <div class="column-offset">
-              <h3 class="text-center size-14"><div class="w100r h40 line-h40 auto bg-lightgray"><a class="color-teal gray-hover" href="/vacancies.php">актуальные вакансии ></a></div></h3>
+              <h3 class="text-center size-14"><div class="w100r h40 line-h40 auto bg-lightgray lightgray-block-hover2"><a class="color-teal" href="/vacancies.php">актуальные вакансии ></a></div></h3>
             </div>
           </div>
         </div>
@@ -274,7 +274,7 @@
             <p class="mt15 mb15 size-14 ml07r mr07r">- гостеприимство и индивидуальный подход к каждому гостю</p>
             
             <div class="column-offset">
-              <h3 class="text-center size-14"><div class="w100r h40 line-h40 auto bg-lightgray"><a class="color-teal gray-hover" href="/vacancies.php">актуальные вакансии ></a></div></h3>
+              <h3 class="text-center size-14"><div class="w100r h40 line-h40 auto bg-lightgray lightgray-block-hover2"><a class="color-teal" href="/vacancies.php">актуальные вакансии ></a></div></h3>
             </div>
           </div>
         </div>
@@ -288,13 +288,13 @@
     <div class="clearfix"></div>
     <div class="w100r">
           <div class="text-center pt02r pb02r">
-            <img src="img/icons/icon-lighthouse.svg" class="icon icon-main"><br>
+            <img src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r"><br>
             <a href="/career.php" class="size-12 line-h40 uppercase">Карьера</a>
           </div>	  
     </div>		
     <!-- /FOOTER BLOCK -->
   <div class="clearfix"></div>
-  <?php include 'html/footer.html';?>
+  <?php include 'html/footer-career.html';?>
   <script src="/js/jquery.min.js"></script>
   <script src="/js/main.js"></script>
 </body>

@@ -21,7 +21,7 @@
     <![endif]-->
   </head>
   <body>
-    <?php include 'html/header.html';?>
+    <?php include 'html/header-connect.html';?>
     <!-- HEADBLOCK -->
       <div id="cover" 
             class="img-quality-control-1 cover w100r h400 mt-80" 
@@ -81,7 +81,7 @@
              <span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span>
              <a href="/offices.php">ОФИСЫ</a>
              <span class="color-teal">•</span>
-             <a href="/quality-control.php">КОНТРОЛЬ КАЧЕСТВА</a>
+             <a class="active" href="/quality-control.php">КОНТРОЛЬ КАЧЕСТВА</a>
            </div>
         </div>
       </div>
@@ -159,11 +159,11 @@
   </div>
   <div class="clearfix"></div>
   <div class="text-center pt02r pb02r">
-    <img src="img/icons/icon-lighthouse.svg" class="icon icon-main"><br>
-    <a href="/quality-control.php" class="size-12 uppercase">КОНТРОЛЬ КАЧЕСТВА</a>
+    <img src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r"><br>
+    <a href="/connect.php" class="size-12 uppercase">КОНТАКТЫ</a>
   </div>  
   <div class="clearfix"></div>
-  <?php include 'html/footer.html';?>
+  <?php include 'html/footer-connect.html';?>
   <script src="/js/jquery.min.js"></script>
   <script src="/js/main.js"></script>
 </body>

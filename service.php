@@ -21,7 +21,7 @@
     <![endif]-->
   </head>
   <body>
-    <?php include 'html/header.html';?>
+    <?php include 'html/header-service.html';?>
     <!-- HEADBLOCK -->
       <div id="cover" 
             class="img-service-1 cover w100r h400 mt-80" 
@@ -79,7 +79,7 @@
             <div class="w85r auto size-12 color-grey1 uppercase mt30">
               <ul>
                 <li class="inline">
-                  <a class="size-12" href="/service.php"> УСЛУГИ </a>
+                  <a class="active" class="size-12" href="/service.php"> УСЛУГИ </a>
                   <span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span>
                 </li>
                 <li class="inline">
@@ -167,11 +167,11 @@
   </div>
   <div class="clearfix"></div>
           <div class="text-center pt02r pb02r">
-            <img src="img/icons/icon-lighthouse.svg" class="icon icon-main"><br>
+            <img src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r"><br>
             <a href="/service.php" class="size-12 uppercase">Услуги</a>
           </div>    
   <div class="clearfix"></div>
-  <?php include 'html/footer.html';?>
+  <?php include 'html/footer-service.html';?>
   <script src="/js/jquery.min.js"></script>
   <script src="/js/main.js"></script>
 </body>
