@@ -13,7 +13,7 @@ $( document ).scroll(function() {
   var bottomscroll = h - scroll;
   if(scroll > 100){
     $( ".ARROW-FIXED" ).show();
-      if(bottomscroll > 200){
+      if(bottomscroll > 270){
         $( ".ARROW-FIXED" ).show();
       }else{
         $( ".ARROW-FIXED" ).hide();
