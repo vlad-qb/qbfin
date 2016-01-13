@@ -124,6 +124,9 @@
             <span class="company"> QBF ||| investment </span> <span class="sep"> - </span> МЕЖДУНАРОДНАЯ ИНВЕСТИЦИОННАЯ КОМПАНИЯ, ПРЕДОСТАВЛЯЮЩАЯ УСЛУГИ ПО УПРАВЛЕНИЮ АКТИВАМИ НА ФИНАНСОВЫХ РЫНКАХ СЕВЕРНОЙ АМЕРИКИ, ЕВРОПЫ И РОССИИ. 
           </p>
           <div class="w100r mt05r text-center">
+            <div class="hi-icon-effect-2 hi-icon-effect-2a" style="display:none;">
+              <a href="#set-2" class="hi-icon ">Time</a>
+            </div>
             <ul class="social-offset auto">
               <li class="w25r l">
                 <a href="http://twitter.com/qb_finance" target="_blank"><img alt="twitter" src="img/icons/icon-twitter.svg" class="icon icon-social"></a>
@@ -150,80 +153,96 @@
     <div class="column-2">
       <div class="gallery-offset w95r ml05r border-white">
         <div class="img-company-2 w100r h200 cover bg-center">
-          <div class="bg-label-2 w35r h200">
-            <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60 overflow-hidden clip"><a href="/about.php" class="color-whitesmoke light-gray-hover">О НАС</a></h2>
-            <a href="/about.php"><img class="icon arrow" src="/img/icons/arrow-right-white.svg"></a>
-          </div>
+          <a href="/about.php">
+            <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60" style="position:absolute;z-index:1;">О НАС</h2>
+            <div class="bg-label-2 w35r h200 animation-3 icon-arrow-right">
+              
+            </div>
+          </a>
         </div>
       </div>
     </div>
     <div class="column-2">
       <div class="gallery-offset w95r mr05r border-white">
         <div class="img-company-3 w100r h200 cover bg-center">
-          <div class="bg-label-2 w35r h200">
-            <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60 overflow-hidden clip"><a href="/mission.php" class="color-whitesmoke light-gray-hover">МИССИЯ И ЦЕННОСТИ</a></h2>
-            <a href="/mission.php"><img class="icon arrow" src="/img/icons/arrow-right-white.svg"></a>
-          </div>
+          <a href="/mission.php">
+            <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60" style="position:absolute;z-index:1;">МИССИЯ И ЦЕННОСТИ</h2>
+            <div class="bg-label-2 w35r h200 animation-3 icon-arrow-right">
+              
+            </div>
+          </a>
         </div>
       </div>
     </div>
     <div class="column-2">
       <div class="gallery-offset w95r ml05r border-white">
         <div class="img-company-4 w100r h200 cover bg-center">
-          <div class="bg-label-2 w35r h200">
-            <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60 overflow-hidden clip"><a href="/history.php" class="color-whitesmoke light-gray-hover">ИСТОРИЯ</a></h2>
-            <a href="/history.php"><img class="icon arrow" src="/img/icons/arrow-right-white.svg"></a>
-          </div>
+          <a href="/history.php">
+            <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60" style="position:absolute;z-index:1;">ИСТОРИЯ</h2>
+            <div class="bg-label-2 w35r h200 animation-3 icon-arrow-right">
+              
+            </div>
+          </a>
         </div>
       </div>
     </div>
     <div class="column-2">
       <div class="gallery-offset w95r mr05r border-white">
         <div class="img-company-5 w100r h200 cover bg-center">
-          <div class="bg-label-2 w35r h200">
-            <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60 overflow-hidden clip"><a href="/team.php" class="color-whitesmoke light-gray-hover">РУКОВОДСТВО</a></h2>
-            <a href="/team.php"><img class="icon arrow" src="/img/icons/arrow-right-white.svg"></a>
-          </div>
+          <a href="/team.php">
+            <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60" style="position:absolute;z-index:1;">РУКОВОДСТВО</h2>
+            <div class="bg-label-2 w35r h200 animation-3 icon-arrow-right">
+              
+            </div>
+          </a>
         </div>
       </div>
     </div>
     <div class="column-2">
       <div class="gallery-offset w95r ml05r border-white">
         <div class="img-company-6 w100r h200 cover bg-center">
-          <div class="bg-label-2 w35r h200">
-            <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60 overflow-hidden clip"><a href="/clients-and-partners.php" class="color-whitesmoke light-gray-hover">КЛИЕНТЫ И ПАРТНЕРЫ</a></h2>
-            <a href="/clients-and-partners.php"><img class="icon arrow" src="/img/icons/arrow-right-white.svg"></a>
-          </div>
+          <a href="/clients-and-partners.php">
+            <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60" style="position:absolute;z-index:1;">КЛИЕНТЫ И ПАРТНЕРЫ</h2>
+            <div class="bg-label-2 w35r h200 animation-3 icon-arrow-right">
+              
+            </div>
+          </a>
         </div>
       </div>
     </div>
     <div class="column-2">
       <div class="gallery-offset w95r mr05r border-white">
         <div class="img-company-7 w100r h200 cover bg-center">
-          <div class="bg-label-2 w35r h200">
-            <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60 overflow-hidden clip"><a href="/awards-and-ratings.php" class="color-whitesmoke light-gray-hover">НАГРАДЫ И РЕЙТИНГИ</a></h2>
-            <a href="/awards-and-ratings.php"><img class="icon arrow" src="/img/icons/arrow-right-white.svg"></a>
-          </div>
+          <a href="/awards-and-ratings.php">
+            <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60" style="position:absolute;z-index:1;">НАГРАДЫ И РЕЙТИНГИ</h2>
+            <div class="bg-label-2 w35r h200 animation-3 icon-arrow-right">
+              
+            </div>
+          </a>
         </div>
       </div>
     </div>
     <div class="column-2">
       <div class="gallery-offset w95r ml05r border-white">
         <div class="img-company-8 w100r h200 cover bg-center">
-          <div class="bg-label-2 w35r h200">
-            <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60 overflow-hidden clip"><a href="/branch-office.php" class="color-whitesmoke light-gray-hover">ФИЛИАЛЫ</a></h2>
-            <a href="/branch-office.php"><img class="icon arrow" src="/img/icons/arrow-right-white.svg"></a>
-          </div>
+          <a href="/branch-office.php">
+            <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60" style="position:absolute;z-index:1;">ФИЛИАЛЫ</h2>
+            <div class="bg-label-2 w35r h200 animation-3 icon-arrow-right">
+              
+            </div>
+          </a>
         </div>
       </div>
     </div>
     <div class="column-2">
       <div class="gallery-offset w95r mr05r border-white">
         <div class="img-company-9 w100r h200 cover bg-center">
-          <div class="bg-label-2 w35r h200">
-            <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60 overflow-hidden clip"><a href="/documents.php" class="color-whitesmoke light-gray-hover">ДОКУМЕНТЫ</a></h2>
-            <a href="/documents.php"><img class="icon arrow" src="/img/icons/arrow-right-white.svg"></a>
-          </div>
+          <a href="/documents.php">
+            <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60" style="position:absolute;z-index:1;">ДОКУМЕНТЫ</h2>
+            <div class="bg-label-2 w35r h200 animation-3 icon-arrow-right">
+              
+            </div>
+          </a>
         </div>
       </div>
     </div>

@@ -151,60 +151,72 @@
       <div class="w33r l">
         <div class="border-white">
           <div class="img-documents-2 w100r h200 cover bg-center">
-            <div class="bg-label-2 w60r h200">
-              <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60 overflow-hidden clip"><a href="/banking-information.php" class="color-whitesmoke light-gray-hover">РЕКВИЗИТЫ</a></h2>
-              <a href="/banking-information.php"><img class="icon arrow" src="/img/icons/arrow-right-white.svg"></a>
-            </div>
+            <a href="/banking-information.php">
+              <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60" style="position:absolute;z-index:1;">РЕКВИЗИТЫ</h2>
+              <div class="bg-label-2 w80r h200 animation-3 icon-arrow-right">
+                
+              </div>
+            </a>
           </div>
         </div>
       </div>
       <div class="w33r l">
         <div class="border-white">
           <div class="img-documents-3 w100r h200 cover bg-center">
-            <div class="bg-label-2 w60r h200">
-              <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60 overflow-hidden clip"><a href="/license.php" class="color-whitesmoke light-gray-hover">ЛИЦЕНЗИИ</a></h2>
-              <a href="/license.php"><img class="icon arrow" src="/img/icons/arrow-right-white.svg"></a>
-            </div>
+            <a href="/license.php">
+              <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60" style="position:absolute;z-index:1;">ЛИЦЕНЗИИ</h2>
+              <div class="bg-label-2 w80r h200 animation-3 icon-arrow-right">
+                
+              </div>
+            </a>
           </div>
         </div>
       </div>
       <div class="w33r l">
         <div class="border-white">
           <div class="img-documents-4 w100r h200 cover bg-center">
-            <div class="bg-label-2 w60r h200">
-              <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60 overflow-hidden clip"><a href="/calculation.php" class="color-whitesmoke light-gray-hover">РАСКРЫТИЕ ИНФОРМАЦИИ</a></h2>
-              <a href="/calculation.php"><img class="icon arrow" src="/img/icons/arrow-right-white.svg"></a>
-            </div>
+            <a href="/calculation.php">
+              <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60" style="position:absolute;z-index:1;">РАСКРЫТИЕ ИНФОРМАЦИИ</h2>
+              <div class="bg-label-2 w80r h200 animation-3 icon-arrow-right">
+                
+              </div>
+            </a>
           </div>
         </div>
       </div>
       <div class="w33r l">
         <div class="border-white">
           <div class="img-documents-5 w100r h200 cover bg-center">
-            <div class="bg-label-2 w60r h200">
-              <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60 overflow-hidden clip"><a href="/notification.php" class="color-whitesmoke light-gray-hover">УВЕДОМЛЕНИЯ</a></h2>
-              <a href="/notification.php"><img class="icon arrow" src="/img/icons/arrow-right-white.svg"></a>
-            </div>
+            <a href="/notification.php">
+              <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60" style="position:absolute;z-index:1;">УВЕДОМЛЕНИЯ</h2>
+              <div class="bg-label-2 w80r h200 animation-3 icon-arrow-right">
+                
+              </div>
+            </a>
           </div>
         </div>
       </div>
       <div class="w33r l">
         <div class="border-white">
           <div class="img-documents-6 w100r h200 cover bg-center">
-            <div class="bg-label-2 w60r h200">
-              <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60 overflow-hidden clip"><a href="/certificates.php" class="color-whitesmoke light-gray-hover">СВИДЕТЕЛЬСТВА</a></h2>
-              <a href="/certificates.php"><img class="icon arrow" src="/img/icons/arrow-right-white.svg"></a>
-            </div>
+            <a href="/certificates.php">
+              <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60" style="position:absolute;z-index:1;">СВИДЕТЕЛЬСТВА</h2>
+              <div class="bg-label-2 w80r h200 animation-3 icon-arrow-right">
+                
+              </div>
+            </a>
           </div>
         </div>
       </div>
       <div class="w33r l">
         <div class="border-white">
           <div class="img-documents-7 w100r h200 cover bg-center">
-            <div class="bg-label-2 w60r h200">
-              <h2 class="size-14 color-whitesmoke uppercase pt20 line-h24 ml20 mr20 h60 overflow-hidden clip"><a href="/privacy-policy.php" class="color-whitesmoke light-gray-hover">ПОЛИТИКА КОНФИДЕНЦИАЛЬНОСТИ</a></h2>
-              <a href="/privacy-policy.php"><img class="icon arrow" src="/img/icons/arrow-right-white.svg"></a>
-            </div>
+            <a href="/privacy-policy.php">
+              <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60" style="position:absolute;z-index:1;">ПОЛИТИКА КОНФИДЕНЦИАЛЬНОСТИ</h2>
+              <div class="bg-label-2 w80r h200 animation-3 icon-arrow-right">
+                
+              </div>
+            </a>
           </div>
         </div>
       </div>

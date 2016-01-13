@@ -36,7 +36,25 @@
           <h3>
           <a href="/asset-management.php" class="size-14 dark-gray-hover line-h70"> УПРАВЛЕНИЕ АКТИВАМИ </a>
           </h3>
+          <div class="img-index-2 cover pt40r" style="background-position: center center;">
+            <div class="bg-label-2">
+              <div class="pt05r pb05r pl05r pr05r">
+                <div class="l w80r auto pt05r">
+                  <p class="size-12 text-left uppercase line-h20">
+                    <a href="/asset-management.php" class="color-white gray-hover"> ЗАЩИТА РУБЛЕВЫХ АКТИВОВ И СТРАТЕГИИ УПРАВЛЕНИЯ ДЕНЬГАМИ </a>
+                  </p>
+                </div>
+                <div class="l w20r auto">
+                  <a href="/asset-management.php">
+                    <img src="/img/icons/arrow-right-white.svg" class="icon arrow">
+                  </a>
+                </div>
+                <div class="clearfix"></div>
+              </div>
+            </div>
+          </div>
         </div>
+
         <div class="column-offset bg-white pt10r">
           <div class="img-index-2 cover h300" style="background-position: center center;">
             <div class="h200">
@@ -51,8 +69,8 @@
             </a>
           </div>
         </div>
-      </div>
 
+      </div>
       <div class="column-3 content-margin">
         <div class="column-offset bg-white">
           <h3 class="size-18 color-teal line-h50"> КОНСУЛЬТАЦИИ </h3>
@@ -60,6 +78,23 @@
           <h3>
           <a href="/consulting-management.php" class="size-14 dark-gray-hover line-h70"> ИНВЕСТИЦИИ И СТРАТЕГИИ </a>
           </h3>
+          <div class="img-index-3 cover pt40r" style="background-position: center center;">
+            <div class="bg-label-2">
+              <div class="pt05r pb05r pl05r pr05r">
+                <div class="l w80r auto pt05r">
+                  <p class="size-12 text-left uppercase line-h20">
+                    <a href="/consulting-management.php" class="color-white gray-hover"> ИНВЕСТИРОВАНИЕ И СТРАТЕГИЧЕСКОЕ ПЛАНИРОВАНИЕ ФИНАНСОВ </a>
+                  </p>
+                </div>
+                <div class="l w20r auto">
+                  <a href="/consulting-management.php">
+                    <img src="/img/icons/arrow-right-white.svg" class="icon arrow">
+                  </a>
+                </div>
+                <div class="clearfix"></div>
+              </div>
+            </div>
+          </div>
         </div>
 
         <div class="column-offset bg-white pt10r">
@@ -68,9 +103,9 @@
 
             </div>
             <a href="/consulting-management.php" class="color-white white-hover block">
-              <div class="bg-label-2 h100 animation-1 icon-arrow-right">
-                <p class="size-12 color-white text-left uppercase line-h20 pt40 pl20">
-                  ИНВЕСТИРОВАНИЕ И<br> СТРАТЕГИЧЕСКОЕ ПЛАНИРОВАНИЕ ФИНАНСОВ
+              <div class="bg-label-2 h100 animation-2 icon-umbrella">
+                <p class="size-12 text-center uppercase line-h20 pt40 pl05r pr05r">
+                  ИНВЕСТИРОВАНИЕ И СТРАТЕГИЧЕСКОЕ ПЛАНИРОВАНИЕ ФИНАНСОВ
                 </p>
               </div>
             </a>
@@ -83,20 +118,22 @@
           <h3 class="size-18 color-teal line-h50">НЕДВИЖИМОСТЬ</h3>
           <div class="auto line-teal line-h70 mt10" style="width:180px;"></div>
           <h3><a href="/real-estate.php" class="size-14 dark-gray-hover line-h70">РЕАЛЬНЫЙ СЕКТОР</a></h3>
-        </div>
-
-        <div class="column-offset bg-white pt10r">
-          <div class="img-index-4 cover h300" style="background-position: center center;">
-            <div class="h200">
-
-            </div>
-            <a href="/real-estate.php" class="color-white white-hover block">
-              <div class="bg-label-2 h100 animation-1 icon-arrow-right">
-                <p class="size-12 color-white text-left uppercase line-h20 pt40 pl20">
-                  ГРИБОВСКИЙ ЛЕС - <br>НЕДВИЖИМОСТЬ В ПОДМОСКОВЬИ
-                </p>
+          <div class="img-index-4 cover pt40r" style="background-position: center center;">
+            <div class="bg-label-2">
+              <div class="pt05r pb05r pl05r pr05r">
+                <div class="l w80r auto pt05r">
+                  <p class="size-12 text-left uppercase line-h20">
+                    <a href="/real-estate.html" class="color-white gray-hover">ГРИБОВСКИЙ ЛЕС - НЕДВИЖИМОСТЬ В ПОДМОСКОВЬИ</a>
+                  </p>
+                </div>
+                <div class="l w20r auto">
+                  <a href="/real-estate.html">
+                    <img src="/img/icons/arrow-right-white.svg" class="icon arrow">
+                  </a>
+                </div>
+                <div class="clearfix"></div>
               </div>
-            </a>
+            </div>
           </div>
         </div>
       </div>

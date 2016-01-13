@@ -134,40 +134,48 @@
       <div class="column-2">
         <div class="gallery-offset w95r ml05r border-white">
           <div class="img-career-2 w100r h200 cover bg-center">
-            <div class="bg-label-2 w50r h200">
-              <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60 overflow-hidden clip"><a href="/culture.php" class="color-whitesmoke light-gray-hover">КУЛЬТУРА</a></h2>
-              <a href="/culture.php"><img class="icon arrow mt40" src="/img/icons/arrow-right-white.svg"></a>
-            </div>
+            <a href="/culture.php">
+              <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60" style="position:absolute;z-index:1;">КУЛЬТУРА</h2>
+              <div class="bg-label-2 w50r h200 animation-3 icon-arrow-right">
+                
+              </div>
+            </a>
           </div>
         </div>
       </div>
       <div class="column-2">
         <div class="gallery-offset w95r mr05r border-white">
           <div class="img-career-3 w100r h200 cover bg-center">
-            <div class="bg-label-2 w50r h200">
-              <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60 overflow-hidden clip"><a href="/colleague.php" class="color-whitesmoke light-gray-hover">СОТРУДНИКИ</a></h2>
-              <a href="/colleague.php"><img class="icon arrow mt40" src="/img/icons/arrow-right-white.svg"></a>
-            </div>
+            <a href="/colleague.php">
+              <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60" style="position:absolute;z-index:1;">СОТРУДНИКИ</h2>
+              <div class="bg-label-2 w50r h200 animation-3 icon-arrow-right">
+                
+              </div>
+            </a>
           </div>
         </div>
       </div>
       <div class="column-2">
         <div class="gallery-offset w95r ml05r border-white">
           <div class="img-career-4 w100r h200 cover bg-center">
-            <div class="bg-label-2 w50r h200">
-              <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60 overflow-hidden clip"><a href="/departments.php" class="color-whitesmoke light-gray-hover">ДЕПАРТАМЕНТЫ</a></h2>
-              <a href="/departments.php"><img class="icon arrow mt40" src="/img/icons/arrow-right-white.svg"></a>
-            </div>
+            <a href="/departments.php">
+              <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60" style="position:absolute;z-index:1;">ДЕПАРТАМЕНТЫ</h2>
+              <div class="bg-label-2 w50r h200 animation-3 icon-arrow-right">
+                
+              </div>
+            </a>
           </div>
         </div>
       </div>
       <div class="column-2">
         <div class="gallery-offset w95r mr05r border-white">
           <div class="img-career-5 w100r h200 cover bg-center">
-            <div class="bg-label-2 w50r h200">
-              <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60 overflow-hidden clip"><a href="/vacancies.php" class="color-whitesmoke light-gray-hover">ВАКАНСИИ</a></h2>
-              <a href="/vacancies.php"><img class="icon arrow mt40" src="/img/icons/arrow-right-white.svg"></a>
-            </div>
+            <a href="/vacancies.php">
+              <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60" style="position:absolute;z-index:1;">ВАКАНСИИ</h2>
+              <div class="bg-label-2 w50r h200 animation-3 icon-arrow-right">
+                
+              </div>
+            </a>
           </div>
         </div>
       </div>

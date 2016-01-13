@@ -121,20 +121,24 @@
     <div class="column-2">
       <div class="gallery-offset w95r ml05r border-white">
         <div class="img-connect-2 w100r h200 cover bg-center">
-          <div class="bg-label-2 w50r h200">
-            <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60 overflow-hidden clip"><a href="/offices.php" class="color-whitesmoke light-gray-hover">ОФИСЫ</a></h2>
-            <a href="/offices.php"><img class="icon arrow mt40" src="/img/icons/arrow-right-white.svg"></a>
-          </div>
+          <a href="/offices.php">
+            <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60" style="position:absolute;z-index:1;">ОФИСЫ</h2>
+            <div class="bg-label-2 w50r h200 animation-3 icon-arrow-right">
+              
+            </div>
+          </a>
         </div>
       </div>
     </div>
     <div class="column-2">
       <div class="gallery-offset w95r mr05r border-white">
         <div class="img-connect-3 w100r h200 cover bg-center">
-          <div class="bg-label-2 w50r h200">
-            <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60 overflow-hidden clip"><a href="/quality-control.php" class="color-whitesmoke light-gray-hover">КОНТРОЛЬ КАЧЕСТВА</a></h2>
-            <a href="/quality-control.php"><img class="icon arrow mt40" src="/img/icons/arrow-right-white.svg"></a>
-          </div>
+          <a href="/quality-control.php">
+            <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60" style="position:absolute;z-index:1;">КОНТРОЛЬ КАЧЕСТВА</h2>
+            <div class="bg-label-2 w50r h200 animation-3 icon-arrow-right">
+              
+            </div>
+          </a>
         </div>
       </div>
     </div>
