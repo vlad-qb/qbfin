@@ -35,5 +35,10 @@ var menu = {
         $('#menu-mobile').animate({height: "800px",top: "-800px"}, 300);
         $( 'body' ).css("overflow","scroll");
         $('.header').fadeIn(300);
+    },
+    showSearch:function(){
+      $('.icon-search').hide();
+      $('.search').fadeIn('fast');
+      $('.search-button').show();
     }
 }

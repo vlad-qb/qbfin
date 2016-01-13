@@ -1,4 +1,19 @@
 <style type="text/css">
+.icon-search{
+  margin-top: 30px;
+  margin-left: 10px;
+  width: 18px;
+  height: 18px;
+  background-image: url(/img/icons/icon-search.png); 
+  background-repeat: no-repeat;
+  background-size: 18px;
+}
+.search-input{
+width:180px;
+border-top: none;
+border-left: none;
+border-right: none;
+}
 .header{
 position: fixed;
 width: 100%;
@@ -30,7 +45,11 @@ top:-800px;
 height:800px;
 }
 #menu{line-height: 80px;padding-top: 4px;}
-#menu a{padding: 0 10px;}
+#menu a{
+  display:block;
+  float:left;
+  padding: 0 10px;
+}
 #menu a:hover{
 color: #00a19a;
 -webkit-transition:all 0.5s ease-out;
@@ -110,6 +129,11 @@ margin-right:12px;
   <a href="/news.php">Новости</a>
   <a href="/career.php">Карьера</a>
   <a href="/connect.php">Контакты</a>
+  <a class="search w220 auto">
+    <input class="search-input l" placeholder="Поиск" type="text" />
+    <div class="icon-search search-button l" style="margin-top:0;">&nbsp;</div>
+    <div class="clearfix"></div>
+  </a>
 </div>
 <div class="header">
   <div id="logo">
@@ -125,6 +149,10 @@ margin-right:12px;
     <a href="/news.php">Новости</a>
     <a href="/career.php">Карьера</a>
     <a href="/connect.php">Контакты</a>
+    <a class="search" style="display:none;"><input class="search-input" placeholder="Поиск" type="text" /></a>
+    <a class="icon-search" onclick="menu.showSearch();">&nbsp;</a>
+    <a class="icon-search search-button" style="display:none;">&nbsp;</a>
+    <div class="clearfix"></div>
   </div>
   <div class="clearfix"></div>
 </div>
