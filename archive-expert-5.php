@@ -183,7 +183,7 @@
     <div class="w100r">
       <div class="text-center pt02r pb02r">
         <img src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r"><br>
-         <a href="/analytics.php" class="size-12 uppercase">АНАЛИТИКА</a>
+         <a href="/analytics/" class="size-12 uppercase">АНАЛИТИКА</a>
 			  <span class="color-teal size-10">•︎</span> 
 			  <a href="/expert.php" class="size-12 uppercase">Эксперт</a>
       </div>	  

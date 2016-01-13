@@ -79,7 +79,7 @@
             <div class="w85r auto size-12 color-grey1 uppercase mt30">
               <ul>
                 <li class="inline">
-                  <a class="size-12" href="/news.php"> НОВОСТИ </a>
+                  <a class="size-12" href="/news/"> НОВОСТИ </a>
                   <span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span>
                 </li>
                 <li class="inline">
@@ -297,7 +297,7 @@
 		<img src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r">
 	</div>
 	<div class="text-center pb02r">
-		<a href="/news.php" class="size-12 uppercase">НОВОСТИ</a> <span class="color-teal size-10">•︎</span> 
+		<a href="/news/" class="size-12 uppercase">НОВОСТИ</a> <span class="color-teal size-10">•︎</span> 
 		<a href="/archive-events-2015.php" class="size-12 uppercase">АРХИВ: СОБЫТИЯ</a>
 	</div>
 	<!-- /FOOTER BLOCK -->

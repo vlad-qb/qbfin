@@ -79,7 +79,7 @@
             <div class="w85r auto size-12 color-grey1 uppercase mt30">
               <ul>
                 <li class="inline">
-                  <a class="active" class="size-12" href="/news.php"> НОВОСТИ </a>
+                  <a class="active" class="size-12" href="/news/"> НОВОСТИ </a>
                   <span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span>
                 </li>
                 <li class="inline">

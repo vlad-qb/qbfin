@@ -79,7 +79,7 @@
           <div class="w85r auto size-12 color-grey1 uppercase mt30">
             <ul>
               <li class="inline">
-                <a class="size-12" href="/analytics.php"> АНАЛИТИКА </a>
+                <a class="size-12" href="/analytics/"> АНАЛИТИКА </a>
                 <span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span>
               </li>
               <li class="inline">
@@ -198,7 +198,7 @@
     <div class="w100r">
           <div class="text-center pt02r pb02r">
             <img src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r"><br>
-            <a href="/analytics.php" class="size-12 uppercase">АНАЛИТИКА</a>
+            <a href="/analytics/" class="size-12 uppercase">АНАЛИТИКА</a>
 			<span class="color-teal size-10">•︎</span> 
 			<a href="/archive-markets-weekly-1.php" class="size-12 uppercase">АРХИВ: Рынки</a>
           </div>	  

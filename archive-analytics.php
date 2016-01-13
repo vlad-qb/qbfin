@@ -79,7 +79,7 @@
           <div class="w85r auto size-12 color-grey1 uppercase mt30">
             <ul>
               <li class="inline">
-                <a class="size-12" href="/analytics.php"> АНАЛИТИКА </a>
+                <a class="size-12" href="/analytics/"> АНАЛИТИКА </a>
                 <span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span>
               </li>
               <li class="inline">
@@ -195,7 +195,7 @@
     <div class="clearfix"></div>
     <div class="text-center pt02r pb02r">
       <img src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r"><br>
-      <a href="/analytics.php" class="size-12 uppercase">Аналитика</a>
+      <a href="/analytics/" class="size-12 uppercase">Аналитика</a>
     </div>
     <!-- /FOOTER BLOCK -->
     <div class="clearfix"></div>

@@ -79,7 +79,7 @@
           <div class="w85r auto size-12 color-grey1 uppercase mt30">
             <ul>
               <li class="inline">
-                <a class="size-12" href="/analytics.php"> АНАЛИТИКА </a>
+                <a class="size-12" href="/analytics/"> АНАЛИТИКА </a>
                 <span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span>
               </li>
               <li class="inline">
