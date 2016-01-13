@@ -202,13 +202,101 @@
   <!--Image-->
   <div id="img-hedging-the-risk-of-ruble-2" class="column-container pt05r">
     <div class="column">
-      <div class="img-hedging-the-risk-of-ruble-2 h400 contain mt30 mb50" style="background-size: contain; background-repeat: no-repeat; background-position: center center;"></div>
+      <div class="img-hedging-the-risk-of-ruble-2 h400 contain" style="background-size: contain; background-repeat: no-repeat; background-position: center center;"></div>
     </div>
     <div class="clearfix"></div>
   </div>
   <!--Image-->
+
+  <!--TABLE-->
+  <div class="column-container pt05r">
+    <div class="">
+      <div class="w100r mb10 bg-dark-gray2 color-white size-14 uppercase weight-300 line-h50 text-center">
+        TRACK RECORD СТРАТЕГИИ
+      </div>
+      <div class="column-3 size-14 bg-lightgray line-h50 text-center ">
+        2008
+      </div>
+      <div class="column-3 size-14 line-h50 text-center uppercase weight-300">
+        USD / RUB <span class="color-teal size-11">•︎</span> 13,66%
+      </div>
+      <div class="column-3 size-14 line-h40 text-center weight-300">
+        стратегия <span class="color-teal size-11">•︎</span> 4,89%
+      </div>
+      <div class="clearfix"></div>
+      <div class="w100r border-gray-bottom" style="margin-top:2px;"></div>
+      <div class="column-3 size-14 bg-lightgray line-h50 text-center">
+        2009
+      </div>
+      <div class="column-3 size-14 line-h50 text-center uppercase weight-300">
+        USD / RUB <span class="color-teal size-11">•︎</span> 9,69%
+      </div>
+      <div class="column-3 size-14 line-h40 text-center weight-300">
+        стратегия <span class="color-teal size-11">•︎</span> 18,73%
+      </div>
+      <div class="clearfix"></div>
+      <div class="w100r border-gray-bottom" style="margin-top:2px;"></div>
+      <div class="column-3 size-14 bg-lightgray line-h50 text-center">
+        2010
+      </div>
+      <div class="column-3 size-14 line-h50 text-center uppercase weight-300">
+        USD / RUB <span class="color-teal size-11">•︎</span> 1,08%
+      </div>
+      <div class="column-3 size-14 line-h40 text-center weight-300">
+        стратегия <span class="color-teal size-11">•︎</span> 5,59%
+      </div>
+      <div class="clearfix"></div>
+      <div class="w100r border-gray-bottom" style="margin-top:2px;"></div>
+      <div class="column-3 size-14 bg-lightgray line-h50 text-center">
+        2011
+      </div>
+      <div class="column-3 size-14 line-h50 text-center uppercase weight-300">
+        USD / RUB <span class="color-teal size-11">•︎</span> 2,14%
+      </div>
+      <div class="column-3 size-14 line-h40 text-center weight-300">
+        стратегия <span class="color-teal size-11">•︎</span> 7,36%
+      </div>
+      <div class="clearfix"></div>
+      <div class="w100r border-gray-bottom" style="margin-top:2px;"></div>
+      <div class="column-3 size-14 bg-lightgray line-h50 text-center">
+        2012
+      </div>
+      <div class="column-3 size-14 line-h50 text-center uppercase weight-300">
+        USD / RUB <span class="color-teal size-11">•︎</span> 3,28%
+      </div>
+      <div class="column-3 size-14 line-h40 text-center weight-300">
+        стратегия <span class="color-teal size-11">•︎</span> 0,51%
+      </div>
+      <div class="clearfix"></div>
+      <div class="w100r border-gray-bottom" style="margin-top:2px;"></div>
+      <div class="column-3 size-14 bg-lightgray line-h50 text-center">
+        2013
+      </div>
+      <div class="column-3 size-14 line-h50 text-center uppercase weight-300">
+        USD / RUB <span class="color-teal size-11">•︎</span> 7,39%
+      </div>
+      <div class="column-3 size-14 line-h40 text-center weight-300">
+        стратегия <span class="color-teal size-11">•︎</span> 10,97%
+      </div>
+      <div class="clearfix"></div>
+      <div class="w100r border-gray-bottom" style="margin-top:2px;"></div>
+      <div class="column-3 size-14 bg-lightgray line-h50 text-center">
+        2014
+      </div>
+      <div class="column-3 size-14 line-h50 text-center uppercase weight-300">
+        USD / RUB <span class="color-teal size-11">•︎</span> 26,71%
+      </div>
+      <div class="column-3 size-14 line-h40 text-center weight-300">
+        стратегия <span class="color-teal size-11">•︎</span> 23,18%
+      </div>
+      <div class="clearfix"></div>
+      <div class="w100r border-gray-bottom" style="margin-top:2px;"></div>
+    </div>
+  </div>
+  <!--/TABLE-->
+
   <!--Text-->
-  <div class="column-container size-14 line-h26">
+  <div class="column-container size-14 line-h26 pt05r">
     <div class="column-2">
       <p class="pt05r ml07r mr10r size-14 weight-300"><span class="bold">Т</span>ак, экономический рост в 2013-2015 годах составит не более 0,5% г/г, а инфляция по самым консервативным сценариям превысит 7%. Также политика ЦБ в ближайшее время будет нацелена на сдерживание инфляции в ущерб экономическому росту, что подтверждает повышение ЦБ процентных ставок.</p>
     </div>
