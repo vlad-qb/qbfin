@@ -115,16 +115,16 @@
           <div class="w100r mt05r text-center">
             <ul class="social-offset auto">
               <li class="circle w25r l">
-                <a href="#set-2" class="i "><img alt="twitter" src="img/icons/qbf-social-icons-1.svg" class="icon icon-social"></a>
+                <a href="http://twitter.com/qb_finance" class="i "><img alt="twitter" src="img/icons/qbf-social-icons-1.svg" class="icon icon-social"></a>
               </li>
               <li class="circle w25r l">
-                <a href="#set-2" class="i "><img alt="facebook" src="img/icons/qbf-social-icons-2.svg" class="icon icon-social"></a>
+                <a href="http://www.facebook.com/qbfin.ru" class="i "><img alt="facebook" src="img/icons/qbf-social-icons-2.svg" class="icon icon-social"></a>
               </li>
               <li class="circle w25r l">
-                <a href="#set-2" class="i "><img alt="linkedin" src="img/icons/qbf-social-icons-3.svg" class="icon icon-social"></a>
+                <a href="http://www.linkedin.com/company/qb-finance" class="i "><img alt="linkedin" src="img/icons/qbf-social-icons-3.svg" class="icon icon-social"></a>
               </li>
               <li class="circle w25r l">
-                <a href="#set-2" class="i "><img alt="google" src="img/icons/qbf-social-icons-4.svg" class="icon icon-social"></a>
+                <a href="http://www.google.com/+QbfinRu" class="i "><img alt="google" src="img/icons/qbf-social-icons-4.svg" class="icon icon-social"></a>
               </li>
             </ul>
           </div>
