@@ -124,19 +124,20 @@
             <span class="company"> QBF ||| investment </span> <span class="sep"> - </span> ВЫСОКОКВАЛИФИЦИРОВАННАЯ КОМАНДА МЕНЕДЖЕРОВ И ПОРТФЕЛЬНЫХ УПРАВЛЯЮЩИХ, ИМЕЮЩАЯ ЗНАЧИТЕЛЬНЫЙ ОПЫТ РАБОТЫ НА РЫНКЕ ЦЕННЫХ БУМАГ.
           </p>
           <div class="w100r mt05r text-center">
-            <ul class="social-offset auto">
-              <li class="circle w25r l">
-                <a href="http://twitter.com/qb_finance" class="i "><img alt="twitter" src="img/icons/qbf-social-icons-1.svg" class="icon icon-social"></a>
+            <ul class="social-offset auto hi-icon-wrap hi-icon-effect-8">
+              <li class="w25r l">
+                <a class="hi-icon icon-tw" href="http://twitter.com/qb_finance"></a>
               </li>
-              <li class="circle w25r l">
-                <a href="http://www.facebook.com/qbfin.ru" class="i "><img alt="facebook" src="img/icons/qbf-social-icons-2.svg" class="icon icon-social"></a>
+              <li class="w25r l">
+                <a class="hi-icon icon-fb" href="http://www.facebook.com/qbfin.ru"></a>
               </li>
-              <li class="circle w25r l">
-                <a href="http://www.linkedin.com/company/qb-finance" class="i "><img alt="linkedin" src="img/icons/qbf-social-icons-3.svg" class="icon icon-social"></a>
+              <li class="w25r l">
+                <a class="hi-icon icon-ln" href="http://www.linkedin.com/company/qb-finance"></a>
               </li>
-              <li class="circle w25r l">
-                <a href="http://www.google.com/+QbfinRu" class="i "><img alt="google" src="img/icons/qbf-social-icons-4.svg" class="icon icon-social"></a>
+              <li class="w25r l">
+                <a class="hi-icon icon-g" href="http://www.google.com/+QbfinRu"></a>
               </li>
+              <div class="clearfix"></div>
             </ul>
           </div>
         </div>
@@ -153,8 +154,10 @@
           <div class="img-documents-2 w100r h200 cover bg-center">
             <a href="/banking-information.php">
               <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60" style="position:absolute;z-index:1;">РЕКВИЗИТЫ</h2>
-              <div class="bg-label-2 w80r h200 animation-3 icon-arrow-right">
-                
+              <div class="bg-grey-label w80r h200">
+                <div class="w100r h200 animation-3 icon-arrow-right">
+                  
+                </div>
               </div>
             </a>
           </div>
@@ -165,8 +168,10 @@
           <div class="img-documents-3 w100r h200 cover bg-center">
             <a href="/license.php">
               <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60" style="position:absolute;z-index:1;">ЛИЦЕНЗИИ</h2>
-              <div class="bg-label-2 w80r h200 animation-3 icon-arrow-right">
-                
+              <div class="bg-grey-label w80r h200">
+                <div class="w100r h200 animation-3 icon-arrow-right">
+                  
+                </div>
               </div>
             </a>
           </div>
@@ -177,8 +182,10 @@
           <div class="img-documents-4 w100r h200 cover bg-center">
             <a href="/calculation.php">
               <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60" style="position:absolute;z-index:1;">РАСКРЫТИЕ ИНФОРМАЦИИ</h2>
-              <div class="bg-label-2 w80r h200 animation-3 icon-arrow-right">
-                
+              <div class="bg-grey-label w80r h200">
+                <div class="w100r h200 animation-3 icon-arrow-right">
+                  
+                </div>
               </div>
             </a>
           </div>
@@ -189,8 +196,10 @@
           <div class="img-documents-5 w100r h200 cover bg-center">
             <a href="/notification.php">
               <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60" style="position:absolute;z-index:1;">УВЕДОМЛЕНИЯ</h2>
-              <div class="bg-label-2 w80r h200 animation-3 icon-arrow-right">
-                
+              <div class="bg-grey-label w80r h200">
+                <div class="w100r h200 animation-3 icon-arrow-right">
+                  
+                </div>
               </div>
             </a>
           </div>
@@ -201,8 +210,10 @@
           <div class="img-documents-6 w100r h200 cover bg-center">
             <a href="/certificates.php">
               <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60" style="position:absolute;z-index:1;">СВИДЕТЕЛЬСТВА</h2>
-              <div class="bg-label-2 w80r h200 animation-3 icon-arrow-right">
-                
+              <div class="bg-grey-label w80r h200">
+                <div class="w100r h200 animation-3 icon-arrow-right">
+                  
+                </div>
               </div>
             </a>
           </div>
@@ -213,8 +224,10 @@
           <div class="img-documents-7 w100r h200 cover bg-center">
             <a href="/privacy-policy.php">
               <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60" style="position:absolute;z-index:1;">ПОЛИТИКА КОНФИДЕНЦИАЛЬНОСТИ</h2>
-              <div class="bg-label-2 w80r h200 animation-3 icon-arrow-right">
-                
+              <div class="bg-grey-label w80r h200">
+                <div class="w100r h200 animation-3 icon-arrow-right">
+                  
+                </div>
               </div>
             </a>
           </div>

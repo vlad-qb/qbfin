@@ -105,19 +105,20 @@
               ИНВЕСТИЦИОННАЯ КОМПАНИЯ </span><span class="company pl05 pr05">QBF ||| investment</span> <span class="bold">ПРЕДЛАГАЕТ 2 СТРАТЕГИИ ЗАЩИТЫ РУБЛЕВЫХ АКТИВОВ В РАМКАХ ДОВЕРИТЕЛЬНОГО УПРАВЛЕНИЯ ФИНАНСОВЫМИ АКТИВАМИ: ДЕПОЗИТНЫЙ СРЕДНЕВЗВЕШЕННЫЙ ПОРТФЕЛЬ И ХЕДЖИРОВАНИЕ РУБЛЕВЫХ РИСКОВ.</span>
             </p>
           <div class="w100r mt05r text-center">
-            <ul class="social-offset auto">
-              <li class="circle w25r l">
-                <a href="http://twitter.com/qb_finance" class="i "><img alt="twitter" src="img/icons/qbf-social-icons-1.svg" class="icon icon-social"></a>
+            <ul class="social-offset auto hi-icon-wrap hi-icon-effect-8">
+              <li class="w25r l">
+                <a class="hi-icon icon-tw" href="http://twitter.com/qb_finance"></a>
               </li>
-              <li class="circle w25r l">
-                <a href="http://www.facebook.com/qbfin.ru" class="i "><img alt="facebook" src="img/icons/qbf-social-icons-2.svg" class="icon icon-social"></a>
+              <li class="w25r l">
+                <a class="hi-icon icon-fb" href="http://www.facebook.com/qbfin.ru"></a>
               </li>
-              <li class="circle w25r l">
-                <a href="http://www.linkedin.com/company/qb-finance" class="i "><img alt="linkedin" src="img/icons/qbf-social-icons-3.svg" class="icon icon-social"></a>
+              <li class="w25r l">
+                <a class="hi-icon icon-ln" href="http://www.linkedin.com/company/qb-finance"></a>
               </li>
-              <li class="circle w25r l">
-                <a href="http://www.google.com/+QbfinRu" class="i "><img alt="google" src="img/icons/qbf-social-icons-4.svg" class="icon icon-social"></a>
+              <li class="w25r l">
+                <a class="hi-icon icon-g" href="http://www.google.com/+QbfinRu"></a>
               </li>
+              <div class="clearfix"></div>
             </ul>
           </div>
         </div>
