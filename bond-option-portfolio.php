@@ -163,33 +163,33 @@
       class="img-conservative-portfolio-2 w100r mt05r cover fixed"
       style="background-attachment: fixed; background-position: center center;">
       <div class="w90r auto bg bg-yellow-label text-center">
-        <div class="column-container size-11 line-h22 color-white">
-          <div class="w33r l pt04r pb02r">
-            <div class="border-white2 w100 auto"></div>
-            <p class="weight-300 mt02r pt05r pb05r pl05r pr05r">СУММА ИНВЕСТИЦИЙ</p>
-            <p class="weight-300 mb02r pt05r pb05r pl05r pr05r">от $500.000</p>
-            <div class="border-white2 w100 auto"></div>
-            <p class="weight-300 mt05r pt05r pb05r pl05r pr05r">УРОВЕНЬ ЗАЩИТЫ КАПИТАЛА</p>
-            <p class="weight-300 pt05r pl05r pr05r">100%</p>
+          <div class="column-container pt40 size-12 color-white">
+            <div class="w33r l">
+              <div class="border-white2  w100 auto"></div>
+              <p class="weight-300 mt20 pl05r pr05r">СУММА ИНВЕСТИЦИЙ</p>
+              <p class="weight-300 mt20 pl05r pr05r">от $500.000</p>
+              <div class="border-white2 mt30 w100 auto"></div>
+              <p class="weight-300 mt20 pl05r pr05r">УРОВЕНЬ ЗАЩИТЫ КАПИТАЛА</p>
+              <p class="weight-300 mt20 mb25 pl05r pr05r">100%</p>
+            </div>
+            <div class="w33r l">
+              <div class="border-white2  w100 auto"></div>
+              <p class="weight-300 mt20 pl05r pr05r">ЛИКВИДНОСТЬ</p>
+              <p class="weight-300 mt20 pl05r pr05r">15 дней</p>
+              <div class="border-white2 mt30 w100 auto"></div>
+              <p class="weight-300 mt20 pl05r pr05r">МИНИМАЛЬНЫЙ СРОК ИНВЕСТИРОВАНИЯ</p>
+              <p class="weight-300 mt20 mb25 pl05r pr05r">1 год</p>
+            </div>
+            <div class="w33r l">
+              <div class="border-white2 w100 auto"></div>
+              <p class="weight-300 mt20 pl05r pr05r">ЦЕЛЕВАЯ ДОХОДНОСТЬ, $</p>
+              <p class="weight-300 mt20 pl05r pr05r">8,5-25%</p>
+              <div class="border-white2 mt25 w100 auto"></div>
+              <p class="weight-300 mt20 pl05r pr05r">ВОЗНАГРАЖДЕНИЕ УПРАВЛЯЮЩЕГО</p>
+              <p class="weight-300 mt20 mb25 pl05r pr05r">комиссия за успех: 20% + за управление: от 0,5 до 1,5%</p>
+            </div>
+            <div class="clearfix"></div>
           </div>
-          <div class="w33r l pt04r pb02r">
-            <div class="border-white2 w100 auto"></div>
-            <p class="weight-300 mt02r pt05r pb05r pl05r pr05r">ЛИКВИДНОСТЬ</p>
-            <p class="weight-300 mb02r pt05r pb05r pl05r pr05r">15 дней</p>
-            <div class="border-white2 w100 auto"></div>
-            <p class="weight-300 mt05r pt05r pb05r pl05r pr05r">МИНИМАЛЬНЫЙ СРОК ИНВЕСТИРОВАНИЯ</p>
-            <p class="weight-300 pt05r pl05r pr05r">1 год</p>
-          </div>
-          <div class="w33r l pt04r pb02r">
-            <div class="border-white2 w100 auto"></div>
-            <p class="weight-300 mt02r pt05r pb05r pl05r pr05r">ЦЕЛЕВАЯ ДОХОДНОСТЬ, $</p>
-            <p class="weight-300 mb02r pt05r pb05r pl05r pr05r">8,5-25%</p>
-            <div class="border-white2 w100 auto"></div>
-            <p class="weight-300 mt05r pt05r pl05r pr05r">ВОЗНАГРАЖДЕНИЕ УПРАВЛЯЮЩЕГО</p>
-            <p class="weight-300 pt05r pl05r pr05r">комиссия за успех: 20% + за управление: от 0,5 до 1,5%</p>
-          </div>
-          <div class="clearfix"></div>
-        </div>
       </div>
     </div>
     <div class="clearfix"></div>
