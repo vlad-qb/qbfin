@@ -120,7 +120,7 @@
       <div class="column-2 content-margin">
         <div class="column-offset bg-white text-center pt50">
           <h2 class="title"> РАСКРЫТИЕ ИНФОРМАЦИИ </h2>
-          <p class="description">
+          <p class="description" style="text-align:center;">
 		        <a href="#"> Перечень инсайдерской информации </a><span class="color-teal">></span><br/>
 		        <a href="#"> Критерии отнесения клиентов к категории иностранных налогоплательщиков </a><span class="color-teal">></span>
           </p>
