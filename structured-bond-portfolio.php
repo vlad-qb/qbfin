@@ -162,7 +162,6 @@
       </div>
     </div>
     <div class="clearfix"></div>
-  </div>
   <!--Text-->
   <!--Parallax-text-->
     <div class="clearfix"></div>
@@ -203,7 +202,7 @@
     <div class="clearfix"></div>
   <!--Parallax-text-->
   <!--Text-->
-  <div class="column-container size-14 line-h26">
+  <div class="column-container size-14 line-h22">
     <h3 class="text-center bold pt05r">Структура портфеля</h3>
     <div class="column-2 pt05r">
       <div class="column-offset pl05r pr05r">
@@ -388,6 +387,7 @@
   <!-- /PORTFOLIO MENU -->
         </div>
 		<!-- /Content-->
+  </div>
 		<!-- FOOTER BLOCK -->
 		<div class="clearfix"></div>
 		<div class="text-center pt02r">

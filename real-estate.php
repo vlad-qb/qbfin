@@ -157,7 +157,7 @@
           </div>
           <div class="pt05">
             <span class="uppercase">ПРЕДЛОЖЕНИЕ В РАМКАХ КОНСУЛЬТАЦИОННОГО УПРАВЛЕНИЯ:</span><br>
-            <a href="#" class="mt20 ml140 mr5 block color-teal gray-hover weight-300">REIT портфель</a>
+            <a href="/service.php" class="circles text-left mt20  mr5 block color-teal gray-hover weight-300">REIT портфель</a>
           </div>
           <div class="clearfix"></div>
         </div>
@@ -167,7 +167,7 @@
           </div>
           <div class="pt05">
             <span class="uppercase">ДЕВЕЛОПЕРСКИЕ ПРОЕКТЫ УПРАВЛЯЮЩЕЙ КОМПАНИИ:</span><br>
-            <a href="#" class="mt20 ml140 mr5 block color-teal gray-hover weight-300">QBF ||| asset management</a>
+            <a href="http://qbfam.ru" class="mt20 circles text-left  mr5 block color-teal gray-hover weight-300">QBF ||| asset management</a>
           </div>
           <div class="clearfix"></div>
         </div>
@@ -177,7 +177,7 @@
           </div>
           <div class="pt05">
             <span class="uppercase">ПРЕДЛОЖЕНИЕ ЗПИФ "КЬЮБИЭФ НЕДВИЖИМОСТЬ":</span><br>
-            <a href="#" class="mt20 ml140 mr5 block color-teal gray-hover weight-300">Жилой комплекс комфорт-класса "Грибовский лес"</a>
+            <a href="/service.php" class="mt20 circles text-left  mr5 block color-teal gray-hover weight-300">Жилой комплекс комфорт-класса "Грибовский лес"</a>
           </div>
           <div class="clearfix"></div>
         </div>

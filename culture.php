@@ -151,7 +151,7 @@
   <!-- Text-->
   <!-- image-->
   <div class="column-container pt05r">
-    <div class="column-offset w95r auto line-h20 size-14">
+    <div class="column-offset line-h20 size-14">
       <div class="img-culture-2 w100r h400 cover" style="background-position: center center;"></div>
     </div>
   </div>
@@ -180,12 +180,12 @@
   <!-- IMAGES-->
   <div class="column-container size-14">
     <div class="column-2 line-h20 mt05r">
-      <div class="column-offset w95r auto line-h20 size-14">
+      <div class="column-offset- pl04r pr04r line-h20 size-14">
         <div class="img-culture-3 w100r h427 cover" style="background-position: top left;"></div>
       </div>
     </div>  
     <div class="column-2 line-h30 mt05r">
-      <div class="column-offset">
+      <div class="column-offset- pl04r pr04r">
         <div class="">
           <div class="img-culture-4 w120 h120 cover l mr05r" style="background-position: center center;"></div>
           <span class="size-11 weight-300">МЫ СЛЕДУЕМ ВЫСОЧАЙШИМ СТАНДАРТАМ КАЧЕСТВА И КОМПЕТЕНТНОСТИ В СЕРВИСЕ УПРАВЛЕНИЯ КАПИТАЛОМ.</span>

@@ -201,9 +201,9 @@
           <p><textarea id="Message2" class="form-item" rows="9" name="Message2" placeholder="Please enter your message!" required="required" style="border-radius:0;"></textarea></p>
         </div>
         <div class="text-center">
-          <p><input id="Send2" class="form-item" value="отправить" type="submit" style="border-radius:0;"></p>
+            <input id="Send2" class="form-item r" value="отправить" type="submit" style="border-radius:0;">
+            <div class="clearfix"></div>
         </div>
-        
       </div>
     </div>
     

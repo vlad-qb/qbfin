@@ -5,6 +5,15 @@ jQuery( document ).ready(function() {
         return false;
     });
     $( ".ARROW-FIXED" ).hide();
+    $('#menu .search-button').click(function(){
+      menu.goSearch();
+    });
+    $('#menu .search-input').keypress(function(event){
+      if ( event.which == 13 ) { menu.goSearch();}
+    });
+    $('#menu-mobile .search-button').click(function(){
+      menu.goSearchMobile();
+    });
 });
 
 $( document ).scroll(function() {
@@ -40,5 +49,13 @@ var menu = {
       $('.icon-search').hide();
       $('.search').fadeIn('fast');
       $('.search-button').show();
+    },
+    goSearch:function(){
+      var val = $('#menu .search-input').val()
+      location.href = '/search/?q='+val
+    },
+    goSearchMobile:function(){
+      var val = $('#menu-mobile .search-input').val()
+      location.href = '/search/?q='+val
     }
 }

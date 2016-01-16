@@ -1,0 +1,408 @@
+<html>
+    <head>
+        <title>AZSlider - Help</title>
+        <style>
+            body{
+                margin: 20px;
+                font-family: Arial;
+                font-size: 16px;
+                line-height: 22px;
+            }
+        </style>
+    </head>
+<body>
+<h1>AZSlider Help</h1>
+<div><img src="http://i.imgur.com/luBZSxo.jpg" width="100%" title="AZSlider Editor"></div>
+<h2>Create Slider</h2>
+<ul>
+    <li>Go to Sliders page.</li>
+    <li>Press Create Slider .</li>
+    <li>We required 4 parameters: Name, Alias, Max Width, Height
+        <ul>
+            <li>Name is the name of slider.</li>
+            <li>Alias is unique string will be used as HTML id.</li>
+            <li>Max Width is maximum width of slider.</li>
+            <li>Height is height of slider.</li>
+            <li>Slides Layout: There are two types of layout:
+                <ul>
+                    <li>Card: Slides will be arranged like a card pack.</li>
+                    <li>Film: Slides will be arranged in successive row. This layout suport touch swipe navigation.</li>
+                </ul>
+            </li>
+        </ul>   
+</ul>
+
+<h2>Edit Slider</h2>
+<ul>
+    <li>Go to Sliders page.</li>
+    <li>Press button Slides of Slider you want to edit to go to Slides page.</li>
+    <li>On the Slides page, we have:
+        <ul>
+            <li>Top menu: Slider, Slide, Objects, Position, Play Slide, Play All.</li>
+            <li>Slides tab (to navigate between slides). Now you have 1 slide only so there is  1 tab.</li>
+            <li>Blank Slider in edit mode (playground).</li>
+            <li>Slider editor has 6 controller tabs:
+                <ul>
+                    <li>Objects: Display the order of objects in slide, you can change the order by drag and drop.</li>
+                    <li>Design: Manage HTML attributes of object.</li>
+                    <li>Slide Actions: Define actions for slide.</li>
+                    <li>Target Actions: Define actions for objects.</li>
+                    <li>Custome Animations: where you create custom animations for slider. It can be used for other slide too.</li>
+                    <li>CSS: Custom css for slider.</li>
+                </ul>
+            </li>
+        </ul>
+    </li>
+</ul>
+
+
+<h2>Slider Editor</h2>
+<ul>
+    <li>The Concept: One slider has many slides, one slide contains many objects (Text, Image, Video...).</li>
+    <li>There are two slider layout: 
+        <ul>
+            <li>Card: Slides will be arranged like a card pack.</li>
+            <li>Film: Slides will be arranged in successive row. This layout suport touch swipe navigation.</li>
+        </ul>
+    </li>
+    <li>Slider editor has 6 controller tabs:
+        <ul>
+            <li>Objects: Display the order of objects in slide, you can change the order by drag and drop.</li>
+            <li>Design: Manage HTML attributes of object.</li>
+            <li>Slide Actions: Define actions for slide.</li>
+            <li>Target Actions: Define actions for objects.</li>
+            <li>Custome Animations: where you create custom animations for slider. It can be used for other slide too.</li>
+            <li>CSS: Custom css for slider.</li>
+        </ul>
+    </li>
+</ul>
+
+<h2>Controller Tabs</h2>
+<ol>
+    <li>
+        <h3 id="tab-slide-actions">Tab Slide Actions</h3>
+        <ul>
+            <li>The Concept: One slide can has many actions, one action contains many commands.</li>
+            <li>There are 7 built-in actions:
+                <ul>
+                    <li>in: action will be performed when slide move in the view with "next" or "back" direction.</li>
+                    <li>out: action will be performed when slide move out the view with "next" or "back" direction.</li>
+                    <br>
+                    <li>next-in: action will be performed when slide move in the view with "next" direction.</li>
+                    <li>next-out: action will be performed when slide move out the view with "next" direction.</li>
+                    <br>
+                    <li>back-in: action will be performed when slide move in the view with "back" direction.</li>
+                    <li>back-out: action will be performed when slide move out the view with "back" direction.</li>
+                    <br>
+                    <li>swipe-complete: action will be performed when slide complete the touch swiping (film layout slider).</li>
+                </ul>
+            </li>
+            <li>Mostly used are "in" and "out" actions. Those others will be used to create different type of slides, different effects.</li>
+            <li>Morover you can create custom action with any name you want.</li>
+            <li>There are 10 commands:
+                <ul>
+                    <li>Bring Slide To Front: Mostly use in card layout, to bring the current slide to the top of card pack.</li>
+                    <li>Send Slide To Back: Mostly use in card layout, to send the previous slide to the bottom of card pack.</li>
+                    <li>Prepare Objects: Use to prepare animation of objects when they ready to show on the screen.</li>
+                    <li>Play an Animation: Make slide animate.</li>
+                    <li>Play an Action of Objects: Execute action of objects.</li>
+                    <li>Play an Action of Objects After Animating: Execute action of objects when the current slide finish its animation.</li>
+                    <li>Play Next Slide: Show next slide.</li>
+                    <li>Play Next Slide After Animating: Show next slide when the current slide finish its animation.</li>
+                    <li>Enable Parallax: Enable parallax effect for the current slide</li>
+                    <li>Disable Parallax: Disable parallax effect for the current slide</li>
+                </ul>
+            </li>
+            <li>Those commands with suffix "After Animating" must be placed right after the command "Play an Animation".</li>
+        </ul>
+    </li>
+    
+    <li>
+        <h3 id="tab-target-actions">Tab Target Actions</h3>
+        <ul>
+            <li>The Concept: Target is CSS selector string. Each target string can point to single or multiple objects of slide.</li>
+            <li>For example if your object has class name "test". So the target string must be ".test".</li>
+            <li>If more than one object has class name "test", the target string ".test" will point to multiple objects.</li>
+            <li>Each target can contains multiple commands. There are 18 commands:
+                <ul>
+                    <li>Play an Animation: Make object animate.</li>
+                    <li>Play an Action After Animating: Execute action of objects or slide when the current object finish its animation.</li>
+                    <li>Play Slide on Click: Set event play slide for target.</li>
+                    <li>Add Class Name: Add class name for target.</li>
+                    <li>Add Class Name After Animating: Add class name for target when the current object finish its animation.</li>
+                    <li>Remove Class Name: Remove class name for target.</li>
+                    <li>Remove Class Name After Animating: Remove class name for target when the current object finish its animation.</li>
+                    <li>Play HTML5 Video: Play video.</li>
+                    <li>Play HTML5 Video After Animating: Play video when the current object finish its animation.</li>
+                    <li>Pause HTML5 Video: Pause video.</li>
+                    <li>Pause HTML5 Video After Animating: Pause video when the current object finish its animation.</li>
+                    <li>Load Iframe: Add and load iframe url.</li>
+                    <li>Load Iframe After Animating: Add and load iframe url when the current object finish its animation.</li>
+                    <li>Unload Iframe: Remove iframe.</li>
+                    <li>Unload Iframe After Animating: Remove iframe when the current object finish its animation.</li>
+                    <li>Set HTML: Set html content for a target.</li>
+                    <li>Set HTML After Animating: Set html content for a target when the current object finish its animation.</li>
+                    <li>Stop Slide After Animating: Stop all animation of objects in slide.</li>
+                </ul>
+            </li>
+            <li>Those commands with suffix "After Animating" must be placed right after the command "Play an Animation".</li>
+        </ul>
+    </li>
+    
+    <li>
+        <h3>Tab Custom Animations</h3>
+        <ul>
+            <li>The Concept: Animation is combine of 9 types of css transitions: move, fade, scale, skew, rotate, rotateX, rotateY, width, height and will be more in next update.</li>
+            <li>For example we will create an animation which move object from outside and from the top of slide and fade in.</li>
+            <li>Click on Custom Animations tab. Click Add Custom Animation.</li>
+            <li>Named this animation "move-in-from-top".</li>
+            <li>Choose Move in Select Type selectbox. Press Add Type.</li>
+            <li>We will see several inputs for Move type.</li>
+            <li>Object will move from x, y to x, y. We have some built-in values:
+                <ul>
+                    <li>height, -height, width, -width, outside-top, outside-left, outside-right, outside-bottom.</li>
+                </ul>
+            </li>
+            <li>With From X, From Y, To X and To Y value '0' mean the current position of object in slide.</li>
+            <li>So to make object move from outside and from the top we need:
+                <ul>
+                    <li>From Y: outside-top.</li>
+                    <li>To Y: 0.</li>
+                </ul>
+            </li>
+            <li>Choose Fade in Select Type selectbox. Press Add Type. We need:
+                <ul>
+                    <li>From: 0.</li>
+                    <li>To: 1.</li>
+                </ul>
+            </li>
+            <li>Object will fade from 0 to 1.</li>
+            <li>Now assign it to an object with command "Play an Animation" and see the result.</li>
+        </ul>
+    </li>
+    
+    <li>
+        <h3>Tab CSS</h3>
+        <ul>
+            <li>If you want add more css to your slider, you can go here.</li>
+            <li>Support Less <a href="http://lesscss.org/" target="_blank">http://lesscss.org/</a>.</li>
+            <li>Support vendor-prefixed CSS3 properties with <a href="http://lessprefixer.com/" target="_blank">http://lessprefixer.com/</a>.</li>
+        </ul>
+    </li>
+</ol>
+
+<h2>Slider Settings</h2>
+<ul>
+    <li>Slider has some settings, you can go to menu Slider > Settings.</li>
+    <li>Some settings: 
+        <ul>
+            <li>Slider Max Width: Max width of slider. Slider is responsive so it can auto resize if width of parent is smaller.</li>
+            <li>Viewport Wrapper Max Length: Max length of viewport wrapper of slider (horizontal or vertical), it can bigger than Slider Max Width if you want to make partial slider.</li>
+            <li>Slides Layout: There are two layouts: card and film. If you choose film it show more 6 options:
+                <ul>
+                    <li>Direction: Direction of film layout. Support Horizontal and Vertical direction.</li>
+                    <li>Animation: Animation of slide when you swipe slider. Film Layout Animation only support slider with at least 3 slides.</li>
+                    <li>Duration: Duration of animation when you released touch or mouse.</li>
+                    <li>Easing: Easing apply for Film Layout Animation.</li>
+                    <li>Distance Ratio: The ratio of distance between slides. Default value is 1. It will help create different effects for Film Layout Animation</li>
+                    <li>Play Slide When: There are two options:
+                        <ul>
+                            <li>Touch Released: Play slide when you released touch or mouse.</li>
+                            <li>Animation Completed: Play slide when animation completed.</li>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+            <li>Slides Transform Origin X, Slides Transform Origin Y: Transform origin x and y of slide, try different values to achives different effects.</li>
+            <li>Slides Perspective: 3D perspective of slides, using in 3d animation.</li>
+            <li>Web Font URL: Where you place your web font url which you grab from web font services like <a href="http://www.google.com/fonts" target="_blank">Google Font</a>.</li>
+        </ul>
+    </li>
+</ul>
+
+<h2>Create your first slide</h2>
+<ul>
+    <li>We will create a simple card slide with single Hello Word! text object. The slide will starting by move from left to right. After that the text object will move from the top to center of slide.</li>
+    <li>Go to menu Objects > Add Text.</li>
+    <li>Now you have 1 text object in the playground. You can drag to positioned it.</li>
+    <li>Click on the text object, Click to Design tab.</li>
+    <li>You will see some HTML attributes of text object.</li>
+    <li>Type "Hello Word!" into Text textbox.</li>
+    <li>Click on menu Position > Horizontal and Vertical to center the text object .</li>
+    <li>Ok, now we have 1 slide and 1 text object in it but both of them cannot animate yet.</li>
+    <li>We will make slide animate first (move from left to right). Click on Slide Actions tab.</li>
+    <li>You will see bundle of actions and commands because when create Slide, we create some default actions. It is not important, click Delete to delete it all. We will start over to help you understand the concept of AZSlider.</li>
+    <li>Ok, after delete it all, click on Add Action button. You will see two inputs:
+        <ul>
+            <li>Action Name: Name of action of slide.</li>
+            <li>Command: There are 8 commands for slide action.</li>
+        </ul>
+    </li>
+    <li>Except 6 built-in action names, you can use your custom action name to achive some effects.</li>
+    <li>in and out action is default action for any direction of slider (next or back) if there are no back-in, back-out, next-in and next-out settings.</li>
+    <li>Type "in" into Action Name textbox, this mean this action will be performed when slide move in the view in any direction (next or back).</li>
+    <br>
+    <li>The first command for action "in" is "Bring Slide To Front". Choose it in selectbox and press Add Command.</li>
+    <li>This command has no parameter. It mean bring slide to top of all other slides.</li>
+    <br>
+    <li>Add the second command "Prepare Objects". This command has 2 parameters:
+        <ul>
+            <li>Target: it can be "objects" or css selector that point to objects.</li>
+            <li>Action of Target: Name of action of target (ex: in, out). If we leave it blank, it will refer to current action (Here is "in").</li>
+        </ul>
+    </li>
+    <li>Because this is "in" action so this command will be used to prepare animation settings for objects.</li>
+    <li>Type "objects" into Target textbox, leave Action of Target textbox blank.</li>
+    <br>
+    <li>Add the third command "Play an Animation". This command has 1 parameter:
+        <ul>
+            <li>Animation Name: There are some built-in animations, you can also create custom animation later.</li>
+        </ul>
+    </li>
+    <li>Choose "short-in-left" for Animation Name selectbox. This will make slide move from left to right.</li>
+    <li>It is done for animating the slide. Click menu Play Slide to see your result.</li>
+    <li>The text "Hello word" still not moving. Now we make text object animate.</li>
+    <br>
+    <li>First, we need to named the text object (with id or class).</li>
+    <li>Click text object, click Design, type "t1" into Class textbox.</li>
+    <li>Click Target Actions. Press Add Target. Type ".t1" into Target textbox.</li>
+    <li>This will point action into object with class t1.</li>
+    <li>Press Add Action. You will see two inputs just like slide action.</li>
+    <li>Type "in" into Action Name textbox. Select command "Play an Animation" and press Add Command.</li>
+    <li>This command has 1 parameter. Choose "short-in-top".</li>
+    <br>
+    <li>Now click menu Play Slide to see your result.</li>
+    <li>The text is gone. What happens? The text object is prepared for animation "short-in-top". So it is moved outside view or faded to zero. It is depends on type of animation.</li>
+    <li>One more step to make text animate, we need set another command in slide action.</li>
+    <li>Click on Slide Actions, add command Play an Action of Object(s) After Animating.</li>
+    <li>This command has 1 parameter "Action of Target". Leave it blank to refer to the current action (Here is "in"). This command will make slide play an action of object after it animated (from left to right).</li>
+    <li>Now click menu Play Slide to see your result.</li>
+    <br>
+    <li>That is the concept of AZSlider, it is simple. Try to arrange actions and commands to achive different effects.</li>
+</ul>
+
+
+
+
+
+<h2>Create Grid Background</h2>
+<ul>
+    <li>Grid background is combined by the rectangle blocks.</li>
+    <li>To create it go to menu Objects > Add Background.</li>
+    <li>Select an image from your computer or url.</li>
+    <li>Click Add Background.</li>
+    <li>Click on the background to select it, click on Design tab.</li>
+    <li>Select Grid in Background Mode selectbox.</li>
+    <li>You will see three new inputs: 
+        <ul>
+            <li>Rows: number of row for the grid.</li>
+            <li>Cols: number of collumn for the grid.</li>
+            <li>Grid Scripts: a function to return data for each block of grid, so we can animate each block in different ways
+                <ul>
+                    <li>Grid Scripts is a js function with 6 parameters: function(ri, ci, rows, cols, bw, bh){...}.</li>
+                        <ul>
+                            <li>ri: Row index.</li>
+                            <li>ci: Column index.</li>
+                            <li>rows: Quantity of rows.</li>
+                            <li>cols: Quantity of columns.</li>
+                            <li>bw: Block width.</li>
+                            <li>bh: Block height.</li>
+                        </ul>
+                    </li>
+                    <li>Grid Scripts return an array with these keys:
+                        <ul>
+                            <li>class: Class name of grid block.</li>
+                            <li>ctn-h: Container horizontal direction (left or right).</li>
+                            <li>ctn-v: Container vertical direction (top or bottom).</li>
+                            <li>img-h: Image horizontal direction (left or right).</li>
+                            <li>img-v: Image vertical direction (top or bottom).</li>
+                            <li>trans-ox: Transforms origin x (Unit %).</li>
+                            <li>trans-oy: Transforms origin y (Unit %).</li>
+                            <li>ppt: 3D Perspective (Unit em).</li>
+                        </ul>
+                    </li>
+                    <li>Try different values of ctn-h, ctn-v, img-h, img-v, trans-ox and trans-oy to create different effects.</li>
+                    <li>You do not need to return value for all those keys.</li>
+                </ul>
+            </li>
+        </ul>
+    </li>
+    <li>Example values for grid:
+        <ul>
+            <li>Rows: 4.</li>
+            <li>Cols: 6.</li>
+            <li>Grid Scripts: function(ri, ci){if(ci%2==0) return {'class': 'g1'}; else return {'class': 'g2'};}.</li>
+        </ul>
+    </li>
+    <li>Now go to tab Objects Actions, add command "Play an Animation" for two target ".g1" with "outside-in-left", ".g2" with "outside-in-right".</li>
+    <li>Click Play Slide to see your result.</li>
+</ul>
+
+
+
+<h2>Objects Container</h2>
+<ul>
+    <li>All objects have the same z-index is in the same container.</li>
+    <li>You can animate the container instead to animate each objects.</li>
+    <li>Container target string is '#az-ctn-{{zindex}}'. For an example with zindex = 2, target string is '#az-ctn-2'. (See <a href="#tab-target-actions">Tab Target Actions</a>)</li>
+</ul>
+
+<h2>Slide Info Area</h2>
+<ul>
+    <li>Each slide has a info area outside viewport of slider.</li>
+    <li>You can use "Set HTML" command to set html content to slide info with target string ".az-info".</li>
+    <li>You can also animate the slide info with target string ".az-info". See example <a href="">Partial Staff Carousel 3</a>.</li>
+</ul>
+
+<h2>Parallax Effect</h2>
+<ul>
+    <li>AZSlider support parallax effect while moving mouse over slider.</li>
+    <li>Each object has Z-Index property, it is also parallax level value.</li>
+    <li>You can enable parallax effect for the current slide by using Slide Action Command "Enable Parallax". (See <a href="#tab-slide-actions">Tab Slide Actions</a>)</li>
+</ul>
+
+
+<h2>Custom function for Custom Animation</h2>
+<ul>
+    <li>When you create Custom Animation, you will see those two parameters: Duration and Delay.</li>
+    <li>Except number it also accept function for more customize:
+        <ul>
+            <li>Function with 6 parameters: function(index, size, ri, ci, rows, cols){...}
+                <ul>
+                    <li>index: HTML index of object.</li>
+                    <li>size: Quantity of objects.</li>
+                    <li>ri: Row index of block of Grid Background.</li>
+                    <li>ci: Column inde of block of Grid Background.</li>
+                    <li>rows: Quantity of rows of Grid Background .</li>
+                    <li>cols: Quantity of columns of Grid Background.</li>
+                </ul>
+            </li>
+        </ul>
+    </li>
+    <li>For example: Delay: function(index, size, x, y, mx, my){return index*200;}.</li>
+    <li>It will set delay i*200 for objects. Object index 0 get 0ms delay, object index 1 get 200ms delay...</li>
+</ul>
+
+<h2>Make slider display many pages with only two slides using data source</h2>
+<ul>
+    <li>Data Source provide data for objects in slide.</li>
+    <li>To save memory you can create a slider has many pages with only two slides.</li>
+    <li>It is the best solution when you want to display hundred of pictures.</li>
+    <li>We required at least two slides for this kind of slider, you can make more slides if you want.</li>
+    <li>Click Slider menu > Data Source. Choose JSON.</li>
+    <li>Data Source format:
+    <pre>
+[
+    [{"url": "image1..."}, {"text": "text1..."}],
+    [{"url": "image2..."}, {"text": "text2..."}],
+    [{"url": "image3..."}, {"text": "text3..."}],
+    ...
+]
+    </pre>
+    </li>
+    <li>Sample data source above for slide has one image or background object and one text object.</li>
+</ul>
+
+</body>
+</html>
+

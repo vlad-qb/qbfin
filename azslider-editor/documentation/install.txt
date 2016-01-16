@@ -1,0 +1,8 @@
+=======================
+Install AZSlider Editor
+=======================
+
+- Create a folder "azslider-editor" on your server.
+- Edit configuration in "editor.php" file. Edit three var $admin_user, $admin_pwd and $azslider_url.
+- Upload all code to folder azslider-editor.
+- Login to AZSlider Editor by open http://your-domain.com/azslider-editor/editor.php

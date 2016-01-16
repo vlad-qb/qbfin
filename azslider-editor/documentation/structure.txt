@@ -1,0 +1,21 @@
+=======================
+AZSlider Structure
+=======================
+
+- AZSlider has two parts:
+++ AZSlider jquery plugin relies on javascript. It has one file: js/azslider.fe.min.js.
+++ AZSlider Editor relies on PHP (editor.php). It is a web app to help you create and manage slider.
+
+- When you finish created your slider with AZSlider Editor, you can embed slider on different websites.
+
+=======================
+AZSlider Files
+=======================
+
+- AZSlider jquery plugin contains:
+
+++ azslider.fe.min.js: Front end compressed script, use when embed slider on different website.
+++ azslider.be.min.js: Back end compressed script, use with the AZSlider Editor web app.
+++ azslider.tools.min.js: Compressed tools script of AZSlider Editor web app.
+++ az-slider.js: Source of azslider.fe.min.js and azslider.be.min.js
+++ az-slider-tools.js: Source of azslider.tools.min.js

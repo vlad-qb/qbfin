@@ -152,8 +152,10 @@
         <div class="img-company-2 w100r h200 cover bg-center">
           <a href="/about.php">
             <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60" style="position:absolute;z-index:1;">О НАС</h2>
-            <div class="bg-label-2 w35r h200 animation-3 icon-arrow-right">
-              
+            <div class="bg-grey-label w35r h200">
+              <div class="w100r h200 animation-3 icon-arrow-right">
+                
+              </div>
             </div>
           </a>
         </div>
@@ -164,8 +166,10 @@
         <div class="img-company-3 w100r h200 cover bg-center">
           <a href="/mission.php">
             <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60" style="position:absolute;z-index:1;">МИССИЯ И ЦЕННОСТИ</h2>
-            <div class="bg-label-2 w35r h200 animation-3 icon-arrow-right">
-              
+            <div class="bg-grey-label w35r h200">
+              <div class="w100r h200 animation-3 icon-arrow-right">
+                
+              </div>
             </div>
           </a>
         </div>
@@ -176,8 +180,10 @@
         <div class="img-company-4 w100r h200 cover bg-center">
           <a href="/history.php">
             <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60" style="position:absolute;z-index:1;">ИСТОРИЯ</h2>
-            <div class="bg-label-2 w35r h200 animation-3 icon-arrow-right">
-              
+            <div class="bg-grey-label w35r h200">
+              <div class="w100r h200 animation-3 icon-arrow-right">
+                
+              </div>
             </div>
           </a>
         </div>
@@ -188,8 +194,10 @@
         <div class="img-company-5 w100r h200 cover bg-center">
           <a href="/team.php">
             <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60" style="position:absolute;z-index:1;">РУКОВОДСТВО</h2>
-            <div class="bg-label-2 w35r h200 animation-3 icon-arrow-right">
-              
+            <div class="bg-grey-label w35r h200">
+              <div class="w100r h200 animation-3 icon-arrow-right">
+                
+              </div>
             </div>
           </a>
         </div>
@@ -200,8 +208,10 @@
         <div class="img-company-6 w100r h200 cover bg-center">
           <a href="/clients-and-partners.php">
             <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60" style="position:absolute;z-index:1;">КЛИЕНТЫ И ПАРТНЕРЫ</h2>
-            <div class="bg-label-2 w35r h200 animation-3 icon-arrow-right">
-              
+            <div class="bg-grey-label w35r h200">
+              <div class="w100r h200 animation-3 icon-arrow-right">
+                
+              </div>
             </div>
           </a>
         </div>
@@ -212,8 +222,10 @@
         <div class="img-company-7 w100r h200 cover bg-center">
           <a href="/awards-and-ratings.php">
             <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60" style="position:absolute;z-index:1;">НАГРАДЫ И РЕЙТИНГИ</h2>
-            <div class="bg-label-2 w35r h200 animation-3 icon-arrow-right">
-              
+            <div class="bg-grey-label w35r h200">
+              <div class="w100r h200 animation-3 icon-arrow-right">
+                
+              </div>
             </div>
           </a>
         </div>
@@ -224,8 +236,10 @@
         <div class="img-company-8 w100r h200 cover bg-center">
           <a href="/branch-office.php">
             <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60" style="position:absolute;z-index:1;">ФИЛИАЛЫ</h2>
-            <div class="bg-label-2 w35r h200 animation-3 icon-arrow-right">
-              
+            <div class="bg-grey-label w35r h200">
+              <div class="w100r h200 animation-3 icon-arrow-right">
+                
+              </div>
             </div>
           </a>
         </div>
@@ -236,8 +250,10 @@
         <div class="img-company-9 w100r h200 cover bg-center">
           <a href="/documents.php">
             <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60" style="position:absolute;z-index:1;">ДОКУМЕНТЫ</h2>
-            <div class="bg-label-2 w35r h200 animation-3 icon-arrow-right">
-              
+            <div class="bg-grey-label w35r h200">
+              <div class="w100r h200 animation-3 icon-arrow-right">
+                
+              </div>
             </div>
           </a>
         </div>

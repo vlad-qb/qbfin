@@ -133,7 +133,7 @@
   <div id="content">
   <div id="departments">
     <div class="column-container">
-      <div class="ml02r mr02r line-h20 size-14">
+      <div class="line-h20 size-14">
         <div class="w33r l pt05r">
           <div class="border-left-lightgray border-right-lightgray ml05r mr05r pl05r pr05r">
             <h4 class="text-center"><img class="icon icon-services" src="img/icons/icon-department.svg"></h4>
@@ -176,7 +176,7 @@
     <div class="column">
       <div class="gallery-offset w85r mt5 auto line-h24 size-14">
         <div class="text-center"><img class="icon icon-round" src="img/icons/icon-upgrowth.svg"></div>
-        <div class="title-line-lightgray"></div>
+        <div class="title-line-lightgray mt-50"></div>
       </div>
     </div>
     <div class="clearfix"></div>
@@ -224,7 +224,7 @@
     <div class="column">
       <div class="gallery-offset w85r mt5 auto line-h24 size-14">
         <div class="text-center"><img class="icon icon-round" src="img/icons/icon-upgrowth.svg"></div>
-        <div class="title-line-lightgray"></div>
+        <div class="title-line-lightgray mt-50"></div>
       </div>
     </div>
     <div class="clearfix"></div>

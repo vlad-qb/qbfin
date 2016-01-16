@@ -71,6 +71,12 @@
     background-color: #333;
     opacity: 0.7;
 }
+.bg-grey-label{
+background-image: url(/img/bg/label-a.png);
+}
+.bg-grey-label:hover{
+background-image: url(/img/bg/label-b.png);
+}
 .bg-blue-label{opacity: 0.9; background-color:#4982AD;}
 .bg-green-label{opacity: 0.9; background-color:#5FA338;}
 .bg-yellow-label{opacity: 0.9; background-color:#C8A81C;}

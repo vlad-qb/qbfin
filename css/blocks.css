@@ -3,7 +3,7 @@
 .block{display: block;}
 .l{float:left;}
 .r{float:right;}
-.auto{margin:auto;}
+.auto{margin-left:auto;margin-right:auto;}
 .clearfix{clear: both;}
 .overflow-hidden{overflow: hidden;}
 .clip{text-overflow: clip;}
