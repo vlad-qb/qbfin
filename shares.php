@@ -150,7 +150,7 @@
       </div>
     </div>
   </div>
-  <div class="column-3 pt05r">
+  <div class="column-3 pt05r block-offset">
     <div class="column-offset">
       <div class="img-shares-3 h250 cover bg-center">
       
@@ -163,7 +163,7 @@
       </div>
     </div>
   </div>
-  <div class="column-3 pt05r">
+  <div class="column-3 pt05r block-offset">
     <div class="column-offset">
       <div class="img-shares-4 h250 cover bg-center">
       
@@ -176,7 +176,7 @@
       </div>
     </div>
   </div>
-  <div class="column-3 pt05r">
+  <div class="column-3 pt05r block-offset">
     <div class="column-offset">
       <div class="img-shares-5 h250 cover bg-center">
       
@@ -189,7 +189,7 @@
       </div>
     </div>
   </div>
-  <div class="column-3 pt05r">
+  <div class="column-3 pt05r block-offset">
     <div class="column-offset">
       <div class="img-shares-6 h250 cover bg-center">
       
@@ -202,7 +202,7 @@
       </div>
     </div>
   </div>
-  <div class="column-3 pt05r">
+  <div class="column-3 pt05r block-offset">
     <div class="column-offset">
       <div class="img-shares-7 h250 cover bg-center">
       
@@ -219,12 +219,12 @@
 <!-- CONTENT -->
 
   <div class="clearfix"></div>
-  <div class="text-center pt05r">
+  <div class="text-center pt05r block-offset">
     <a href="/archive-shares.php" class="size-12 line-h30 uppercase">РАНЕЕ В РАЗДЕЛЕ: Акции</a>
     <div class="text-center size-18 line-h26 weight-300"><a href="/archive-shares.php" class="color-teal gray-hover">2 0 1 5</a> <span class="color-whitesmoke">•︎</span> <a href="/archive-shares.php" class="color-teal gray-hover">2 0 1 4</a> <span class="color-whitesmoke">•︎</span> <a href="/archive-shares.php" class="color-teal gray-hover">2 0 1 3</a></div>
   </div>
   <div class="clearfix"></div>
-  <div class="text-center pt05r"><img class="icon icon-contacts" src="img/icons/icon-earth.svg"></div>
+  <div class="text-center pt05r block-offset"><img class="icon icon-contacts" src="img/icons/icon-earth.svg"></div>
   <div class="column-container">
     <div class="column">
       <div class="border-grey-top mt-35"></div>
@@ -256,8 +256,8 @@
 <!-- FOOTER BLOCK -->
     <div class="clearfix"></div>
     <div class="w100r">
-    <div class="text-center pt02r pb02r">
-        <img src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r"><br>
+    <div class="text-center ">
+            <img id="lighthouse" src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r"><br>
         <a href="/analytics/" class="size-12 uppercase">АНАЛИТИКА</a>
 	    <span class="color-teal size-10">•︎</span> 
 	    <a href="/archive-shares.php" class="size-12 uppercase">АРХИВ: Акции</a>

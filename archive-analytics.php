@@ -194,8 +194,8 @@
     <!-- /CONTENT -->
     <!-- FOOTER BLOCK -->
     <div class="clearfix"></div>
-    <div class="text-center pt02r pb02r">
-      <img src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r"><br>
+    <div class="text-center ">
+            <img id="lighthouse" src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r"><br>
       <a href="/analytics/" class="size-12 uppercase">Аналитика</a>
     </div>
     <!-- /FOOTER BLOCK -->

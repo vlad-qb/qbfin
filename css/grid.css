@@ -100,8 +100,7 @@
         width: 100%;
     }
     .column-container{
-        width:95%;
-        margin:0 2.5%;
+        width:100%;
     }
     .column{
         float:left;

@@ -135,22 +135,22 @@
 <div class="clearfix"></div>
 <!-- CONTENT -->	
 <div id="content">
-<div class="column-container pt05r">
-    <div class="column">
-        <div class="pl05r pr05r">
+<div class="column-container">
+    <div class="column pt05r pb05r">
+        <div class="line-offset">
             <h3 class="text-center size-12 color-white"><div class="w288 h40 line-h40 auto bg-teal">РЫНКИ ЗА МЕСЯЦ</div></h3>
             <div class="title-line-teal"></div>
         </div>
     </div>
 </div>
 <div id="text-feed">
-  <div class="column-container size-14 line-h26">
+  <div class="column-container size-14 line-h26 pt05r pb05r">
       <div class="column-2">
           <div class="column-offset">
-      				<div class="pt05r size-18 weight-300 color-teal text-center">
+      				<div class="size-18 weight-300 color-teal text-center pt02r pb02r">
                 2015
       				</div>
-  				    <div class="ml30 mr30 pt05r text-center">
+  				    <div class="ml30 mr30 text-center">
                 <a href="/markets-review-08-2015.php" class="weight-300">январь</a> <span class="color-teal size-11">•︎</span> 
                 <a href="/markets-review-08-2015.php" class="weight-300">февраль</a> <span class="color-teal size-11">•︎</span> 
                 <a href="/markets-review-08-2015.php" class="weight-300">март</a> <span class="color-teal size-11">•︎</span> 
@@ -158,7 +158,7 @@
                 <a href="/markets-review-08-2015.php" class="weight-300">май</a> <span class="color-teal size-11">•︎</span> 
                 <a href="/markets-review-08-2015.php" class="weight-300">июнь</a>
               </div>
-  				    <div class="ml30 mr30 pt05r text-center">
+  				    <div class="ml30 mr30 text-center">
                 <a href="/markets-review-08-2015.php" class="weight-300">июль</a> <span class="color-teal size-11">•︎</span> 
                 <a href="/markets-review-08-2015.php" class="weight-300">август</a> <span class="color-teal size-11">•︎</span> 
                 <a href="/markets-review-08-2015.php" class="weight-300">сентябрь</a> <span class="color-teal size-11">•︎</span> 
@@ -170,10 +170,10 @@
       </div>
       <div class="column-2">
           <div class="column-offset">
-      				<div class="pt05r size-18 weight-300 color-teal text-center">
+      				<div class="size-18 weight-300 color-teal text-center pt02r pb02r">
                 2014
       				</div>
-  				    <div class="ml30 mr30 pt05r text-center">
+  				    <div class="ml30 mr30 text-center">
                 <a href="/markets-review-08-2015.php" class="weight-300">январь</a> <span class="color-teal size-11">•︎</span> 
                 <a href="/markets-review-08-2015.php" class="weight-300">февраль</a> <span class="color-teal size-11">•︎</span> 
                 <a href="/markets-review-08-2015.php" class="weight-300">март</a> <span class="color-teal size-11">•︎</span> 
@@ -181,7 +181,7 @@
                 <a href="/markets-review-08-2015.php" class="weight-300">май</a> <span class="color-teal size-11">•︎</span> 
                 <a href="/markets-review-08-2015.php" class="weight-300">июнь</a>
               </div>
-      				<div class="ml30 mr30 pt05r text-center">
+      				<div class="ml30 mr30 text-center">
                 <a href="/markets-review-08-2015.php" class="weight-300">июль</a> <span class="color-teal size-11">•︎</span> 
                 <a href="/markets-review-08-2015.php" class="weight-300">август</a> <span class="color-teal size-11">•︎</span> 
                 <a href="/markets-review-08-2015.php" class="weight-300">сентябрь</a> <span class="color-teal size-11">•︎</span> 
@@ -195,30 +195,30 @@
   </div>
   <!-- /CONTENT -->
   <!-- CONTENT-2 -->
-  <div class="column-container auto">
-      <div class="column pt05r">
-          <div class="pl05r pr05r">
+  <div class="column-container block-offset auto">
+      <div class="column pt05r pb05r">
+          <div class="line-offset">
               <h3 class="text-center size-12 color-white"><div class="w288 h40 line-h40 auto bg-teal"> РЫНКИ ЗА КВАРТАЛ </div></h3>
               <div class="title-line-teal"></div>
           </div>
       </div>
   </div>
-  <div class="column-container size-14 line-h26">
+  <div class="column-container size-14 line-h26 pt05r pb05r">
       <div class="column-2">
         <div class="column-offset">
-  				<div class="pt05r size-18 weight-300 color-teal text-center">
+  				<div class="size-18 weight-300 color-teal text-center pt02r pb02r">
             2015
   				</div>
-  				<div class="ml30 mr30 pt05r text-center">
+  				<div class="ml30 mr30 text-center">
             <a href="/markets-review-08-2015.php" class="weight-300"> 1 квартал </a> <span class="color-teal size-11">•︎</span> 
             <a href="/markets-review-08-2015.php" class="weight-300"> 2 квартал </a> <span class="color-teal size-11">•︎</span> 
             <a href="/markets-review-08-2015.php" class="weight-300"> 3 квартал </a> <span class="color-whitesmoke size-11">•︎</span> 
             <a href="/markets-review-08-2015.php" class="weight-300 color-whitesmoke"> 4 квартал</a>
           </div>
-  				<div class="pt05r size-18 weight-300 color-teal text-center">
+  				<div class="size-18 weight-300 color-teal text-center pt02r pb02r">
             2013
   				</div>
-  				<div class="ml30 mr30 pt05r text-center">
+  				<div class="ml30 mr30 text-center">
             <a href="/markets-review-08-2015.php" class="weight-300"> 1 квартал </a> <span class="color-teal size-11">•︎</span> 
             <a href="/markets-review-08-2015.php" class="weight-300"> 2 квартал </a> <span class="color-teal size-11">•︎</span> 
             <a href="/markets-review-08-2015.php" class="weight-300"> 3 квартал </a> <span class="color-teal size-11">•︎</span> 
@@ -228,19 +228,19 @@
       </div>
       <div class="column-2">
         <div class="column-offset">
-      		<div class="pt05r size-18 weight-300 color-teal text-center">
+      		<div class="size-18 weight-300 color-teal text-center pt02r pb02r">
             2014
       		</div>
-  				<div class="ml30 mr30 pt05r text-center">
+  				<div class="ml30 mr30 text-center">
             <a href="/markets-review-08-2015.php" class="weight-300"> 1 квартал </a> <span class="color-teal size-11">•︎</span> 
             <a href="/markets-review-08-2015.php" class="weight-300"> 2 квартал </a> <span class="color-teal size-11">•︎</span> 
             <a href="/markets-review-08-2015.php" class="weight-300"> 3 квартал </a> <span class="color-whitesmoke size-11">•︎</span> 
             <a href="/markets-review-08-2015.php" class="weight-300 color-whitesmoke"> 4 квартал </a>
           </div>
-  				<div class="pt05r size-18 weight-300 color-teal text-center">
+  				<div class="size-18 weight-300 color-teal text-center pt02r pb02r">
             2012
   				</div>
-  				<div class="ml30 mr30 pt05r text-center">
+  				<div class="ml30 mr30 text-center">
             <a href="/markets-review-08-2015.php" class="weight-300"> 1 квартал </a> <span class="color-teal size-11">•︎</span> 
             <a href="/markets-review-08-2015.php" class="weight-300"> 2 квартал </a> <span class="color-teal size-11">•︎</span> 
             <a href="/markets-review-08-2015.php" class="weight-300"> 3 квартал </a> <span class="color-teal size-11">•︎</span> 
@@ -257,8 +257,8 @@
 <!-- FOOTER BLOCK -->
     <div class="clearfix"></div>
     <div class="w100r">
-          <div class="text-center pt02r pb02r">
-            <img src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r"><br>
+          <div class="text-center ">
+            <img id="lighthouse" src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r"><br>
             <a href="/analytics/" class="size-12 uppercase">АНАЛИТИКА</a>
 			<span class="color-teal size-10">•︎</span> 
 			<a href="/markets.php" class="size-12 uppercase">Рынки</a>

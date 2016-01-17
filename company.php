@@ -264,8 +264,8 @@
   </div>
   <!-- /CONTENT -->
   <div class="clearfix"></div>
-  <div class="text-center pt02r pb02r">
-    <img src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r"><br>
+  <div class="text-center ">
+            <img id="lighthouse" src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r"><br>
     <a href="/company.php" class="size-12 uppercase">Компания</a>
   </div>    
   <?php include 'html/footer.html';?>

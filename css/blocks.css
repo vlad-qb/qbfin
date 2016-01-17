@@ -366,6 +366,18 @@
     .shpakov-moblile{display: none;}
 .portfolio-menu .button .h{height: 90px;}
 .portfolio-menu .column-2 .button .h{height: 65px;}
+#lighthouse{
+    margin-top: 4%;
+    margin-bottom: ;
+}
+.FOOTER-ARROW{
+    margin-top: 2%;
+    margin-bottom: ;
+}
+.line-offset{
+    margin-left: 5%;
+    margin-right: 5%;
+}
 @media screen and (min-width: 1200px) {
     .column-2.content-margin{
         margin-top:-35px;
@@ -405,6 +417,49 @@
     }
 }
 @media screen and (max-width: 768px) {
+    /*
+    #content .pt05r:first-child{padding-top: 0;}
+    .pt05r{padding-top: 50px;}
+    .pt04r{padding-top: 40px;}
+    .pt03r{padding-top: 30px;}
+    .pt02r{padding-top: 20px;}
+    .pt01r{padding-top: 10px;}
+    .pb05r{padding-bottom: 50px;}
+    .pb04r{padding-bottom: 40px;}
+    .pb03r{padding-bottom: 30px;}
+    .pb02r{padding-bottom: 20px;}
+    .pb01r{padding-bottom: 10px;}
+    */
+    .block-offset{
+        padding-top:40px; 
+    }
+    .block-offset-2{
+        padding-top:20px; 
+    }
+
+    .line-offset{
+        margin-left: 0;
+        margin-right: 0;
+    }
+    #lighthouse{
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+    .FOOTER-ARROW{
+        margin-top: 20px;
+        margin-bottom: 20px; 
+    }
+    .address{
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .img-text{
+        line-height: 22px;
+    }
+    .img-text-2{
+        margin-top: 0;
+        line-height: 16px;
+    }
     .title-block-offset-2{
         padding-top: 6%;
         padding-bottom: 3%;

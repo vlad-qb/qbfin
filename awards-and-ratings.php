@@ -173,7 +173,7 @@
           </p>
         </div>
       </div>
-      <div class="column-2 pt05r">
+      <div class="column-2 pt05r block-offset">
         <div class="pl05r pr05r border-white">
           <div class="img-awards-3 w100r h200 cover bg-center">
             <div class="planet2 h60 w100">
@@ -199,7 +199,7 @@
         </div>
       </div>
       <div class="clerfix"></div>
-      <div class="column-2 pt05r">
+      <div class="column-2 pt05r block-offset">
         <div class="pl05r pr05r border-white">
           <div class="img-awards-4 w100r h200 cover bg-center">
             <div class="planet2 h60 w100">
@@ -224,7 +224,7 @@
           </p>
         </div>
       </div>
-      <div class="column-2 pt05r">
+      <div class="column-2 pt05r block-offset">
         <div class="pl05r pr05r border-white">
           <div class="img-awards-5 w100r h200 cover bg-center">
             <div class="planet2 h60 w100">
@@ -250,7 +250,7 @@
         </div>
       </div>
       <div class="clerfix"></div>
-      <div class="column-2 pt05r">
+      <div class="column-2 pt05r block-offset">
         <div class="pl05r pr05r border-white">
           <div class="img-awards-6 w100r h200 cover bg-center">
             <div class="planet2 h60 w100">
@@ -275,7 +275,7 @@
           </p>
         </div>
       </div>
-      <div class="column-2 pt05r">
+      <div class="column-2 pt05r block-offset">
         <div class="pl05r pr05r border-white">
           <div class="img-awards-7 w100r h200 cover bg-center">
             <div class="planet2 h60 w100">
@@ -307,8 +307,8 @@
     <!-- FOOTER BLOCK -->
     <div class="clearfix"></div>
     <div class="w100r">
-      <div class="text-center pt02r pb02r">
-        <img src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r"><br>
+      <div class="text-center ">
+            <img id="lighthouse" src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r"><br>
         <a href="/company.php" class="size-12 uppercase">Компания</a>
       </div>	  
     </div>		

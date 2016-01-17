@@ -153,12 +153,12 @@
         <p class="size-14 weight-300"><span class="bold">С</span>колько хайнетов, столько и их типажей. В любом частном банке вам скажут, что не существует одинаковых миллионеров, но управление богатством не так многогранно, как личность его владельца, и по тем глобальным требованиям, которые обладатель капитала предъявляет к своему wealth-менеджеру, их можно разделить на три понятных типа: консервативный, активный и агрессивный.</p>
         <p class="mt20 size-14 weight-300">Консервативный скрупулезно изучит структуру предлагаемого портфеля и проверит на прочность все идеи управляющего. Активный не станет слишком интересоваться средствами инвестирования, его волнует только итоговая цифра.</p>
       </div>
-      <div class="column-offset pt05r pl05r pr05r">
+      <div class="column-offset pt05r pl05r pr05r block-offset">
         <p class="size-12 color-teal uppercase line-h16 weight-300">К КАКОМУ БЫ ТИПУ ВЫ НИ ОТНОСИЛИ СЕБЯ САМИ, НАИБОЛЬШЕЙ ЭФФЕКТИВНОСТИ В РАБОТЕ С ИНДУСТРИЕЙ PRIVATE BANKING И WEALTH MANAGEMENT МОЖНО ДОБИТЬСЯ, КОГДА ВЫ ЗАРАНЕЕ ЗНАЕТЕ СОБСТВЕННЫЕ ЦЕЛИ, ЖЕЛАНИЯ И ИНВЕСТИЦИОННЫЙ ГОРИЗОНТ. </p>
         <p class="mt10 size-12 color-teal uppercase line-h16 weight-300">МЫ СЧИТАЕМ, ЧТО ДЛЯ УСПЕШНОЙ РАБОТЫ С ИНВЕСТИЦИЯМИ ОН НЕ ДОЛЖЕН БЫТЬ КОРОЧЕ ПОЛУТОРА ЛЕТ И, В ЧАСТНОСТИ, ПРИ ИНВЕСТИРОВАНИИ В РЕАЛЬНЫЙ СЕКТОР - НЕ КОРОЧЕ СЕМИ.</p>
       </div>
     </div>
-    <div class="column-2 pt05r">
+    <div class="column-2 pt05r block-offset">
       <div class="column-offset">
         <p class="size-14 weight-300"><span class="bold">А</span> от агрессивного можно ожидать даже проверки команды управляющей компании на профессионализм. В зависимости от типа клиента инвестирование на финансовых рынках может соответственно принимать три разные формы. </p>
         <p class="mt20 size-14 weight-300">Работая в консервативном русле, мы по-прежнему призываем делать акцент на бумагах с фиксированной доходностью, вниманию активных инвесторов хотим предложить госбонды южных стран Европы, а агрессивным хайнетам - активы из развивающихся стран и рынок IPO Америки.</p>
@@ -171,7 +171,7 @@
   </div>
   <div class="clearfix"></div>
     <div class="column-container">
-      <div class="column pt05r">
+      <div class="column pt05r block-offset">
         <h3 class="text-center size-12"><div class="w250 line-h40 auto bold bg-white">ПУБЛИКАЦИИ</div></h3>
         <div class="pl05r pr05r">
           <div class="title-line-teal"></div>
@@ -179,7 +179,7 @@
       </div>
     </div>
     <div id="offices" class="CUSTOM-1 column-container">  
-          <div class="column-20r pt05r">
+          <div class="column-20r pt05r block-offset">
             <div class="column-offset">
               <div class="img-team-munaev-2 contain w120 h120 auto"></div>
             </div>
@@ -194,7 +194,7 @@
               <div class="clearfix"></div>
             </div>
           </div>
-          <div class="column-50r pt05r">
+          <div class="column-50r pt05r block-offset-2">
             <div class="column-offset pl05r pr05r">
               <div class="size-14 line-h20 pl05r pr05r">
                 <a href="/expert-1.php" class="weight-300 gray-hover"><span class="bold">Ч</span>еловек с одним миллионом долларов - какой он? Зелимхан Мунаев рисует портрет клиента индустрии Private Banking & Wealth Management. Он дальновидный, знает, чего хочет, и отлично помнит, какой ценой ему дался этот миллион. Для каждого это свой, некий индивидуальный перечень проб и ошибок, взлетов и падений, моментов счастья, порой отчаяния и, безусловно, волевых усилий. Это закалило и раскрепостило его дух, повысило требовательность к себе и к окружающим.... </a><span class="color-teal weight-300">&gt;</span>
@@ -208,8 +208,8 @@
     <!-- FOOTER BLOCK -->
     <div class="clearfix"></div>
     <div class="w100r">
-          <div class="text-center pt02r pb02r">
-            <img src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r"><br>
+          <div class="text-center ">
+            <img id="lighthouse" src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r"><br>
             <a href="/company.php" class="size-12 uppercase">Компания</a>
 			<span class="color-teal size-10">•︎</span> 
 			<a href="/team.php" class="size-12 uppercase">Руководство</a>

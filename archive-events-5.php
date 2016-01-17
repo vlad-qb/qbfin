@@ -148,15 +148,15 @@
 	<div class="clearfix"></div>
 <!-- CONTENT -->
 <div id="content">
-<div id="gallery" class="column-container pt05r">
-  <div class="column">
+<div id="gallery" class="column-container">
+  <div class="column pt05r pb05r">
     <div class="gallery-offset w95r auto line-h24 size-14">
       <div class="text-center"><img class="icon icon-portfolio" src="/img/bg/archive-shares.gif"></div>
       <div class="title-line-gray"></div>
     </div>
   </div>
   <div class="clearfix"></div>
-  <div class="gallery-offset w95r auto pt05r pb02r">
+  <div class="gallery-offset w95r auto pb05r">
     <h3 class="text-center size-18">
       <div class="w288 h40 line-h40 auto bg-white weight-300 uppercase">Август</div>
     </h3>
@@ -349,8 +349,8 @@
     <div class="clearfix"></div>
     <!-- FOOTER BLOCK -->
     <div class="clearfix"></div>
-    <div class="text-center pt02r">
-      <img src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r">
+    <div class="text-center ">
+            <img id="lighthouse" src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r">
     </div>
     <div class="text-center pb02r">
  

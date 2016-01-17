@@ -55,7 +55,7 @@
         </div>
       </div>
 
-      <div class="column-3 content-margin">
+      <div class="column-3 content-margin block-offset">
         <div class="column-offset bg-white">
           <h3 class="size-18 color-teal pt05r"> КОНСУЛЬТАЦИИ </h3>
           <div class="auto line-gray mt05r" style="width:180px;"></div>
@@ -82,7 +82,7 @@
         </div>
 
       </div>
-      <div class="column-3 content-margin">
+      <div class="column-3 content-margin block-offset">
         <div class="column-offset bg-white">
           <h3 class="size-18 color-teal pt05r">НЕДВИЖИМОСТЬ</h3>
           <div class="auto line-teal mt05r" style="width:180px;"></div>
@@ -111,7 +111,7 @@
       <div class="clearfix"></div>
     </div>
     <!-- /HEADBLOCK -->
-    <div class="clearfix"></div>
+    <div class="clearfix block-offset"></div>
     <!-- CONTENT -->
 	<div id="content">
     <div class="column-container pt03r">
@@ -125,10 +125,10 @@
     
     <div class="column-container pt03r">
       <div class="column-2">
-        <div class="pt04r pr08r pb04r pl08r">
+        <div class="pt04r pr08r pb04r pl08r  block-offset">
           <div class="img-index-5 l w120 h120 mr05r mb05r" style="background-size:contain;"></div>
           <h1 class="size-14 color-teal uppercase">СОБЫТИЯ</h1>
-          <p class="mt20">
+          <p class="mt20 ml140">
             <a class="size-14 weight-300 gray-hover" href="markets-review-15-08-2015.php">
               Finance специализируется на фондовых рынках США и Европы, работая с широким спектром... <span class="color-teal"> > </span>
             </a>
@@ -137,10 +137,10 @@
         </div>
       </div>
       <div class="column-2">
-        <div class="pt04r pr08r pb04r pl08r">
+        <div class="pt04r pr08r pb04r pl08r  block-offset">
           <div class="img-index-6 l w120 h120 mr05r mb05r" style="background-size:contain;"></div>
           <h1 class="size-14 color-teal uppercase">РЫНКИ</h1>
-          <p class="mt20">
+          <p class="mt20 ml140">
             <a class="size-14 weight-300 gray-hover" href="markets-review-15-08-2015.php">
               Finance специализируется на фондовых рынках США и Европы, работая с широким спектром... <span class="color-teal"> > </span>
             </a>
@@ -150,10 +150,10 @@
       </div>
       <div class="clearfix"></div>
       <div class="column-2">
-        <div class="pt04r pr08r pb04r pl08r">
+        <div class="pt04r pr08r pb04r pl08r block-offset">
           <div class="img-index-7 l w120 h120 mr05r mb05r" style="background-size:contain;"></div>
           <h1 class="size-14 color-teal uppercase">ЭКСПЕРТ</h1>
-          <p class="mt20">
+          <p class="mt20 ml140">
             <a class="size-14 weight-300 gray-hover" href="markets-review-15-08-2015.php">
               Finance специализируется на фондовых рынках США и Европы, работая с широким спектром... <span class="color-teal"> > </span>
             </a>
@@ -162,10 +162,10 @@
         </div>
       </div>
       <div class="column-2">
-        <div class="pt04r pr08r pb04r pl08r">
+        <div class="pt04r pr08r pb04r pl08r block-offset">
           <div class="img-index-8 l w120 h120 mr05r mb05r" style="background-size:contain;"></div>
           <h1 class="size-14 color-teal uppercase">ОФИСЫ</h1>
-          <p class="mt20">
+          <p class="mt20 ml140">
             <a class="size-14 weight-300 gray-hover" href="markets-review-15-08-2015.php">
               Finance специализируется на фондовых рынках США и Европы, работая с широким спектром... <span class="color-teal"> > </span>
             </a>

@@ -153,7 +153,7 @@
     </div>
     <div class="clearfix"></div>
 
-    <div class="column-2 pt05r">
+    <div class="column-2 pt05r block-offset">
       <div class="column-offset">
         <div class="img-reviews-3 h200" style="background-size:cover;background-position:center;">
         </div>
@@ -169,7 +169,7 @@
     </div>
     <div class="clearfix"></div>
 
-    <div class="column-2 pt05r">
+    <div class="column-2 pt05r block-offset">
       <div class="column-offset">
         <div class="img-reviews-4 h200" style="background-size:cover;background-position:center;">
         </div>
@@ -185,7 +185,7 @@
     </div>
     <div class="clearfix"></div>
 
-    <div class="column-2 pt05r">
+    <div class="column-2 pt05r block-offset">
       <div class="column-offset">
         <div class="img-reviews-5 h200" style="background-size:cover;background-position:center;">
         </div>
@@ -201,7 +201,7 @@
     </div>
     <div class="clearfix"></div>
 
-    <div class="column-2 pt05r">
+    <div class="column-2 pt05r block-offset">
       <div class="column-offset">
         <div class="img-reviews-6 h200" style="background-size:cover;background-position:center;">
         </div>
@@ -217,7 +217,7 @@
     </div>
     <div class="clearfix"></div>
 
-    <div class="column-2 pt05r">
+    <div class="column-2 pt05r block-offset">
       <div class="column-offset">
         <div class="img-reviews-7 h200" style="background-size:cover;background-position:center;">
         </div>
@@ -235,7 +235,7 @@
 </div>
 <!-- /CONTENT -->
 <div class="clearfix"></div>
-<div class="text-center pt05r">
+<div class="text-center pt05r block-offset">
   <a href="/archive-news.php" class="size-12 line-h30 uppercase">РАНЕЕ В РАЗДЕЛЕ: ОБЗОРЫ</a>
   <div class="text-center size-18 line-h26 weight-300"><a href="/archive-news.php" class="color-teal gray-hover">2 0 1 5</a> <span class="color-whitesmoke">•︎</span> <a href="/archive-news.php" class="color-teal gray-hover">2 0 1 4</a></div>
 </div>
@@ -271,8 +271,8 @@
 <!-- FOOTER BLOCK -->
     <div class="clearfix"></div>
     <div class="w100r">
-          <div class="text-center pt02r pb02r">
-            <img src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r"><br>
+          <div class="text-center ">
+            <img id="lighthouse" src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r"><br>
             <a href="/analytics/" class="size-12 uppercase">АНАЛИТИКА</a>
 			<span class="color-teal size-10">•︎</span> 
 			<a href="/archive-reviews-2015.php" class="size-12 uppercase">АРХИВ: ОБЗОРЫ</a>

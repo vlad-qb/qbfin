@@ -196,8 +196,8 @@
   <!-- FOOTER BLOCK -->
     <div class="clearfix"></div>
     <div class="w100r">
-          <div class="text-center pt02r pb02r">
-            <img src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r"><br>
+          <div class="text-center ">
+            <img id="lighthouse" src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r"><br>
             <a href="/news/" class="size-12 uppercase">НОВОСТИ</a>
           </div>	  
     </div>		

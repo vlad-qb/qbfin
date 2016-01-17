@@ -172,7 +172,7 @@
         </div>
       </div>
     </div>
-    <div class="clearfix"></div>
+    <div class="clearfix block-offset"></div>
   </div>
   <!-- /PORTFOLIO MENU -->
     <!-- /ALERT -->
@@ -197,7 +197,7 @@
           </div>
         </div>
       </div>
-      <div class="clearfix"></div>
+      <div class="clearfix block-offset"></div>
     </div>
     <!-- /ALERT -->
 <!-- PORTFOLIO MENU -->
@@ -258,8 +258,8 @@
 	<!-- CONTENT -->
 	<!-- FOOTER BLOCK -->
 		<div class="clearfix"></div>
-		<div class="text-center pt02r">
-			<img src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r">
+		<div class="text-center">
+			<img id="lighthouse" src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r">
 		</div>
 		<div class="text-center pb02r">
  

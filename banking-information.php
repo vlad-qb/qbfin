@@ -160,7 +160,7 @@
         </div>
       </div>
       <div class="column-2">
-          <div class="column-offset pt05r pb05r">
+          <div class="column-offset block-offset pt05r pb05r">
             <h3 class="text-center size-12 color-white"><div class="w250 h40 line-h40 auto bg-gray2 weight-300">ООО «Альфа-Банк»</div></h3>
             <div class="title-line-teal"></div>
             <h4 class="size-14 line-h40 text-center mt10 weight-300">р/с № 40701810101400000039</h4>
@@ -185,8 +185,8 @@
     <!-- FOOTER BLOCK -->
     <div class="clearfix"></div>
     <div class="w100r">
-      <div class="text-center pt02r pb02r">
-        <img src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r"><br>
+      <div class="text-center ">
+            <img id="lighthouse" src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r"><br>
         <a href="/company.php" class="size-12 line-h40 uppercase">КОМПАНИЯ</a>
 			  <span class="color-teal size-10">•︎</span> 
 			  <a href="/documents.php" class="size-12 line-h40 uppercase">ДОКУМЕНТЫ</a>

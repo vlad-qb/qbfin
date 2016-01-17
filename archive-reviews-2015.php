@@ -179,8 +179,9 @@
     <div class="column">
       <div class="column-offset">
         <h3 class="text-center size-18">
-          <div class="w288 h40 line-h40 auto bg-white weight-300">
-            <span class="color-teal weight-300">2 0 1 5</span> <span class="color-whitesmoke">•︎</span>
+          <div class="line-h40 auto bg-white weight-300">
+            <span class="color-teal weight-300">2 0 1 5</span> 
+            <span class="color-whitesmoke">•︎</span>
             <a href="/archive-reviews-2014.php" class="gray-hover">2 0 1 4</a>
           </div>
         </h3>
@@ -193,8 +194,8 @@
     <!-- FOOTER BLOCK -->
     <div class="clearfix"></div>
     <div class="w100r">
-      <div class="text-center pt02r pb02r">
-        <img src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r"><br>
+      <div class="text-center ">
+            <img id="lighthouse" src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r"><br>
  
         <a href="/analytics/" class="size-12 uppercase"> АНАЛИТИКА </a>
 			  <span class="color-teal size-10">•︎</span> 

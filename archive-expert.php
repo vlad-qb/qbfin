@@ -135,8 +135,8 @@
   <div class="clearfix"></div> 
   <!-- CONTENT -->
   <div id="content">
-  <div id="gallery" class="column-container pt05r">
-    <div class="column">
+  <div id="gallery" class="column-container">
+    <div class="column pt05r pb05r">
       <div class="line-h26 size-14">
         <div class="text-center"><img class="icon icon-portfolio" src="/img/bg/archive-shares.gif"></div>
         <div class="title-line-teal2"></div>
@@ -156,7 +156,7 @@
       </div>
     </div>
     <div class="clearfix"></div>
-    <div class="column pt05r">
+    <div class="column pt05r pb05r">
       <div class="line-h26 size-14">
         <div class="text-center"><img class="icon icon-portfolio" src="/img/bg/archive-shares-1.gif"></div>
         <div class="title-line-teal2"></div>
@@ -186,7 +186,7 @@
       </div>
     </div>
     <div class="clearfix"></div>
-    <div class="column pt05r">
+    <div class="column pt05r pb05r">
       <div class="line-h24 size-14">
         <div class="text-center"><img class="icon icon-portfolio" src="/img/bg/archive-shares-2.gif"></div>
         <div class="title-line-teal2"></div>
@@ -211,8 +211,8 @@
 	<!-- FOOTER BLOCK -->
     <div class="clearfix"></div>
     <div class="w100r">
-          <div class="text-center pt02r pb02r">
-            <img src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r"><br>
+          <div class="text-center ">
+            <img id="lighthouse" src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r"><br>
             <a href="/analytics/" class="size-12 uppercase">АНАЛИТИКА</a>
 			<span class="color-teal size-10">•︎</span> 
 			<a href="/expert.php" class="size-12 line-h40 uppercase">Эксперт</a>

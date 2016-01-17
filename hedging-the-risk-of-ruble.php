@@ -151,7 +151,7 @@
   <!--Text-->
   <!--Parallax-text -->
   <div class="clearfix"></div>
-    <div class="clearfix"></div>
+    <div class="clearfix block-offset"></div>
     <div
       id="bond-option-portfolio"
       class="img-deposit-weighted-average-portfolio-2 w100r mt05r cover fixed"
@@ -186,7 +186,7 @@
         </div>
       </div>
     </div>
-    <div class="clearfix"></div>
+    <div class="clearfix block-offset"></div>
   <!--Parallax-text -->
   <!--Text-->
   <div class="column-container size-14 line-h26 pt05r">
@@ -302,7 +302,7 @@
 
   <!--Text-->
   <div class="column-container size-14 line-h26">
-    <div class="column-2 pt05r">
+    <div class="column-2 pt05r block-offset">
       <div class="column-offset">
         <p class="size-14 weight-300"><span class="bold">Т</span>ак, экономический рост в 2013-2015 годах составит не более 0,5% г/г, а инфляция по самым консервативным сценариям превысит 7%. Также политика ЦБ в ближайшее время будет нацелена на сдерживание инфляции в ущерб экономическому росту, что подтверждает повышение ЦБ процентных ставок.</p>
       </div>
@@ -315,7 +315,7 @@
   </div>
     <!-- CONNECT -->
     <div class="clearfix"></div>
-    <div class="column-container mt05r">
+    <div class="column-container pt05r block-offset">
       <div class="column">
         <div class="border-gray-bottom"></div>
         <div class="pt05r pl05r pr05r text-center">
@@ -329,7 +329,7 @@
         </div>
       </div>
     </div>
-    <div class="clearfix"></div>
+    <div class="clearfix block-offset"></div>
     <!-- /CONNECT -->
 <!-- PORTFOLIO MENU -->
     <div class="img-high-yield-strategy-2 w100r mt05r fixed" style="background-attachment: fixed;">
@@ -415,8 +415,8 @@
   <!-- /PORTFOLIO MENU -->
   <!-- FOOTER BLOCK -->
 	<div class="clearfix"></div>
-	<div class="text-center pt02r">
-		<img src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r">
+	<div class="text-center ">
+            <img id="lighthouse" src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r">
 	</div>
 	<div class="text-center pb02r">
 		<a href="/service.php" class="size-12 uppercase">УСЛУГИ</a> <span class="color-teal size-10">•︎</span> 

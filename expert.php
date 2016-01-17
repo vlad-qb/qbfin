@@ -153,7 +153,7 @@
         <h4 class="size-14 line-h20"><a href="/reviews-1.php" class="gray-hover h60 ellipsis">Holding Alibaba Group Holding - крупнейшая в Китае компания, специализирующаяся на интернет - торговле. В 2013 году корпорация реализовала 11,3 млрд. заказов на общую сумму более $248 млрд... </a><span class="color-teal weight-300">></span></h4>
       </div>
     </div>
-    <div class="clearfix"></div>
+    <div class="clearfix block-offset"></div>
     <div class="column-2 pt05r">
       <div class="column-offset">
         <div class="img-expert-3 h200" style="background-size:cover;background-position:center;">
@@ -168,7 +168,7 @@
         <h4 class="size-14 line-h20"><a href="/reviews-1.php" class="gray-hover h60 ellipsis">Holding Alibaba Group Holding - крупнейшая в Китае компания, специализирующаяся на интернет - торговле. В 2013 году корпорация реализовала 11,3 млрд. заказов на общую сумму более $248 млрд... </a><span class="color-teal weight-300">></span></h4>
       </div>
     </div>
-    <div class="clearfix"></div>
+    <div class="clearfix block-offset"></div>
     <div class="column-2 pt05r">
       <div class="column-offset">
         <div class="img-expert-4 h200" style="background-size:cover;background-position:center;">
@@ -183,7 +183,7 @@
         <h4 class="size-14 line-h20"><a href="/reviews-1.php" class="gray-hover h60 ellipsis">Holding Alibaba Group Holding - крупнейшая в Китае компания, специализирующаяся на интернет - торговле. В 2013 году корпорация реализовала 11,3 млрд. заказов на общую сумму более $248 млрд... </a><span class="color-teal weight-300">></span></h4>
       </div>
     </div>
-    <div class="clearfix"></div>
+    <div class="clearfix block-offset"></div>
     <div class="column-2 pt05r">
       <div class="column-offset">
         <div class="img-expert-5 h200" style="background-size:cover;background-position:center;">
@@ -198,7 +198,7 @@
         <h4 class="size-14 line-h20"><a href="/reviews-1.php" class="gray-hover h60 ellipsis">Holding Alibaba Group Holding - крупнейшая в Китае компания, специализирующаяся на интернет - торговле. В 2013 году корпорация реализовала 11,3 млрд. заказов на общую сумму более $248 млрд... </a><span class="color-teal weight-300">></span></h4>
       </div>
     </div>
-    <div class="clearfix"></div>
+    <div class="clearfix block-offset"></div>
     <div class="column-2 pt05r">
       <div class="column-offset">
         <div class="img-expert-6 h200" style="background-size:cover;background-position:center;">
@@ -213,7 +213,7 @@
         <h4 class="size-14 line-h20"><a href="/reviews-1.php" class="gray-hover h60 ellipsis">Holding Alibaba Group Holding - крупнейшая в Китае компания, специализирующаяся на интернет - торговле. В 2013 году корпорация реализовала 11,3 млрд. заказов на общую сумму более $248 млрд... </a><span class="color-teal weight-300">></span></h4>
       </div>
     </div>
-    <div class="clearfix"></div>
+    <div class="clearfix block-offset"></div>
     <div class="column-2 pt05r">
       <div class="column-offset">
         <div class="img-expert-7 h200" style="background-size:cover;background-position:center;">
@@ -228,7 +228,7 @@
         <h4 class="size-14 line-h20"><a href="/reviews-1.php" class="gray-hover h60 ellipsis">Holding Alibaba Group Holding - крупнейшая в Китае компания, специализирующаяся на интернет - торговле. В 2013 году корпорация реализовала 11,3 млрд. заказов на общую сумму более $248 млрд... </a><span class="color-teal weight-300">></span></h4>
       </div>
     </div>
-    <div class="clearfix"></div>
+    <div class="clearfix block-offset"></div>
     <div class="column-2 pt05r">
       <div class="column-offset">
         <div class="img-expert-8 h200" style="background-size:cover;background-position:center;">
@@ -243,7 +243,7 @@
         <h4 class="size-14 line-h20"><a href="/reviews-1.php" class="gray-hover h60 ellipsis">Holding Alibaba Group Holding - крупнейшая в Китае компания, специализирующаяся на интернет - торговле. В 2013 году корпорация реализовала 11,3 млрд. заказов на общую сумму более $248 млрд... </a><span class="color-teal weight-300">></span></h4>
       </div>
     </div>
-    <div class="clearfix"></div>
+    <div class="clearfix block-offset"></div>
     <div class="column-2 pt05r">
       <div class="column-offset">
         <div class="img-expert-9 h200" style="background-size:cover;background-position:center;">
@@ -261,12 +261,12 @@
   </div>
 </div>
 <!-- /CONTENT -->
-<div class="clearfix"></div>
+<div class="clearfix block-offset"></div>
 <div class="text-center pt05r">
   <a href="/archive-news.php" class="size-12 line-h30 uppercase">РАНЕЕ В РАЗДЕЛЕ: Эксперт</a>
   <div class="text-center size-18 line-h26 weight-300"><a href="/archive-news.php" class="color-teal gray-hover">2 0 1 5</a> <span class="color-whitesmoke">•︎</span> <a href="/archive-news.php" class="color-teal gray-hover">2 0 1 4</a> <span class="color-whitesmoke">•︎</span> <a href="/archive-news.php" class="color-teal gray-hover">2 0 1 3</a></div>
 </div>
-  <div class="clearfix"></div>
+  <div class="clearfix block-offset"></div>
   <div class="text-center pt05r"><img class="icon icon-contacts" src="img/icons/icon-earth.svg"></div>
   <div class="column-container">
     <div class="column">
@@ -274,7 +274,7 @@
     </div>
   </div>
 <!-- CONTENT -->
-<div class="column-container pt05r">
+<div class="column-container block-offset">
   <div class="column-2">
     <div class="column-offset">
 
@@ -283,7 +283,7 @@
 
     </div>
   </div>
-  <div class="column-2">
+  <div class="column-2 block-offset">
     <div class="column-offset">
 
         <h2 class="size-12 uppercase line-h60 color-teal text-center">ПРЕССА О НАС</h2>
@@ -291,7 +291,7 @@
 
     </div>
   </div>
-  <div class="clearfix"></div>
+  <div class="clearfix block-offset"></div>
 </div>
   <div class="column-container pt05r">
     <div class="column">
@@ -302,8 +302,8 @@
 <!-- /CONTENT -->
 <!-- FOOTER BLOCK -->
 	<div class="clearfix"></div>
-	<div class="text-center pt02r">
-		<img src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r">
+	<div class="text-center ">
+            <img id="lighthouse" src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r">
 	</div>
 	<div class="text-center pb02r">
 		<a href="/analytics/" class="size-12 uppercase">АНАЛИТИКА</a> <span class="color-teal size-10">•︎</span> 

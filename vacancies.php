@@ -165,7 +165,7 @@
   </div>
 
   <div class="column-container">
-    <div class="column pt05r">
+    <div class="column pt05r block-offset">
         <h3 class="text-center size-12 color-white"><div class="w288 line-h40 auto bg-teal">ДЕПАРТАМЕНТ МЕЖДУНАРОДНОГО ТРЕЙДИНГА</div></h3>
         <div class="pl05r pr05r">
         <div class="title-line-teal"></div>
@@ -200,7 +200,7 @@
     <div class="clearfix"></div>
   </div>
   <div class="column-container">
-    <div class="column pt05r">  
+    <div class="column pt05r block-offset">  
       <div class="column-offset">
         <h3 class="text-center size-12 line-h26 bold color-teal">СПЕЦИАЛИСТ РЫНКА ПРОИЗВОДНЫХ ФИНАНСОВЫХ ИНСТРУМЕНТОВ</h3>
       </div>
@@ -230,7 +230,7 @@
   </div>
 
   <div class="column-container">
-    <div class="column pt05r">
+    <div class="column pt05r block-offset">
         <h3 class="text-center size-12 color-white"><div class="w288 line-h40 auto bg-teal">ДЕПАРТАМЕНТ АЛГОРИТМИЧЕСКОГО ТРЕЙДИНГА</div></h3>
         <div class="pl05r pr05r">
         <div class="title-line-teal"></div>
@@ -263,7 +263,7 @@
     <div class="clearfix"></div>
   </div>  
     <div class="column-container">
-    <div class="column pt05r">
+    <div class="column pt05r block-offset">
       <div class="column-offset">
         <h3 class="text-center size-12 line-h26 bold color-teal">СТАЖЕР: «РАЗРАБОТЧИК АЛГОРИТМИЧЕСКИХ СИСТЕМ»</h3>
       </div>
@@ -292,7 +292,7 @@
     <div class="clearfix"></div>
   </div>  
 
-<div class="clearfix"></div>
+<div class="clearfix block-offset"></div>
 <div class="img-vacancies-2 w100r mt05r pt08r pb08r cover" style="background-attachment: fixed; background-position: center bottom;">
   <h4 class="line-h40 color-white uppercase size-16 text-center weight-500">
     ВЫБОР В ПОЛЬЗУ ЛУЧШЕГО<br/>
@@ -303,8 +303,8 @@
 <!-- FOOTER BLOCK -->
 <div class="clearfix"></div>
 <div class="w100r">
-  <div class="text-center pt02r pb02r">
-    <img src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r"><br>
+  <div class="text-center ">
+            <img id="lighthouse" src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r"><br>
     <a href="/career.php" class="size-12 uppercase">Карьера</a>
   </div>	  
 </div>		

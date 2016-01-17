@@ -164,7 +164,7 @@
           </div>
         </div>
       </div>
-      <div class="clearfix"></div>
+      <div class="clearfix block-offset"></div>
       <div class="column-2 pt05r">
         <div class="column-offset bg-light-gray pt05r pb05r">
           <div class="img-license-1 w280 h200 auto bg-center no-repeat"></div>
@@ -179,7 +179,7 @@
           </div>
         </div>
       </div>
-      <div class="clearfix"></div>
+      <div class="clearfix block-offset"></div>
       <div class="column-2 pt05r">
         <div class="column-offset bg-light-gray pt05r pb05r">
           <div class="img-license-1 w280 h200 auto bg-center no-repeat"></div>
@@ -201,8 +201,8 @@
     <div class="clearfix"></div>
     <!-- FOOTER BLOCK -->
     <div class="clearfix"></div>
-    <div class="text-center pt02r">
-      <img src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r">
+    <div class="text-center ">
+            <img id="lighthouse" src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r">
     </div>
     <div class="text-center pb02r">
  

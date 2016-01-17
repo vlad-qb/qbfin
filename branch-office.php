@@ -164,7 +164,7 @@
             </div>
             <div class="column-40r pt07r">
               <div class="column-offset pl02r pr02r">
-                <div class="text-center weight-300 size-14 line-h40 pl20r pr20r">
+                <div class="address text-center weight-300 size-14 line-h40 pl20r pr20r">
                   123317, Москва<br>
                   Пресненская набережная, д.8, стр1<br>
                   ММДЦ «Москва-Сити»<br>
@@ -185,7 +185,7 @@
         </div>
       </div>
       <div class="CUSTOM-1 column-container">
-        <div class="column pt05r">
+        <div class="column pt05r block-offset">
           <div class="column-offset">
             <div class="pt05r mobile"></div>
             <h3 class="text-center size-14"><div class="w250 h40 line-h40 auto bg-white uppercase">САНКТ-ПЕТЕРБУРГ</div></h3>
@@ -202,7 +202,7 @@
             <div class="column-40r pt07r">
               <div class="column-offset">
                 <div class="pt05r mobile"></div>
-                <div class="text-center weight-300 size-14 line-h40 pl20r pr20r">
+                <div class="address text-center weight-300 size-14 line-h40 pl20r pr20r">
                   195112, Санкт-Петербург<br>
                   Малоохтинский проспект, д.64, литера Б<br>
                   БЦ «Санкт-Петербург Плаза»<br>
@@ -225,7 +225,7 @@
       <div class="CUSTOM-1 column-container">
         <div class="column">
           <div class="column-offset">
-            <div class="pt05r mobile"></div>
+            <div class="pt05r mobile block-offset"></div>
             <h3 class="pt05r text-center size-14"><div class="w250 h40 line-h40 auto bg-white uppercase">ЕКАТЕРИНБУРГ</div></h3>
             <div class="pt05r mobile"></div>
             <div class="title-line-lightgray"></div>
@@ -239,7 +239,7 @@
             </div>
             <div class="column-40r pt07r">
               <div class="column-offset">
-                <div class="text-center weight-300 size-14 line-h40 pl20r pr20r">
+                <div class="address text-center weight-300 size-14 line-h40 pl20r pr20r">
                   620014, Екатеринбург<br>
                   ул. Бориса Ельцина, 1а<br>
                   БЦ «Президент»<br>
@@ -264,7 +264,7 @@
       <div class="CUSTOM-1 column-container">
         <div class="column">
           <div class="column-offset">
-            <div class="pt05r mobile"></div>
+            <div class="pt05r mobile block-offset"></div>
             <h3 class="pt05r text-center size-14"><div class="w250 h40 line-h40 auto bg-white uppercase">КИЕВ</div></h3>
             <div class="pt05r mobile"></div>
             <div class="title-line-lightgray"></div>
@@ -278,7 +278,7 @@
             </div>
             <div class="column-40r pt07r">
               <div class="column-offset">
-                <div class="text-center weight-300 size-14 line-h40 pl20r pr20r">
+                <div class="address text-center weight-300 size-14 line-h40 pl20r pr20r">
                   01601, Киев<br>
                   ул. Мечникова, д.2<br>
                   БЦ «Парус»<br>
@@ -305,8 +305,8 @@
     <!-- FOOTER BLOCK -->
     <div class="clearfix"></div>
     <div class="w100r">
-      <div class="text-center pt02r pb02r">
-        <img src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r"><br>
+      <div class="text-center ">
+            <img id="lighthouse" src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r"><br>
         <a href="/company.php" class="size-12 line-h40 uppercase">Компания</a>
       </div>
     </div>

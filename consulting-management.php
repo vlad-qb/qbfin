@@ -141,7 +141,7 @@
       </div>
     </div>
   </div>
-  <div class="clearfix"></div>
+  <div class="clearfix block-offset"></div>
   <!-- Text-->
   <div class="bg-dark-gray mt05r pt02r pb02r">
     <div class="column-container">
@@ -166,7 +166,7 @@
   </div>
   <!-- Two colums portfolio -->
   <div class="column-container">
-    <div class="column-2 pt05r">
+    <div class="column-2 pt05r block-offset">
       <div class="column-offset">
         <div class="l w120 h120 bg-dark-gray mr20">
           <div class="w80 auto pt20">
@@ -189,7 +189,7 @@
         <div class="clearfix"></div>
       </div>
     </div>
-    <div class="column-2 pt05r ">
+    <div class="column-2 pt05r  block-offset">
       <div class="column-offset">
         <div class="l w120 h120 bg-dark-gray mr20">
           <div class="w80 auto pt20">
@@ -217,7 +217,7 @@
   <!-- Two colums portfolio -->
   <!-- Two colums portfolio -->
   <div class="column-container">
-    <div class="column-2 pt05r">
+    <div class="column-2 pt05r block-offset">
       <div class="column-offset">
         <div class="l w120 h120 bg-dark-gray mr20">
           <div class="w80 auto pt20">
@@ -240,7 +240,7 @@
         <div class="clearfix"></div>
       </div>
     </div>
-    <div class="column-2 pt05r">
+    <div class="column-2 pt05r block-offset">
       <div class="column-offset">
         <div class="l w120 h120 bg-dark-gray mr20">
           <div class="w80 auto pt20">
@@ -268,7 +268,7 @@
   <!-- Two colums portfolio -->
   <!-- Two colums portfolio -->
   <div class="column-container">
-    <div class="column-2 pt05r">
+    <div class="column-2 pt05r block-offset">
       <div class="column-offset">
         <div class="l w120 h120 bg-dark-gray mr20">
           <div class="w80 auto pt20">
@@ -291,7 +291,7 @@
         <div class="clearfix"></div>
       </div>
     </div>
-    <div class="column-2 pt05r">
+    <div class="column-2 pt05r block-offset">
       <div class="column-offset">
         <div class="l w120 h120 bg-dark-gray mr20">
           <div class="w80 auto pt20">
@@ -315,7 +315,7 @@
       </div>
     </div>
   </div>
-  <div class="clearfix"></div>
+  <div class="clearfix block-offset"></div>
   <!-- Two colums portfolio -->
   <div class="img-consulting-management-2 w100r mt05r" style="height:215px;background-position: center bottom; background-attachment: fixed;">
   </div>
@@ -341,7 +341,7 @@
   <div id="consulting-management">
     <div class="column-container">
       <div class="gallery-offset w100r auto line-h20 size-14">
-        <div class="w33r l mt05r">
+        <div class="w33r l mt05r block-offset">
           <div class="ml07r mr07r">
             <div class="pt30 pb30 border-left-lightgray border-right-lightgray">
               <h4 class="text-center"><img class="icon w25r" src="img/bg/1_buy_rec.png"></h4>
@@ -354,7 +354,7 @@
             </div>
           </div>
         </div>
-        <div class="w33r l mt05r">
+        <div class="w33r l mt05r block-offset">
           <div class="ml07r mr07r">
             <div class="pt30 pb30 border-left-lightgray border-right-lightgray">
               <h4 class="text-center"><img class="icon w25r" src="img/bg/2_buy_rec.png"></h4>
@@ -367,7 +367,7 @@
             </div>
           </div>
         </div>
-        <div class="w33r l mt05r">
+        <div class="w33r l mt05r block-offset">
           <div class="ml07r mr07r">
             <div class="pt30 pb30 border-left-lightgray border-right-lightgray">
               <h4 class="text-center"><img class="icon w25r" src="img/bg/3_buy_rec.png"></h4>
@@ -387,7 +387,7 @@
     <!-- REC-->
     <div class="column-container">
       <div class="gallery-offset w100r auto line-h20 size-14">
-        <div class="w33r l mt05r">
+        <div class="w33r l mt05r block-offset">
           <div class="ml07r mr07r">
             <div class="pt30 pb30 border-left-lightgray border-right-lightgray">
               <h4 class="text-center"><img class="icon w25r" src="img/bg/1_buy_rec.png"></h4>
@@ -401,7 +401,7 @@
           </div>
         </div>
         <div class="w33r l mt05r">
-          <div class="ml07r mr07r">
+          <div class="ml07r mr07r block-offset">
             <div class="pt30 pb30 border-left-lightgray border-right-lightgray">
               <h4 class="text-center"><img class="icon w25r" src="img/bg/2_buy_rec.png"></h4>
               <h4 class="size-14 text-center uppercase line-h30 mt5 bold">CRH BUY REC</h4>
@@ -414,7 +414,7 @@
           </div>
         </div>
         <div class="w33r l mt05r">
-          <div class="ml07r mr07r">
+          <div class="ml07r mr07r block-offset">
             <div class="pt30 pb30 border-left-lightgray border-right-lightgray">
               <h4 class="text-center"><img class="icon w25r" src="img/bg/3_buy_rec.png"></h4>
               <h4 class="size-14 text-center uppercase line-h30 mt5 bold">FDX BUY REC</h4>
@@ -431,7 +431,7 @@
     <div class="clearfix"></div>
     <div class="column-container">
       <div class="gallery-offset w100r auto line-h20 size-14">
-        <div class="w33r l mt05r">
+        <div class="w33r l mt05r block-offset">
           <div class="ml07r mr07r">
             <div class="pt30 pb30 border-left-lightgray border-right-lightgray">
               <h4 class="text-center"><img class="icon w25r" src="img/bg/1_buy_rec.png"></h4>
@@ -444,7 +444,7 @@
             </div>
           </div>
         </div>
-        <div class="w33r l mt05r">
+        <div class="w33r l mt05r block-offset">
           <div class="ml07r mr07r">
             <div class="pt30 pb30 border-left-lightgray border-right-lightgray">
               <h4 class="text-center"><img class="icon w25r" src="img/bg/2_buy_rec.png"></h4>
@@ -457,7 +457,7 @@
             </div>
           </div>
         </div>
-        <div class="w33r l mt05r">
+        <div class="w33r l mt05r block-offset">
           <div class="ml07r mr07r">
             <div class="pt30 pb30 border-left-lightgray border-right-lightgray">
               <h4 class="text-center"><img class="icon w25r" src="img/bg/3_buy_rec.png"></h4>
@@ -472,7 +472,7 @@
         </div>
       </div>
     </div>
-    <div class="clearfix"></div>
+    <div class="clearfix block-offset"></div>
   </div>
   <!-- REC-->
   <div class="img-consulting-management-3 w100r h200 mt05r" style="background-position: center bottom; background-attachment: fixed;">
@@ -495,7 +495,7 @@
   <!-- IMAGES-->
   <div class="column-container line-h20 size-14">
     <div class="column-2 pt05r">
-      <div class="column-offset auto line-h20 size-14">
+      <div class="column-offset block-offset auto line-h20 size-14">
         <div class="img-consulting-management-4 w100r h578 cover" style="background-position: center center;background-repeat:no-repeat;"></div>
       </div>
     </div>
@@ -566,8 +566,8 @@
   <!-- FOOTER BLOCK -->
     <div class="clearfix"></div>
     <div class="w100r">
-          <div class="text-center pt02r pb02r">
-            <img src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r"><br>
+          <div class="text-center ">
+            <img id="lighthouse" src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r"><br>
             <a href="/service.php" class="size-12 line-h40 uppercase">УСЛУГИ</a>
           </div>	  
     </div>		

@@ -158,7 +158,7 @@
         </div>
       </div>
     </div>
-    <div class="clearfix"></div>
+    <div class="clearfix block-offset"></div>
     <div
       id="bond-option-portfolio"
       class="img-conservative-portfolio-2 w100r mt05r cover fixed"
@@ -193,7 +193,7 @@
           </div>
       </div>
     </div>
-    <div class="clearfix"></div>
+    <div class="clearfix block-offset"></div>
     <div class="column-container size-14 line-h22">
       <h3 class="text-center bold pt05r pb05r">Структура портфеля</h3>
       <div class="column-2">
@@ -209,7 +209,7 @@
         </div>
       </div>
     </div>
-    <div class="clearfix"></div>
+    <div class="clearfix block-offset"></div>
     <div class="column-container">
       <div class="pl05r pr05r">
         <h3 class="text-center size-14 line-h26 bold pt05r pb05r pb04r">Расчет доходности портфеля</h3>
@@ -247,7 +247,7 @@
           <div class="img-bond-option-portfolio-2 h400 contain" style="background-size: contain; background-repeat: no-repeat; background-position: center center;"></div>
         </div>
       </div>
-      <div class="clearfix"></div>
+      <div class="clearfix block-offset"></div>
       <div class="size-14 line-h22">
         <div class="column-2 pt05r pb05r">
           <div class="column-offset">
@@ -262,7 +262,7 @@
       </div>
     </div>
     <!-- CONNECT -->
-    <div class="clearfix"></div>
+    <div class="clearfix block-offset"></div>
     <div class="column-container">
       <div class="column">
         <div class="border-gray-bottom"></div>
@@ -277,7 +277,7 @@
         </div>
       </div>
     </div>
-    <div class="clearfix"></div>
+    <div class="clearfix block-offset"></div>
     <!-- /CONNECT -->
   </div>
     <!-- PORTFOLIO MENU -->
@@ -386,8 +386,8 @@
     <div class="clearfix"></div>
     <!-- FOOTER BLOCK -->
     <div class="clearfix"></div>
-    <div class="text-center pt02r">
-      <img src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r">
+    <div class="text-center ">
+            <img id="lighthouse" src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r">
     </div>
     <div class="text-center pb02r">
 

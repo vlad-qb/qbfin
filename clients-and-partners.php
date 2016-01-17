@@ -175,7 +175,7 @@
       </div>
       <div class="clearfix"></div>
     </div>
-    <div class="column-container pt05r">
+    <div class="column-container pt05r block-offset">
       <div class="column">
         <h3 class="text-center size-12 color-white">
           <div class="w288 h40 line-h40 auto bg-teal">ПАРТНЕРЫ КОМПАНИИ</div>
@@ -237,7 +237,7 @@
           <p class="weight-300 mt15">сайт: <a href="https://www.rjobrien.com/" class="color-gray">https://www.rjobrien.com/</a></p>
         </div>
       </div>
-      <div class="clearfix"></div>
+      <div class="clearfix block-offset"></div>
     </div>
     <div class="img-clients-2 fixed mt05r pt05r pb05r" style="background-attachment: fixed;background-position:center;">
       <div class="line-h26 color-white uppercase size-16 text-center pl05r pr05r">
@@ -252,8 +252,8 @@
     <div class="clearfix"></div>
     <!-- FOOTER BLOCK -->
     <div class="w100r">
-      <div class="text-center pt02r pb02r">
-        <img src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r"><br>
+      <div class="text-center ">
+            <img id="lighthouse" src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r"><br>
         <a href="/company.php" class="size-12 uppercase">Компания</a>
       </div>
     </div>

@@ -127,8 +127,8 @@
     <div class="clearfix"></div> 
     <!-- CONTENT -->
 	<div id="content">
-    <div class="column-container pt05r">
-      <div class="column-2 line-h20 size-14">
+    <div class="column-container">
+      <div class="column-2 pt05r line-h20 size-14">
         <div class="column-offset">
           <p class=" mt20 size-14 weight-300">
             <span class="bold">И</span>нвестиционная компания QBF ||| investment предлагает три стратегии доверительного управления финансовыми активами: <a href="/high-yield-strategy.php" class="color-gray light-gray-hover italic">высокодоходная,</a> <a href="/weighted-average-strategy.php" class="color-gray light-gray-hover italic">средневзвешенная и</a> <a href="/conservative-strategy.php" class="color-gray light-gray-hover italic">консервативная стратегия.</a>
@@ -138,7 +138,7 @@
           </p>
         </div>
       </div>
-      <div class="column-2">
+      <div class="column-2 pt05r block-offset">
         <div class="column-offset">
           <div class="border-left-lightgray border-right-lightgray">
             <div class="ml05r mr05r pt05r pb05r">
@@ -153,7 +153,7 @@
         </div>
       </div>
     </div>
-    <div class="clearfix"></div>
+    <div class="clearfix block-offset"></div>
     <!-- PORTFOLIO MENU -->
     <div class="img-asset-management-2 w100r mt05r fixed" style="background-attachment: fixed;">
       <div class="portfolio-menu label pt02r w90r auto bg bg-label text-center color-white uppercase">
@@ -207,7 +207,7 @@
   <!-- /PORTFOLIO MENU -->
     <!-- CONTENT -->
     <!-- CONTENT-2 -->
-    <div class="text-alert column-container pt05r line-h20 size-14">
+    <div class="text-alert block-offset column-container pt05r line-h20 size-14">
       <div class="column">
         <div class="column-offset pl05r pr05r">
           <div class="border-left-lightgray border-right-lightgray">
@@ -229,8 +229,8 @@
     <!-- FOOTER BLOCK -->
     <div class="clearfix"></div>
     <div class="w100r">
-      <div class="text-center pt02r pb02r">
-        <img src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r"><br>
+      <div class="text-center ">
+            <img id="lighthouse" src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r"><br>
         <a href="/services.php" class="size-12 uppercase">УСЛУГИ</a>
       </div>	  
     </div>		

@@ -160,7 +160,7 @@
         <p class="mt20 size-14 weight-300">Что касается выбора стратегии управления на нетрадиционных рынках, то это более серьезный вопрос. Здесь мы готовы выделить на одного клиента сразу нескольких человек: трейдера, аналитика и финансового советника. Порой, хорошо отработав ту или иную инфраструктуру или рынок, мы доводим его до ритейл-сегмента. Так, например, пару лет назад случилось с российским рынком.</p>
       </div>
     </div>
-    <div class="column-2 pt05r">
+    <div class="column-2 pt05r block-offset">
       <div class="column-offset">
         <p class="size-14 weight-300"><span class="bold">О</span>тдельной клиентской «проблемой» можно назвать случаи, когда клиенты не ставят перед нами конкретных задач и сроков работы. И главное тут - совместная четкая проработка задач и целей нашего сотрудничества еще до его начала. </p>
         <p class="mt20 size-14 weight-300">Возникающие в процессе работы новые задачи и цели могут привести к нежелательному пересмотру стратегии, хотя при реальной необходимости мы готовы справиться и с такими вопросами.</p>
@@ -172,7 +172,7 @@
   <div class="clearfix"></div>
   <!--Text-->
   <!-- /ALERT -->
-  <div class="text-alert text-offset column-container pt05r w65r auto line-h16 size-12 uppercase">
+  <div class="text-alert text-offset column-container pt05r block-offset  w65r auto line-h16 size-12 uppercase">
     <div class="column">
       <div class="column-offset">
         <div class="ml15r mr15r border-left-lightgray border-right-lightgray color-teal">
@@ -187,7 +187,7 @@
         </div>
       </div>
     </div>
-    <div class="clearfix"></div>
+    <div class="clearfix block-offset"></div>
   </div>
   <!-- /ALERT -->
   <!--Text-->
@@ -199,7 +199,7 @@
         <p class="mt20 size-14 weight-300">Первое, что пришло в голову, - это BVI и Каймановы острова, но так же быстро пришлось отбросить эти варианты: за последнее время мировое сообщество уделяло пристальное внимание этим двум юрисдикциям, да и у контрагентов возникают вопросы при работе с ними. Люксембург и Сингапур, конечно, представляют собой отличную альтернативу, но не все инвесторы готовы платить за столь дорогостоящую юрисдикцию.</p>
       </div>
     </div>
-    <div class="column-2 pt05r">
+    <div class="column-2 pt05r block-offset">
       <div class="column-offset">
         <p class="size-14 weight-300"><span class="bold">В</span> итоге ответ нашли рядом - и географически, и политически: Мальта, государство в Средиземном море и член Евросоюза. Создание необходимой клиенту инфраструктуры заняло даже меньше времени, а цена практически не отличалась, да и банки ЕС совсем по-другому смотрят на фонд, зарегистрированный в рамках Евросоюза.</p>
         <p class="mt20 size-14 weight-300">Клиентам на миллион мы готовы предложить достойный перечень дополнительных услуг, охватывающий сферу их жизни. Конечно же, в этом случае мы можем говорить лишь о ряде функций все больше набирающего популярность сервиса lifestyle management.</p>
@@ -211,7 +211,7 @@
   <!--Text-->
   <!-- /ALERT -->
   <div class="text-alert text-offset column-container w65r auto line-h16 size-12 uppercase">
-    <div class="column pt05r">
+    <div class="column pt05r block-offset">
       <div class="column-offset">
         <div class="ml15r mr15r border-left-lightgray border-right-lightgray color-teal">
           <div class="ml05r mr05r pt03r pb03r">
@@ -222,7 +222,7 @@
         </div>
       </div>
     </div>
-    <div class="clearfix"></div>
+    <div class="clearfix block-offset"></div>
   </div>
   <!-- /ALERT -->
   <!--Text-->
@@ -232,7 +232,7 @@
         <p class="size-14 weight-300"><span class="bold">О</span>днажды одному из менеджеров поступил тревожный звонок от действующего клиента, который был весьма озадачен своей ситуацией. Клиенту нужна была помощь в подборе имиджмейкера на время отсутствия постоянного. Задавать вопросы вроде «почему вы решили обратиться именно к нам?» мы и не думали, желание клиента попросить нас о помощи в любом важном для него деле - порой просто награда.</p>
       </div>
     </div>
-    <div class="column-2 pt05r">
+    <div class="column-2 pt05r block-offset">
       <div class="column-offset">
         <p class="size-14 weight-300"><span class="bold">Р</span>азумеется, имиджмейкера мы подобрали, еще больше запомнилось, как менеджер практически на себе проверял возможности стилиста. Но главное - чтобы клиент был счастлив. <span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span></p>
         <p class="mt40 size-14 weight-300 line-h30 r text-right">С уважением,<br/>
@@ -247,8 +247,8 @@
   <!-- FOOTER BLOCK -->
     <div class="clearfix"></div>
     <div class="w100r">
-          <div class="text-center pt02r pb02r">
-            <img src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r"><br>
+          <div class="text-center ">
+            <img id="lighthouse" src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r"><br>
              <a href="/company.php" class="size-12 uppercase">Компания</a>
 			<span class="color-teal size-10">•︎</span> 
 			<a href="/team.php" class="size-12 uppercase">Руководство</a> 

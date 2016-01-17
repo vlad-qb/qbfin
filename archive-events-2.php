@@ -149,15 +149,15 @@
     <div class="clearfix"></div>
     <!-- CONTENT -->
 	<div id="content">
-    <div id="gallery" class="column-container pt05r">
-      <div class="column">
+    <div id="gallery" class="column-container">
+      <div class="column pt05r pb05r">
         <div class="gallery-offset w95r auto line-h24 size-14">
           <div class="text-center"><img class="icon icon-portfolio" src="/img/bg/archive-shares-3.gif"></div>
           <div class="title-line-gray"></div>
         </div>
       </div>
       <div class="clearfix"></div>
-      <div class="column-2 mt50">
+      <div class="column-2">
         <div class="gallery-offset w85r line-h24 size-14 ml05r mr20r">
           <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">03.09.2012</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2782798" class="gray-hover">Программа летней стажировки "Quality Benefit Summer 2012"</a></h4>
           <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">22.07.2012</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2759058" class="gray-hover">QB Finance выиграла конкурс "Регионы - устойчивое развитие"</a></h4>
@@ -170,7 +170,7 @@
           <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">26.04.2012</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2758982" class="gray-hover">QB Finance подарила себе на День Рождения корпоративную премию</a></h4>
         </div>
       </div>
-      <div class="column-2 mt50">
+      <div class="column-2">
         <div class="gallery-offset w85r line-h24 size-14 ml05r mr20r">
           <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">30.03.2012</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2759922" class="gray-hover">QB Finance - спонсор ХХIV Международной выставки "Финансовый супермаркет - 2012"</a></h4>
           <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">21.03.2012</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2759058" class="gray-hover">Экипаж компании QB Finance принял участие в трофи-рейде проекта «Волок.Выходные»</a></h4>
@@ -201,8 +201,8 @@
     <div class="clearfix"></div>
     <!-- FOOTER BLOCK -->
     <div class="clearfix"></div>
-    <div class="text-center pt02r">
-      <img src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r">
+    <div class="text-center ">
+            <img id="lighthouse" src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r">
     </div>
     <div class="text-center pb02r">
       <a href="/news/" class="size-12 uppercase"> НОВОСТИ </a> <span class="color-teal size-10"> •︎ </span> 

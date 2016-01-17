@@ -149,7 +149,7 @@
                 <div class="clear"></div>
                 <div class="mt5">директор департамента продаж</div>
               </div>
-              <div class="clearfix"></div>
+              <div class="clearfix block-offset-2"></div>
           </div>    
         </div>
         <div class="column-2 pt05r">
@@ -162,7 +162,7 @@
           </div>
         </div>
       </div>
-	    <div class="clearfix"></div>
+	    <div class="clearfix block-offset"></div>
       <div class="column-container">
         <div class="column-4 pt05r">
           <div class="column-offset">
@@ -176,7 +176,7 @@
                 <div class="clear"></div>
                 <div class="mt5">директор филиала QBF в Екатеринбурге</div>
               </div>
-              <div class="clearfix"></div>
+              <div class="clearfix block-offset-2"></div>
           </div>    
         </div>
         <div class="column-2 pt05r">
@@ -189,7 +189,7 @@
           </div>
         </div>
       </div>
-      <div class="clearfix"></div>
+      <div class="clearfix block-offset "></div>
   <!-- Content-->
   <div class="column-container w85r">
     <div id="gallery" class="column-2 auto pt05r">
@@ -207,7 +207,7 @@
       </div>
     </div>
     
-    <div id="gallery" class="column-2 auto pt05r">
+    <div id="gallery" class="column-2 auto pt05r block-offset">
       <div class="w100r ml05r border-white">
         <div class="img-colleague-8 w100r h200 bg-center">
         </div>
@@ -221,7 +221,7 @@
       </div>
     </div>
   </div>
-  <div class="clearfix"></div>
+  <div class="clearfix block-offset"></div>
   <!-- Content-->
       <div class="column-container">
         <div class="column-4 pt05r">
@@ -236,7 +236,7 @@
                 <div class="clear"></div>
                 <div class="mt5">руководитель отдела обучения</div>
               </div>
-              <div class="clearfix"></div>
+              <div class="clearfix block-offset-2"></div>
           </div>    
         </div>
         <div class="column-2 pt05r">
@@ -248,7 +248,7 @@
           </div>
         </div>
       </div>
-      <div class="clearfix"></div>
+      <div class="clearfix block-offset"></div>
       <div class="column-container">
         <div class="column-4 pt05r">
           <div class="column-offset">
@@ -262,7 +262,7 @@
                 <div class="clear"></div>
                 <div class="mt5">заместитель директора департамента</div>
               </div>
-              <div class="clearfix"></div>
+              <div class="clearfix block-offset-2"></div>
           </div>    
         </div>
         <div class="column-2 pt05r">
@@ -277,7 +277,7 @@
       </div>
       <div class="clearfix"></div>
   <!-- Content-->
-  <div class="column-container w85r">
+  <div class="column-container w85r block-offset">
     <div id="gallery" class="column-2 auto pt05r">
       <div class="w100r ml05r border-white">
         <div class="img-colleague-9 w100r h200 bg-center">
@@ -292,7 +292,7 @@
       </div>
     </div>
     
-    <div id="gallery" class="column-2 auto pt05r">
+    <div id="gallery" class="column-2 auto pt05r block-offset">
       <div class="w100r ml05r border-white">
         <div class="img-colleague-10 w100r h200" style="background-position: center right;">
         </div>
@@ -308,7 +308,7 @@
   </div>
   <div class="clearfix"></div>
   <!-- Content-->
-      <div class="column-container">
+      <div class="column-container block-offset">
         <div class="column-4 pt05r">
           <div class="column-offset">
               <div class="img-colleague-6 w200 auto h200" style="background-size:contain;background-repeat:no-repeat;"></div>
@@ -321,7 +321,7 @@
                 <div class="clear"></div>
                 <div class="mt5">руководитель отдела по работе с персоналом</div>
               </div>
-              <div class="clearfix"></div>
+              <div class="clearfix block-offset-2"></div>
           </div>    
         </div>
         <div class="column-2 pt05r">
@@ -340,8 +340,8 @@
   <!-- FOOTER BLOCK -->
     <div class="clearfix"></div>
     <div class="w100r">
-          <div class="text-center pt02r pb02r">
-            <img src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r"><br>
+          <div class="text-center ">
+            <img id="lighthouse" src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r"><br>
             <a href="/career.php" class="size-12 line-h40 uppercase">Карьера</a>
           </div>	  
     </div>		

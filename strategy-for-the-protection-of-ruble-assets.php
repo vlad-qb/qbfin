@@ -156,11 +156,11 @@
         </div>
       </div>
     </div>
-    <div class="clearfix"></div>
+    <div class="clearfix pt05r block-offset"></div>
   </div>
   <!-- /PORTFOLIO MENU -->
     <!-- /ALERT -->
-    <div class="text-alert text-offset column-container mt05r w70r auto line-h20 size-14">
+    <div class="text-alert text-offset column-container w70r auto line-h20 size-14">
       <div class="column">
         <div class="column-offset">
           <div class="ml15r mr15r border-left-lightgray border-right-lightgray">
@@ -181,7 +181,7 @@
         </div>
       </div>
     </div>
-    <div class="clearfix"></div>
+    <div class="clearfix pt05r block-offset"></div>
   </div>
   <!-- /ALERT -->
 <!-- PORTFOLIO MENU -->
@@ -242,8 +242,8 @@
   <!-- /Content-->
   <!-- FOOTER BLOCK -->
 	<div class="clearfix"></div>
-	<div class="text-center pt02r">
-		<img src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r">
+	<div class="text-center ">
+            <img id="lighthouse" src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r">
 	</div>
 	<div class="text-center pb02r">
 		<a href="/service.php" class="size-12 uppercase">УСЛУГИ</a> <span class="color-teal size-10">•︎</span> 

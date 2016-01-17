@@ -129,7 +129,7 @@
   <div id="content">
   <div class="column-container">
     <div class="column pt05r">
-      <h3 class="text-center size-12 color-white"><div class="w320 line-h40 auto bg-gray2">ИНВЕСТИЦИОННАЯ АКТУАЛЬНОСТЬ СТРАТЕГИИ</div></h3>
+      <h3 class="text-center size-12 color-white"><div class="w288 line-h40 auto bg-gray2">ИНВЕСТИЦИОННАЯ АКТУАЛЬНОСТЬ СТРАТЕГИИ</div></h3>
       <div class="pl05r pr05r">
         <div class="title-line-grey"></div>
       </div>
@@ -150,7 +150,7 @@
   </div>
   <!--Text-->
   <!--Parallax-text -->
-    <div class="clearfix"></div>
+    <div class="clearfix block-offset"></div>
     <div
       id="bond-option-portfolio"
       class="img-index-portfolio-2 w100r mt05r cover fixed"
@@ -185,12 +185,12 @@
         </div>
       </div>
     </div>
-    <div class="clearfix"></div>
+    <div class="clearfix block-offset"></div>
   <!--Parallax-text -->
   <!-- Investition-->
   <div id="index-portfolio-2" class="column-container">
     <h3 class="text-center size-14 bold pt05r">Инвестиции в фонды ETF имеют ряд преимуществ</h3>
-        <div class="w33r l pt04r pb02r">
+        <div class="w33r l pt04r pb02r block-offset">
           <div class="ml05r mr05r mt05r line-h20 size-14">
             <div class="pt10 pb10 border-left-lightgray border-right-lightgray">
               <h4 class="text-center"><img class="icon w25r" src="img/bg/index-portfolio-3.png"></h4>
@@ -198,7 +198,7 @@
             </div>
           </div>
         </div>
-        <div class="w33r l pt04r pb02r">
+        <div class="w33r l pt04r pb02r block-offset">
           <div class="ml05r mr05r mt05r line-h20 size-14">
             <div class="pt10 pb10 border-left-lightgray border-right-lightgray">
               <h4 class="text-center"><img class="icon w25r" src="img/bg/index-portfolio-4.png"></h4>
@@ -206,7 +206,7 @@
             </div>
           </div>
         </div>
-        <div class="w33r l pt04r pb02r">
+        <div class="w33r l pt04r pb02r block-offset">
           <div class="ml05r mr05r mt05r line-h20 size-14">
             <div class="pt10 pb10 border-left-lightgray border-right-lightgray">
               <h4 class="text-center"><img class="icon w25r" src="img/bg/index-portfolio-5.png"></h4>
@@ -215,12 +215,12 @@
           </div>
         </div>
   </div>
-  <div class="clearfix"></div>
+  <div class="clearfix block-offset"></div>
   <!-- Investition-->
   <!-- Table-->
   <div class="column-container">
-    <h3 class="text-center size-14 bold mt05r">Список ETF, используемых в рамках стратегии</h3>
-    <h3 class="text-center size-14 color-white mt40"><div class="w100r h50 line-h50 auto bg-green">индексные тикеры</div></h3>
+    <h3 class="text-center size-14 bold pt05r">Список ETF, используемых в рамках стратегии</h3>
+    <h3 class="text-center size-14 color-white pt05r block-offset"><div class="w100r h50 line-h50 auto bg-green">индексные тикеры</div></h3>
   </div>
   <div class="column-container mt30 text-center">
     <div class="w100r auto line-h26 size-14">
@@ -329,7 +329,7 @@
   <!--Table-->
   <!--Text-->
   <div class="column-container size-14 line-h26">
-    <h3 class="text-center bold pt05r">Структура портфеля</h3>
+    <h3 class="text-center bold pt05r block-offset">Структура портфеля</h3>
     <div class="column-2">
       <div class="column-offset">
         <p class="pt05r size-14 weight-300"><span class="bold">В</span> рамках стратегии выбираются наиболее ликвидные фонды, дневной объем торгов акциями которых превышает 5 млн. акций в день. </p>
@@ -343,7 +343,7 @@
     </div>
   </div>
     <!-- CONNECT -->
-    <div class="clearfix"></div>
+    <div class="clearfix block-offset"></div>
     <div class="column-container mt05r">
       <div class="column">
         <div class="border-gray-bottom"></div>
@@ -358,7 +358,7 @@
         </div>
       </div>
     </div>
-    <div class="clearfix"></div>
+    <div class="clearfix block-offset"></div>
     <!-- /CONNECT -->
 <!-- PORTFOLIO MENU -->
     <div class="img-high-yield-strategy-2 w100r mt05r fixed" style="background-attachment: fixed;">
@@ -460,8 +460,8 @@
   <!-- /PORTFOLIO MENU -->
   <!-- FOOTER BLOCK -->
 	<div class="clearfix"></div>
-	<div class="text-center pt02r">
-		<img src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r">
+	<div class="text-center ">
+            <img id="lighthouse" src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r">
 	</div>
 	<div class="text-center pb02r">
 		<a href="/service.php" class="size-12 uppercase">УСЛУГИ</a> <span class="color-teal size-10">•︎</span> 

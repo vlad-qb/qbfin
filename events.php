@@ -157,7 +157,7 @@
       </div>
     </div>
 
-    <div class="clearfix"></div>
+    <div class="clearfix block-offset"></div>
 
     <div class="">
       <div class="column-2 pt05r">
@@ -176,7 +176,7 @@
       </div>
     </div>
 
-    <div class="clearfix"></div>
+    <div class="clearfix block-offset"></div>
 
     <div class="">
       <div class="column-2 pt05r">
@@ -195,7 +195,7 @@
       </div>
     </div>
 
-    <div class="clearfix"></div>
+    <div class="clearfix block-offset"></div>
     <div class="">
       <div class="column-2 pt05r">
         <div class="column-offset">
@@ -213,7 +213,7 @@
       </div>
     </div>
 
-    <div class="clearfix"></div>
+    <div class="clearfix block-offset"></div>
     <div class="">
       <div class="column-2 pt05r">
         <div class="column-offset">
@@ -231,7 +231,7 @@
       </div>
     </div>
 
-    <div class="clearfix"></div>
+    <div class="clearfix block-offset"></div>
     <div class="">
       <div class="column-2 pt05r">
         <div class="column-offset">
@@ -253,12 +253,12 @@
 
   </div>
   <!-- /CONTENT -->
-  <div class="clearfix"></div>
-  <div class="text-center pt10r">
+  <div class="clearfix "></div>
+  <div class="text-center pt05r block-offset">
     <a href="/archive-news.php" class="size-12 line-h30 uppercase">РАНЕЕ В РАЗДЕЛЕ: СОБЫТИЯ</a>
-    <div class="text-center size-18 line-h26 weight-300"><a href="/archive-events-5.php" class="color-teal gray-hover">2 0 1 5</a> <span class="color-whitesmoke">•︎</span> <a href="/archive-events-4.php" class="color-teal gray-hover">2 0 1 4</a> <span class="color-whitesmoke">•︎</span> <a href="/archive-events-3.php" class="color-teal gray-hover">2 0 1 3</a> <span class="color-whitesmoke">•︎</span> <a href="/archive-events-2.php" class="color-teal gray-hover">2 0 1 2</a> <span class="color-whitesmoke">•︎</span> <a href="/archive-events-1.php" class="color-teal gray-hover">2 0 1 1</a></div>
+    <div class="text-center size-18 line-h26 weight-300 pl05r pr05r "><a href="/archive-events-5.php" class="color-teal gray-hover">2 0 1 5</a> <span class="color-whitesmoke">•︎</span> <a href="/archive-events-4.php" class="color-teal gray-hover">2 0 1 4</a> <span class="color-whitesmoke">•︎</span> <a href="/archive-events-3.php" class="color-teal gray-hover">2 0 1 3</a> <span class="color-whitesmoke">•︎</span> <a href="/archive-events-2.php" class="color-teal gray-hover">2 0 1 2</a> <span class="color-whitesmoke">•︎</span> <a href="/archive-events-1.php" class="color-teal gray-hover">2 0 1 1</a></div>
   </div>
-  <div class="clearfix"></div>
+  <div class="clearfix block-offset"></div>
   <div class="text-center pt05r"><img class="icon icon-contacts" src="img/icons/icon-earth.svg"></div>
   <div class="column-container">
     <div class="column">
@@ -268,22 +268,22 @@
   <!-- CONTENT -->
   <div class="column-container">
     <div class="column-2">
-      <div class="column-offset pl05r pr05r">
+      <div class="column-offset pl05r pr05r block-offset">
         <div class="">
-          <h2 class="size-12 uppercase line-h60 pt05r color-teal text-center">ЗАКОНОДАТЕЛЬСТВО</h2>
+          <h2 class="size-12 uppercase line-h60 color-teal text-center">ЗАКОНОДАТЕЛЬСТВО</h2>
           <h4 class="size-12 line-h20"><a href="/laws.php" class="gray-hover h60 ellipsis"><span class="bold">ВНЕСЕНЫ ИЗМЕНЕНИЯ В КОДЕКС</span> <span class="color-whitesmoke">•︎</span> QB Finance специализируется на фондовых рынках США и Европы, работая с широким спектром финансовых инструментов - акции, облигации. </a><span class="color-teal">></span></h4>
         </div>
       </div>
     </div>
-    <div class="column-2">
+    <div class="column-2 block-offset ">
       <div class="column-offset pl05r pr05r">
         <div class="">
-          <h2 class="size-12 uppercase line-h60 pt05r color-teal text-center">ПРЕССА О НАС</h2>
+          <h2 class="size-12 uppercase line-h60 color-teal text-center">ПРЕССА О НАС</h2>
           <h4 class="size-12 line-h20"><a href="/press-about-us.php" class="gray-hover h60 ellipsis"><span class="bold">QBF НАЗВАНА КОМПАНИЕЙ ГОДА</span> <span class="color-whitesmoke">•︎</span> QB Finance специализируется на фондовых рынках США и Европы, работая с широким спектром финансовых инструментов - акции, облигации. </a><span class="color-teal">></span></h4>
         </div>
       </div>
     </div>
-    <div class="clearfix"></div>
+    <div class="clearfix block-offset"></div>
   </div>
   <div class="column-container pt05r">
     <div class="column">
@@ -294,8 +294,8 @@
   <!-- /CONTENT -->
   <!-- FOOTER BLOCK -->
 	<div class="clearfix"></div>
-	<div class="text-center pt02r">
-		<img src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r">
+	<div class="text-center ">
+            <img id="lighthouse" src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r">
 	</div>
 	<div class="text-center pb02r">
 		<a href="/news/" class="size-12 uppercase">НОВОСТИ</a> <span class="color-teal size-10">•︎</span> 

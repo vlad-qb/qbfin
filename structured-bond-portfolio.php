@@ -165,7 +165,7 @@
     <div class="clearfix"></div>
   <!--Text-->
   <!--Parallax-text -->
-    <div class="clearfix"></div>
+    <div class="clearfix block-offset"></div>
     <div
       id="bond-option-portfolio"
       class="img-conservative-portfolio-2 w100r mt05r cover fixed"
@@ -204,7 +204,7 @@
   <!--Parallax-text -->
   <!--Text-->
   <div class="column-container size-14 line-h22">
-    <h3 class="text-center bold pt05r">Структура портфеля</h3>
+    <h3 class="text-center bold pt05r block-offset">Структура портфеля</h3>
     <div class="column-2 pt05r">
       <div class="column-offset pl05r pr05r">
         <p class=" size-14 weight-300"><span class="bold">Ч</span>тобы облигация была отобрана в портфель, она должна обладать высоким кредитным рейтингом от Standard & Poor's, Moody's и Fitch для корпоративных облигаций. Целевой доходностью по облигациям служит отметка 6% годовых, а акции рассматриваются с дивидендной доходность свыше 5% годовых.</p>
@@ -219,7 +219,7 @@
   <div class="clearfix"></div>
    <div class="column-container">
       <div class="pl05r pr05r">
-        <h3 class="text-center size-14 line-h26 bold pt05r pb05r pb04r">Расчет доходности портфеля</h3>
+        <h3 class="text-center size-14 line-h26 bold pt05r  block-offset pb05r pb04r">Расчет доходности портфеля</h3>
         <div class="clearfix"></div>
         <div class="column-2 size-14 line-h28" style="float:right;">
         <div>
@@ -268,7 +268,7 @@
         </div>
     <!-- CONNECT -->
     <div class="clearfix"></div>
-    <div class="column-container mt05r">
+    <div class="column-container pt05r block-offset">
       <div class="column">
         <div class="border-gray-bottom"></div>
         <div class="pt05r pl05r pr05r text-center">
@@ -282,7 +282,7 @@
         </div>
       </div>
     </div>
-    <div class="clearfix"></div>
+    <div class="clearfix block-offset"></div>
     <!-- /CONNECT -->
 <!-- PORTFOLIO MENU -->
     <div class="img-high-yield-strategy-2 w100r mt05r fixed" style="background-attachment: fixed;">
@@ -391,8 +391,8 @@
   </div>
 		<!-- FOOTER BLOCK -->
 		<div class="clearfix"></div>
-		<div class="text-center pt02r">
-			<img src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r">
+		<div class="text-center">
+			<img id="lighthouse" src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r">
 		</div>
 		<div class="text-center pb02r">
 			<a href="/service.php" class="size-12 uppercase">УСЛУГИ</a> <span class="color-teal size-10">•︎</span> 

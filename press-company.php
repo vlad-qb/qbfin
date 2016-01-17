@@ -145,7 +145,7 @@
         <h4 class="size-12 line-h16 ml02r mr02r"><span class="color-teal weight-300">Телеканал «МИР24» <span class="color-lightgray size-11">•</span> 16.11.2014 </span><span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span><a href="/archive-news.php" class="gray-hover"> архив</a></h4>
       </div>
     </div>
-    <div class="column-2 pt05r">
+    <div class="column-2 pt05r block-offset">
       <div class="column-offset">
         <div class="img-press-company-3 h200 cover bg-center">
           
@@ -154,7 +154,7 @@
         <h4 class="size-12 line-h16 ml02r mr02r"><span class="color-teal weight-300">«Ведомости» <span class="color-lightgray size-11">•</span> 09.07.2015 </span><span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span><a href="/archive-news.php" class="gray-hover"> архив</a></h4>
       </div>
     </div>
-    <div class="column-2 pt05r">
+    <div class="column-2 pt05r block-offset">
       <div class="column-offset">
         <div class="img-press-company-4 h200 cover bg-center">
 
@@ -163,7 +163,7 @@
         <h4 class="size-12 line-h16 ml10 mr20"><span class="color-teal weight-300">«Коммерсант» <span class="color-lightgray size-11">•</span> 20.08.2015 </span><span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span><a href="/archive-news.php" class="gray-hover"> архив</a></h4>
       </div>
     </div>
-    <div class="column-2 pt05r">
+    <div class="column-2 pt05r block-offset">
       <div class="column-offset">
         <div class="img-press-company-5 h200 cover bg-center">
           
@@ -172,42 +172,53 @@
         <h4 class="size-12 line-h16 ml10 mr20"><span class="color-teal weight-300">«РБК» <span class="color-lightgray size-11">•</span> 17.08.2015 </span><span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span><a href="/archive-news.php" class="gray-hover"> архив</a></h4>
       </div>
     </div>
-    <div class="clearfix"></div>
+    <div class="clearfix pt05r block-offset"></div>
   </div>
   <!-- CONTENT -->
   <!-- /CONTENT -->
-  <div class="text-center mt70">
+  <div class="text-center ">
     <div class="size-12 line-h30 uppercase">РАНЕЕ В РАЗДЕЛЕ: КОМПАНИЯ В СМИ</div>
     <div class="text-center size-18 line-h26 weight-300"><a href="/archive-press-company-2.php" class="color-teal gray-hover">2 0 1 5</a> <span class="color-whitesmoke">•︎</span> <a href="/archive-press-company-1.php" class="color-teal gray-hover">2 0 1 4</a></div>
   </div>
-  <div class="clearfix"></div>
-  <div class="text-center mt70"><img class="icon icon-contacts" src="/img/icons/icon-earth.svg"></div>
+  <div class="clearfix block-offset"></div>
+  <div class="text-center"><img class="icon icon-contacts" src="/img/icons/icon-earth.svg"></div>
+    <div class="column-container">
+    <div class="column">
+      <div class="border-grey-top mt-35"></div>
+    </div>
+  </div>
   <!-- CONTENT -->
-  <div class="column-container mt-35">
-    <div class="column-2">
-      <div class="column-offset border-grey-top">
-        <div class="mt50 mb50">
-          <h2 class="size-12 uppercase line-h26 color-teal text-center">ЗАКОНОДАТЕЛЬСТВО</h2>
-          <h4 class="size-12 line-h20 mt15"><a href="/laws.php" class="gray-hover"><span class="bold">ВНЕСЕНЫ ИЗМЕНЕНИЯ В КОДЕКС</span> <span class="color-whitesmoke">•︎</span> QB Finance специализируется на фондовых рынках США и Европы, работая с широким спектром финансовых инструментов - акции, облигации. </a><span class="color-teal">></span></h4>
-        </div>
-      </div>
-    </div>
-    <div class="column-2">
-      <div class="column-offset border-grey-top">
-        <div class="mt50 mb50">
-          <h2 class="size-12 uppercase line-h26 color-teal text-center">ПРЕССА О НАС</h2>
-          <h4 class="size-12 line-h20 mt15"><a href="/press-about-us.php" class="gray-hover"><span class="bold">QBF НАЗВАНА КОМПАНИЕЙ ГОДА</span> <span class="color-whitesmoke">•︎</span> QB Finance специализируется на фондовых рынках США и Европы, работая с широким спектром финансовых инструментов - акции, облигации. </a><span class="color-teal">></span></h4>
-        </div>
-      </div>
+<div class="column-container block-offset">
+  <div class="column-2">
+    <div class="column-offset">
+
+        <h2 class="size-12 uppercase line-h60 color-teal text-center">ЗАКОНОДАТЕЛЬСТВО</h2>
+        <h4 class="size-12 line-h20"><a href="/laws.php" class="gray-hover h60 ellipsis"><span class="bold">ВНЕСЕНЫ ИЗМЕНЕНИЯ В КОДЕКС</span> <span class="color-whitesmoke">•︎</span> QB Finance специализируется на фондовых рынках США и Европы, работая с широким спектром финансовых инструментов - акции, облигации. </a><span class="color-teal">></span></h4>
+
     </div>
   </div>
+  <div class="column-2 block-offset">
+    <div class="column-offset">
+
+        <h2 class="size-12 uppercase line-h60 color-teal text-center">ПРЕССА О НАС</h2>
+        <h4 class="size-12 line-h20"><a href="/press-about-us.php" class="gray-hover h60 ellipsis"><span class="bold">QBF НАЗВАНА КОМПАНИЕЙ ГОДА</span> <span class="color-whitesmoke">•︎</span> QB Finance специализируется на фондовых рынках США и Европы, работая с широким спектром финансовых инструментов - акции, облигации. </a><span class="color-teal">></span></h4>
+
+    </div>
   </div>
+  <div class="clearfix block-offset"></div>
+</div>
+  <div class="column-container pt05r">
+    <div class="column">
+      <div class="border-grey-top"></div>
+    </div>
+  </div>
+ </div>
   <!-- /CONTENT -->
   <!-- FOOTER BLOCK -->
     <div class="clearfix"></div>
     <div class="w100r">
-          <div class="text-center pt02r pb02r">
-            <img src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r"><br>
+          <div class="text-center ">
+            <img id="lighthouse" src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r"><br>
             <a href="/news/" class="size-12 uppercase">НОВОСТИ</a>
 			<span class="color-teal size-10">•︎</span> 
 			<a href="/archive-press-company-2.php" class="size-12 uppercase">АРХИВ: КОМПАНИЯ В СМИ</a>

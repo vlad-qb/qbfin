@@ -151,7 +151,7 @@
         </div>
       </div>
     </div>
-    <div class="column-2 mt05r">
+    <div class="column-2 pt05r block-offset">
       <div class="column-offset">
         <div class="">
           <h3 class="text-center size-12 color-white"><div class="w250 h40 line-h40 auto bg-gray2 weight-300">ТРИБУНА</div></h3>
@@ -166,7 +166,7 @@
         </div>
       </div>
     </div>
-    <div class="column-2 mt05r">
+    <div class="column-2 pt05r block-offset">
       <div class="column-offset">
         <div class="">
           <h3 class="text-center size-12 color-white"><div class="w250 h40 line-h40 auto bg-gray2 weight-300">PBWM</div></h3>
@@ -181,7 +181,7 @@
         </div>
       </div>
     </div>
-    <div class="column-2 mt05r">
+    <div class="column-2 pt05r block-offset">
       <div class="column-offset">
         <div class="">
           <h3 class="text-center size-12 color-white"><div class="w250 h40 line-h40 auto bg-gray2 weight-300">ВЕСТИ.RU</div></h3>
@@ -203,8 +203,8 @@
   <!-- FOOTER BLOCK -->
     <div class="clearfix"></div>
     <div class="w100r">
-          <div class="text-center pt02r pb02r">
-            <img src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r"><br>
+          <div class="text-center ">
+            <img id="lighthouse" src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r"><br>
             <a href="/news/" class="size-12 uppercase">НОВОСТИ</a>
 			<span class="color-teal size-10">•︎</span> 
 			<a href="/archive-press.php" class="size-12 uppercase">АРХИВ: Пресса о нас</a> 

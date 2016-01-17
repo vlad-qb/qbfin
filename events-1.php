@@ -150,17 +150,17 @@
         
       </div>
     </div>
-    <div class="clearfix"></div>
+    <div class="clearfix block-offset"></div>
   </div>
   
   <!-- CONTENT -->
   <div class="column-container">
     <div class="column">
-      <div class="text-center pt05r"><img class="icon icon-contacts" src="img/icons/icon-earth.svg"></div>
+      <div class="text-center"><img class="icon icon-contacts" src="img/icons/icon-earth.svg"></div>
       <div class="border-grey-top mt-35"></div>
     </div>
   </div>
-  <div class="clearfix"></div>
+  <div class="clearfix block-offset"></div>
   <div class="column-container">
     <div class="column-2 mt05r">
       <div class="column-offset">
@@ -205,8 +205,8 @@
   <!-- /CONTENT -->
   <!-- FOOTER BLOCK -->
 	<div class="clearfix"></div>
-	<div class="text-center pt02r">
-		<img src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r">
+	<div class="text-center ">
+            <img id="lighthouse" src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r">
 	</div>
 	<div class="text-center pb02r">
 		<a href="/news/" class="size-12 uppercase">НОВОСТИ</a> <span class="color-teal size-10">•︎</span> 

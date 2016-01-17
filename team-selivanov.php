@@ -156,7 +156,7 @@
         <p class="mt20 size-14 weight-300">Наша команда управляющих находится в поиске новых торговых идей 24 часа в сутки, мы стараемся находить прибыль во всех частях света.</p>
       </div>
     </div>
-    <div class="column-2 pt05r">
+    <div class="column-2 pt05r block-offset">
       <div class="column-offset">
         <p class="size-14 weight-300"><span class="bold">С</span>овмещение креативного и аналитического подхода позволяет департаменту успешно зарабатывать также на падении и слабых сторонах рынка.</span></p>
         <p class="mt20 size-14 weight-300">Система риск-менеджмента выстроена на высшем уровне, по аналогии с ведущими банками мира. Команда объединена общей идеей и каждый из сотрудников максимально настроен на результат, что не дает шансов на неудачу. <span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span></p>
@@ -167,7 +167,7 @@
   </div>
   <div class="clearfix"></div>
     <div class="column-container">
-      <div class="column pt05r">
+      <div class="column pt05r block-offset">
         <h3 class="text-center size-12"><div class="w250 line-h40 auto bold bg-white">ПУБЛИКАЦИИ</div></h3>
         <div class="pl05r pr05r">
           <div class="title-line-teal"></div>
@@ -176,12 +176,12 @@
     </div>
     <div class="clearfix"></div>
     <div id="offices" class="CUSTOM-1 column-container">  
-          <div class="column-20r pt05r">
+          <div class="column-20r pt05r block-offset">
             <div class="column-offset">
               <div class="img-team-selivanov-2 contain w120 h120 auto"></div>
             </div>
           </div>
-          <div class="column-30r pt05r">
+          <div class="column-30r pt05r block-offset">
             <div class="column-offset pl05r pr05r">
               <div class="text-center weight-300 size-14 line-h20">
                 <a href="/expert-1.php" class="size-12 bold gray-hover">ЭКСКЛЮЗИВ НА ФОНДОВОМ РЫНКЕ</a>
@@ -191,7 +191,7 @@
               <div class="clearfix"></div>
             </div>
           </div>
-          <div class="column-50r pt05r">
+          <div class="column-50r pt05r block-offset-2">
             <div class="column-offset pl05r pr05r">
               <div class="size-14 line-h20 pl05r pr05r">
                 <a href="/expert-1.php" class="weight-300 gray-hover"><span class="bold">Д</span>митрий Кипа и Никита Селиванов объясняют природу «спроса на люкс» среди инвесторов и советуют им поторопиться: ближайшее интересное событие - IPO Ferrari. Количество состоятельных людей растет высокими темпами. В 2013 году число долларовых миллионеров достигло 16,3 млн, увеличившись с 2008 года на 90%.... </a><span class="color-teal weight-300">&gt;</span>
@@ -205,8 +205,8 @@
 	<!-- FOOTER BLOCK -->
     <div class="clearfix"></div>
     <div class="w100r">
-          <div class="text-center pt02r pb02r">
-            <img src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r"><br>
+          <div class="text-center ">
+            <img id="lighthouse" src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r"><br>
              <a href="/company.php" class="size-12 uppercase">Компания</a>
 			<span class="color-teal size-10">•︎</span> 
 			<a href="/team.php" class="size-12 uppercase">Руководство</a> 

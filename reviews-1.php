@@ -223,8 +223,8 @@
 <!-- FOOTER BLOCK -->
     <div class="clearfix"></div>
     <div class="w100r">
-          <div class="text-center pt02r pb02r">
-            <img src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r"><br>
+          <div class="text-center ">
+            <img id="lighthouse" src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r"><br>
             <a href="/analytics/" class="size-12 uppercase">АНАЛИТИКА</a>
 			<span class="color-teal size-10">•︎</span> 
 			<a href="/archive-reviews-2015.php" class="size-12 uppercase">АРХИВ: ОБЗОРЫ</a>

@@ -137,7 +137,7 @@
   <div id="content">
   <div class="column-container pt05r">
     <div class="column">
-      <h3 class="text-center size-12 color-white"><div class="w320 line-h40 auto bg-gray2">ФЕДЕРАЛЬНЫЕ ЗАКОНЫ</div></h3>
+      <h3 class="text-center size-12 color-white"><div class="w288 line-h40 auto bg-gray2">ФЕДЕРАЛЬНЫЕ ЗАКОНЫ</div></h3>
       <div class="pl05r pr05r">
         <div class="title-line-grey"></div>
       </div>
@@ -181,9 +181,9 @@
 </div>
 <!-- /federal laws -->
 <!-- /codified acts -->
-  <div class="column-container pt05r">
+  <div class="column-container pt05r block-offset">
     <div class="column">
-      <h3 class="text-center size-12 color-white"><div class="w320 line-h40 auto bg-gray2">КОДИФИЦИРОВАННЫЕ АКТЫ</div></h3>
+      <h3 class="text-center size-12 color-white"><div class="w288 line-h40 auto bg-gray2">КОДИФИЦИРОВАННЫЕ АКТЫ</div></h3>
       <div class="pl05r pr05r">
         <div class="title-line-grey"></div>
       </div>
@@ -215,8 +215,8 @@
 <!-- FOOTER BLOCK -->
     <div class="clearfix"></div>
     <div class="w100r">
-          <div class="text-center pt02r pb02r">
-            <img src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r"><br>
+          <div class="text-center ">
+            <img id="lighthouse" src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r"><br>
             <a href="/news/" class="size-12 uppercase">НОВОСТИ</a>
 			<span class="color-teal size-10">•︎</span> 
 			<a href="/archive-news.php" class="size-12 uppercase">АРХИВ</a>

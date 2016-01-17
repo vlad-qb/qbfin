@@ -145,40 +145,40 @@
   </div>
   <div class="clearfix"></div>
   <div class="column-container line-h20 size-14">
-    <div class="column-2 pt05r">
+    <div class="column-2 pt05r block-offset">
       <div class="column-offset">
         <div class="img-real-estate-2 w100r h427 cover" style="background-position: top center;"></div>
       </div>
     </div>
-    <div class="column-2 pt05r">
+    <div class="column-2 pt05r block-offset">
       <div class="column-offset">
         <div class="bg-lightgray2 size-12 line-h22">
           <div class="l w120 h120 mr20 bg-dark-gray">
             <img src="img/icons/icon-reit-sentence.svg" class="icon icon-services w80 mt20 ml20">
           </div>
-          <div class="pt05">
+          <div class="pt05 ml140">
             <span class="uppercase">ПРЕДЛОЖЕНИЕ В РАМКАХ КОНСУЛЬТАЦИОННОГО УПРАВЛЕНИЯ:</span><br>
-            <a href="/service.php" class="circles text-left mt20  mr5 block color-teal gray-hover weight-300">REIT портфель</a>
+            <a href="/service.php" class="circles text-left img-text-2 mt20 mr5 block color-teal gray-hover weight-300">REIT портфель</a>
           </div>
           <div class="clearfix"></div>
         </div>
         <div class="bg-lightgray2 size-12 line-h22 mt30">
           <div class="l w120 h120 mr20 bg-dark-gray">
-            <img src="img/icons/icon-reit-sentence.svg" class="icon icon-services w80 mt20 ml20">
+            <img src="img/icons/icon-cogwheel.svg" class="icon icon-services w80 mt20 ml20">
           </div>
-          <div class="pt05">
+          <div class="pt05 ml140">
             <span class="uppercase">ДЕВЕЛОПЕРСКИЕ ПРОЕКТЫ УПРАВЛЯЮЩЕЙ КОМПАНИИ:</span><br>
-            <a href="http://qbfam.ru" class="mt20 circles text-left  mr5 block color-teal gray-hover weight-300">QBF ||| asset management</a>
+            <a href="http://qbfam.ru" class=" circles text-left img-text-2 mt20 mr5 block color-teal gray-hover weight-300">QBF ||| asset management</a>
           </div>
           <div class="clearfix"></div>
         </div>
         <div class="bg-lightgray2 size-12 line-h22 mt30">
           <div class="l w120 h120 mr20 bg-dark-gray">
-            <img src="img/icons/icon-reit-sentence.svg" class="icon icon-services w80 mt20 ml20">
+            <img src="img/icons/icon-marker.svg" class="icon icon-services w80 mt20 ml20">
           </div>
-          <div class="pt05">
+          <div class="pt05 ml140 ">
             <span class="uppercase">ПРЕДЛОЖЕНИЕ ЗПИФ "КЬЮБИЭФ НЕДВИЖИМОСТЬ":</span><br>
-            <a href="/service.php" class="mt20 circles text-left  mr5 block color-teal gray-hover weight-300">Жилой комплекс комфорт-класса "Грибовский лес"</a>
+            <a href="/service.php" class="circles img-text-2 text-left mt20 mr5 color-teal gray-hover weight-300">Жилой комплекс комфорт-класса "Грибовский лес"</a>
           </div>
           <div class="clearfix"></div>
         </div>
@@ -188,8 +188,8 @@
   <div class="clearfix"></div>
 <!-- IMAGES-->
 <!-- /ALERT -->
-<div class="text-alert text-offset column-container mt50 w70r auto line-h16 size-14">
-<div class="column">
+<div class="text-alert text-offset column-container w70r auto line-h16 size-14">
+<div class="column pt05r block-offset">
 <div class="column-offset">
   <div class="ml15r mr15r border-left-lightgray border-right-lightgray">
     <div class="ml05r mr05r pt03r pb03r size-12 color-teal">
@@ -207,7 +207,7 @@
 </div>
 <!-- /ALERT -->
   <div class="column-container line-h20 size-14">
-    <div class="column-2 pt05r">
+    <div class="column-2 pt05r block-offset">
       <div class="column-offset">
         <p class="size-14 weight-300"><span class="bold">С</span> точки зрения сохранности капитала и ликвидности наиболее удобными инструментами для инвестирования в недвижимость являются ЗПИФы и их американских аналоги - фонды REIT.</p>
         <p class="mt20 size-14 weight-300">Мы проанализировали динамику фондов недвижимости и других популярных инструментов для инвестирования с 2000 года и пришли к выводу, что, действительно, покупка акций REIT и паев ЗПИФов дает инвесторам стабильно высокий доход, который опережает темпы инфляции.</p>
@@ -225,8 +225,8 @@
 <!-- FOOTER BLOCK -->
 <div class="clearfix"></div>
 <div class="w100r">
-       <div class="text-center pt02r pb02r">
-           <img src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r"><br>
+       <div class="text-center">
+           <img id="lighthouse" src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r"><br>
            <a href="/service.php" class="size-12 uppercase">УСЛУГИ</a>
        </div>	  
 </div>		

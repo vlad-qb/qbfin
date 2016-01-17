@@ -161,21 +161,21 @@
   <!-- CONTENT -->
   <div id="content">
   <div id="licenses" class="column-container text-center">
-    <div class="column-3 pt05r">
+    <div class="column-3 pt05r block-offset">
       <div class="column-offset pt05r pb05r pr05r pl05r bg-lightgray">
         <img class="w280 auto block" src="/img/resources/license-2.jpg">
         <h2 class="size-12 line-h40 uppercase"> лицензия: № 077-12805-100000 </h2>
         <h2 class="size-12 uppercase bold"> брокерская деятельность </h2>
       </div>
     </div>
-    <div class="column-3 pt05r">
+    <div class="column-3 pt05r block-offset">
       <div class="column-offset pt05r pb05r pr05r pl05r bg-lightgray">
         <img class="w280 auto block" src="/img/resources/license-2.jpg">
         <h2 class="size-12 line-h40 uppercase"> лицензия: № 077-12816-010000 </h2>
         <h2 class="size-12 uppercase bold"> дилерская деятельность </h2>
       </div>
     </div>
-    <div class="column-3 pt05r">
+    <div class="column-3 pt05r block-offset">
       <div class="column-offset pt05r pb05r pr05r pl05r bg-lightgray">
         <img class="w280 auto block" src="/img/resources/license-2.jpg">
         <h2 class="size-12 line-h40 uppercase"> лицензия: № 077-12828-001000 </h2>
@@ -187,10 +187,10 @@
   <!-- /CONTENT -->
 <!-- FOOTER BLOCK -->
 <div class="clearfix"></div>
-<div class="text-center pt02r">
-  <img src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r">
+<div class="text-center">
+  <img id="lighthouse" src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r">
 </div>
-<div class="text-center pb02r">
+<div class="text-center">
   <a href="/company.php" class="size-12 uppercase">Компания</a>
   <span class="color-teal size-10"> • </span>
   <a href="/documents.php" class="size-12 uppercase">Документы</a>

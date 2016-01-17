@@ -139,7 +139,7 @@
 <div class="clearfix"></div>
 <!-- CONTENT -->
 <div id="content">
-<div class="column-container pt05r">
+<div class="column-container pt05r block-offset">
   <h3 class="text-center size-12 color-white"><div class="w288 h40 line-h40 auto bg-teal">США</div></h3>
   <div class="w90r auto title-line-teal"></div>
   <div class="column-2 pt05r">
@@ -198,7 +198,7 @@
 </div>
 <!-- CONTENT -->
 <!-- CONTENT -->
-<div class="column-container mt05r">
+<div class="column-container pt05r block-offset">
   <h3 class="text-center size-12 color-white"><div class="w288 h40 line-h40 auto bg-teal">ЕВРОПА</div></h3>
   <div class="w90r auto title-line-teal"></div>
   <div class="column-2 pt05r">
@@ -438,8 +438,8 @@
 <!-- FOOTER BLOCK -->
     <div class="clearfix"></div>
     <div class="w100r">
-          <div class="text-center pt02r pb02r">
-            <img src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r"><br>
+          <div class="text-center ">
+            <img id="lighthouse" src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r"><br>
             <a href="/analytics/" class="size-12 uppercase">АНАЛИТИКА</a>
 			<span class="color-teal size-10">•︎</span> 
 			<a href="/archive-markets-weekly-1.php" class="size-12 uppercase">АРХИВ: Рынки</a> 

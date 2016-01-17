@@ -166,7 +166,7 @@
   </div>
   <div class="clearfix"></div>
     <div class="column-container">
-      <div class="column pt05r">
+      <div class="column pt05r block-offset">
         <h3 class="text-center size-12"><div class="w250 line-h40 auto bold bg-white">ПУБЛИКАЦИИ</div></h3>
         <div class="pl05r pr05r">
           <div class="title-line-teal"></div>
@@ -175,7 +175,7 @@
     </div>
     <div class="clearfix"></div>
     <div id="offices" class="CUSTOM-1 column-container">  
-          <div class="column-20r pt05r">
+          <div class="column-20r pt05r block-offset">
             <div class="column-offset">
               <div class="img-team-michailov-2 contain w120 h120 auto"></div>
             </div>
@@ -190,7 +190,7 @@
               <div class="clearfix"></div>
             </div>
           </div>
-          <div class="column-50r pt05r">
+          <div class="column-50r pt05r block-offset-2">
             <div class="column-offset pl05r pr05r">
               <div class="size-14 line-h20 pl05r pr05r">
                 <a href="/expert-1.php" class="weight-300 gray-hover"><span class="bold">Н</span>едвижимость сегодня - это по-прежнему защитный актив или верный способ прогадать на депрессивном рынке? Николай Михайлов уверен: второй вариант куда более вероятен. Недвижимость в настоящее время - это в какой-то мере способ потерять ликвидность.... </a><span class="color-teal weight-300">&gt;</span>
@@ -200,7 +200,7 @@
     </div>
     <div class="clearfix"></div>
     <div id="offices" class="CUSTOM-1 column-container">  
-          <div class="column-20r pt05r">
+          <div class="column-20r pt05r block-offset">
             <div class="column-offset">
               <div class="img-team-michailov-3 contain w120 h120 auto"></div>
             </div>
@@ -215,7 +215,7 @@
               <div class="clearfix"></div>
             </div>
           </div>
-          <div class="column-50r pt05r">
+          <div class="column-50r pt05r block-offset-2">
             <div class="column-offset pl05r pr05r">
               <div class="size-14 line-h20 pl05r pr05r">
                 <a href="/expert-1.php" class="weight-300 gray-hover"><span class="bold">В</span> условиях геополитической нестабильности недвижимость становится одним из самых надежных способов сохранения капитала, уверены Николай Михайлов и Дмитрий Лепешкин. Поэтому они предлагают присмотреться к инвестиционным фондам недвижимости, которые могут приносить стабильный доход, опережающий темпы инфляции.... </a><span class="color-teal weight-300">&gt;</span>
@@ -228,8 +228,8 @@
    <!-- FOOTER BLOCK -->
     <div class="clearfix"></div>
     <div class="w100r">
-          <div class="text-center pt02r pb02r">
-            <img src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r"><br>
+          <div class="text-center ">
+            <img id="lighthouse" src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r"><br>
             <a href="/company.php" class="size-12 uppercase">Компания</a>
 			<span class="color-teal size-10">•︎</span> 
 			<a href="/team.php" class="size-12 uppercase">Руководство</a>

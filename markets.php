@@ -150,7 +150,7 @@
       </div>
     </div>
   </div>
-  <div class="column-2 pt05r">
+  <div class="column-2 pt05r block-offset">
     <div class="column-offset">
       <div class="img-markets-3 h200 cover bg-center">
 
@@ -164,7 +164,7 @@
     </div>
   </div>
   <div class="clearfix"></div>
-  <div class="column-2 pt05r">
+  <div class="column-2 pt05r block-offset">
     <div class="column-offset">
       <div class="img-markets-4 h200 cover bg-center">
 
@@ -177,7 +177,7 @@
       </div>
     </div>
   </div>
-  <div class="column-2 pt05r">
+  <div class="column-2 pt05r block-offset">
     <div class="column-offset">
       <div class="img-markets-5 h200 cover bg-center">
 
@@ -197,8 +197,8 @@
 <!-- FOOTER BLOCK -->
     <div class="clearfix"></div>
     <div class="w100r">
-          <div class="text-center pt02r pb02r">
-            <img src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r"><br>
+          <div class="text-center ">
+            <img id="lighthouse" src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r"><br>
             <a href="/analytics/" class="size-12 uppercase">АНАЛИТИКА</a>
 			<span class="color-teal size-10">•︎</span> 
 			<a href="/archive-markets-weekly-1.php" class="size-12 uppercase">АРХИВ: Рынки</a>

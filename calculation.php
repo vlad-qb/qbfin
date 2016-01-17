@@ -262,8 +262,8 @@
     <!-- FOOTER BLOCK -->
     <div class="clearfix"></div>
     <div class="pt10r mobile"></div>
-    <div class="text-center pt02r">
-      <img src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r">
+    <div class="text-center ">
+            <img id="lighthouse" src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r">
     </div>
     <div class="text-center pb02r">
       <a href="/company.php" class="size-12 uppercase">Компания</a>

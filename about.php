@@ -158,15 +158,13 @@
                 <div class="mt15">
                   <div class="ml120">
                     <div class="w100r">
-                      <div class="border-grey-bottom h32">
-                      <p class="size-12 line-h16 color-gray pb01r ml05r">
+                      <p class="size-12 line-h16 color-gray pb02r ml05r border-grey-bottom">
                         Роман Шпаков - председатель совета директоров
                       </p>
-                      </div>
                     </div>
                   </div>
                   <div>
-                    <p class="mt20 line-h20 size-14">
+                    <p class="mt05r line-h20 size-14">
                       <span class="color-black">|</span>
                       <span class="color-gray">|</span>
                       <span class="color-teal">|</span> 
@@ -179,8 +177,7 @@
               </div>
             </div>
           </div>
-          
-          <div class="column-2 pt05r">
+          <div class="column-2 block-offset pt05r">
             <div class="column-offset">
               <div class="img-about-3 w100r h200 cover bg-center">
                 <div class="avatar l img-about-7 contain w100 h100"></div>
@@ -189,15 +186,13 @@
                 <div class="mt15">
                   <div class="ml120">
                     <div class="w100r">
-                      <div class="border-grey-bottom h32">
-                        <p class="size-12 line-h16 color-gray pb01r ml05r">
+                      <p class="size-12 line-h16 color-gray pb02r ml05r border-grey-bottom">
                         Владимир Пахомов - директор филиальной сети
-                        </p>
-                      </div>
+                      </p>
                     </div>
                   </div>
-                  <div class="line-h20 size-14">
-                    <p class="mt20 size-14"><span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span> В создании финансовых продуктов мы ориентируемся на скорость их реализации - ликвидность, доходность, сохранность нашего капитала и капитала наших клиентов. </p>
+                  <div class="mt05r line-h20 size-14">
+                    <p class="size-14"><span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span> В создании финансовых продуктов мы ориентируемся на скорость их реализации - ликвидность, доходность, сохранность нашего капитала и капитала наших клиентов. </p>
                     <p class="mt20 size-14">Сотрудничая с международными партнерами и выбирая в команду первоклассных специалистов, мы следуем высочайшим стандартам качества и компетентности в обслуживании и управлении капиталом.</p>
                   </div>
                 </div>
@@ -205,8 +200,7 @@
               </div>
             </div>
           </div>
-
-          <div class="column-2 pt05r">
+          <div class="column-2 block-offset pt05r">
             <div class="column-offset">
               <div class="img-about-4 w100r h200 cover bg-center">
                 <div class="avatar l img-about-8 contain w100 h100"></div>
@@ -215,15 +209,13 @@
                 <div class="mt15">
                   <div class="ml120">
                     <div class="w100r">
-                      <div class="border-grey-bottom h32">
-                        <p class="size-12 line-h16 color-gray pb01r ml05r">
+                      <p class="size-12 line-h16 color-gray pb02r ml05r border-grey-bottom ">
                           Александр Зайцев - директор по всему на свете
-                        </p>
-                      </div>
+                      </p>
                     </div>
                   </div>
                   <div>
-                    <p class="mt20 line-h20 size-14">
+                    <p class="mt05r line-h20 size-14">
                       <span class="color-black">|</span>
                       <span class="color-gray">|</span>
                       <span class="color-teal">|</span> 
@@ -236,8 +228,7 @@
               </div>
             </div>
           </div>
-          
-          <div class="column-2 pt05r">
+          <div class="column-2 block-offset pt05r">
             <div class="column-offset">
               <div class="img-about-5 w100r h200 cover bg-center">
                 <div class="avatar l img-about-9 contain w100 h100"></div>
@@ -246,15 +237,13 @@
                 <div class="mt15">
                   <div class="ml120">
                     <div class="w100r">
-                      <div class="border-grey-bottom h32">
-                        <p class="size-12 line-h16 color-gray pb01r ml05r">
+                      <p class="size-12 line-h16 color-gray pb02r ml05r border-grey-bottom">
                           Дмитрий Лепешкин - директор по инвестициям
-                        </p>
-                      </div>
+                      </p>
                     </div>
                   </div>
-                  <div class="line-h20 size-14">
-                    <p class="mt20 size-14"><span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span>  На сегодняшний день филиалы и представительства QBF ||| investment расположены в городах России: Москва, Санкт-Петербург, Белгород, Екатеринбург, Казань, а также на территории Украины - Киев и Казахстана - Алматы. </p>
+                  <div class="mt05r line-h20 size-14">
+                    <p class="size-14"><span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span>  На сегодняшний день филиалы и представительства QBF ||| investment расположены в городах России: Москва, Санкт-Петербург, Белгород, Екатеринбург, Казань, а также на территории Украины - Киев и Казахстана - Алматы. </p>
                   </div>
                 </div>
                 <div class="clearfix"></div>
@@ -269,7 +258,7 @@
       <div class="clearfix"></div>
       <!-- CONTENT-2 -->
       <div class="column-container text-alert text-offset auto pt05r w70r">
-          <div class="column">
+          <div class="column block-offset">
               <div class="column-offset text-center bold size-11 line-h20 uppercase">
                   <div class="ml15r mr15r border-left-lightgray border-right-lightgray">
                       <div class="ml05r mr05r pt03r pb03r">
@@ -293,11 +282,11 @@
     <!-- FOOTER BLOCK -->
     <div class="clearfix"></div>
     <div class="w100r">
-          <div class="text-center pt02r pb02r">
-            <img src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r"><br>
+          <div class="text-center">
+            <img id="lighthouse" src="img/icons/icon-lighthouse.svg" src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r"><br>
             <a href="/company.php" class="size-12 uppercase">Компания</a>
           </div>	  
-    </div>		
+    </div>
     <!-- /FOOTER BLOCK -->
       <div class="clearfix"></div>
       <?php include 'html/footer.html';?>

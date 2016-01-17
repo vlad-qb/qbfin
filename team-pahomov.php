@@ -153,7 +153,7 @@
         <p class="size-14 weight-300"><span class="bold">З</span>адача сохранения и приумножения капитала остается одной из самых важных для каждого из нас и, принимая решение о размещении средств, мы хотим быть уверены в правильности своего выбора.</p>
         <p class="mt20 size-14 weight-300">Проанализировав российский рынок инвестиционных услуг, с полной уверенностью могу сказать, что начало работы с нашей компанией - правильный выбор для клиента. Почему? Вот несколько из основных причин:</p>
       </div>
-      <div class="column-offset pt05r pl05r pr05r">
+      <div class="column-offset pt05r pl05r pr05r block-offset">
         <p class="size-12 color-teal uppercase line-h16 weight-300">ОПТИМАЛЬНЫЙ ПЕРЕЧЕНЬ УСЛУГ, АБСОЛЮТНО КАЖДЫЙ ЖЕЛАЮЩИЙ СМОЖЕТ ПОДОБРАТЬ ДЛЯ СЕБЯ ПОДХОДЯЩИЕ УСЛОВИЯ</p>
         <p class="mt10 size-12 color-teal uppercase line-h16 weight-300">ВЫГОДНЫЙ КУРС ОБМЕНА ВАЛЮТЫ ПО ИНВЕСТИЦИОННЫМ ПОРТФЕЛЯМ ДЕЙСТВУЮЩИХ КЛИЕНТОВ</p>
         <p class="mt10 size-12 color-teal uppercase line-h16 weight-300">НЕЗАВИСИМОСТЬ ОТ ПОЛИТИЧЕСКОЙ КОНЪЮНКТУРЫ</p>
@@ -163,7 +163,7 @@
         <p class="mt10 size-12 color-teal uppercase line-h16 weight-300">МАСШТАБНЫЕ ДОЛГОСРОЧНЫЕ ЦЕЛИ, КОТОРЫЕ СТАВИТ ПЕРЕД СОБОЙ РУКОВОДСТВО КОМПАНИИ</p>
       </div>
     </div>
-    <div class="column-2 pt05r">
+    <div class="column-2 pt05r block-offset">
       <div class="column-offset">
         <p class="size-14 weight-300"><span class="bold">Т</span>от, кто выбирает нас, не сомневается в том, что в его интересах действуют специалисты, заинтересованные в положительном результате для клиента. Мы не стремимся предлагать массовый продукт, ведь у каждого из нас финансовое планирование зависит в первую очередь от наших целей и потребностей.</p>
         <p class="mt20 size-14 weight-300">Нам важны комфорт и уверенность клиентов в вопросе выбора направления (способа, стратегии) размещения средств, будь то консервативная, средневзвешенная либо высокодоходная стратегии в рамках услуг доверительного и консультационного управления, услуг по инвестициям в недвижимость, иных услуг компании.</p>
@@ -176,7 +176,7 @@
   </div>
   <div class="clearfix"></div>
     <div class="column-container">
-      <div class="column pt05r">
+      <div class="column pt05r block-offset">
         <h3 class="text-center size-12"><div class="w250 line-h40 auto bold bg-white">ПУБЛИКАЦИИ</div></h3>
         <div class="pl05r pr05r">
           <div class="title-line-teal"></div>
@@ -185,7 +185,7 @@
     </div>
     <div class="clearfix"></div>
     <div id="offices" class="CUSTOM-1 column-container">  
-          <div class="column-20r pt05r">
+          <div class="column-20r pt05r block-offset">
             <div class="column-offset">
               <div class="img-team-pahomov-2 contain w120 h120 auto"></div>
             </div>
@@ -200,7 +200,7 @@
               <div class="clearfix"></div>
             </div>
           </div>
-          <div class="column-50r pt05r">
+          <div class="column-50r pt05r block-offset-2">
             <div class="column-offset pl05r pr05r">
               <div class="size-14 line-h20 pl05r pr05r">
                 <a href="/expert-1.php" class="weight-300 gray-hover"><span class="bold">К</span>урс на импортозамещение стимулирует развитие российских регионов. Однако положительный эффект возможен только в краткосрочном периоде. Для дальнейшего развития необходимо повышать качество продукции, чтобы она выдержала конкуренцию и после отмены санкций, уверен Владимир Пахомов.... </a><span class="color-teal weight-300">&gt;</span>
@@ -210,7 +210,7 @@
     </div>
     <div class="clearfix"></div>
     <div id="offices" class="CUSTOM-1 column-container">  
-          <div class="column-20r pt05r">
+          <div class="column-20r pt05r block-offset">
             <div class="column-offset">
               <div class="img-team-pahomov-3 contain w120 h120 auto"></div>
             </div>
@@ -225,7 +225,7 @@
               <div class="clearfix"></div>
             </div>
           </div>
-          <div class="column-50r pt05r">
+          <div class="column-50r pt05r block-offset-2">
             <div class="column-offset pl05r pr05r">
               <div class="size-14 line-h20 pl05r pr05r">
                 <a href="/expert-1.php" class="weight-300 gray-hover"><span class="bold">И</span>менно этот человек зачастую становится первым, с кем знакомится хайнет, приходя в private-банк. Владимир Пахомов рассуждает о том, какими качествами должен обладать хороший финансовый советник и где можно найти таких людей. Сегодня профессионал, способный предоставлять услуги высочайшего уровня, - это своего рода «священный грааль», для поисков которого нужно приложить огромные усилия... </a><span class="color-teal weight-300">&gt;</span>
@@ -239,8 +239,8 @@
     <!-- FOOTER BLOCK -->
     <div class="clearfix"></div>
     <div class="w100r">
-          <div class="text-center pt02r pb02r">
-            <img src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r"><br>
+          <div class="text-center ">
+            <img id="lighthouse" src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r"><br>
             <a href="/company.php" class="size-12 uppercase">Компания</a>
 			<span class="color-teal size-10">•︎</span> 
 			<a href="/team.php" class="size-12 uppercase">Руководство</a>

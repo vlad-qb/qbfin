@@ -148,7 +148,7 @@
       </div>
     </div>
   </div>
-  <div class="clearfix"></div>
+  <div class="clearfix block-offset"></div>
   <!-- Text-->
   <!-- image-->
   <div class="column-container pt05r">
@@ -156,7 +156,7 @@
       <div class="img-culture-2 w100r h400 cover" style="background-position: center center;"></div>
     </div>
   </div>
-  <div class="clearfix"></div>
+  <div class="clearfix block-offset"></div>
   <!-- image-->
   <!-- Text-->
   <div class="column-container pt05r line-h20 size-14">
@@ -176,7 +176,7 @@
       </div>
     </div>
   </div>
-  <div class="clearfix"></div>
+  <div class="clearfix block-offset"></div>
   <!-- Text-->
   <!-- IMAGES-->
   <div class="column-container size-14">
@@ -185,21 +185,21 @@
         <div class="img-culture-3 w100r h427 cover" style="background-position: top left;"></div>
       </div>
     </div>  
-    <div class="column-2 line-h30 mt05r">
+    <div class="column-2 img-text line-h30 mt05r">
       <div class="column-offset- pl04r pr04r">
         <div class="">
           <div class="img-culture-4 w120 h120 cover l mr05r" style="background-position: center center;"></div>
-          <span class="size-11 weight-300">МЫ СЛЕДУЕМ ВЫСОЧАЙШИМ СТАНДАРТАМ КАЧЕСТВА И КОМПЕТЕНТНОСТИ В СЕРВИСЕ УПРАВЛЕНИЯ КАПИТАЛОМ.</span>
+          <div class="size-11 weight-300 ml140">МЫ СЛЕДУЕМ ВЫСОЧАЙШИМ СТАНДАРТАМ КАЧЕСТВА И КОМПЕТЕНТНОСТИ В СЕРВИСЕ УПРАВЛЕНИЯ КАПИТАЛОМ.</div>
         </div>
         <div class="clearfix"></div>
         <div class="mt05r">
           <div class="img-culture-5  w120 h120 cover l mr05r" style="background-position: center top;"></div>
-          <span class="mt33  size-11 weight-300">СОТРУДНИКИ - ДРАЙВЕР КОМПАНИИ. МЫ ИНВЕСТИРУЕМ В ЛЮДЕЙ И ВИДИМ КАК ПОВЫШАЕТСЯ НАША ЭФФЕКТИВНОСТЬ.</span>
+          <div class="mt33  size-11 weight-300 ml140">СОТРУДНИКИ - ДРАЙВЕР КОМПАНИИ. МЫ ИНВЕСТИРУЕМ В ЛЮДЕЙ И ВИДИМ КАК ПОВЫШАЕТСЯ НАША ЭФФЕКТИВНОСТЬ.</div>
         </div>
         <div class="clearfix"></div>
         <div class="mt05r">
           <div class="img-culture-6 w120 h120 cover l mr05r" style="background-position: center center;"></div>
-          <span class="size-11 weight-300">МЫ СЛЕДУЕМ ВЫСОЧАЙШИМ СТАНДАРТАМ КАЧЕСТВА И КОМПЕТЕНТНОСТИ В СЕРВИСЕ УПРАВЛЕНИЯ КАПИТАЛОМ.</span>
+          <div class="size-11 weight-300 ml140">МЫ СЛЕДУЕМ ВЫСОЧАЙШИМ СТАНДАРТАМ КАЧЕСТВА И КОМПЕТЕНТНОСТИ В СЕРВИСЕ УПРАВЛЕНИЯ КАПИТАЛОМ.</div>
         </div>
       </div>
     </div>
@@ -208,7 +208,7 @@
   <!-- IMAGES-->
   
   <!-- /ALERT -->
-  <div class="text-alert text-offset column-container pt05r w60r auto line-h20 size-14">
+  <div class="text-alert block-offset text-offset column-container pt05r w60r auto line-h20 size-14">
     <div class="column">
       <div class="column-offset">
         <div class="ml15r mr15r border-left-lightgray border-right-lightgray text-center">
@@ -230,8 +230,8 @@
   <!-- FOOTER BLOCK -->
     <div class="clearfix"></div>
     <div class="w100r">
-          <div class="text-center pt02r pb02r">
-            <img src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r"><br>
+          <div class="text-center ">
+            <img id="lighthouse" src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r"><br>
             <a href="/career.php" class="size-12 uppercase">Карьера</a>
           </div>	  
     </div>		

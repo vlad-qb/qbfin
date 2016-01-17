@@ -164,7 +164,7 @@
           </div>
         </div>
       </div>
-      <div class="column-2 pt05r">
+      <div class="column-2 pt05r block-offset">
         <div class="column-offset line-h20 size-14">
           <p class="weight-300">QBF ||| Investment - компания, энергично и последовательно укрепляющая свои позиции на финансовых рынках России и других стран.</p>
           
@@ -183,21 +183,21 @@
     <!-- Skills-->
     <div class="column-container">
       <div class="line-h20 size-14">
-        <div class="column-3 pt05r">
+        <div class="column-3 pt05r block-offset">
           <div class="column-offset text-center">
             <h4 class="size-14 text-center uppercase line-h20 mt15 color-teal">Репутация</h4>
             <img class="icon icon-mission mt30" src="img/icons/icon-mount.svg" >
             <p class="mt15 size-14 ml05r mr05r text-center"><span class="bold">М</span>ы дорожим именем и репутацией, которые заслужили за годы упорной работы. В финансовой сфере репутация - это главный актив компании. Уверены, что управление деньгами должно быть этичным, а сами деньги должны работать на созидательные цели.</p>
           </div>
         </div>
-        <div class="column-3 pt05r">
+        <div class="column-3 pt05r block-offset">
           <div class="column-offset text-center">
             <h4 class="size-14 text-center uppercase line-h20 mt15 color-teal">ЧЕСТНОСТЬ</h4>
             <img class="icon icon-mission mt30" src="img/icons/icon-shield.svg" >
             <p class="mt15 size-14 ml05r mr05r text-center"><span class="bold">М</span>ы предлагаем клиентам, партнерам и инвесторам прозрачные условия сотрудничества. Совместная работа означает доверие. В сложных ситуациях, когда необходимо делать выбор, мы находим честное решение, учитывающее интересы всех сторон.</p>
           </div>
         </div>
-        <div class="column-3 pt05r">
+        <div class="column-3 pt05r block-offset">
           <div class="column-offset text-center">
             <h4 class="size-14 text-center uppercase line-h20 mt15 color-teal">НАДЕЖНОСТЬ</h4>
             <img class="icon icon-mission mt30" src="img/icons/icon-tree.svg" >
@@ -209,13 +209,14 @@
     <div class="clearfix"></div>
     <!-- Skills-->
     <!-- Image-->
-    <div class="img-mission-3 w100r h400 mt60 fixed" style="background-attachment: fixed;">
-      
+    <div class="pt05r block-offset">
+      <div class="img-mission-3 w100r h400 fixed" style="background-attachment: fixed;">
+    </div>
     </div>
     <!-- Image-->
     <!-- Content-->
     <div class="column-container">
-      <div class="column-2 pt05r">
+      <div class="column-2 pt05r block-offset">
         <div class="column-offset line-h20 size-14">
           <h4 class="size-14 text-center uppercase line-h20 mt15 color-teal">УВЕРЕННОСТЬ В СВОЕМ БУДУЩЕМ</h4>
           <h4 class="text-center"><img class="icon icon-mission mt30" src="img/icons/icon-mount.svg" ></h4>
@@ -227,7 +228,7 @@
         </div>
       </div>
     </div>
-    <div id="gallery" class="column-2 pt05r">
+    <div id="gallery" class="column-2 pt05r block-offset">
       <div class="column-offset border-white">
         <div class="img-mission-4 w100r h300 cover bg-center">
           <div class="planet h50 w100">
@@ -249,21 +250,21 @@
     <!-- Skills-->
     <div class="column-container">
       <div class="line-h20 size-14">
-        <div class="column-3 text-center pt05r">
+        <div class="column-3 text-center pt05r block-offset">
           <div class="column-offset">
             <h4 class="size-14 text-center uppercase line-h26 mt15 color-teal">КЛИЕНТООРИЕНТИРОВАННОСТЬ</h4>
             <img class="icon icon-mission mt30" src="img/icons/icon-customer_focus.svg" >
             <p class="mt15 size-14 ml05r mr05r text-center"><span class="bold">В</span> центре каждой нашей услуги - клиент и решение его конкретных проблем. Мы знаем, чем живут наши клиенты, умеем поставить себя на их место и постоянно совершенствуем свою работу, исходя из понимания реальных мотивов и потребностей наших клиентов.</p>
           </div>
         </div>
-        <div class="column-3 text-center pt05r">
+        <div class="column-3 text-center pt05r block-offset">
           <div class="column-offset">
             <h4 class="size-14 text-center uppercase line-h26 mt15 color-teal">ПАРТНЕРСТВО</h4>
             <img class="icon icon-mission mt30" src="img/icons/icon-partnership.svg" >
             <p class="mt15 size-14 ml05r mr05r text-center"><span class="bold">М</span>ы признаем только взаимовыгодное сотрудничество. Ценим эффективность командной работы. В построении отношений с клиентами и коллегами мы придерживаемся принципов долгосрочности и глубины отношений, готовности к объективному диалогу и уважению.</p>
           </div>
         </div>
-        <div class="column-3 text-center pt05r">
+        <div class="column-3 text-center pt05r block-offset">
           <div class="column-offset">
             <h4 class="size-14 text-center uppercase line-h26 mt15 color-teal">РАЗВИТИЕ</h4>
             <img class="icon icon-mission mt30" src="img/icons/icon-upgrowth.svg" >
@@ -277,8 +278,8 @@
   <!-- FOOTER BLOCK -->
     <div class="clearfix"></div>
     <div class="w100r">
-          <div class="text-center pt02r pb02r">
-            <img src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r"><br>
+          <div class="text-center ">
+            <img id="lighthouse" src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r"><br>
             <a href="/company.php" class="size-12 uppercase">Компания</a>
           </div>	  
     </div>		

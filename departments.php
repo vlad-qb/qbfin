@@ -147,7 +147,7 @@
           </div>
         </div>
         
-        <div class="w33r l pt05r">
+        <div class="w33r l pt05r block-offset">
           <div class="border-left-lightgray border-right-lightgray ml05r mr05r pl05r pr05r">
             <h4 class="text-center"><img class="icon icon-services" src="img/icons/icon-department.svg"></h4>
             <h4 class="size-14 text-center uppercase line-h30 mt15 color-teal">ЮРИДИЧЕСКИЙ ДЕПАРТАМЕНТ</h4>
@@ -159,7 +159,7 @@
           </div>
         </div>
         
-        <div class="w33r l pt05r">
+        <div class="w33r l pt05r block-offset">
           <div class="border-left-lightgray border-right-lightgray ml05r mr05r pl05r pr05r">
             <h4 class="text-center"><img class="icon icon-services" src="img/icons/icon-department.svg"></h4>
             <h4 class="size-14 text-center uppercase line-h30 mt15 color-teal">ДЕПАРТАМЕНТ МЕЖДУНАРОДНОГО ТРЕЙДИНГА</h4>
@@ -184,7 +184,7 @@
     <!-- Departments-->
     <div class="column-container">
       <div class="mt5 line-h20 size-14">
-        <div class="w33r l pt05r">
+        <div class="w33r l pt05r block-offset">
           <div class="border-left-lightgray border-right-lightgray ml05r mr05r pl05r pr05r">
             <h4 class="text-center"><img class="icon icon-services" src="img/icons/icon-department.svg"></h4>
             <h4 class="size-14 text-center uppercase line-h30 mt15 color-teal">ДЕПАРТАМЕНТ АЛГОРИТМИЧЕСКОГО <br/>ТРЕЙДИНГА</h4>
@@ -195,7 +195,7 @@
             </div>
           </div>
         </div>
-        <div class="w33r l pt05r">
+        <div class="w33r l pt05r block-offset">
           <div class="border-left-lightgray border-right-lightgray ml05r mr05r pl05r pr05r">
             <h4 class="text-center"><img class="icon icon-services" src="img/icons/icon-department.svg"></h4>
             <h4 class="size-14 text-center uppercase line-h30 mt15 color-teal">ДЕПАРТАМЕНТ ИНВЕСТИЦИОННЫХ УСЛУГ</h4>
@@ -206,7 +206,7 @@
             </div>
           </div>
         </div>
-        <div class="w33r l pt05r">
+        <div class="w33r l pt05r block-offset">
           <div class="border-left-lightgray border-right-lightgray ml05r mr05r pl05r pr05r">
             <h4 class="text-center"><img class="icon icon-services" src="img/icons/icon-department.svg"></h4>
             <h4 class="size-14 text-center uppercase line-h30 mt15 color-teal">ДЕПАРТАМЕНТ МАРКЕТИНГА</h4>
@@ -232,7 +232,7 @@
     <!-- Departments-->
     <div class="column-container">
       <div class="mt5 line-h20 size-14">
-        <div class="w33r l pt05r">
+        <div class="w33r l pt05r block-offset">
           <div class="border-left-lightgray border-right-lightgray ml05r mr05r pl05r pr05r">
             <h4 class="text-center"><img class="icon icon-services" src="img/icons/icon-department.svg"></h4>
             <h4 class="size-14 text-center uppercase line-h30 mt15 color-teal">АНАЛИТИЧЕСКИЙ ДЕПАРТАМЕНТ</h4>
@@ -246,7 +246,7 @@
           </div>
         </div>
 
-        <div class="w33r l pt05r">
+        <div class="w33r l pt05r block-offset">
           <div class="border-left-lightgray border-right-lightgray ml05r mr05r pl05r pr05r">
             <h4 class="text-center"><img class="icon icon-services" src="img/icons/icon-department.svg"></h4>
             <h4 class="size-14 text-center uppercase line-h30 mt15 color-teal">ДЕПАРТАМЕНТ ПО РАБОТЕ С ПЕРСОНАЛОМ</h4>
@@ -260,7 +260,7 @@
           </div>
         </div>
 
-        <div class="w33r l pt05r">
+        <div class="w33r l pt05r block-offset">
           <div class="border-left-lightgray border-right-lightgray ml05r mr05r pl05r pr05r">
             <h4 class="text-center"><img class="icon icon-services" src="img/icons/icon-department.svg"></h4>
             <h4 class="size-14 text-center uppercase line-h30 mt15 color-teal">АДМИНИСТРАТИВНЫЙ ДЕПАРТАМЕНТ</h4>
@@ -288,8 +288,8 @@
   <!-- FOOTER BLOCK -->
     <div class="clearfix"></div>
     <div class="w100r">
-          <div class="text-center pt02r pb02r">
-            <img src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r"><br>
+          <div class="text-center ">
+            <img id="lighthouse" src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r"><br>
             <a href="/career.php" class="size-12 line-h40 uppercase">Карьера</a>
           </div>	  
     </div>		

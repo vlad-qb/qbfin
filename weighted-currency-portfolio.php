@@ -153,7 +153,7 @@
     <div class="clearfix"></div>
   </div>
   <!--Parallax-text -->
-    <div class="clearfix"></div>
+    <div class="clearfix block-offset"></div>
     <div
       id="bond-option-portfolio"
       class="img-ipo-portfolio-2 w100r mt05r cover fixed"
@@ -192,7 +192,7 @@
   <!--Parallax-text -->
   <!--Text-->
   <div class="column-container size-14 line-h26">
-    <h3 class="text-center bold pt05r">Структура портфеля</h3>
+    <h3 class="text-center bold pt05r block-offset">Структура портфеля</h3>
     <div class="column-2 pt05r">
       <div class="column-offset pl05r pr05r">
         <p class="size-14 weight-300"><span class="bold">Ч</span>тобы актив был отобран в портфель, он как минимум должен входить в один из крупнейших региональных фондовых индексов: STOXX Global 150, DJIA, S&P500, NASDAQ Composite, EURO STOXX 50, DAX, FTSE 100, CAC40</p>
@@ -229,7 +229,7 @@
   </div>
     <!-- CONNECT -->
     <div class="clearfix"></div>
-    <div class="column-container mt05r">
+    <div class="column-container pt05r block-offset">
       <div class="column">
         <div class="border-gray-bottom"></div>
         <div class="pt05r pl05r pr05r text-center">
@@ -243,7 +243,7 @@
         </div>
       </div>
     </div>
-    <div class="clearfix"></div>
+    <div class="clearfix block-offset"></div>
     <!-- /CONNECT -->
 <!-- PORTFOLIO MENU -->
     <div class="img-high-yield-strategy-2 w100r mt05r fixed" style="background-attachment: fixed;">
@@ -345,8 +345,8 @@
   <!-- /PORTFOLIO MENU -->
   <!-- FOOTER BLOCK -->
 		<div class="clearfix"></div>
-		<div class="text-center pt02r">
-			<img src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r">
+		<div class="text-center">
+			<img id="lighthouse" src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r">
 		</div>
 		<div class="text-center pb02r">
 
