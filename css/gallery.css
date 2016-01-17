@@ -890,8 +890,18 @@
 .img-team-kipa-3{
     background: url(/img/bg/team-kipa-3.png);
 }
-
-
+/* succsee.html */
+.img-success-1{
+    background: url(/img/bg/success.jpg);
+}
+/* error.html */
+.img-error-1{
+    background: url(/img/bg/error-1.jpg);
+}
+/* search-results.html */
+.img-search-1{
+    background: url(/img/bg/search.jpg);
+}
 @media screen and (max-width: 1200px) {
 			/* company.html */
 			.img-company-1{

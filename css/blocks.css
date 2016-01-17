@@ -65,6 +65,7 @@
 .h25{height:25px;}
 .h30{height:30px;}
 .h32{height:32px;}
+.h35{height:35px;}
 .h40{height:40px;}
 .h50{height:50px;}
 .h60{height:60px;}
@@ -368,7 +369,7 @@
 .portfolio-menu .column-2 .button .h{height: 65px;}
 #lighthouse{
     margin-top: 4%;
-    margin-bottom: ;
+    margin-bottom: 1%;
 }
 .FOOTER-ARROW{
     margin-top: 2%;
@@ -443,7 +444,7 @@
     }
     #lighthouse{
         margin-top: 30px;
-        margin-bottom: 30px;
+        margin-bottom: 10px;
     }
     .FOOTER-ARROW{
         margin-top: 20px;
@@ -488,6 +489,8 @@
     .shpakov-desktop{display: none;}
     .shpakov-moblile{display: block;}
     .portfolio-menu .column-4 .button .h{height: 75px;}
+    #search-result .ml05r{margin-left: 0;}
+    #search-result .mr05r{margin-right: 0;}
 }
 
 @media screen and (max-width: 480px) {
