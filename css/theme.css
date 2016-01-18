@@ -42,7 +42,20 @@
     font-family: 'Lato', 'HelveticaLight', sans-serif;
 }
 #content p{line-height: 20px;}
-
+@media screen and (max-width: 768px) {
+#headblock .title{
+    padding-left: 0%;
+    padding-right: 0%;
+}
+#headblock .description{
+    padding-left: 0%;
+    padding-right: 0%;
+}
+#headblock .description-2{
+    padding-left: 0%;
+    padding-right: 0%;
+}
+}
 /* ANIMATION */
 
 .animation-1 {
