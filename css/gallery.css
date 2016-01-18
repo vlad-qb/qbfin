@@ -897,6 +897,7 @@
 /* error.html */
 .img-error-1{
     background: url(/img/bg/error-1.jpg);
+    background-position: -300px center;
 }
 /* search-results.html */
 .img-search-1{
@@ -1432,4 +1433,8 @@
 			.img-team-kipa-1{
 				background: url(/img/bg/1536/team-kipa-1.jpg);
 			}
+.img-error-1{
+    background: url(/img/bg/error-1.jpg);
+    background-position: center;
+}
 }

@@ -25,8 +25,7 @@
     <?php include 'html/header-connect.html';?>
     <!-- HEADBLOCK -->
     <div id="cover"
-      class="img-error-1 w100r h480 mt-80"
-      style="background-position: center;">
+      class="img-error-1 w100r h480 mt-80">
     </div>
     <div class="mt-35 h35">
       <div class="bg-white h35 ml05r mr05r">
