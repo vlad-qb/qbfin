@@ -137,7 +137,7 @@
   <div id="content">
   <div id="gallery" class="column-container mt60">
     <div class="column-2">
-      <div class="gallery-offset w95r ml05r border-white bg-gray">
+      <div class="gallery-offset-left border-white bg-gray">
         <div class="w100r h200">
           <div class="img-archive-analytics-5 contain h200 bg-center">
             <div class="bg-label-2 w50r h200">
@@ -150,7 +150,7 @@
       </div>
     </div>
     <div class="column-2">
-      <div class="gallery-offset w95r mr05r border-white bg-gray">
+      <div class="gallery-offset-right border-white bg-gray">
         <div class="w100r h200">
           <div class="img-archive-analytics-2 contain h200 bg-center">
             <div class="bg-label-2 w50r h200">
@@ -163,7 +163,7 @@
       </div>
     </div>
     <div class="column-2">
-      <div class="gallery-offset w95r ml05r border-white bg-gray">
+      <div class="gallery-offset-left border-white bg-gray">
         <div class="w100r h200">
           <div class="img-archive-analytics-4 contain h200 bg-center">
             <div class="bg-label-2 w50r h200">
@@ -176,7 +176,7 @@
       </div>
     </div>
     <div class="column-2">
-      <div class="gallery-offset w95r mr05r border-white bg-gray">
+      <div class="gallery-offset-right border-white bg-gray">
         <div class="w100r h200">
           <div class="img-archive-analytics-3 contain h200 bg-center">
             <div class="bg-label-2 w50r h200">

@@ -130,13 +130,13 @@
   <div class="column-container pt05r">
     <div class="column">
       <h3 class="text-center size-12 color-white"><div class="w288 line-h40 auto bg-gray2">ИНВЕСТИЦИОННАЯ АКТУАЛЬНОСТЬ СТРАТЕГИИ</div></h3>
-      <div class="pl05r pr05r">
+      <div class="line-offset">
         <div class="title-line-grey"></div>
       </div>
     </div>
   </div>
   <div class="column-container size-14 color-grey1 line-h26">
-    <div class="column-2 pt05r">
+    <div class="column-2 pt05r block-offset">
       <div class="column-offset">
         <p class="size-14 weight-300"><span class="bold">Д</span>ля хеджирования возможных рисков в портфель включены опционы, валюты и корпоративные облигации. </p>
       
@@ -154,10 +154,10 @@
   </div>
   <!--Text-->
   <!--Parallax-text -->
-    <div class="clearfix block-offset"></div>
+    <div class="clearfix pt05r block-offset"></div>
     <div
       id="bond-option-portfolio"
-      class="img-ipo-portfolio-2 w100r mt05r cover fixed"
+      class="img-ipo-portfolio-2 w100r cover fixed"
       style="background-attachment: fixed; background-position: center center;">
       <div class="w90r auto bg bg-blue-label text-center">
         <div class="column-container pt40 size-12 color-white">
@@ -189,11 +189,11 @@
         </div>
       </div>
     </div>
-    <div class="clearfix block-offset"></div>
+    <div class="clearfix"></div>
   <!--Parallax-text -->
   <!--Text-->
   <div class="column-container size-14 line-h26">
-    <h3 class="text-center bold mt05r">Структура портфеля</h3>
+    <h3 class="text-center bold pt05r block-offset">Структура портфеля</h3>
     <div class="column-2">
       <div class="column-offset">
         <p class="pt05r size-14 weight-300"><span class="bold">Ч</span>тобы актив был отобран в портфель, он как минимум должен входить в один из крупнейших региональных фондовых индексов: STOXX Global 150, DJIA, S&P500, NASDAQ Composite, Russell 2000, STOXX Europe 600, DAX, FTSE 100, FTSE 350, CAC40, STOXX Asia/Pacific 600.</p>
@@ -229,8 +229,8 @@
     </div>
   </div>
     <!-- CONNECT -->
-    <div class="clearfix block-offset"></div>
-    <div class="column-container mt05r">
+    <div class="clearfix"></div>
+    <div class="column-container pt05r block-offset">
       <div class="column">
         <div class="border-gray-bottom"></div>
         <div class="pt05r pl05r pr05r text-center">
@@ -244,10 +244,10 @@
         </div>
       </div>
     </div>
-    <div class="clearfix block-offset"></div>
+    <div class="clearfix pt05r block-offset"></div>
     <!-- /CONNECT -->
   <!-- PORTFOLIO MENU -->
-    <div class="img-high-yield-strategy-2 w100r mt05r fixed" style="background-attachment: fixed;">
+    <div class="img-high-yield-strategy-2 w100r fixed" style="background-attachment: fixed;">
       <div class="portfolio-menu pt02r bg-blue-label w90r auto bg bg-label text-center color-white uppercase">
         <div class="">
           <h2 class="size-12 line-h22 uppercase">ВАРИАНТЫ ВЫСОКОДОХОДНОЙ СТРАТЕГИИ</h2>

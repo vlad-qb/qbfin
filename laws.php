@@ -138,13 +138,13 @@
   <div class="column-container pt05r">
     <div class="column">
       <h3 class="text-center size-12 color-white"><div class="w288 line-h40 auto bg-gray2">ФЕДЕРАЛЬНЫЕ ЗАКОНЫ</div></h3>
-      <div class="pl05r pr05r">
+      <div class="line-offset">
         <div class="title-line-grey"></div>
       </div>
     </div>
   </div>
   <div id="text-feed" class="column-container size-14 color-grey1 line-h26">
-    <div class="column-2 pt05r">
+    <div class="column-2 pt05r block-offset">
       <div class="column-offset pl05r pr05r">
         <p class="">
         </p><div class="line-h26 weight-300">
@@ -190,7 +190,7 @@
     </div>
   </div>
 <div id="text-feed" class="column-container size-14 color-grey1 line-h26">
-<div class="column-2 pt05r">
+<div class="column-2 pt05r block-offset">
 <div class="column-offset">
 <p class="">
 </p><div class="line-h26 weight-300">

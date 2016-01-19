@@ -106,13 +106,13 @@
           </div> 
       </div>
     </div>
-    <div class="column-2 content-margin">
-      <div class="column-offset bg-white text-center pt05r">
-        <h2 class="title"> АКЦИИ </h2>
-        <p class="description">
-          <span class="bold"> ВЫСОКОКВАЛИФИЦИРОВАННАЯ КОМАНДА МЕНЕДЖЕРОВ И ПОРТФЕЛЬНЫХ УПРАВЛЯЮЩИХ, ИМЕЮЩАЯ ЗНАЧИТЕЛЬНЫЙ ОПЫТ РАБОТЫ НА РЫНКЕ ЦЕННЫХ БУМАГ. </span>
-        </p>
-        <div class="w100r mt05r text-center">
+      <div class="column-2 content-margin">
+        <div class="column-offset bg-white text-center pt50">
+          <h2 class="title"> АКЦИИ </h2>
+          <p class="description">
+            <span class="bold"> ВЫСОКОКВАЛИФИЦИРОВАННАЯ КОМАНДА МЕНЕДЖЕРОВ И ПОРТФЕЛЬНЫХ УПРАВЛЯЮЩИХ, ИМЕЮЩАЯ ЗНАЧИТЕЛЬНЫЙ ОПЫТ РАБОТЫ НА РЫНКЕ ЦЕННЫХ БУМАГ.</span>
+          </p>
+          <div class="w100r mt05r text-center">
             <ul class="social-offset auto hi-icon-wrap hi-icon-effect-8">
               <li class="w25r l">
                 <a class="hi-icon icon-tw" href="http://twitter.com/qb_finance"></a>
@@ -128,9 +128,9 @@
               </li>
               <div class="clearfix"></div>
             </ul>
+          </div>
         </div>
       </div>
-    </div>
   </div>
   <!-- /HEADBLOCK -->
 <div class="clearfix"></div>
@@ -138,7 +138,7 @@
 <div id="content">
 <div class="column-container">
   <div class="column-3 pt05r">
-    <div class="column-offset">
+    <div class="offset">
       <div class="img-shares-2 h250 cover bg-center">
       
       </div>
@@ -151,7 +151,7 @@
     </div>
   </div>
   <div class="column-3 pt05r block-offset">
-    <div class="column-offset">
+    <div class="offset">
       <div class="img-shares-3 h250 cover bg-center">
       
       </div>
@@ -164,7 +164,7 @@
     </div>
   </div>
   <div class="column-3 pt05r block-offset">
-    <div class="column-offset">
+    <div class="offset">
       <div class="img-shares-4 h250 cover bg-center">
       
       </div>
@@ -177,7 +177,7 @@
     </div>
   </div>
   <div class="column-3 pt05r block-offset">
-    <div class="column-offset">
+    <div class="offset">
       <div class="img-shares-5 h250 cover bg-center">
       
       </div>
@@ -190,7 +190,7 @@
     </div>
   </div>
   <div class="column-3 pt05r block-offset">
-    <div class="column-offset">
+    <div class="offset">
       <div class="img-shares-6 h250 cover bg-center">
       
       </div>
@@ -203,7 +203,7 @@
     </div>
   </div>
   <div class="column-3 pt05r block-offset">
-    <div class="column-offset">
+    <div class="offset">
       <div class="img-shares-7 h250 cover bg-center">
       
       </div>
@@ -232,18 +232,18 @@
   </div>
   <div class="clearfix"></div>
   <div class="column-container">
-    <div class="column-2 pt05r">
+    <div class="column-2 pt05r block-offset">
       <div class="column-offset">
         <div class="">
-          <h2 class="size-12 uppercase line-h60 color-teal text-center">ЗАКОНОДАТЕЛЬСТВО</h2>
+          <h2 class="size-12 uppercase line-h22 color-teal text-center">ЗАКОНОДАТЕЛЬСТВО</h2>
           <h4 class="size-12 line-h20"><a href="/laws.php" class="gray-hover h60 ellipsis"><span class="bold">ВНЕСЕНЫ ИЗМЕНЕНИЯ В КОДЕКС</span> <span class="color-whitesmoke">•︎</span> QB Finance специализируется на фондовых рынках США и Европы, работая с широким спектром финансовых инструментов - акции, облигации. </a><span class="color-teal">></span></h4>
         </div>
       </div>
     </div>
-    <div class="column-2 pt05r">
+    <div class="column-2 pt05r block-offset">
       <div class="column-offset">
         <div class="">
-          <h2 class="size-12 uppercase line-h60 color-teal text-center">ПРЕССА О НАС</h2>
+          <h2 class="size-12 uppercase line-h22 color-teal text-center">ПРЕССА О НАС</h2>
           <h4 class="size-12 line-h20"><a href="/press-about-us.php" class="gray-hover h60 ellipsis"><span class="bold">QBF НАЗВАНА КОМПАНИЕЙ ГОДА</span> <span class="color-whitesmoke">•︎</span> QB Finance специализируется на фондовых рынках США и Европы, работая с широким спектром финансовых инструментов - акции, облигации. </a><span class="color-teal">></span></h4>
         </div>
       </div>

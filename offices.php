@@ -127,23 +127,10 @@
           <h4 class="text-center size-14 line-h30 weight-300">тел: +7 (495) 988 98 21</h4>
           <h4 class="text-center size-14 line-h30 weight-300">e-mail: <a class="color-teal gray-hover" href="mailto:invest@qbfin.ru">invest@qbfin.ru</a></h4>
           <h4 class="text-center size-14 line-h30 weight-300"><a class="color-teal gray-hover" href="https://maps.yandex.ru/-/CVvQNJ37">маршрут на Яндекс.Картах</a></h4>
-          <div class="img-offices-2 h500 mt05r cover" style="background-position: center center;"></div>
         </div>
       </div>
-    </div>
-    <div class="column-2 pt05r block-offset">
-      <div class="column-offset">  
-        <div class="">
-          <h3 class="text-center size-12 color-white"><div class="w250 h40 line-h40 auto bg-gray2 weight-300">ЕКАТЕРИНБУРГ</div></h3>
-          <div class="title-line-teal"></div>
-          <h4 class="text-center size-14 pt05r line-h30 weight-300">620014, Екатеринбург</h4>
-          <h4 class="text-center size-14 line-h30 weight-300">ул. Бориса Ельцина, 1а</h4>
-          <h4 class="text-center size-14 line-h30 weight-300">БЦ «Президент»</h4>
-          <h4 class="text-center size-14 line-h30 weight-300">тел: +7 (903) 100 60 27</h4>
-          <h4 class="text-center size-14 line-h30 weight-300">e-mail: <a class="color-teal gray-hover" href="mailto:invest@qbfin.ru">invest@qbfin.ru</a></h4>
-          <h4 class="text-center size-14 line-h30 weight-300"><a class="color-teal gray-hover" href="https://maps.yandex.ru/-/CVvQNJ37">маршрут на Яндекс.Картах</a></h4>
-          <div class="img-offices-4 h500 mt05r cover" style="background-position: center center;"></div>
-        </div>
+      <div class="image-offset">
+        <div class="img-offices-2 h500 mt05r cover" style="background-position: center center;"></div>
       </div>
     </div>
     <div class="column-2 pt05r block-offset">
@@ -157,8 +144,27 @@
           <h4 class="text-center size-14 line-h30 weight-300">тел: +7 (812) 644 01 44</h4>
           <h4 class="text-center size-14 line-h30 weight-300">e-mail: <a class="color-teal gray-hover" href="mailto:invest@qbfin.ru">invest@qbfin.ru</a></h4>
           <h4 class="text-center size-14 line-h30 weight-300"><a class="color-teal gray-hover" href="https://maps.yandex.ru/-/CVvQNJ37">маршрут на Яндекс.Картах</a></h4>
-          <div class="img-offices-3 h500 mt05r cover" style="background-position: center center;"></div>
         </div>
+      </div>
+      <div class="image-offset">
+        <div class="img-offices-3 h500 mt05r cover" style="background-position: center center;"></div>
+      </div>
+    </div>
+    <div class="column-2 pt05r block-offset">
+      <div class="column-offset">  
+        <div class="">
+          <h3 class="text-center size-12 color-white"><div class="w250 h40 line-h40 auto bg-gray2 weight-300">ЕКАТЕРИНБУРГ</div></h3>
+          <div class="title-line-teal"></div>
+          <h4 class="text-center size-14 pt05r line-h30 weight-300">620014, Екатеринбург</h4>
+          <h4 class="text-center size-14 line-h30 weight-300">ул. Бориса Ельцина, 1а</h4>
+          <h4 class="text-center size-14 line-h30 weight-300">БЦ «Президент»</h4>
+          <h4 class="text-center size-14 line-h30 weight-300">тел: +7 (903) 100 60 27</h4>
+          <h4 class="text-center size-14 line-h30 weight-300">e-mail: <a class="color-teal gray-hover" href="mailto:invest@qbfin.ru">invest@qbfin.ru</a></h4>
+          <h4 class="text-center size-14 line-h30 weight-300"><a class="color-teal gray-hover" href="https://maps.yandex.ru/-/CVvQNJ37">маршрут на Яндекс.Картах</a></h4>
+        </div>
+      </div>
+      <div class="image-offset">
+        <div class="img-offices-4 h500 mt05r cover" style="background-position: center center;"></div>
       </div>
     </div>
     <div class="column-2 pt05r block-offset">
@@ -172,8 +178,10 @@
           <h4 class="text-center size-14 line-h30 weight-300">тел: +380 (44) 390 22 22</h4>
           <h4 class="text-center size-14 line-h30 weight-300">e-mail: <a class="color-teal gray-hover" href="mailto:invest@qbfin.ru">invest@qbfin.ru</a></h4>
           <h4 class="text-center size-14 line-h30 weight-300"><a class="color-teal gray-hover" href="https://maps.yandex.ru/-/CVvQNJ37">маршрут на Яндекс.Картах</a></h4>
-          <div class="img-offices-5 h500 mt05r cover" style="background-position: center center;"></div>
         </div>
+      </div>
+      <div class="image-offset">
+        <div class="img-offices-5 h500 mt05r cover" style="background-position: center center;"></div>
       </div>
     </div>
     <div class="clearfix"></div>

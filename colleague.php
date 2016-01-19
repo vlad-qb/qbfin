@@ -162,9 +162,9 @@
           </div>
         </div>
       </div>
-	    <div class="clearfix block-offset"></div>
+	    <div class="clearfix"></div>
       <div class="column-container">
-        <div class="column-4 pt05r">
+        <div class="column-4 pt05r block-offset">
           <div class="column-offset">
               <div class="img-colleague-3 w200 auto h200" style="background-size:contain;background-repeat:no-repeat;"></div>
           </div>    
@@ -189,11 +189,11 @@
           </div>
         </div>
       </div>
-      <div class="clearfix block-offset "></div>
+      <div class="clearfix "></div>
   <!-- Content-->
-  <div class="column-container w85r">
-    <div id="gallery" class="column-2 auto pt05r">
-      <div class="w100r ml05r border-white">
+  <div class="column-container">
+    <div id="gallery" class="column-2 auto pt05r block-offset">
+      <div class="gallery-offset-left border-white">
         <div class="img-colleague-7 w100r h200 bg-center">
         </div>
         <div class="border-teal-top bg-lightgray">
@@ -208,7 +208,7 @@
     </div>
     
     <div id="gallery" class="column-2 auto pt05r block-offset">
-      <div class="w100r ml05r border-white">
+      <div class="gallery-offset-right border-white">
         <div class="img-colleague-8 w100r h200 bg-center">
         </div>
         <div class="border-teal-top bg-lightgray">
@@ -221,10 +221,10 @@
       </div>
     </div>
   </div>
-  <div class="clearfix block-offset"></div>
+  <div class="clearfix"></div>
   <!-- Content-->
       <div class="column-container">
-        <div class="column-4 pt05r">
+        <div class="column-4 pt05r block-offset">
           <div class="column-offset">
               <div class="img-colleague-4 w200 auto h200" style="background-size:contain;background-repeat:no-repeat;"></div>
           </div>    
@@ -248,9 +248,9 @@
           </div>
         </div>
       </div>
-      <div class="clearfix block-offset"></div>
+      <div class="clearfix"></div>
       <div class="column-container">
-        <div class="column-4 pt05r">
+        <div class="column-4 pt05r block-offset">
           <div class="column-offset">
               <div class="img-colleague-5 w200 auto h200" style="background-size:contain;background-repeat:no-repeat;"></div>
           </div>    
@@ -277,9 +277,9 @@
       </div>
       <div class="clearfix"></div>
   <!-- Content-->
-  <div class="column-container w85r block-offset">
+  <div class="column-container  block-offset">
     <div id="gallery" class="column-2 auto pt05r">
-      <div class="w100r ml05r border-white">
+      <div class="gallery-offset-left border-white">
         <div class="img-colleague-9 w100r h200 bg-center">
         </div>
         <div class="border-teal-top bg-lightgray">
@@ -293,7 +293,7 @@
     </div>
     
     <div id="gallery" class="column-2 auto pt05r block-offset">
-      <div class="w100r ml05r border-white">
+      <div class="gallery-offset-right border-white">
         <div class="img-colleague-10 w100r h200" style="background-position: center right;">
         </div>
         <div class="border-teal-top bg-lightgray">
@@ -308,8 +308,8 @@
   </div>
   <div class="clearfix"></div>
   <!-- Content-->
-      <div class="column-container block-offset">
-        <div class="column-4 pt05r">
+      <div class="column-container">
+        <div class="column-4 pt05r block-offset">
           <div class="column-offset">
               <div class="img-colleague-6 w200 auto h200" style="background-size:contain;background-repeat:no-repeat;"></div>
           </div>    

@@ -150,7 +150,10 @@
   <div id="content">
   <div id="team" class="column-container">
     <div class="w33r l pt05r ">
-      <div class="ml07r mr07r pt20 border-grey-top">
+      <div class="line-offset">
+        <div class="border-grey-top"></div>
+      </div>
+      <div class="pt05r block-offset">
         <a href="/team-frolov.php">
           <div class="img-team-2 w200 h200 auto cover bg-center" style="background-size:cover;backgroun-position:center;">
           
@@ -162,7 +165,10 @@
       </div>
     </div>
     <div class="w33r l pt05r block-offset">
-      <div class="ml07r mr07r pt20 border-grey-top">
+      <div class="line-offset">
+        <div class="border-grey-top"></div>
+      </div>
+      <div class="pt05r block-offset">
         <a href="/team-shpakov.php">
           <div class="img-team-3 w200 h200 auto cover bg-center" style="background-size:cover;backgroun-position:center;">
 
@@ -174,7 +180,10 @@
       </div>
     </div>
     <div class="w33r l pt05r block-offset">
-      <div class="ml07r mr07r pt20 border-grey-top">
+      <div class="line-offset">
+        <div class="border-grey-top"></div>
+      </div>
+      <div class="pt05r block-offset">
         <a href="/team-pahomov.php">
           <div class="img-team-4 w200 h200 auto cover bg-center" style="background-size:cover;backgroun-position:center;">
           
@@ -186,7 +195,10 @@
       </div>
     </div>
     <div class="w33r l pt05r block-offset">
-      <div class=" ml07r mr07r pt20 border-grey-top">
+      <div class="line-offset">
+        <div class="border-grey-top"></div>
+      </div>
+      <div class="pt05r block-offset">
         <a href="/team-munaev.php">
           <div class="img-team-5 w200 h200 auto cover bg-center" style="background-size:cover;backgroun-position:center;">
           
@@ -198,7 +210,10 @@
       </div>
     </div>
     <div class="w33r l  pt05r block-offset">
-      <div class=" ml07r mr07r pt20 border-grey-top">
+      <div class="line-offset">
+        <div class="border-grey-top"></div>
+      </div>
+      <div class="pt05r block-offset">
         <a href="/team-gorsheneva.php">
           <div class="img-team-6 w200 h200 auto cover bg-center" style="background-size:cover;backgroun-position:center;">
 
@@ -210,7 +225,10 @@
       </div>
     </div>
     <div class="w33r l  pt05r block-offset">
-      <div class=" ml07r mr07r pt20 border-grey-top">
+      <div class="line-offset">
+        <div class="border-grey-top"></div>
+      </div>
+      <div class="pt05r block-offset">
         <a href="/team-michailov.php">
           <div class="img-team-7 w200 h200 auto cover bg-center" style="background-size:cover;backgroun-position:center;">
           
@@ -222,7 +240,10 @@
       </div>
     </div>
     <div class="w33r l  pt05r block-offset">
-      <div class=" ml07r mr07r pt20 border-grey-top">
+      <div class="line-offset">
+        <div class="border-grey-top"></div>
+      </div>
+      <div class="pt05r block-offset">
         <a href="/team-selivanov.php">
           <div class="img-team-8 w200 h200 auto cover bg-center" style="background-size:cover;backgroun-position:center;">
 
@@ -234,7 +255,10 @@
       </div>
     </div>
     <div class="w33r l pt05r block-offset">
-      <div class=" ml07r mr07r pt20 border-grey-top">
+      <div class="line-offset">
+        <div class="border-grey-top"></div>
+      </div>
+      <div class="pt05r block-offset">
         <a href="/team-kipa.php">
           <div class="img-team-9 w200 h200 auto cover bg-center" style="background-size:cover;backgroun-position:center;">
           

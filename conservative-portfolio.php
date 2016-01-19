@@ -131,13 +131,13 @@
   <div class="column-container pt05r">
     <div class="column">
         <h3 class="text-center size-12 color-white"><div class="w288 h40 line-h40 auto bg-gray2">ИНВЕСТИЦИОННАЯ АКТУАЛЬНОСТЬ СТРАТЕГИИ</div></h3>
-      <div class="pl05r pr05r"> 
+      <div class="line-offset"> 
         <div class="title-line-grey"></div>
       </div> 
     </div>
   </div>
   <div class="column-container size-14 color-grey1 line-h26">
-    <div class="column-2 pt05r">
+    <div class="column-2 pt05r block-offset">
       <div class="column-offset">
         <p class="size-14 weight-300"><span class="bold">П</span>ортфель содержит корпоративные облигации эмитентов развитых стран - США и Европы. Доходность по таким инструментам с 10-летним сроком обращения варьируется в пределах 6 - 7% годовых. </p>
       

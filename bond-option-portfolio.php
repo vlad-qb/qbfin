@@ -127,17 +127,17 @@
     <div class="clearfix"></div>
     <!-- CONTENT -->
 	<div id="content">
-    <div class="column-container pt07r">
+    <div class="column-container pt05r">
       <div class="column">
         <h3 class="w288 auto h40 line-h40 bg-gray2 text-center size-12 color-white"> ИНВЕСТИЦИОННАЯ АКТУАЛЬНОСТЬ СТРАТЕГИИ </h3>
-        <div class="pl05r pr05r">
+        <div class="line-offset">
           <div class="title-line-grey"></div>
         </div>
       </div>
       <div class="clearfix"></div>
       <div class="size-14 line-h20 color-grey1">
         <div class="column-2 pt05r">
-          <div class="column-offset pl05r pr05r">
+          <div class="column-offset">
             <p class="mt05r weight-300">
               <span class="bold">Д</span>оход по облигациям не только гарантирует сохранность вложенного капитала, но и обеспечивает небольшую прибыль по портфелю, даже в случае если инвестиции в опционы окажутся неэффективными.
             </p>
@@ -193,29 +193,29 @@
           </div>
       </div>
     </div>
-    <div class="clearfix block-offset"></div>
+    <div class="clearfix"></div>
     <div class="column-container size-14 line-h22">
-      <h3 class="text-center bold pt05r pb05r">Структура портфеля</h3>
-      <div class="column-2">
+      <h3 class="text-center bold pt05r block-offset">Структура портфеля</h3>
+      <div class="column-2 pt05r block-offset">
         <div class="column-offset">
-          <p class="pl05r pr05r weight-300 line-h26"><span class="bold">Ч</span>тобы облигация была отобрана в портфель, она должна обладать высоким кредитным рейтингом от Standard & Poor's, Moody's и Fitch для корпоративных облигаций. Целевой доходностью по облигациям служит отметка 6% годовых. </p>
-          <p class="mt04r pl05r pr05r weight-300">Кроме того, эмитент должен входить в индекс S&P500 или в основные региональные индексы (для неамериканских эмитентов). Показатели TDB/EBITDA и TDB/Assets эмитента не выше средних значений по отрасли.</p>
+          <p class=" weight-300 line-h26"><span class="bold">Ч</span>тобы облигация была отобрана в портфель, она должна обладать высоким кредитным рейтингом от Standard & Poor's, Moody's и Fitch для корпоративных облигаций. Целевой доходностью по облигациям служит отметка 6% годовых. </p>
+          <p class="mt04r weight-300">Кроме того, эмитент должен входить в индекс S&P500 или в основные региональные индексы (для неамериканских эмитентов). Показатели TDB/EBITDA и TDB/Assets эмитента не выше средних значений по отрасли.</p>
         </div>
       </div>
-      <div class="column-2">
+      <div class="column-2 pt05r block-offset">
         <div class="column-offset">
-          <p class="pl05r pr05r weight-300"><span class="bold">Д</span>ля портфеля выбираются опционы со сроком исполнения (экспирация) 7 - 11 месяцев с начала инвестиционного периода. </p>
-          <p class="mt04r pl05r pr05r weight-300">В портфеле могут быть использованы наиболее ликвидные опционы на акции таких компаний, как Apple Inc., Google Inc., Hewlett-Packard Company, Cisco Systems Inc., Bank of America Corp., JPMorgan Chase & Co., Amazon.com Inc., Priceline.com Inc.</p>
+          <p class="weight-300"><span class="bold">Д</span>ля портфеля выбираются опционы со сроком исполнения (экспирация) 7 - 11 месяцев с начала инвестиционного периода. </p>
+          <p class="mt04r weight-300">В портфеле могут быть использованы наиболее ликвидные опционы на акции таких компаний, как Apple Inc., Google Inc., Hewlett-Packard Company, Cisco Systems Inc., Bank of America Corp., JPMorgan Chase & Co., Amazon.com Inc., Priceline.com Inc.</p>
         </div>
       </div>
     </div>
-    <div class="clearfix block-offset"></div>
+    <div class="clearfix"></div>
     <div class="column-container">
-      <div class="pl05r pr05r">
-        <h3 class="text-center size-14 line-h26 bold pt05r pb05r pb04r">Расчет доходности портфеля</h3>
+      <div class="">
+        <h3 class="text-center size-14 line-h26 bold pt05r block-offset">Расчет доходности портфеля</h3>
         <div class="clearfix"></div>
-        <div class="column-2 size-14 line-h28" style="float:right;">
-          <div class="">
+        <div class="column-2  pt05r block-offset size-14 line-h28" style="float:right;">
+          <div class="column-offset">
             <div class="border-lightgray text-center weight-300 mb5 pt02r pb01r">
               <span>первоначальные инвестиции<br/></span>
               <span class="color-yellow">•︎</span> $500 000
@@ -244,19 +244,21 @@
           </div>
         </div>
         <div id="graph-option-1" class="column-2 pt05r">
-          <div class="img-bond-option-portfolio-2 h400 contain" style="background-size: contain; background-repeat: no-repeat; background-position: center center;"></div>
+          <div class="column-offset">
+            <div class="img-bond-option-portfolio-2 h400 contain" style="background-size: contain; background-repeat: no-repeat; background-position: center center;"></div>
+          </div>
         </div>
       </div>
       <div class="clearfix block-offset"></div>
       <div class="size-14 line-h22">
         <div class="column-2 pt05r pb05r">
           <div class="column-offset">
-            <p class="pl05r pr05r weight-300"><span class="bold">П</span>ортфельная стратегия будет актуальна в периоды, когда монетарная политика международных регуляторов не изменяется в сторону ужесточения, что позволяет эффективно проводить сделки РЕПО, имея значительный спред между стоимостью заемного капитала и купонным доходом по облигациям. </p>
+            <p class="weight-300"><span class="bold">П</span>ортфельная стратегия будет актуальна в периоды, когда монетарная политика международных регуляторов не изменяется в сторону ужесточения, что позволяет эффективно проводить сделки РЕПО, имея значительный спред между стоимостью заемного капитала и купонным доходом по облигациям. </p>
           </div>
         </div>
         <div class="column-2 pt05r pb05r">
           <div class="column-offset">
-            <p class="pl05r pr05r weight-300"><span class="bold">В</span>ажным фактором является и то, что дивидендная политика отбираемых в портфель эмитентов неизменна на протяжении многих лет, и, как правило, влиять на нее могут только серьезные изменения в финансовом состоянии компании. </p>
+            <p class="weight-300"><span class="bold">В</span>ажным фактором является и то, что дивидендная политика отбираемых в портфель эмитентов неизменна на протяжении многих лет, и, как правило, влиять на нее могут только серьезные изменения в финансовом состоянии компании. </p>
           </div>
         </div>
       </div>
@@ -264,7 +266,7 @@
     <!-- CONNECT -->
     <div class="clearfix block-offset"></div>
     <div class="column-container">
-      <div class="column">
+      <div class="column pb05r">
         <div class="border-gray-bottom"></div>
         <div class="pt05r pl05r pr05r text-center">
           <p class="size-12 color-teal uppercase line-h20 weight-300">
@@ -281,7 +283,7 @@
     <!-- /CONNECT -->
   </div>
     <!-- PORTFOLIO MENU -->
-    <div class="img-high-yield-strategy-2 w100r mt05r fixed" style="background-attachment: fixed;">
+    <div class="img-high-yield-strategy-2 w100r fixed" style="background-attachment: fixed;">
       <div class="portfolio-menu label pt02r w90r auto bg bg-yellow-label text-center color-white uppercase">
         <div class="">
           <h2 class="size-12 line-h22 uppercase">ВАРИАНТЫ КОНСЕРВАТИВНОЙ СТРАТЕГИИ</h2>

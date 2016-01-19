@@ -148,7 +148,7 @@
     <div class="clearfix"></div>
     <!-- CONTENT -->
 	<div id="content">
-    <div id="gallery" class="column-container">
+    <div class="column-container">
       <div class="column pt05r pb05r">
         <div class="gallery-offset w95r auto line-h24 size-14">
           <div class="text-center"><img class="icon icon-portfolio" src="/img/bg/archive-shares-4.gif"></div>
@@ -157,21 +157,21 @@
       </div>
       <div class="clearfix"></div>
       <div class="column-2">
-        <div class="gallery-offset w85r line-h24 size-14 ml05r mr20r">
-          <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">24.11.2011</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2792106" class="gray-hover">Команда QB Finance отметила наступающий Новый год</a></h4>
-          <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">23.11.2011</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2790799" class="gray-hover">Проект QB Finance и национального внедорожного журнала «Полный привод 4х4»</a></h4>
-          <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">04.11.2011</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2790762" class="gray-hover">Команда компании QB Finance отметила День народного единства</a></h4>
-          <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">27.10.2011</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://nn.rbc.ru/nn/17/08/2015/55d1b1b19a79474458c29afd" class="gray-hover">В компании была проведена вакцинация сотрудников от гриппа</a></h4>
-          <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">26.10.2011</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2790211" class="gray-hover">Итоги III квартала 2011 года</a></h4>
+        <div class="column-offset line-h24 size-14">
+          <h4 class="size-14 line-h30 weight-300"><span class="color-teal weight-300">24.11.2011</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2792106" class="gray-hover">Команда QB Finance отметила наступающий Новый год</a></h4>
+          <h4 class="size-14 line-h30 weight-300"><span class="color-teal weight-300">23.11.2011</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2790799" class="gray-hover">Проект QB Finance и национального внедорожного журнала «Полный привод 4х4»</a></h4>
+          <h4 class="size-14 line-h30 weight-300"><span class="color-teal weight-300">04.11.2011</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2790762" class="gray-hover">Команда компании QB Finance отметила День народного единства</a></h4>
+          <h4 class="size-14 line-h30 weight-300"><span class="color-teal weight-300">27.10.2011</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://nn.rbc.ru/nn/17/08/2015/55d1b1b19a79474458c29afd" class="gray-hover">В компании была проведена вакцинация сотрудников от гриппа</a></h4>
+          <h4 class="size-14 line-h30 weight-300"><span class="color-teal weight-300">26.10.2011</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2790211" class="gray-hover">Итоги III квартала 2011 года</a></h4>
         </div>
       </div>
       <div class="column-2">
-        <div class="gallery-offset w85r line-h24 size-14 ml05r mr20r">
-          <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">01.10.2011</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2787793" class="gray-hover">Интеграция активов кипрской компании Asheraxe Trading Ltd.</a></h4>
-          <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">01.08.2011</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2759013" class="gray-hover">Выход компании QB Finance на российский фондовый рынок</a></h4>
-          <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">15.06.2011</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2758982" class="gray-hover">Приобретение кипрской инвестиционной компании Asheraxe</a></h4>
-          <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">07.03.2011</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2759058" class="gray-hover">Выход QB Finance на валютный рынок (FOREX)</a></h4>
-          <h4 class="size-14 ml05r line-h30 weight-300"><span class="color-teal weight-300">01.01.2011</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2759013" class="gray-hover">Открытие офиса компании QB Finance в ММДЦ «Москва-Сити»</a></h4>
+        <div class="column-offset line-h24 size-14">
+          <h4 class="size-14 line-h30 weight-300"><span class="color-teal weight-300">01.10.2011</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2787793" class="gray-hover">Интеграция активов кипрской компании Asheraxe Trading Ltd.</a></h4>
+          <h4 class="size-14 line-h30 weight-300"><span class="color-teal weight-300">01.08.2011</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2759013" class="gray-hover">Выход компании QB Finance на российский фондовый рынок</a></h4>
+          <h4 class="size-14 line-h30 weight-300"><span class="color-teal weight-300">15.06.2011</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2758982" class="gray-hover">Приобретение кипрской инвестиционной компании Asheraxe</a></h4>
+          <h4 class="size-14 line-h30 weight-300"><span class="color-teal weight-300">07.03.2011</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2759058" class="gray-hover">Выход QB Finance на валютный рынок (FOREX)</a></h4>
+          <h4 class="size-14 line-h30 weight-300"><span class="color-teal weight-300">01.01.2011</span> <span class="size-11 color-lightgray"> •︎ </span><a href="http://www.kommersant.ru/doc/2759013" class="gray-hover">Открытие офиса компании QB Finance в ММДЦ «Москва-Сити»</a></h4>
         </div>
       </div>
       <div class="clearfix"></div>

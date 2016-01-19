@@ -121,13 +121,13 @@
       <div class="column-offset pl05r pr05r line-h24 size-14">
         
         <h4 class="mt15 size-14 line-h20"><span class="bold">В</span>оспользуйтесь формой обратной связи, чтобы задать интересующий Вас вопрос по инвестиционному бизнесу или свяжитесь с нашими специалистами в конкренном офисе по телефону или электронной почте. </h4>
-        <div class="text-center mt10r mb10r"><img class="icon icon-contacts" src="/img/icons/icon-earth.svg"></div>
+        <div class="text-center pt10r block-offset"><img class="icon icon-contacts" src="/img/icons/icon-earth.svg"></div>
         
       </div>
     </div>
     
     
-    <div class="column-2 pt05r">
+    <div class="column-2 pt05r block-offset">
       <div class="column-offset pl05r pr05r line-h26 size-12">
         <div class="text-center mb20">
           <p>имя</p>

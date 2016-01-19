@@ -138,8 +138,8 @@
 	<div id="content">
       <div id="gallery" class="column-container pt05r">
         <div class="column-2">
-          <div class="gallery-offset w95r ml05r border-white">
-            <div class="img-analytics-2 w100r h230 cover bg-center">
+          <div class="gallery-offset-left border-white" style="background:black;">
+            <div class="img-analytics-2 h230 cover bg-center">
               <div class="bg-label w50r h230">
                 <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60 overflow-hidden clip"><a href="/markets.php" class="color-whitesmoke light-gray-hover">Рынки</a></h2>
                 <h3 class="size-12 color-paleturquoise uppercase line-h26 ml20">08 МАЯ / 2015</h3>
@@ -149,8 +149,8 @@
           </div>
         </div>
         <div class="column-2">
-          <div class="gallery-offset w95r mr05r border-white">
-            <div class="img-analytics-3 w100r h230 cover bg-center">
+          <div class="gallery-offset-right border-white">
+            <div class="img-analytics-3 h230 cover bg-center">
               <div class="bg-label w50r h230">
                 <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60 overflow-hidden clip"><a href="/shares.php" class="color-whitesmoke light-gray-hover">Акции</a></h2>
                 <h3 class="size-12 color-paleturquoise uppercase line-h26 ml20">17 МАЯ / 2015</h3>
@@ -160,8 +160,8 @@
           </div>
         </div>
         <div class="column-2">
-          <div class="gallery-offset w95r ml05r border-white">
-            <div class="img-analytics-4 w100r h230 cover bg-center">
+          <div class="gallery-offset-left border-white">
+            <div class="img-analytics-4 h230 cover bg-center">
               <div class="bg-label w50r h230">
                 <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60 overflow-hidden clip"><a href="/reviews.php" class="color-whitesmoke light-gray-hover">Обзоры</a></h2>
                 <h3 class="size-12 color-paleturquoise uppercase line-h26 ml20">12 МАЯ / 2015</h3>
@@ -171,8 +171,8 @@
           </div>
         </div>
         <div class="column-2">
-          <div class="gallery-offset w95r mr05r border-white">
-            <div class="img-analytics-5 w100r h230 cover bg-center">
+          <div class="gallery-offset-right border-white">
+            <div class="img-analytics-5 h230 cover bg-center">
               <div class="bg-label w50r h230">
                 <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60 overflow-hidden clip"><a href="/expert.php" class="color-whitesmoke light-gray-hover">Эксперт</a></h2>
                 <h3 class="size-12 color-paleturquoise uppercase line-h26 ml20">15 АПРЕЛЯ / 2015</h3>

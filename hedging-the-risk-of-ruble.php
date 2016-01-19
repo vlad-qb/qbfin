@@ -130,20 +130,20 @@
   <div class="column-container pt05r">
     <div class="column">
       <h3 class="text-center size-12 color-white"><div class="w288 line-h40 auto bg-gray2">ИНВЕСТИЦИОННАЯ АКТУАЛЬНОСТЬ СТРАТЕГИИ</div></h3>
-      <div class="pl05r pr05r">
+      <div class="line-offset">
         <div class="title-line-grey"></div>
       </div>
     </div>
   </div>
-  <div class="column-container pt05r size-14 color-grey1 line-h26">
-      <div class="column-2">
+  <div class="column-container size-14 color-grey1 line-h26">
+      <div class="column-2 pt05r block-offset">
         <div class="column-offset">
-          <p class="pt05r size-14 weight-300"><span class="bold">Н</span>а фоне взаимных санкций России, ЕС и США в течение последнего полугодия отмечается резкое сокращение притока инвестиционного капитала на российский рынок. Мы ожидаем продолжения сложившейся внешнеэкономической ситуации в течение следующего года, а также возможность сохранения негативного влияния санкций на экономический рост отечественной экономики в последующие 2-3 года.</p>
+          <p class="size-14 weight-300"><span class="bold">Н</span>а фоне взаимных санкций России, ЕС и США в течение последнего полугодия отмечается резкое сокращение притока инвестиционного капитала на российский рынок. Мы ожидаем продолжения сложившейся внешнеэкономической ситуации в течение следующего года, а также возможность сохранения негативного влияния санкций на экономический рост отечественной экономики в последующие 2-3 года.</p>
         </div>
       </div>
-      <div class="column-2">
+      <div class="column-2 pt05r">
         <div class="column-offset">
-          <p class="pt05r size-14 weight-300"><span class="bold">Н</span>аравне с этим существуют трудности во внутриэкономической политике страны: ЦБ находится перед сложным выбором - стимулирование экономического роста либо сдерживание темпов инфляции.</p>
+          <p class="size-14 weight-300"><span class="bold">Н</span>аравне с этим существуют трудности во внутриэкономической политике страны: ЦБ находится перед сложным выбором - стимулирование экономического роста либо сдерживание темпов инфляции.</p>
         </div>
       </div>
       <div class="clearfix"></div>
@@ -151,10 +151,10 @@
   <!--Text-->
   <!--Parallax-text -->
   <div class="clearfix"></div>
-    <div class="clearfix block-offset"></div>
+    <div class="clearfix pt05r block-offset"></div>
     <div
       id="bond-option-portfolio"
-      class="img-deposit-weighted-average-portfolio-2 w100r mt05r cover fixed"
+      class="img-deposit-weighted-average-portfolio-2 w100r cover fixed"
       style="background-attachment: fixed; background-position: center center;">
       <div class="w90r auto bg bg-gray-label text-center">
         <div class="column-container pt40 size-12 color-white">
@@ -186,10 +186,10 @@
         </div>
       </div>
     </div>
-    <div class="clearfix block-offset"></div>
+    <div class="clearfix"></div>
   <!--Parallax-text -->
   <!--Text-->
-  <div class="column-container size-14 line-h26 pt05r">
+  <div class="column-container size-14 line-h26 pt05r block-offset">
     <h3 class="text-center bold ">Структура портфеля</h3>
     <div class="column-2 pt05r">
       <div class="column-offset">
@@ -214,7 +214,7 @@
   <!--Image-->
 
   <!--TABLE-->
-  <div class="column-container pt05r">
+  <div class="column-container pt05r block-offset">
     <div class="">
       <div class="w100r mb10 bg-dark-gray2 color-white size-14 uppercase weight-300 line-h50 text-center">
         TRACK RECORD СТРАТЕГИИ
@@ -329,10 +329,10 @@
         </div>
       </div>
     </div>
-    <div class="clearfix block-offset"></div>
+    <div class="clearfix pt05r block-offset"></div>
     <!-- /CONNECT -->
 <!-- PORTFOLIO MENU -->
-    <div class="img-high-yield-strategy-2 w100r mt05r fixed" style="background-attachment: fixed;">
+    <div class="img-high-yield-strategy-2 w100r fixed" style="background-attachment: fixed;">
       <div class="portfolio-menu label pt02r w90r auto bg bg-gray-label text-center color-white uppercase">
         <div class="">
           <h2 class="size-12 line-h22 uppercase">ВАРИАНТЫ СТРАТЕГИИ ЗАЩИТЫ РУБЛЕВЫХ АКТИВОВ</h2>

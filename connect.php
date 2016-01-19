@@ -120,7 +120,7 @@
   <div id="content">
   <div id="gallery" class="column-container pt05r">
     <div class="column-2">
-      <div class="gallery-offset w95r ml05r border-white">
+      <div class="gallery-offset-left border-white">
         <div class="img-connect-2 w100r h200 cover bg-center">
           <a href="/offices.php">
             <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60" style="position:absolute;z-index:1;">ОФИСЫ</h2>
@@ -134,7 +134,7 @@
       </div>
     </div>
     <div class="column-2">
-      <div class="gallery-offset w95r mr05r border-white">
+      <div class="gallery-offset-right border-white">
         <div class="img-connect-3 w100r h200 cover bg-center">
           <a href="/quality-control.php">
             <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60" style="position:absolute;z-index:1;">КОНТРОЛЬ КАЧЕСТВА</h2>

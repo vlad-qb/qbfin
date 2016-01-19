@@ -29,7 +29,7 @@
       style="background-position: center bottom;">
     </div>
     <div id="headblock" class="column-container text-center">
-      <div class="column-3 content-margin pb02r">
+      <div class="column-3 content-margin-index pb02r">
         <div class="column-offset bg-white">
           <h3 class="size-18 color-teal pt05r pb05r"> СТРАТЕГИИ </h3>
           <div class="auto line-black" style="width:180px;"></div>
@@ -55,9 +55,9 @@
         </div>
       </div>
 
-      <div class="column-3 content-margin block-offset">
+      <div class="column-3 content-margin-index">
         <div class="column-offset bg-white">
-          <h3 class="size-18 color-teal pt05r"> КОНСУЛЬТАЦИИ </h3>
+          <h3 class="size-18 color-teal pt05r block-offset"> КОНСУЛЬТАЦИИ </h3>
           <div class="auto line-gray mt05r" style="width:180px;"></div>
           <h3 class="pt05r">
           <a href="/consulting-management.php" class="size-14 dark-gray-hover"> ИНВЕСТИЦИИ И СТРАТЕГИИ </a>
@@ -82,9 +82,9 @@
         </div>
 
       </div>
-      <div class="column-3 content-margin block-offset">
+      <div class="column-3 content-margin-index">
         <div class="column-offset bg-white">
-          <h3 class="size-18 color-teal pt05r">НЕДВИЖИМОСТЬ</h3>
+          <h3 class="size-18 color-teal pt05r block-offset">НЕДВИЖИМОСТЬ</h3>
           <div class="auto line-teal mt05r" style="width:180px;"></div>
           <h3 class="pt05r">
             <a href="/real-estate.php" class="size-14 dark-gray-hover">РЕАЛЬНЫЙ СЕКТОР</a>
@@ -111,11 +111,11 @@
       <div class="clearfix"></div>
     </div>
     <!-- /HEADBLOCK -->
-    <div class="clearfix block-offset"></div>
+    <div class="clearfix"></div>
     <!-- CONTENT -->
 	<div id="content">
-    <div class="column-container pt03r">
-      <div class="column mt20 mb20 text-center">
+    <div class="column-container pt04r block-offset">
+      <div class="column text-center">
         <div class="border-grey-top"></div>
         <p class="size-14 uppercase line-h26 weight-300 pt03r pb03r">«ЛУЧШАЯ ИНВЕСТИЦИОННАЯ КОМПАНИЯ ГОДА» ~ SPEAR'S RUSSIA AWARDS - 2014 ~ РЕЙТИНГ «А»</p>
         <div class="border-grey-bottom"></div>
@@ -123,9 +123,9 @@
     </div>
     <div class="clearfix"></div>
     
-    <div class="column-container pt03r">
+    <div class="column-container pt05r block-offset">
       <div class="column-2">
-        <div class="pt04r pr08r pb04r pl08r  block-offset">
+        <div class="pr08r pb04r pl08r ">
           <div class="img-index-5 l w120 h120 mr05r mb05r" style="background-size:contain;"></div>
           <h1 class="size-14 color-teal uppercase">СОБЫТИЯ</h1>
           <p class="mt20 ml140">

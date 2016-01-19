@@ -148,18 +148,18 @@
       </div>
     </div>
   </div>
-  <div class="clearfix block-offset"></div>
+  <div class="clearfix"></div>
   <!-- Text-->
   <!-- image-->
-  <div class="column-container pt05r">
+  <div class="column-container pt05r block-offset">
     <div class="column-offset line-h20 size-14">
       <div class="img-culture-2 w100r h400 cover" style="background-position: center center;"></div>
     </div>
   </div>
-  <div class="clearfix block-offset"></div>
+  <div class="clearfix"></div>
   <!-- image-->
   <!-- Text-->
-  <div class="column-container pt05r line-h20 size-14">
+  <div class="column-container pt05r block-offset line-h20 size-14">
     <div class="column-2">
       <div class="column-offset">
         <p class="size-14 weight-300"><span class="bold">Л</span>юди - это фундамент, на котором строится хороший бизнес. Мы уделяем большое внимание качественному подбору кадров и реализации профессионального обучения, проводя регулярные внутрикорпоративные тренинги.</p>
@@ -176,16 +176,16 @@
       </div>
     </div>
   </div>
-  <div class="clearfix block-offset"></div>
+  <div class="clearfix"></div>
   <!-- Text-->
   <!-- IMAGES-->
   <div class="column-container size-14">
-    <div class="column-2 line-h20 mt05r">
-      <div class="column-offset- pl04r pr04r line-h20 size-14">
+    <div class="column-2 line-h20 pt05r block-offset">
+      <div class="p-1 line-h20 size-14">
         <div class="img-culture-3 w100r h427 cover" style="background-position: top left;"></div>
       </div>
     </div>  
-    <div class="column-2 img-text line-h30 mt05r">
+    <div class="column-2 img-text line-h30 pt05r block-offset">
       <div class="column-offset- pl04r pr04r">
         <div class="">
           <div class="img-culture-4 w120 h120 cover l mr05r" style="background-position: center center;"></div>

@@ -136,7 +136,7 @@
     </div>
   </div>
   <div class="column-container size-14 color-grey1 line-h26">
-    <div class="column-2 pt05r">
+    <div class="column-2 pt05r block-offset">
       <div class="column-offset pl05r pr05r">
         <p class="size-14 weight-300"><span class="bold">C</span>егодня крупнейшие ЦБ продолжают стимулировать экономический рост за счет сохранения ставки рефинансирования на рекордно низком уровне. ФРС США держит ее на уровне 0 - 0,25%, ЕЦБ - 0,15%, ЦБ Англии - 0,50%, ЦБ Японии - 0 - 0,10%, и ЦБ Швейцарии - 0,25%. </p>
         <p class="mt20 size-14 weight-300">При этом доходность по корпоративным облигациям с высоким кредитным рейтингом держится на уровне 5,5 - 6,5%.</p>
@@ -192,7 +192,7 @@
   <!--Parallax-text -->
   <div class="column-container size-14 line-h26">
     <h3 class="text-center bold mt05r">Структура портфеля</h3>
-    <div class="column-2 pt05r">
+    <div class="column-2 pt05r block-offset">
       <div class="column-offset pl05r pr05r">
         <p class="size-14 weight-300"><span class="bold">Ч</span>тобы облигация была отобрана в портфель, она должна обладать высоким кредитным рейтингом от Standard & Poor's, Moody's и Fitch для корпоративных облигаций. </p>
         <p class="mt20 size-14 weight-300">Целевой доходностью по облигациям служит отметка 6% годовых.</p>
@@ -207,14 +207,14 @@
     </div>
     <div class="clearfix"></div>
   </div>
-  <div class="clearfix block-offset"></div>
+  <div class="clearfix"></div>
 
 <div class="column-container">
-  <div class="pl05r pr05r">
-    <h3 class="text-center size-14 line-h26 bold pt05r pb05r pb04r">Расчет доходности портфеля</h3>
+  <div class="">
+    <h3 class="text-center size-14 line-h26 bold pt05r block-offset">Расчет доходности портфеля</h3>
     <div class="clearfix"></div>
-    <div class="column-2 size-14 line-h28" style="float:right;">
-      <div class="">
+    <div class="column-2  pt05r block-offset size-14 line-h28" style="float:right;">
+      <div class="column-offset">
         <div class="border-lightgray text-center weight-300 mb5 pt02r pb01r">
           <span>первоначальные инвестиции<br/></span>
           <span class="color-yellow">•︎</span> $1 000 000

@@ -130,13 +130,13 @@
   <div class="column-container">
     <div class="column pt05r">
       <h3 class="text-center size-12 color-white"><div class="w288 line-h40 auto bg-gray2">ИНВЕСТИЦИОННАЯ АКТУАЛЬНОСТЬ СТРАТЕГИИ</div></h3>
-      <div class="pl05r pr05r">
+      <div class="line-offset">
         <div class="title-line-grey"></div>
       </div>
     </div>
   </div>
   <div class="column-container size-14 color-grey1 line-h26">
-    <div class="column-2 pt05r">
+    <div class="column-2 pt05r block-offset">
       <div class="column-offset">
         <p class="size-14 weight-300"><span class="bold">ETF</span> - Exchange Traded Fund (публично торгуемый фонд) - фонд, специализирующийся на инвестициях в определенный вид активов.</p>
       </div>
@@ -150,10 +150,10 @@
   </div>
   <!--Text-->
   <!--Parallax-text -->
-    <div class="clearfix block-offset"></div>
+    <div class="clearfix pt05r block-offset"></div>
     <div
       id="bond-option-portfolio"
-      class="img-index-portfolio-2 w100r mt05r cover fixed"
+      class="img-index-portfolio-2 w100r cover fixed"
       style="background-attachment: fixed; background-position: center center;">
       <div class="w90r auto bg bg-green-label text-center">
         <div class="column-container pt40 size-12 color-white">
@@ -185,29 +185,29 @@
         </div>
       </div>
     </div>
-    <div class="clearfix block-offset"></div>
+    <div class="clearfix"></div>
   <!--Parallax-text -->
   <!-- Investition-->
   <div id="index-portfolio-2" class="column-container">
-    <h3 class="text-center size-14 bold pt05r">Инвестиции в фонды ETF имеют ряд преимуществ</h3>
-        <div class="w33r l pt04r pb02r block-offset">
-          <div class="ml05r mr05r mt05r line-h20 size-14">
+    <h3 class="text-center size-14 bold pt05r block-offset">Инвестиции в фонды ETF имеют ряд преимуществ</h3>
+        <div class="w33r l pt05r pb02r block-offset">
+          <div class="w33-offset line-h20 size-14">
             <div class="pt10 pb10 border-left-lightgray border-right-lightgray">
               <h4 class="text-center"><img class="icon w25r" src="img/bg/index-portfolio-3.png"></h4>
               <p class="mt25 size-14 ml07r mr07r mb15 weight-300"><span class="bold">П</span>ри понимании инвестиционный привлекательности того или иного сектора или региона не нужно выбирать и анализировать определенные его составляющие и тем самым брать на себя дополнительный риск. Фонд объединяет в себе все самые крупные и ликвидные составляющие сектора или региона.</p>
             </div>
           </div>
         </div>
-        <div class="w33r l pt04r pb02r block-offset">
-          <div class="ml05r mr05r mt05r line-h20 size-14">
+        <div class="w33r l pt05r pb02r block-offset">
+          <div class="w33-offset line-h20 size-14">
             <div class="pt10 pb10 border-left-lightgray border-right-lightgray">
               <h4 class="text-center"><img class="icon w25r" src="img/bg/index-portfolio-4.png"></h4>
               <p class="mt25 size-14 ml07r mr07r mb15 weight-300"><span class="bold">Е</span>сли речь идет об инвестициях в различные регионы мира, то это отсутствие необходимости открытия дополнительных брокерских счетов, а также необходимости выбора актива и его анализа, что порой затруднено языковыми преградами.</p>
             </div>
           </div>
         </div>
-        <div class="w33r l pt04r pb02r block-offset">
-          <div class="ml05r mr05r mt05r line-h20 size-14">
+        <div class="w33r l pt05r pb02r block-offset">
+          <div class="w33-offset line-h20 size-14">
             <div class="pt10 pb10 border-left-lightgray border-right-lightgray">
               <h4 class="text-center"><img class="icon w25r" src="img/bg/index-portfolio-5.png"></h4>
               <p class="mt25 size-14 ml07r mr07r mb15 weight-300"><span class="bold">Д</span>ля инвестиций в сырье это отсутствие необходимости покупать срочные контракты, что само по себе проблематично даже для профессионального инвестора. Фонд самостоятельно инвестирует в срочные контракты на те виды сырья, на которых специализируется.</p>
@@ -215,11 +215,11 @@
           </div>
         </div>
   </div>
-  <div class="clearfix block-offset"></div>
+  <div class="clearfix"></div>
   <!-- Investition-->
   <!-- Table-->
   <div class="column-container">
-    <h3 class="text-center size-14 bold pt05r">Список ETF, используемых в рамках стратегии</h3>
+    <h3 class="text-center size-14 bold pt05r block-offset">Список ETF, используемых в рамках стратегии</h3>
     <h3 class="text-center size-14 color-white pt05r block-offset"><div class="w100r h50 line-h50 auto bg-green">индексные тикеры</div></h3>
   </div>
   <div class="column-container mt30 text-center">
@@ -328,23 +328,23 @@
   <div class="clearfix"></div>
   <!--Table-->
   <!--Text-->
-  <div class="column-container size-14 line-h26">
-    <h3 class="text-center bold pt05r block-offset">Структура портфеля</h3>
-    <div class="column-2">
+  <div class="column-container size-14 line-h26 pt05r block-offset">
+    <h3 class="text-center bold">Структура портфеля</h3>
+    <div class="column-2 pt05r block-offset">
       <div class="column-offset">
-        <p class="pt05r size-14 weight-300"><span class="bold">В</span> рамках стратегии выбираются наиболее ликвидные фонды, дневной объем торгов акциями которых превышает 5 млн. акций в день. </p>
+        <p class=" size-14 weight-300"><span class="bold">В</span> рамках стратегии выбираются наиболее ликвидные фонды, дневной объем торгов акциями которых превышает 5 млн. акций в день. </p>
         <p class="mt20 size-14 weight-300">Вместе с этим в портфель попадают лишь фонды, управляющие компании которых имеют под управлением не менее 15 инвестиционных фондов. </p>
       </div>
     </div>
-    <div class="column-2">
+    <div class="column-2 pt05r">
       <div class="column-offset">
-        <p class="pt05r size-14 weight-300"><span class="bold">О</span>бязательным критерием является наличие в структуре фонда минимум 25 компонентов.</p>
+        <p class="size-14 weight-300"><span class="bold">О</span>бязательным критерием является наличие в структуре фонда минимум 25 компонентов.</p>
       </div>
     </div>
   </div>
     <!-- CONNECT -->
-    <div class="clearfix block-offset"></div>
-    <div class="column-container mt05r">
+    <div class="clearfix pt05r block-offset"></div>
+    <div class="column-container">
       <div class="column">
         <div class="border-gray-bottom"></div>
         <div class="pt05r pl05r pr05r text-center">
@@ -358,10 +358,10 @@
         </div>
       </div>
     </div>
-    <div class="clearfix block-offset"></div>
+    <div class="clearfix pt05r block-offset"></div>
     <!-- /CONNECT -->
 <!-- PORTFOLIO MENU -->
-    <div class="img-high-yield-strategy-2 w100r mt05r fixed" style="background-attachment: fixed;">
+    <div class="img-high-yield-strategy-2 w100r fixed" style="background-attachment: fixed;">
       <div class="portfolio-menu pt02r bg-green-label w90r auto bg bg-label text-center color-white uppercase">
         <div class="">
           <h2 class="size-12 line-h22 uppercase">ВАРИАНТЫ ВЫСОКОДОХОДНОЙ СТРАТЕГИИ</h2>

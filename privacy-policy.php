@@ -161,7 +161,7 @@
         </div>
       </div>
     </div>
-    <div class="column-2 pt05r">
+    <div class="column-2 pt05r block-offset">
       <div class="column-offset">
         <div class="">
           <div class="line-h24 size-14">
@@ -183,7 +183,7 @@
   <!-- CONTENT -->
   <!-- CONTENT -->
   <div id="text-feed" class="column-container size-14 color-grey1 line-h26">
-    <div class="column-2 pt05r">
+    <div class="column-2 pt05r block-offset">
       <div class="column-offset">
         <div class="">
           <div class="line-h24 size-14">
@@ -198,7 +198,7 @@
         </div>
       </div>
     </div>
-    <div class="column-2 pt05r">
+    <div class="column-2 pt05r block-offset">
       <div class="column-offset">
         <div class="">
           <div class="line-h24 size-14">
@@ -219,7 +219,7 @@
   <!-- CONTENT -->
   <!-- CONTENT -->
   <div id="text-feed" class="column-container size-14 color-grey1 line-h26">
-    <div class="column-2 pt05r">
+    <div class="column-2 pt05r block-offset">
       <div class="column-offset">
         <div class="">
           <div class="line-h24 size-14">
@@ -237,7 +237,7 @@
         </div>
       </div>
     </div>
-    <div class="column-2 pt05r">
+    <div class="column-2 pt05r block-offset">
       <div class="column-offset">
         <div class="">
           <div class="line-h24 size-14">
@@ -256,7 +256,7 @@
   <!-- CONTENT -->
   <!-- CONTENT -->
   <div id="text-feed" class="column-container size-14 color-grey1 line-h26">
-    <div class="column-2 pt05r">
+    <div class="column-2 pt05r block-offset">
       <div class="column-offset">
         <div class="">
           <div class="line-h24 size-14">
@@ -276,7 +276,7 @@
         </div>
       </div>
     </div>
-    <div class="column-2 pt05r">
+    <div class="column-2 pt05r block-offset">
       <div class="column-offset">
         <div class="">
           <div class="line-h24 size-14">
@@ -300,7 +300,7 @@
   <!-- CONTENT -->
   <!-- CONTENT -->
   <div id="text-feed" class="column-container size-14 color-grey1 line-h26">
-    <div class="column-2 pt05r">
+    <div class="column-2 pt05r block-offset">
       <div class="column-offset">
         <div class="">
           <div class="line-h24 size-14">
@@ -316,7 +316,7 @@
         </div>
       </div>
     </div>
-    <div class="column-2 pt05r">
+    <div class="column-2 pt05r block-offset">
       <div class="column-offset">
         <div class="">
           <div class="line-h24 size-14">
@@ -336,7 +336,7 @@
   <!-- CONTENT -->
   <!-- CONTENT -->
   <div id="text-feed" class="column-container size-14 color-grey1 line-h26">
-    <div class="column-2 pt05r">
+    <div class="column-2 pt05r block-offset">
       <div class="column-offset">
         <div class="">
           <div class="line-h24 size-14">
@@ -349,7 +349,7 @@
         </div>
       </div>
     </div>
-    <div class="column-2 pt05r">
+    <div class="column-2 pt05r block-offset">
       <div class="column-offset">
         <div class="">
           <div class="line-h24 size-14">
@@ -366,7 +366,7 @@
   <!-- CONTENT -->
   <!-- CONTENT -->
   <div id="text-feed" class="column-container size-14 color-grey1 line-h26">
-    <div class="column-2 pt05r">
+    <div class="column-2 pt05r block-offset">
       <div class="column-offset">
         <div class="">
           <div class="line-h24 size-14">
@@ -382,7 +382,7 @@
         </div>
       </div>
     </div>
-    <div class="column-2 pt05r">
+    <div class="column-2 pt05r block-offset">
       <div class="column-offset">
         <div class="">
           <div class="line-h24 size-14">
@@ -405,7 +405,7 @@
   <!-- CONTENT -->
   <!-- CONTENT -->
   <div id="text-feed" class="column-container size-14 color-grey1 line-h26">
-    <div class="column-2 pt05r">
+    <div class="column-2 pt05r block-offset">
       <div class="column-offset">
         <div class="">
           <div class="line-h24 size-14">
@@ -421,7 +421,7 @@
         </div>
       </div>
     </div>
-    <div class="column-2 pt05r">
+    <div class="column-2 pt05r block-offset">
       <div class="column-offset">
         <div class="">
           <div class="line-h24 size-14">
@@ -441,7 +441,7 @@
   <!-- CONTENT -->
   <!-- CONTENT -->
   <div id="text-feed" class="column-container size-14 color-grey1 line-h26">
-    <div class="column-2 pt05r">
+    <div class="column-2 pt05r block-offset">
       <div class="column-offset">
         <div class="">
           <div class="line-h24 size-14">
@@ -453,7 +453,7 @@
         </div>
       </div>
     </div>
-    <div class="column-2 pt05r">
+    <div class="column-2 pt05r block-offset">
       <div class="column-offset">
         <div class="">
           <div class="line-h24 size-14">
@@ -465,10 +465,10 @@
         </div>
       </div>
     </div>
-    <div class="clearfix"></div>
+    <div class="clearfix pt05r block-offset"></div>
   </div>
   <!-- CONTENT -->
-  <div class="img-notification-2 w100r mt05r pb05r pt05r" style="background-position: center center;background-size:cover;">
+  <div class="img-notification-2 w100r pb05r pt05r" style="background-position: center center;background-size:cover;">
     <h4 class="line-h40 uppercase size-14 text-center"><a class="color-white light-gray-hover" href="/connect.php">ПО ВСЕМ ВОПРОСАМ ВЫ МОЖЕТЕ<br/>
       ОБРАТИТЬСЯ К ПРЕДСТАВИТЕЛЯМ<br/>
       КЛИЕНТСКОГО ОФИСА QB FINANCE ИЛИ<br/>

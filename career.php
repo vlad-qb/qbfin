@@ -133,7 +133,7 @@
 	<div id="content">
     <div id="gallery" class="column-container pt05r">
       <div class="column-2">
-        <div class="gallery-offset w95r ml05r border-white">
+        <div class="gallery-offset-left border-white">
           <div class="img-career-2 w100r h200 cover bg-center">
             <a href="/culture.php">
               <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60" style="position:absolute;z-index:1;">КУЛЬТУРА</h2>
@@ -147,7 +147,7 @@
         </div>
       </div>
       <div class="column-2">
-        <div class="gallery-offset w95r mr05r border-white">
+        <div class="gallery-offset-right border-white">
           <div class="img-career-3 w100r h200 cover bg-center">
             <a href="/colleague.php">
               <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60" style="position:absolute;z-index:1;">СОТРУДНИКИ</h2>
@@ -161,7 +161,7 @@
         </div>
       </div>
       <div class="column-2">
-        <div class="gallery-offset w95r ml05r border-white">
+        <div class="gallery-offset-left border-white">
           <div class="img-career-4 w100r h200 cover bg-center">
             <a href="/departments.php">
               <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60" style="position:absolute;z-index:1;">ДЕПАРТАМЕНТЫ</h2>
@@ -175,7 +175,7 @@
         </div>
       </div>
       <div class="column-2">
-        <div class="gallery-offset w95r mr05r border-white">
+        <div class="gallery-offset-right border-white">
           <div class="img-career-5 w100r h200 cover bg-center">
             <a href="/vacancies.php">
               <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60" style="position:absolute;z-index:1;">ВАКАНСИИ</h2>

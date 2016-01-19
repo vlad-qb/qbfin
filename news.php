@@ -137,7 +137,7 @@
   <div id="content">
   <div id="gallery" class="column-container pt05r">
     <div class="column-2">
-      <div class="gallery-offset w95r ml05r border-white">
+      <div class="gallery-offset-left border-white">
         <div class="img-news-2 w100r h230 cover bg-center">
           <div class="bg-label w50r h230">
             <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60 overflow-hidden clip"><a href="/events.php" class="color-whitesmoke light-gray-hover">СОБЫТИЯ</a></h2>
@@ -148,7 +148,7 @@
       </div>
     </div>
     <div class="column-2">
-      <div class="gallery-offset w95r mr05r border-white">
+      <div class="gallery-offset-right border-white">
         <div class="img-news-3 w100r h230 cover bg-center">
           <div class="bg-label w50r h230">
             <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60 overflow-hidden clip"><a href="/laws.php" class="color-whitesmoke light-gray-hover">ЗАКОНОДАТЕЛЬСТВО</a></h2>
@@ -159,7 +159,7 @@
       </div>
     </div>
     <div class="column-2">
-      <div class="gallery-offset w95r ml05r border-white">
+      <div class="gallery-offset-left border-white">
         <div class="img-news-4 w100r h230 cover bg-center">
           <div class="bg-label w50r h230">
             <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60 overflow-hidden clip"><a href="/archive-press.php" class="color-whitesmoke light-gray-hover">ПРЕССА О НАС</a></h2>
@@ -170,7 +170,7 @@
       </div>
     </div>
     <div class="column-2">
-      <div class="gallery-offset w95r mr05r border-white">
+      <div class="gallery-offset-right border-white">
         <div class="img-news-5 w100r h230 cover bg-center">
           <div class="bg-label w50r h230">
             <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60 overflow-hidden clip"><a href="/press-company.php" class="color-whitesmoke light-gray-hover">КОМПАНИЯ В СМИ</a></h2>

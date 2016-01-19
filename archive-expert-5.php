@@ -137,7 +137,7 @@
   <div id="content">
   <div id="gallery" class="column-container">
     <div class="column pt05r pb05r">
-      <div class=" line-h24 size-14">
+      <div class="line-offset line-h24 size-14">
         <div class="text-center"><img class="icon icon-portfolio" src="/img/bg/archive-shares.gif"></div>
         <div class="title-line-teal2"></div>
       </div>
@@ -167,14 +167,18 @@
     </div>
     <div class="clearfix"></div>
   </div>
-  <div class="column-offset  pt05r pb02r">
+  <div class="column-container">
+    <div class="column pt05r pb05r">
     <h3 class="text-center size-18">
       <div class="w288 h40 line-h40 auto bg-white weight-300">
         <a href="/archive-reviews-2015.php" class="color-teal gray-hover">2 0 1 5</a> <span class="color-whitesmoke">•︎</span> 
         <a href="/archive-reviews-2014.php" class="gray-hover">2 0 1 4</a>
       </div>
     </h3>
-    <div class="title-line-teal"></div>
+    <div class="line-offset">
+     <div class="title-line-teal"></div>
+    </div>
+    </div>
   </div>
   <div class="clearfix"></div>
   </div>

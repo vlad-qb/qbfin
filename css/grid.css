@@ -2,6 +2,20 @@
     padding-left: 5%;
     padding-right: 5%;
 }
+#gallery .gallery-offset-left{
+        width:95%;
+        margin-left:5%;
+}
+#gallery .gallery-offset-right{
+    width:95%;
+    margin-right:5%;
+}
+.w33-offset{margin-left:7%;}
+.w33-offset{margin-right: 7%}
+.p-1{padding-left: 4%;}
+.p-1{padding-right: 4%;}
+.m-2{padding-left: 0;}
+.m-2{padding-right: 0;}
 @media screen and (min-width: 1200px) {
     .container-wide {
         width: 100%;
@@ -24,12 +38,24 @@
     .column-2 .column-offset{
         margin:0 5%;
     }
+    .column-2 .image-offset{
+        margin:0 5%;
+    } 
+    .column-2 .text-offset-2{
+        margin:0 7%;
+    }      
+    .column-2 .column-offset-2{
+        margin:0 5%;
+    }
     .column-3{
         float:left;
         width:33.333%;
     }
     .column-3 .column-offset{
         margin:0 7.5%;
+    }
+    .column-3 .offset{
+         margin:0 7.5%;
     }
     .column-3-1{
         float:left;
@@ -56,6 +82,10 @@
         width:90%;
         margin:0 5%;
     }
+    #content .column-offset{
+        padding-left: 5%;
+        padding-right: 5%;
+    }
     .column{
         float:left;
         width:100%;
@@ -70,12 +100,24 @@
     .column-2 .column-offset{
         margin:0 5%;
     }
+    .column-2 .image-offset{
+        margin:0 5%;
+    } 
+    .column-2 .column-offset-2{
+        margin:0 5%;
+    }
+    .column-2 .text-offset-2{
+        margin:0 7%;
+    }  
     .column-3{
         float:left;
         width:100%;
     }
     .column-3 .column-offset{
         margin:0 7.5%;
+    }
+    .column-3 .offset{
+         margin:0 7.5%;
     }
     .column-3-1{
         float:left;
@@ -100,7 +142,7 @@
         width: 100%;
     }
     .column-container{
-        width:100%;
+
     }
     #content .column-offset{
         padding-left: 0%;
@@ -120,12 +162,25 @@
     .column-2 .column-offset{
         margin:0 2.5%;
     }
+    .column-2 .image-offset{
+        margin-left:0;
+        margin-right:0;
+    } 
+    .column-2 .text-offset-2{
+        margin:0 2%;
+    }  
+    .column-2 .column-offset-2{
+        margin:0 2.5%;
+    }
     .column-3{
         float:left;
         width:100%;
     }
     .column-3 .column-offset{
         margin:0 2.5%;
+    }
+    .column-3 .offset{
+        margin:0 0%;
     }
     .column-3-1{
         float:left;
@@ -144,15 +199,40 @@
     }
     .no-tablet-v{display:none;}
     .mobile{display:none;}
-    #gallery .gallery-offset{
-        width:95%;
-        margin-left:2.5%;
-        margin-right:2.5%;
+    #gallery .gallery-offset-left{
+            width:100%;
+            margin-left:0%;
+    }
+    #gallery .gallery-offset-right{
+        width:100%;
+        margin-right:0%;
+    }
+    #gallery .border-white{
+        border-left: none;
+        border-right: none;
     }
     #news-list .news-list-offset{
         margin-left: 10px;
         margin-right: 10px;
     }
+    .column-offset.pl05r{
+        padding-left: 0;
+    }
+    .column-offset.pr05r{
+        padding-right: 0;
+    }
+    .column-offset.pl04r{
+        padding-left: 0;
+    }
+    .column-offset.pr04r{
+        padding-right: 0;
+    }
+    .w33-offset{margin-left: 2.5%;}
+    .w33-offset{margin-right: 2.5%;}
+    .p-1{padding-left: 0%;}
+    .p-1{padding-right: 0%;}
+    .m-2{margin-left: 5%;}
+    .m-2{margin-right: 5%;}
 }
 @media screen and (max-width: 480px) {
     .container-wide {
@@ -297,9 +377,27 @@
 .CUSTOM-1 .column-30r{width:30%;float:left;}
 .CUSTOM-1 .column-40r{width:40%;float:left;}
 .CUSTOM-1 .column-50r{width:50%;float:left;}
+.CUSTOM-1 .column-offset-2{
+    margin-left: 5%;
+    margin-right: 5%;
+}
 @media screen and (max-width: 768px) {
-.CUSTOM-1 .column-20r{width:100%;}
-.CUSTOM-1 .column-30r{width:100%;}
-.CUSTOM-1 .column-40r{width:100%;}
-.CUSTOM-1 .column-50r{width:100%;}
+    .CUSTOM-1 .column-20r{width:100%;}
+    .CUSTOM-1 .column-30r{width:100%;}
+    .CUSTOM-1 .column-40r{width:100%;}
+    .CUSTOM-1 .column-50r{width:100%;}
+    .CUSTOM-1 .column-offset-2{
+        margin-left: 2.5%;
+        margin-right: 2.5%;
+    }
+    .CUSTOM-1 .column-50r .pl05r{
+        padding-left: 0%;
+    }
+    .CUSTOM-1 .column-50r .pr05r{
+        padding-right: 0%;
+    }
+    .CUSTOM-1 .column-50r .column-offset{
+        margin-left: 2%;
+        margin-right: 2%;
+    }
 }

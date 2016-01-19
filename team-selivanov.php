@@ -169,7 +169,7 @@
     <div class="column-container">
       <div class="column pt05r block-offset">
         <h3 class="text-center size-12"><div class="w250 line-h40 auto bold bg-white">ПУБЛИКАЦИИ</div></h3>
-        <div class="pl05r pr05r">
+        <div class="line-offset">
           <div class="title-line-teal"></div>
         </div>
       </div>
@@ -198,6 +198,7 @@
               </div>
             </div>
           </div>
+          <div class="clearfix"></div>
     </div>
     <div class="clearfix"></div>
     </div>

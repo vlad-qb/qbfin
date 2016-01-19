@@ -150,7 +150,7 @@
   <div id="text-feed" class="column-container size-14 color-grey1 line-h26">
     <div class="column-2 pt05r">
       <div class="column-offset">
-        <div class="mt20">
+        <div class="">
           <div class="line-h24 size-14">
             <div class="text-center"><img class="icon icon-portfolio" src="/img/bg/01.gif"></div>
             <div class="title-line-teal2"></div>
@@ -162,9 +162,9 @@
         </div>
       </div>
     </div>
-    <div class="column-2 pt05r">
+    <div class="column-2 pt05r block-offset">
       <div class="column-offset">
-        <div class="mt20">
+        <div class="">
           <div class="line-h24 size-14">
             <div class="text-center"><img class="icon icon-portfolio" src="/img/bg/02.gif"></div>
             <div class="title-line-teal2"></div>
@@ -178,11 +178,12 @@
     <div class="clearfix"></div>
   </div>
   <!-- CONTENT -->
+  <div class="clearfix"></div>
   <!-- CONTENT -->
   <div id="text-feed" class="column-container size-14 color-grey1 line-h26">
-    <div class="column-2 pt05r">
+    <div class="column-2 pt05r block-offset">
       <div class="column-offset">
-        <div class="mt20">
+        <div class="">
           <div class="line-h24 size-14">
             <div class="text-center"><img class="icon icon-portfolio" src="/img/bg/03.gif"></div>
             <div class="title-line-teal2"></div>
@@ -193,9 +194,9 @@
         </div>
       </div>
     </div>
-    <div class="column-2 pt05r">
+    <div class="column-2  pt05r block-offset">
       <div class="column-offset">
-        <div class="mt20">
+        <div class="">
           <div class="line-h24 size-14">
             <div class="text-center"><img class="icon icon-portfolio" src="/img/bg/04.gif"></div>
             <div class="title-line-teal2"></div>
@@ -211,9 +212,9 @@
   <!-- CONTENT -->
   <!-- CONTENT -->
   <div id="text-feed" class="column-container size-14 color-grey1 line-h26">
-    <div class="column-2 pt05r">
+    <div class="column-2  pt05r block-offset">
       <div class="column-offset">
-        <div class="mt20">
+        <div class="">
           <div class="line-h24 size-14">
             <div class="text-center"><img class="icon icon-portfolio" src="/img/bg/05.gif"></div>
             <div class="title-line-teal2"></div>
@@ -225,9 +226,9 @@
         </div>
       </div>
     </div>
-    <div class="column-2 pt05r">
+    <div class="column-2  pt05r block-offset">
       <div class="column-offset">
-        <div class="mt20">
+        <div class="">
           <div class="line-h24 size-14">
             <div class="text-center"><img class="icon icon-portfolio" src="/img/bg/06.gif"></div>
             <div class="title-line-teal2"></div>
@@ -243,9 +244,9 @@
   <!-- CONTENT -->
   <!-- CONTENT -->
   <div id="text-feed" class="column-container size-14 color-grey1 line-h26">
-    <div class="column-2 pt05r">
+    <div class="column-2  pt05r block-offset">
       <div class="column-offset">
-        <div class="mt20">
+        <div class="">
           <div class="line-h24 size-14">
             <div class="text-center"><img class="icon icon-portfolio" src="/img/bg/07.gif"></div>
             <div class="title-line-teal2"></div>
@@ -258,9 +259,9 @@
         </div>
       </div>
     </div>
-    <div class="column-2 pt05r">
+    <div class="column-2  pt05r block-offset">
       <div class="column-offset">
-        <div class="mt20">
+        <div class="">
           <div class="line-h24 size-14">
             <div class="text-center"><img class="icon icon-portfolio" src="/img/bg/08.gif"></div>
             <div class="title-line-teal2"></div>
@@ -277,9 +278,9 @@
   <!-- CONTENT -->
   <!-- CONTENT -->
   <div id="text-feed" class="column-container size-14 color-grey1 line-h26">
-    <div class="column-2 pt05r">
+    <div class="column-2  pt05r block-offset">
       <div class="column-offset">
-        <div class="mt20">
+        <div class="">
           <div class="line-h24 size-14">
             <div class="text-center"><img class="icon icon-portfolio" src="/img/bg/09.gif"></div>
             <div class="title-line-teal2"></div>
@@ -290,9 +291,9 @@
         </div>
       </div>
     </div>
-    <div class="column-2 pt05r">
+    <div class="column-2  pt05r block-offset">
       <div class="column-offset">
-        <div class="mt20">
+        <div class="">
           <div class="line-h24 size-14">
             <div class="text-center"><img class="icon icon-portfolio" src="/img/bg/10.gif"></div>
             <div class="title-line-teal2"></div>
@@ -308,9 +309,9 @@
   <!-- CONTENT -->
   <!-- CONTENT -->
   <div id="text-feed" class="column-container size-14 color-grey1 line-h26">
-    <div class="column-2 pt05r">
+    <div class="column-2  pt05r block-offset">
       <div class="column-offset">
-        <div class="mt20">
+        <div class="">
           <div class="line-h24 size-14">
             <div class="text-center"><img class="icon icon-portfolio" src="/img/bg/11.gif"></div>
             <div class="title-line-teal2"></div>
@@ -321,9 +322,9 @@
         </div>
       </div>
     </div>
-    <div class="column-2 pt05r">
+    <div class="column-2  pt05r block-offset">
       <div class="column-offset">
-        <div class="mt20">
+        <div class="">
           <div class="line-h24 size-14">
             <div class="text-center"><img class="icon icon-portfolio" src="/img/bg/12.gif"></div>
             <div class="title-line-teal2"></div>
@@ -339,9 +340,9 @@
   <!-- CONTENT -->
   <!-- CONTENT -->
   <div id="text-feed" class="column-container size-14 color-grey1 line-h26">
-    <div class="column-2 pt05r">
+    <div class="column-2  pt05r block-offset">
       <div class="column-offset">
-        <div class="mt20">
+        <div class="">
           <div class="line-h24 size-14">
             <div class="text-center"><img class="icon icon-portfolio" src="/img/bg/13.gif"></div>
             <div class="title-line-teal2"></div>
@@ -351,9 +352,9 @@
         </div>
       </div>
     </div>
-    <div class="column-2 pt05r">
+    <div class="column-2 pt05r block-offset">
       <div class="column-offset">
-        <div class="mt20">
+        <div class="">
           <div class="line-h24 size-14">
             <div class="text-center"><img class="icon icon-portfolio" src="/img/bg/14.gif"></div>
             <div class="title-line-teal2"></div>
@@ -368,9 +369,9 @@
   <!-- CONTENT -->
   <!-- CONTENT -->
   <div id="text-feed" class="column-container size-14 color-grey1 line-h26">
-    <div class="column-2 pt05r">
+    <div class="column-2 pt05r block-offset">
       <div class="column-offset">
-        <div class="mt20">
+        <div class="">
           <div class="line-h24 size-14">
             <div class="text-center"><img class="icon icon-portfolio" src="/img/bg/15.gif"></div>
             <div class="title-line-teal2"></div>
@@ -381,9 +382,9 @@
         </div>
       </div>
     </div>
-    <div class="column-2 pt05r">
+    <div class="column-2 pt05r block-offset">
       <div class="column-offset">
-        <div class="mt20">
+        <div class="">
           <div class="line-h24 size-14">
             <div class="text-center"><img class="icon icon-portfolio" src="/img/bg/16.gif"></div>
             <div class="title-line-teal2"></div>
@@ -399,9 +400,9 @@
   <!-- CONTENT -->
   <!-- CONTENT -->
   <div id="text-feed" class="column-container size-14 color-grey1 line-h26">
-    <div class="column-2 pt05r">
+    <div class="column-2  pt05r block-offset">
       <div class="column-offset">
-        <div class="mt20">
+        <div class="">
           <div class="line-h24 size-14">
             <div class="text-center"><img class="icon icon-portfolio" src="/img/bg/17.gif"></div>
             <div class="title-line-teal2"></div>
@@ -411,9 +412,9 @@
         </div>
       </div>
     </div>
-    <div class="column-2 pt05r">
+    <div class="column-2  pt05r block-offset">
       <div class="column-offset">
-        <div class="mt20">
+        <div class="">
           <div class="line-h24 size-14">
             <div class="text-center"><img class="icon icon-portfolio" src="/img/bg/18.gif"></div>
             <div class="title-line-teal2"></div>
@@ -423,10 +424,10 @@
         </div>
       </div>
     </div>
-    <div class="clearfix"></div>
+    <div class="clearfix pt05r block-offset"></div>
   </div>
   <!-- CONTENT -->
-  <div class="img-notification-2 w100r pt05r pb05r mt05r" style="background-position: center center;">
+  <div class="img-notification-2 w100r pt05r pb05r " style="background-position: center center;">
     <h4 class="line-h40 uppercase size-14 text-center"><a class="color-white light-gray-hover" href="/connect.php">ПО ВСЕМ ВОПРОСАМ ВЫ МОЖЕТЕ<br/>
       ОБРАТИТЬСЯ К ПРЕДСТАВИТЕЛЯМ<br/>
       КЛИЕНТСКОГО ОФИСА QB FINANCE ИЛИ<br/>

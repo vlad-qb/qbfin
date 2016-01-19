@@ -138,7 +138,7 @@
 <div id="content">
 <div id="news-list" class="column-container">
     <div class="column-2 pt05r">
-      <div class="column-offset">
+      <div class="image-offset">
         <div class="img-reviews-2 h200" style="background-size:cover;background-position:center;">
         </div>
       </div>
@@ -146,15 +146,14 @@
     <div class="column-2 pt05r">
       <div class="column-offset border-grey-top pt02r pl05r pr05r">
         <h2 class="size-12 bold uppercase line-h26"><a href="/reviews-1.php" class="gray-hover">ПОРА ЛИ ВКЛАДЫВАТЬСЯ В ЗОЛОТО?</a></h2>
-        <h4 class="size-12 line-h16 pt05r"><span class="color-teal weight-300">03.09.2015</span><span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span><a href="/archive-reviews-2015.php" class="gray-hover"> архив</a></h4>
-        <br/>
-        <h4 class="size-14 line-h20"><a href="/reviews-1.php" class="gray-hover">На фоне опасений касательно замедления темпов роста экономики Китая и непрекращающейся паники на китайском фондовом рынке усилилось падение котировок промышленных металлов и возобновилось снижение стоимости нефти, что приводит к... </a><span class="color-teal weight-300">></span></h4>
+        <h4 class="size-12 line-h16 pt04r"><span class="color-teal weight-300">03.09.2015</span><span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span><a href="/archive-reviews-2015.php" class="gray-hover"> архив</a></h4>
+        <h4 class="size-14 line-h20 pt04r"><a href="/reviews-1.php" class="gray-hover">На фоне опасений касательно замедления темпов роста экономики Китая и непрекращающейся паники на китайском фондовом рынке усилилось падение котировок промышленных металлов и возобновилось снижение стоимости нефти, что приводит к... </a><span class="color-teal weight-300">></span></h4>
       </div>
     </div>
     <div class="clearfix"></div>
 
     <div class="column-2 pt05r block-offset">
-      <div class="column-offset">
+      <div class="image-offset">
         <div class="img-reviews-3 h200" style="background-size:cover;background-position:center;">
         </div>
       </div>
@@ -162,15 +161,15 @@
     <div class="column-2 pt05r">
       <div class="column-offset border-grey-top pt02r pl05r pr05r">
         <h2 class="size-12 bold uppercase line-h26"><a href="/reviews-1.php" class="gray-hover">ОБЗОР ГРАДООБРАЗУЮЩИХ ПРЕДПРИЯТИЙ СЕВЕРОДВИНСКА</a></h2>
-        <h4 class="size-12 line-h16 pt05r"><span class="color-teal weight-300">28.08.2015</span><span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span><a href="/archive-reviews-2015.php" class="gray-hover"> архив</a></h4>
-        <br/>
-        <h4 class="size-14 line-h20"><a href="/reviews-1.php" class="gray-hover">Северодвинск - Государственный Российский центр атомного судостроения - является одним из самых перспективных моногородов России. Моногород - это населенный пункт, экономическая деятельность которого тесно связана... </a><span class="color-teal weight-300">></span></h4>
+        <h4 class="size-12 line-h16 pt04r"><span class="color-teal weight-300">28.08.2015</span><span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span><a href="/archive-reviews-2015.php" class="gray-hover"> архив</a></h4>
+   
+        <h4 class="size-14 line-h20 pt04r"><a href="/reviews-1.php" class="gray-hover">Северодвинск - Государственный Российский центр атомного судостроения - является одним из самых перспективных моногородов России. Моногород - это населенный пункт, экономическая деятельность которого тесно связана... </a><span class="color-teal weight-300">></span></h4>
       </div>
     </div>
     <div class="clearfix"></div>
 
     <div class="column-2 pt05r block-offset">
-      <div class="column-offset">
+      <div class="image-offset">
         <div class="img-reviews-4 h200" style="background-size:cover;background-position:center;">
         </div>
       </div>
@@ -178,15 +177,15 @@
     <div class="column-2 pt05r">
       <div class="column-offset border-grey-top pt02r pl05r pr05r">
         <h2 class="size-12 bold uppercase line-h26"><a href="/reviews-1.php" class="gray-hover">ЦЕНТРОБАНКИ БОЛЬШЕ НЕ В СИЛАХ ПОДДЕРЖИВАТЬ НАЦИОНАЛЬНЫЕ ВАЛЮТЫ</a></h2>
-        <h4 class="size-12 line-h16 pt05r"><span class="color-teal weight-300">26.08.2015</span><span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span><a href="/archive-reviews-2015.php" class="gray-hover"> архив</a></h4>
-        <br/>
-        <h4 class="size-14 line-h20"><a href="/reviews-1.php" class="gray-hover">В августе этого года Народный Банк Китая решился на девальвацию юаня с целью поддержки экспортоориентированных компаний и стимулирования экономического роста страны. Снижение китайской валюты почти на 3% стало шоком... </a><span class="color-teal weight-300">></span></h4>
+        <h4 class="size-12 line-h16  pt04r"><span class="color-teal weight-300">26.08.2015</span><span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span><a href="/archive-reviews-2015.php" class="gray-hover"> архив</a></h4>
+ 
+        <h4 class="size-14 line-h20 pt04r"><a href="/reviews-1.php" class="gray-hover">В августе этого года Народный Банк Китая решился на девальвацию юаня с целью поддержки экспортоориентированных компаний и стимулирования экономического роста страны. Снижение китайской валюты почти на 3% стало шоком... </a><span class="color-teal weight-300">></span></h4>
       </div>
     </div>
     <div class="clearfix"></div>
 
     <div class="column-2 pt05r block-offset">
-      <div class="column-offset">
+      <div class="image-offset">
         <div class="img-reviews-5 h200" style="background-size:cover;background-position:center;">
         </div>
       </div>
@@ -194,15 +193,15 @@
     <div class="column-2 pt05r">
       <div class="column-offset border-grey-top pt02r pl05r pr05r">
         <h2 class="size-12 bold uppercase line-h26"><a href="/reviews-1.php" class="gray-hover">НАРОДНЫЙ БАНК КИТАЯ ПРОДОЛЖАЕТ ШОКИРОВАТЬ МИРОВЫЕ РЫНКИ</a></h2>
-        <h4 class="size-12 line-h16 pt05r"><span class="color-teal weight-300">24.08.2015</span><span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span><a href="/archive-reviews-2015.php" class="gray-hover"> архив</a></h4>
-        <br/>
-        <h4 class="size-14 line-h20"><a href="/reviews-1.php" class="gray-hover">После публикации ряда отрицательной макроэкономической статистики по китайской экономике, включая статистику по объему экспорта в июле 2015 года, Народный Банк Китая решился на девальвацию юаня. Как результат, регулятор три раза на неделе... </a><span class="color-teal weight-300">></span></h4>
+        <h4 class="size-12 line-h16 pt04r"><span class="color-teal weight-300">24.08.2015</span><span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span><a href="/archive-reviews-2015.php" class="gray-hover"> архив</a></h4>
+ 
+        <h4 class="size-14 line-h20 pt04r"><a href="/reviews-1.php" class="gray-hover">После публикации ряда отрицательной макроэкономической статистики по китайской экономике, включая статистику по объему экспорта в июле 2015 года, Народный Банк Китая решился на девальвацию юаня. Как результат, регулятор три раза на неделе... </a><span class="color-teal weight-300">></span></h4>
       </div>
     </div>
     <div class="clearfix"></div>
 
     <div class="column-2 pt05r block-offset">
-      <div class="column-offset">
+      <div class="image-offset">
         <div class="img-reviews-6 h200" style="background-size:cover;background-position:center;">
         </div>
       </div>
@@ -210,15 +209,15 @@
     <div class="column-2 pt05r">
       <div class="column-offset border-grey-top pt02r pl05r pr05r">
         <h2 class="size-12 bold uppercase line-h26"><a href="/reviews-1.php" class="gray-hover">СМОЖЕТ ЛИ СЕВЕРНЫЙ МОРСКОЙ ПУТЬ СТАТЬ РЕАЛЬНЫМ КОНКУРЕНТОМ ЮЖНЫМ МАРШРУТАМ?</a></h2>
-        <h4 class="size-12 line-h16 pt05r"><span class="color-teal weight-300">20.08.2015</span><span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span><a href="/archive-reviews-2015.php" class="gray-hover"> архив</a></h4>
-        <br/>
-        <h4 class="size-14 line-h20"><a href="/reviews-1.php" class="gray-hover">Северный морской путь (СМП) - кратчайший морской путь из Европы в Азию. Расстояние эталонного маршрута Роттердам-Йокогама по СМП составляет 7,3 тыс. морских миль, в то время как длина альтернативного маршрута... </a><span class="color-teal weight-300">></span></h4>
+        <h4 class="size-12 line-h16 pt04r"><span class="color-teal weight-300">20.08.2015</span><span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span><a href="/archive-reviews-2015.php" class="gray-hover"> архив</a></h4>
+ 
+        <h4 class="size-14 line-h20 pt04r"><a href="/reviews-1.php" class="gray-hover">Северный морской путь (СМП) - кратчайший морской путь из Европы в Азию. Расстояние эталонного маршрута Роттердам-Йокогама по СМП составляет 7,3 тыс. морских миль, в то время как длина альтернативного маршрута... </a><span class="color-teal weight-300">></span></h4>
       </div>
     </div>
     <div class="clearfix"></div>
 
     <div class="column-2 pt05r block-offset">
-      <div class="column-offset">
+      <div class="image-offset">
         <div class="img-reviews-7 h200" style="background-size:cover;background-position:center;">
         </div>
       </div>
@@ -226,9 +225,9 @@
     <div class="column-2 pt05r">
       <div class="column-offset border-grey-top pt02r pl05r pr05r">
         <h2 class="size-12 bold uppercase line-h26"><a href="/reviews-1.php" class="gray-hover">C2C ИЛИ «ПОТРЕБИТЕЛЬ ПОТРЕБИТЕЛЮ»</a></h2>
-        <h4 class="size-12 line-h16 pt05r"><span class="color-teal weight-300">19.08.2015</span><span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span><a href="/archive-reviews-2015.php" class="gray-hover"> архив</a></h4>
-        <br/>
-        <h4 class="size-14 line-h20"><a href="/reviews-1.php" class="gray-hover">C2C (буквально - "Потребитель Потребителю") - бизнес-модель, при которой торговля товарами (оказание услуг) происходит между конечными потребителями. Причем потребители не являются предпринимателями в юридическом смысле этого слова... </a><span class="color-teal weight-300">></span></h4>
+        <h4 class="size-12 line-h16 pt04r"><span class="color-teal weight-300">19.08.2015</span><span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span><a href="/archive-reviews-2015.php" class="gray-hover"> архив</a></h4>
+ 
+        <h4 class="size-14 line-h20 pt04r"><a href="/reviews-1.php" class="gray-hover">C2C (буквально - "Потребитель Потребителю") - бизнес-модель, при которой торговля товарами (оказание услуг) происходит между конечными потребителями. Причем потребители не являются предпринимателями в юридическом смысле этого слова... </a><span class="color-teal weight-300">></span></h4>
       </div>
     </div>
     <div class="clearfix"></div>

@@ -149,7 +149,7 @@
   <div id="content">
   <div id="gallery" class="column-container mt60">
     <div class="column-2">
-      <div class="gallery-offset w95r ml05r border-white">
+      <div class="gallery-offset-left border-white">
         <div class="img-company-2 w100r h200 cover bg-center">
           <a href="/about.php">
             <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60" style="position:absolute;z-index:1;">О НАС</h2>
@@ -163,7 +163,7 @@
       </div>
     </div>
     <div class="column-2">
-      <div class="gallery-offset w95r mr05r border-white">
+      <div class="gallery-offset-right border-white">
         <div class="img-company-3 w100r h200 cover bg-center">
           <a href="/mission.php">
             <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60" style="position:absolute;z-index:1;">МИССИЯ И ЦЕННОСТИ</h2>
@@ -177,7 +177,7 @@
       </div>
     </div>
     <div class="column-2">
-      <div class="gallery-offset w95r ml05r border-white">
+      <div class="gallery-offset-left border-white">
         <div class="img-company-4 w100r h200 cover bg-center">
           <a href="/history.php">
             <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60" style="position:absolute;z-index:1;">ИСТОРИЯ</h2>
@@ -191,7 +191,7 @@
       </div>
     </div>
     <div class="column-2">
-      <div class="gallery-offset w95r mr05r border-white">
+      <div class="gallery-offset-right border-white">
         <div class="img-company-5 w100r h200 cover bg-center">
           <a href="/team.php">
             <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60" style="position:absolute;z-index:1;">РУКОВОДСТВО</h2>
@@ -205,7 +205,7 @@
       </div>
     </div>
     <div class="column-2">
-      <div class="gallery-offset w95r ml05r border-white">
+      <div class="gallery-offset-left border-white">
         <div class="img-company-6 w100r h200 cover bg-center">
           <a href="/clients-and-partners.php">
             <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60" style="position:absolute;z-index:1;">КЛИЕНТЫ И ПАРТНЕРЫ</h2>
@@ -219,7 +219,7 @@
       </div>
     </div>
     <div class="column-2">
-      <div class="gallery-offset w95r mr05r border-white">
+      <div class="gallery-offset-right border-white">
         <div class="img-company-7 w100r h200 cover bg-center">
           <a href="/awards-and-ratings.php">
             <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60" style="position:absolute;z-index:1;">НАГРАДЫ И РЕЙТИНГИ</h2>
@@ -233,7 +233,7 @@
       </div>
     </div>
     <div class="column-2">
-      <div class="gallery-offset w95r ml05r border-white">
+      <div class="gallery-offset-left border-white">
         <div class="img-company-8 w100r h200 cover bg-center">
           <a href="/branch-office.php">
             <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60" style="position:absolute;z-index:1;">ФИЛИАЛЫ</h2>
@@ -247,7 +247,7 @@
       </div>
     </div>
     <div class="column-2">
-      <div class="gallery-offset w95r mr05r border-white">
+      <div class="gallery-offset-right border-white">
         <div class="img-company-9 w100r h200 cover bg-center">
           <a href="/documents.php">
             <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60" style="position:absolute;z-index:1;">ДОКУМЕНТЫ</h2>

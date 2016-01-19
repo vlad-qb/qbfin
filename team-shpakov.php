@@ -187,12 +187,12 @@
         </div>
       </div>
     </div>
-    <div class="clearfix block-offset"></div>
+    <div class="clearfix"></div>
   </div>
   <!-- /ALERT -->
   <!--Text-->
   <div class="column-container size-14 line-h20">
-    <div class="column-2 pt05r">
+    <div class="column-2 pt05r block-offset">
       <div class="column-offset">
         <p class="size-14 weight-300"><span class="bold">Е</span>ще один сложный вопрос - зарубежные юрисдикции и их специфические требования, особенно в условиях меняющейся экономической и политической обстановки.</p>
         <p class="mt20 size-14 weight-300">Самый свежий пример - Кипр. Один из наших клиентов на протяжении многих лет успешно работал через фонд на Кипре. Разгоревшаяся весной этого года ситуация вынудила его искать более надежные варианты, не изменяя качественных характеристик региона, которому он до этого отдавал предпочтение.</p>
@@ -222,12 +222,12 @@
         </div>
       </div>
     </div>
-    <div class="clearfix block-offset"></div>
+    <div class="clearfix "></div>
   </div>
   <!-- /ALERT -->
   <!--Text-->
   <div class="column-container size-14 line-h20">
-    <div class="column-2 pt05r">
+    <div class="column-2 pt05r block-offset">
       <div class="column-offset">
         <p class="size-14 weight-300"><span class="bold">О</span>днажды одному из менеджеров поступил тревожный звонок от действующего клиента, который был весьма озадачен своей ситуацией. Клиенту нужна была помощь в подборе имиджмейкера на время отсутствия постоянного. Задавать вопросы вроде «почему вы решили обратиться именно к нам?» мы и не думали, желание клиента попросить нас о помощи в любом важном для него деле - порой просто награда.</p>
       </div>

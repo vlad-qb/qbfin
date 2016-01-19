@@ -140,7 +140,7 @@
   <div id="content">
   <div id="news-list" class="column-container">
     <div class="column-2 pt05r">
-      <div class="column-offset">
+      <div class="image-offset">
         <div class="img-expert-2 h200" style="background-size:cover;background-position:center;">
         </div>
       </div>
@@ -148,14 +148,13 @@
     <div class="column-2 pt05r">
       <div class="column-offset border-grey-top pt02r pl05r pr05r">
         <h2 class="size-12 bold uppercase line-h26"><a href="/reviews-1.php" class="gray-hover">НЕДВИЖИМАЯ ДИВЕРСИФИКАЦИЯ</a></h2>
-        <h4 class="size-12 line-h16 pt05r"><span class="color-teal weight-300">05.07.2015 </span><span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span><a href="/archive-news.php" class="gray-hover"> архив</a></h4>
-        <br/>
-        <h4 class="size-14 line-h20"><a href="/reviews-1.php" class="gray-hover h60 ellipsis">Holding Alibaba Group Holding - крупнейшая в Китае компания, специализирующаяся на интернет - торговле. В 2013 году корпорация реализовала 11,3 млрд. заказов на общую сумму более $248 млрд... </a><span class="color-teal weight-300">></span></h4>
+        <h4 class="size-12 line-h16 pt04r"><span class="color-teal weight-300">05.07.2015 </span><span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span><a href="/archive-news.php" class="gray-hover"> архив</a></h4>
+        <h4 class="size-14 line-h20 pt04r"><a href="/reviews-1.php" class="gray-hover h60 ellipsis">Holding Alibaba Group Holding - крупнейшая в Китае компания, специализирующаяся на интернет - торговле. В 2013 году корпорация реализовала 11,3 млрд. заказов на общую сумму более $248 млрд... </a><span class="color-teal weight-300">></span></h4>
       </div>
     </div>
-    <div class="clearfix block-offset"></div>
-    <div class="column-2 pt05r">
-      <div class="column-offset">
+    <div class="clearfix"></div>
+    <div class="column-2 pt05r block-offset">
+      <div class="image-offset">
         <div class="img-expert-3 h200" style="background-size:cover;background-position:center;">
         </div>
       </div>
@@ -163,14 +162,13 @@
     <div class="column-2 pt05r">
       <div class="column-offset border-grey-top pt02r pl05r pr05r">
         <h2 class="size-12 bold uppercase line-h26"><a href="/reviews-1.php" class="gray-hover">ЖИЗНЬ ПОСЛЕ ДЕОФШОРИЗАЦИИ - ПРОЕКТ: SPEAR'S RUSSIA</a></h2>
-        <h4 class="size-12 line-h16 pt05r"><span class="color-teal weight-300">12.05.2015 </span><span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span><a href="/archive-news.php" class="gray-hover"> архив</a></h4>
-        <br/>
-        <h4 class="size-14 line-h20"><a href="/reviews-1.php" class="gray-hover h60 ellipsis">Holding Alibaba Group Holding - крупнейшая в Китае компания, специализирующаяся на интернет - торговле. В 2013 году корпорация реализовала 11,3 млрд. заказов на общую сумму более $248 млрд... </a><span class="color-teal weight-300">></span></h4>
+        <h4 class="size-12 line-h16 pt04r"><span class="color-teal weight-300">12.05.2015 </span><span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span><a href="/archive-news.php" class="gray-hover"> архив</a></h4>
+        <h4 class="size-14 line-h20 pt04r"><a href="/reviews-1.php" class="gray-hover h60 ellipsis">Holding Alibaba Group Holding - крупнейшая в Китае компания, специализирующаяся на интернет - торговле. В 2013 году корпорация реализовала 11,3 млрд. заказов на общую сумму более $248 млрд... </a><span class="color-teal weight-300">></span></h4>
       </div>
     </div>
-    <div class="clearfix block-offset"></div>
-    <div class="column-2 pt05r">
-      <div class="column-offset">
+    <div class="clearfix"></div>
+    <div class="column-2 pt05r block-offset">
+      <div class="image-offset">
         <div class="img-expert-4 h200" style="background-size:cover;background-position:center;">
         </div>
       </div>
@@ -178,14 +176,13 @@
     <div class="column-2 pt05r">
       <div class="column-offset border-grey-top pt02r pl05r pr05r">
         <h2 class="size-12 bold uppercase line-h26"><a href="/reviews-1.php" class="gray-hover">ШЕЛКОВЫЙ ДРАКОН</a></h2>
-        <h4 class="size-12 line-h16 pt05r"><span class="color-teal weight-300">17.04.2015 </span><span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span><a href="/archive-news.php" class="gray-hover"> архив</a></h4>
-        <br/>
-        <h4 class="size-14 line-h20"><a href="/reviews-1.php" class="gray-hover h60 ellipsis">Holding Alibaba Group Holding - крупнейшая в Китае компания, специализирующаяся на интернет - торговле. В 2013 году корпорация реализовала 11,3 млрд. заказов на общую сумму более $248 млрд... </a><span class="color-teal weight-300">></span></h4>
+        <h4 class="size-12 line-h16 pt04r"><span class="color-teal weight-300">17.04.2015 </span><span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span><a href="/archive-news.php" class="gray-hover"> архив</a></h4>
+        <h4 class="size-14 line-h20 pt04r"><a href="/reviews-1.php" class="gray-hover h60 ellipsis">Holding Alibaba Group Holding - крупнейшая в Китае компания, специализирующаяся на интернет - торговле. В 2013 году корпорация реализовала 11,3 млрд. заказов на общую сумму более $248 млрд... </a><span class="color-teal weight-300">></span></h4>
       </div>
     </div>
-    <div class="clearfix block-offset"></div>
-    <div class="column-2 pt05r">
-      <div class="column-offset">
+    <div class="clearfix"></div>
+    <div class="column-2 pt05r block-offset">
+      <div class="image-offset">
         <div class="img-expert-5 h200" style="background-size:cover;background-position:center;">
         </div>
       </div>
@@ -193,14 +190,13 @@
     <div class="column-2 pt05r">
       <div class="column-offset border-grey-top pt02r pl05r pr05r">
         <h2 class="size-12 bold uppercase line-h26"><a href="/reviews-1.php" class="gray-hover">ЭКСКЛЮЗИВ НА ФОНДОВОМ РЫНКЕ</a></h2>
-        <h4 class="size-12 line-h16 pt05r"><span class="color-teal weight-300">05.12.2014 </span><span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span><a href="/archive-news.php" class="gray-hover"> архив</a></h4>
-        <br/>
-        <h4 class="size-14 line-h20"><a href="/reviews-1.php" class="gray-hover h60 ellipsis">Holding Alibaba Group Holding - крупнейшая в Китае компания, специализирующаяся на интернет - торговле. В 2013 году корпорация реализовала 11,3 млрд. заказов на общую сумму более $248 млрд... </a><span class="color-teal weight-300">></span></h4>
+        <h4 class="size-12 line-h16 pt04r"><span class="color-teal weight-300">05.12.2014 </span><span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span><a href="/archive-news.php" class="gray-hover"> архив</a></h4>
+        <h4 class="size-14 line-h20 pt04r"><a href="/reviews-1.php" class="gray-hover h60 ellipsis">Holding Alibaba Group Holding - крупнейшая в Китае компания, специализирующаяся на интернет - торговле. В 2013 году корпорация реализовала 11,3 млрд. заказов на общую сумму более $248 млрд... </a><span class="color-teal weight-300">></span></h4>
       </div>
     </div>
-    <div class="clearfix block-offset"></div>
-    <div class="column-2 pt05r">
-      <div class="column-offset">
+    <div class="clearfix"></div>
+    <div class="column-2 pt05r block-offset">
+      <div class="image-offset">
         <div class="img-expert-6 h200" style="background-size:cover;background-position:center;">
         </div>
       </div>
@@ -208,14 +204,13 @@
     <div class="column-2 pt05r">
       <div class="column-offset border-grey-top pt02r pl05r pr05r">
         <h2 class="size-12 bold uppercase line-h26"><a href="/reviews-1.php" class="gray-hover">ТОЧКИ РОСТА</a></h2>
-        <h4 class="size-12 line-h16 pt05r"><span class="color-teal weight-300">08.11.2014 </span><span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span><a href="/archive-news.php" class="gray-hover"> архив</a></h4>
-        <br/>
-        <h4 class="size-14 line-h20"><a href="/reviews-1.php" class="gray-hover h60 ellipsis">Holding Alibaba Group Holding - крупнейшая в Китае компания, специализирующаяся на интернет - торговле. В 2013 году корпорация реализовала 11,3 млрд. заказов на общую сумму более $248 млрд... </a><span class="color-teal weight-300">></span></h4>
+        <h4 class="size-12 line-h16 pt04r"><span class="color-teal weight-300">08.11.2014 </span><span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span><a href="/archive-news.php" class="gray-hover"> архив</a></h4>
+        <h4 class="size-14 line-h20 pt04r"><a href="/reviews-1.php" class="gray-hover h60 ellipsis">Holding Alibaba Group Holding - крупнейшая в Китае компания, специализирующаяся на интернет - торговле. В 2013 году корпорация реализовала 11,3 млрд. заказов на общую сумму более $248 млрд... </a><span class="color-teal weight-300">></span></h4>
       </div>
     </div>
-    <div class="clearfix block-offset"></div>
-    <div class="column-2 pt05r">
-      <div class="column-offset">
+    <div class="clearfix"></div>
+    <div class="column-2 pt05r block-offset">
+      <div class="image-offset">
         <div class="img-expert-7 h200" style="background-size:cover;background-position:center;">
         </div>
       </div>
@@ -223,14 +218,13 @@
     <div class="column-2 pt05r">
       <div class="column-offset border-grey-top pt02r pl05r pr05r">
         <h2 class="size-12 bold uppercase line-h26"><a href="/reviews-1.php" class="gray-hover">ЛИКВИДНАЯ НЕДВИЖИМОСТЬ</a></h2>
-        <h4 class="size-12 line-h16 pt05r"><span class="color-teal weight-300">12.10.2014 </span><span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span><a href="/archive-news.php" class="gray-hover"> архив</a></h4>
-        <br/>
-        <h4 class="size-14 line-h20"><a href="/reviews-1.php" class="gray-hover h60 ellipsis">Holding Alibaba Group Holding - крупнейшая в Китае компания, специализирующаяся на интернет - торговле. В 2013 году корпорация реализовала 11,3 млрд. заказов на общую сумму более $248 млрд... </a><span class="color-teal weight-300">></span></h4>
+        <h4 class="size-12 line-h16 pt04r"><span class="color-teal weight-300">12.10.2014 </span><span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span><a href="/archive-news.php" class="gray-hover"> архив</a></h4>
+        <h4 class="size-14 line-h20 pt04r"><a href="/reviews-1.php" class="gray-hover h60 ellipsis">Holding Alibaba Group Holding - крупнейшая в Китае компания, специализирующаяся на интернет - торговле. В 2013 году корпорация реализовала 11,3 млрд. заказов на общую сумму более $248 млрд... </a><span class="color-teal weight-300">></span></h4>
       </div>
     </div>
-    <div class="clearfix block-offset"></div>
-    <div class="column-2 pt05r">
-      <div class="column-offset">
+    <div class="clearfix"></div>
+    <div class="column-2 pt05r block-offset">
+      <div class="image-offset">
         <div class="img-expert-8 h200" style="background-size:cover;background-position:center;">
         </div>
       </div>
@@ -238,14 +232,13 @@
     <div class="column-2 pt05r">
       <div class="column-offset border-grey-top pt02r pl05r pr05r">
         <h2 class="size-12 bold uppercase line-h26"><a href="/reviews-1.php" class="gray-hover">ЧЕЛОВЕК С ОДНИМ МИЛЛИОНОМ ДОЛЛАРОВ</a></h2>
-        <h4 class="size-12 line-h16 pt05r"><span class="color-teal weight-300">15.09.2014 </span><span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span><a href="/archive-news.php" class="gray-hover"> архив</a></h4>
-        <br/>
-        <h4 class="size-14 line-h20"><a href="/reviews-1.php" class="gray-hover h60 ellipsis">Holding Alibaba Group Holding - крупнейшая в Китае компания, специализирующаяся на интернет - торговле. В 2013 году корпорация реализовала 11,3 млрд. заказов на общую сумму более $248 млрд... </a><span class="color-teal weight-300">></span></h4>
+        <h4 class="size-12 line-h16 pt04r"><span class="color-teal weight-300">15.09.2014 </span><span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span><a href="/archive-news.php" class="gray-hover"> архив</a></h4>
+        <h4 class="size-14 line-h20 pt04r"><a href="/reviews-1.php" class="gray-hover h60 ellipsis">Holding Alibaba Group Holding - крупнейшая в Китае компания, специализирующаяся на интернет - торговле. В 2013 году корпорация реализовала 11,3 млрд. заказов на общую сумму более $248 млрд... </a><span class="color-teal weight-300">></span></h4>
       </div>
     </div>
-    <div class="clearfix block-offset"></div>
-    <div class="column-2 pt05r">
-      <div class="column-offset">
+    <div class="clearfix"></div>
+    <div class="column-2 pt05r block-offset">
+      <div class="image-offset">
         <div class="img-expert-9 h200" style="background-size:cover;background-position:center;">
         </div>
       </div>
@@ -253,9 +246,8 @@
     <div class="column-2 pt05r">
       <div class="column-offset border-grey-top pt02r pl05r pr05r">
         <h2 class="size-12 bold uppercase line-h26"><a href="/reviews-1.php" class="gray-hover">АФРИКА ДЛЯ БИЗНЕСА</a></h2>
-        <h4 class="size-12 line-h16 pt05r"><span class="color-teal weight-300">07.09.2014 </span><span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span><a href="/archive-news.php" class="gray-hover"> архив</a></h4>
-        <br/>
-        <h4 class="size-14 line-h20"><a href="/reviews-1.php" class="gray-hover h60 ellipsis">Holding Alibaba Group Holding - крупнейшая в Китае компания, специализирующаяся на интернет - торговле. В 2013 году корпорация реализовала 11,3 млрд. заказов на общую сумму более $248 млрд... </a><span class="color-teal weight-300">></span></h4>
+        <h4 class="size-12 line-h16 pt04r"><span class="color-teal weight-300">07.09.2014 </span><span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span><a href="/archive-news.php" class="gray-hover"> архив</a></h4>
+        <h4 class="size-14 line-h20 pt04r"><a href="/reviews-1.php" class="gray-hover h60 ellipsis">Holding Alibaba Group Holding - крупнейшая в Китае компания, специализирующаяся на интернет - торговле. В 2013 году корпорация реализовала 11,3 млрд. заказов на общую сумму более $248 млрд... </a><span class="color-teal weight-300">></span></h4>
       </div>
     </div>
   </div>

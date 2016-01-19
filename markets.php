@@ -138,56 +138,51 @@
 <div id="content">
 <div id="gallery" class="column-container">
   <div class="column-2 pt05r">
-    <div class="column-offset">
+    <div class="image-offset border-grey-bottom pb02r">
       <div class="img-markets-2 h200 cover bg-center">
 
       </div>
-      <div class="border-grey-top mt10">
-        <h2 class="size-12 uppercase line-h50"><a href="/markets-review-08-2015.php" class="gray-hover bold">РЫНКИ ЗА НЕДЕЛЮ </a><span class="color-teal weight-300">></span></h2>
-        <h4 class="size-12 line-h16"><span class="color-teal weight-300">08 - 15 мая 2015 года </span><span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span><a href="/archive-news.php" class="gray-hover"> архив</a></h4>
-        <br/>
-        <h4 class="size-14 line-h20"><a href="/markets-review-08-2015.php" class="gray-hover h60 ellipsis">По итогам недели, с окончанием 28 августа, основные мировые биржевые индексы закрылись разнонаправленно. Главной темой для инвесторов остался вопрос замедления темпов роста экономики Китая... </a><span class="color-teal weight-300">></span></h4>
-      </div>
+    </div>
+    <div class="text-offset-2 line-h22">
+        <h2 class="size-12 uppercase pt03r"><a href="/markets-review-08-2015.php" class="gray-hover bold">РЫНКИ ЗА НЕДЕЛЮ </a><span class="color-teal weight-300">></span></h2>
+        <h4 class="size-12 pt04r"><span class="color-teal weight-300">08 - 15 мая 2015 года </span><span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span><a href="/archive-news.php" class="gray-hover"> архив</a></h4>
+        <h4 class="size-14 pt04r"><a href="/markets-review-08-2015.php" class="gray-hover h60 ellipsis">По итогам недели, с окончанием 28 августа, основные мировые биржевые индексы закрылись разнонаправленно. Главной темой для инвесторов остался вопрос замедления темпов роста экономики Китая... </a><span class="color-teal weight-300">></span></h4>
     </div>
   </div>
   <div class="column-2 pt05r block-offset">
-    <div class="column-offset">
+    <div class="image-offset border-grey-bottom pb02r">
       <div class="img-markets-3 h200 cover bg-center">
 
       </div>
-      <div class="border-grey-top mt10">
-        <h2 class="size-12 uppercase line-h50"><a href="/markets-review-08-2015.php" class="gray-hover bold">РЫНКИ ЗА МЕСЯЦ </a><span class="color-teal weight-300">></span></h2>
-        <h4 class="size-12 line-h16"><span class="color-teal weight-300">МАЙ 2015 </span><span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span><a href="/archive-news.php" class="gray-hover"> архив</a></h4>
-        <br/>
-        <h4 class="size-14 line-h20"><a href="/markets-review-08-2015.php" class="gray-hover h60 ellipsis">По итогам недели, с окончанием 28 августа, основные мировые биржевые индексы закрылись разнонаправленно. Главной темой для инвесторов остался вопрос замедления темпов роста экономики Китая... </a><span class="color-teal weight-300">></span></h4>
-      </div>
+    </div>
+    <div class="text-offset-2 line-h22">
+        <h2 class="size-12 uppercase pt03r"><a href="/markets-review-08-2015.php" class="gray-hover bold">РЫНКИ ЗА МЕСЯЦ </a><span class="color-teal weight-300">></span></h2>
+        <h4 class="size-12 pt04r"><span class="color-teal weight-300">МАЙ 2015 </span><span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span><a href="/archive-news.php" class="gray-hover"> архив</a></h4>
+        <h4 class="size-14 pt04r"><a href="/markets-review-08-2015.php" class="gray-hover h60 ellipsis">По итогам недели, с окончанием 28 августа, основные мировые биржевые индексы закрылись разнонаправленно. Главной темой для инвесторов остался вопрос замедления темпов роста экономики Китая... </a><span class="color-teal weight-300">></span></h4>
     </div>
   </div>
-  <div class="clearfix"></div>
   <div class="column-2 pt05r block-offset">
-    <div class="column-offset">
+    <div class="image-offset border-grey-bottom pb02r">
       <div class="img-markets-4 h200 cover bg-center">
 
       </div>
-      <div class="border-grey-top mt10">
-        <h2 class="size-12 uppercase line-h50"><a href="/markets-review-08-2015.php" class="gray-hover bold">КВАРТАЛЬНЫЙ ОБЗОР РЫНКОВ </a><span class="color-teal weight-300">></span></h2>
-        <h4 class="size-12 line-h16"><span class="color-teal weight-300">3 КВАРТАЛ 2015 </span><span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span><a href="/archive-news.php" class="gray-hover"> архив</a></h4>
-        <br/>
-        <h4 class="size-14 line-h20"><a href="/markets-review-08-2015.php" class="gray-hover h60 ellipsis">По итогам недели, с окончанием 28 августа, основные мировые биржевые индексы закрылись разнонаправленно. Главной темой для инвесторов остался вопрос замедления темпов роста экономики Китая... </a><span class="color-teal weight-300">></span></h4>
-      </div>
+    </div>
+    <div class="text-offset-2 line-h22">
+        <h2 class="size-12 uppercase pt03r"><a href="/markets-review-08-2015.php" class="gray-hover bold">КВАРТАЛЬНЫЙ ОБЗОР РЫНКОВ </a><span class="color-teal weight-300">></span></h2>
+        <h4 class="size-12 pt04r"><span class="color-teal weight-300">3 КВАРТАЛ 2015 </span><span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span><a href="/archive-news.php" class="gray-hover"> архив</a></h4>
+        <h4 class="size-14 pt04r"><a href="/markets-review-08-2015.php" class="gray-hover h60 ellipsis">По итогам недели, с окончанием 28 августа, основные мировые биржевые индексы закрылись разнонаправленно. Главной темой для инвесторов остался вопрос замедления темпов роста экономики Китая... </a><span class="color-teal weight-300">></span></h4>
     </div>
   </div>
   <div class="column-2 pt05r block-offset">
-    <div class="column-offset">
+    <div class="image-offset border-grey-bottom pb02r">
       <div class="img-markets-5 h200 cover bg-center">
 
       </div>
-      <div class="border-grey-top mt10">
-        <h2 class="size-12 uppercase line-h50"><a href="/markets-review-08-2015.php" class="gray-hover bold">ГОДОВОЙ ОБЗОР РЫНКОВ </a><span class="color-teal weight-300">></span></h2>
-        <h4 class="size-12 line-h16"><span class="color-teal weight-300">2015 </span><span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span><a href="/archive-news.php" class="gray-hover"> архив</a></h4>
-        <br/>
-        <h4 class="size-14 line-h20 h60 overflow-hidden"><a href="/markets-review-08-2015.php" class="gray-hover h60 ellipsis">По итогам недели, с окончанием 28 августа, основные мировые биржевые индексы закрылись разнонаправленно. Главной темой для инвесторов остался вопрос замедления темпов роста экономики Китая... </a><span class="color-teal weight-300">></span></h4>
-      </div>
+    </div>
+    <div class="text-offset-2 line-h22">
+        <h2 class="size-12 uppercase pt03r"><a href="/markets-review-08-2015.php" class="gray-hover bold">ГОДОВОЙ ОБЗОР РЫНКОВ </a><span class="color-teal weight-300">></span></h2>
+        <h4 class="size-12 pt04r"><span class="color-teal weight-300">2015 </span><span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span><a href="/archive-news.php" class="gray-hover"> архив</a></h4>
+        <h4 class="size-14 pt04r"><a href="/markets-review-08-2015.php" class="gray-hover h60 ellipsis">По итогам недели, с окончанием 28 августа, основные мировые биржевые индексы закрылись разнонаправленно. Главной темой для инвесторов остался вопрос замедления темпов роста экономики Китая... </a><span class="color-teal weight-300">></span></h4>
     </div>
   </div>
   <div class="clearfix"></div>

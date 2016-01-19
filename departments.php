@@ -136,7 +136,7 @@
     <div class="column-container">
       <div class="line-h20 size-14">
         <div class="w33r l pt05r">
-          <div class="border-left-lightgray border-right-lightgray ml05r mr05r pl05r pr05r">
+          <div class="w33-offset border-left-lightgray border-right-lightgray pl05r pr05r">
             <h4 class="text-center"><img class="icon icon-services" src="img/icons/icon-department.svg"></h4>
             <h4 class="size-14 text-center uppercase line-h30 mt15 color-teal">ДЕПАРТАМЕНТ КОРПОРАТИВНЫХ ФИНАНСОВ</h4>
             <p class="mt25 size-14 ml07r mr07r"><span class="bold">Д</span>епартамент способен оказать всю необходимую помощь нашим клиентам, заинтересованным в проведении оценки или аудита своего бизнеса. Ведь достоверная информация о ключевых показателях компании и оценка эффективности необходима в планировании бизнеса на долгие годы вперед. Помимо этого наши специалисты могут предоставить консультации и помочь в совершении сделок по реструктуризации бизнеса или привлечения финансирования для клиентов, готовых вывести свой бизнес на новый более высокий уровень.</p>
@@ -148,7 +148,7 @@
         </div>
         
         <div class="w33r l pt05r block-offset">
-          <div class="border-left-lightgray border-right-lightgray ml05r mr05r pl05r pr05r">
+          <div class="w33-offset border-left-lightgray border-right-lightgray pl05r pr05r">
             <h4 class="text-center"><img class="icon icon-services" src="img/icons/icon-department.svg"></h4>
             <h4 class="size-14 text-center uppercase line-h30 mt15 color-teal">ЮРИДИЧЕСКИЙ ДЕПАРТАМЕНТ</h4>
             <p class="mt25 size-14 ml07r mr07r"><span class="bold">О</span>сновная задача этого подразделения - это обеспечение надежной правовой защиты бизнеса как компании, так и ее клиентов. Выстраивание правильной системы взаимоотношений с нашими клиентами и для наших клиентов в условиях постоянно изменяющейся мировой экономики требует профессиональной эрудиции, оперативности, индивидуальной и командной дисциплины. Стабильное выполнение данной задачи является абсолютным императивом.</p>
@@ -160,7 +160,7 @@
         </div>
         
         <div class="w33r l pt05r block-offset">
-          <div class="border-left-lightgray border-right-lightgray ml05r mr05r pl05r pr05r">
+          <div class="w33-offset border-left-lightgray border-right-lightgray pl05r pr05r">
             <h4 class="text-center"><img class="icon icon-services" src="img/icons/icon-department.svg"></h4>
             <h4 class="size-14 text-center uppercase line-h30 mt15 color-teal">ДЕПАРТАМЕНТ МЕЖДУНАРОДНОГО ТРЕЙДИНГА</h4>
             <p class="mt25 size-14 ml07r mr07r"><span class="bold">С</span>пециалисты Департамента международного трейдинга осуществляют реализацию инвестиционных стратегий и торговых идей. В сферу их компетенции входит технический анализ основных фондовых и сырьевых рынков, а также анализ котировок внутри торгового дня. Ключевыми функциями данного департамента являются разработка и контроль за системой риск-менеджмента и управление активами как наших клиентов, так и самой компании.</p>
@@ -185,18 +185,20 @@
     <div class="column-container">
       <div class="mt5 line-h20 size-14">
         <div class="w33r l pt05r block-offset">
-          <div class="border-left-lightgray border-right-lightgray ml05r mr05r pl05r pr05r">
-            <h4 class="text-center"><img class="icon icon-services" src="img/icons/icon-department.svg"></h4>
-            <h4 class="size-14 text-center uppercase line-h30 mt15 color-teal">ДЕПАРТАМЕНТ АЛГОРИТМИЧЕСКОГО <br/>ТРЕЙДИНГА</h4>
-            <p class="mt25 size-14 ml07r mr07r"><span class="bold">Д</span>еятельность данного департамента связана с созданием и осуществлением работы современных алгоритмических и высокочастотных систем осуществления торговли на международных фондовых площадках. Благодаря работе специалистов этого департамента, наша компания может молниеносно реагировать на любые мировые события и извлекать из них прибыль для наших клиентов.</p>
-            <p class="mt15 mb15 size-14 ml07r mr07r"><span class="bold">В</span> штат входят выпускники ведущих технических высших учебных заведений России и Европы. Это позволяет достичь соответствия наших торговых систем высочайшим стандартам мирового уровня.</p>
-            <div class="column-offset">
-              <h3 class="text-center size-14"><div class="w100r h40 line-h40 auto bg-lightgray lightgray-block-hover2"><a class="color-teal" href="/vacancies.php">актуальные вакансии ></a></div></h3>
+          <div class="w33-offset">
+            <div class="border-left-lightgray border-right-lightgray pl05r pr05r">
+              <h4 class="text-center"><img class="icon icon-services" src="img/icons/icon-department.svg"></h4>
+              <h4 class="size-14 text-center uppercase line-h30 mt15 color-teal">ДЕПАРТАМЕНТ АЛГОРИТМИЧЕСКОГО <br/>ТРЕЙДИНГА</h4>
+              <p class="mt25 size-14 ml07r mr07r"><span class="bold">Д</span>еятельность данного департамента связана с созданием и осуществлением работы современных алгоритмических и высокочастотных систем осуществления торговли на международных фондовых площадках. Благодаря работе специалистов этого департамента, наша компания может молниеносно реагировать на любые мировые события и извлекать из них прибыль для наших клиентов.</p>
+              <p class="mt15 mb15 size-14 ml07r mr07r"><span class="bold">В</span> штат входят выпускники ведущих технических высших учебных заведений России и Европы. Это позволяет достичь соответствия наших торговых систем высочайшим стандартам мирового уровня.</p>
+              <div class="column-offset">
+                <h3 class="text-center size-14"><div class="w100r h40 line-h40 auto bg-lightgray lightgray-block-hover2"><a class="color-teal" href="/vacancies.php">актуальные вакансии ></a></div></h3>
+              </div>
             </div>
           </div>
         </div>
         <div class="w33r l pt05r block-offset">
-          <div class="border-left-lightgray border-right-lightgray ml05r mr05r pl05r pr05r">
+          <div class="w33-offset border-left-lightgray border-right-lightgray  pl05r pr05r">
             <h4 class="text-center"><img class="icon icon-services" src="img/icons/icon-department.svg"></h4>
             <h4 class="size-14 text-center uppercase line-h30 mt15 color-teal">ДЕПАРТАМЕНТ ИНВЕСТИЦИОННЫХ УСЛУГ</h4>
             <p class="mt25 size-14 ml07r mr07r"><span class="bold">Д</span>епартамент инвестиционных услуг - это команда финансовых консультантов, готовых 24 часа 7 дней в неделю помочь в принятии финансовых решений. Тот, кто выбирает нас, не сомневается в том, что в его интересах действуют специалисты, заинтересованные в положительном для клиента результате. Нам важны комфорт и уверенность клиентов в вопросе выбора направления инвестирования средств, будь то доверительное или консультационное управление активами.</p>
@@ -207,7 +209,7 @@
           </div>
         </div>
         <div class="w33r l pt05r block-offset">
-          <div class="border-left-lightgray border-right-lightgray ml05r mr05r pl05r pr05r">
+          <div class="w33-offset border-left-lightgray border-right-lightgray pl05r pr05r">
             <h4 class="text-center"><img class="icon icon-services" src="img/icons/icon-department.svg"></h4>
             <h4 class="size-14 text-center uppercase line-h30 mt15 color-teal">ДЕПАРТАМЕНТ МАРКЕТИНГА</h4>
             <p class="mt25 size-14 ml07r mr07r"><span class="bold">В</span> рамках расширения деятельности компании департамент Маркетинга формирует устойчивую репутацию восприятия бренда не только в рамках России, но и на международном рынке финансовых услуг. Это безусловно сложная, но стоящая затрачиваемых усилий задача.</p>
@@ -233,7 +235,7 @@
     <div class="column-container">
       <div class="mt5 line-h20 size-14">
         <div class="w33r l pt05r block-offset">
-          <div class="border-left-lightgray border-right-lightgray ml05r mr05r pl05r pr05r">
+          <div class="w33-offset border-left-lightgray border-right-lightgray pl05r pr05r">
             <h4 class="text-center"><img class="icon icon-services" src="img/icons/icon-department.svg"></h4>
             <h4 class="size-14 text-center uppercase line-h30 mt15 color-teal">АНАЛИТИЧЕСКИЙ ДЕПАРТАМЕНТ</h4>
             <p class="mt25 size-14 ml07r mr07r"><span class="bold">К</span> сфере компетенции Аналитического департамента относится фундаментальный анализ основных финансовых и сырьевых рынков, анализ финансового состояния эмитентов, разработка и калибровка инвестиционных стратегий, а также генерация инвестиционных идей и предоставление торговых рекомендаций для клиентов нашей компании.</p>
@@ -247,7 +249,7 @@
         </div>
 
         <div class="w33r l pt05r block-offset">
-          <div class="border-left-lightgray border-right-lightgray ml05r mr05r pl05r pr05r">
+          <div class="w33-offset border-left-lightgray border-right-lightgray pl05r pr05r">
             <h4 class="text-center"><img class="icon icon-services" src="img/icons/icon-department.svg"></h4>
             <h4 class="size-14 text-center uppercase line-h30 mt15 color-teal">ДЕПАРТАМЕНТ ПО РАБОТЕ С ПЕРСОНАЛОМ</h4>
             <p class="mt25 size-14 ml07r mr07r"><span class="bold">Д</span>епартамент по работе с персоналом занимается поиском и наймом новых сотрудников, а также предоставлением для существующих специалистов различных возможностей для обучения и карьерного роста. Работа департамента нацелена на создание лучших условий труда и повышения качества жизни наших сотрудников.</p>
@@ -261,7 +263,7 @@
         </div>
 
         <div class="w33r l pt05r block-offset">
-          <div class="border-left-lightgray border-right-lightgray ml05r mr05r pl05r pr05r">
+          <div class="w33-offset border-left-lightgray border-right-lightgray pl05r pr05r">
             <h4 class="text-center"><img class="icon icon-services" src="img/icons/icon-department.svg"></h4>
             <h4 class="size-14 text-center uppercase line-h30 mt15 color-teal">АДМИНИСТРАТИВНЫЙ ДЕПАРТАМЕНТ</h4>
             <p class="mt25 size-14 ml07r mr07r"><span class="bold">А</span>дминистративный департамент является одной из ключевых / важных / фундаментальных составляющих нашей компании. Наша миссия - становление и развитие корпоративной системы управления, обеспечение пространства для комфортного пребывания клиентов, которых мы ценим превышего всего. Департамент оказывает эффективную поддержку на всех уровнях и отвечает высоким стандартам обслуживания.</p>

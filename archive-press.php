@@ -139,20 +139,20 @@
 
   <div class="column-container mt-35 border-grey-top">
     <div class="column-2 mt50">
-      <div class="gallery-offset w85r line-h24 size-14 ml05r mr20r">
-        <h4 class="size-14 ml05r weight-300"><span class="color-teal weight-300">14.07.2015</span> <span class="size-11 color-lightgray"> •︎ </span><a href="/markets-review-15-08-2015.php">Обзор QB Finance (TrueInvestor)</a></h4>
-        <h4 class="size-14 ml05r mt30 weight-300"><span class="color-teal weight-300">14.05.2015</span> <span class="size-11 color-lightgray"> •︎ </span><a href="/markets-review-15-08-2015.php">Премии «Investor Awards» 2015 (InvestorAwards)</a></h4>
-        <h4 class="size-14 ml05r mt30 weight-300"><span class="color-teal weight-300">04.12.2014</span> <span class="size-11 color-lightgray"> •︎ </span><a href="/markets-review-15-08-2015.php">QB Finance получил Премию (PBWM)</a></h4>
-        <h4 class="size-14 ml05r mt30 weight-300"><span class="color-teal weight-300">04.12.2014</span> <span class="size-11 color-lightgray"> •︎ </span><a href="/markets-review-15-08-2015.php">ООО "Кьюби Финанс" вступило в НАУФОР (НАУФОР)</a></h4>
-        <h4 class="size-14 ml05r mt30 weight-300"><span class="color-teal weight-300">01.04.2013</span> <span class="size-11 color-lightgray"> •︎ </span><a href="/markets-review-15-08-2015.php">Светская неделя: Сергей Минаев и QB Finance (FinParty)</a></h4>
+      <div class="column-offset line-h24 size-14">
+        <h4 class="size-14 weight-300"><span class="color-teal weight-300">14.07.2015</span> <span class="size-11 color-lightgray"> •︎ </span><a href="/markets-review-15-08-2015.php">Обзор QB Finance (TrueInvestor)</a></h4>
+        <h4 class="size-14 mt30 weight-300"><span class="color-teal weight-300">14.05.2015</span> <span class="size-11 color-lightgray"> •︎ </span><a href="/markets-review-15-08-2015.php">Премии «Investor Awards» 2015 (InvestorAwards)</a></h4>
+        <h4 class="size-14 mt30 weight-300"><span class="color-teal weight-300">04.12.2014</span> <span class="size-11 color-lightgray"> •︎ </span><a href="/markets-review-15-08-2015.php">QB Finance получил Премию (PBWM)</a></h4>
+        <h4 class="size-14 mt30 weight-300"><span class="color-teal weight-300">04.12.2014</span> <span class="size-11 color-lightgray"> •︎ </span><a href="/markets-review-15-08-2015.php">ООО "Кьюби Финанс" вступило в НАУФОР (НАУФОР)</a></h4>
+        <h4 class="size-14 mt30 weight-300"><span class="color-teal weight-300">01.04.2013</span> <span class="size-11 color-lightgray"> •︎ </span><a href="/markets-review-15-08-2015.php">Светская неделя: Сергей Минаев и QB Finance (FinParty)</a></h4>
       </div>
     </div>
     <div class="column-2 mt50">
-      <div class="gallery-offset w85r line-h24 size-14 ml05r mr20r">
-        <h4 class="size-14 ml05r weight-300"><span class="color-teal weight-300">05.12.2013</span> <span class="size-11 color-lightgray"> •︎ </span><a href="/markets-review-15-08-2015.php">QB Finance выиграла «Старт года» (PBWM)</a></h4>
-        <h4 class="size-14 ml05r mt30 weight-300"><span class="color-teal weight-300">18.07.2013</span> <span class="size-11 color-lightgray"> •︎ </span><a href="/markets-review-15-08-2015.php">Apex Capital Partners Corp. объявляет о сотрудничестве с QB Finance (HublisherNews.Ru)</a></h4>
-        <h4 class="size-14 ml05r mt30 weight-300"><span class="color-teal weight-300">04.03.2013</span> <span class="size-11 color-lightgray"> •︎ </span><a href="/markets-review-15-08-2015.php">Рейтинг работодателей-2012 (Вести.RU)</a></h4>
-        <h4 class="size-14 ml05r mt30 weight-300"><span class="color-teal weight-300">07.08.2012</span> <span class="size-11 color-lightgray"> •︎ </span><a href="/markets-review-15-08-2015.php">В рамках конкурса "Регионы - устойчивое развитие" отобраны победители (Трибуна)</a></h4>
+      <div class="column-offset line-h24 size-14">
+        <h4 class="size-14 weight-300"><span class="color-teal weight-300">05.12.2013</span> <span class="size-11 color-lightgray"> •︎ </span><a href="/markets-review-15-08-2015.php">QB Finance выиграла «Старт года» (PBWM)</a></h4>
+        <h4 class="size-14 mt30 weight-300"><span class="color-teal weight-300">18.07.2013</span> <span class="size-11 color-lightgray"> •︎ </span><a href="/markets-review-15-08-2015.php">Apex Capital Partners Corp. объявляет о сотрудничестве с QB Finance (HublisherNews.Ru)</a></h4>
+        <h4 class="size-14 mt30 weight-300"><span class="color-teal weight-300">04.03.2013</span> <span class="size-11 color-lightgray"> •︎ </span><a href="/markets-review-15-08-2015.php">Рейтинг работодателей-2012 (Вести.RU)</a></h4>
+        <h4 class="size-14 mt30 weight-300"><span class="color-teal weight-300">07.08.2012</span> <span class="size-11 color-lightgray"> •︎ </span><a href="/markets-review-15-08-2015.php">В рамках конкурса "Регионы - устойчивое развитие" отобраны победители (Трибуна)</a></h4>
       </div>
     </div>
   </div>

@@ -131,13 +131,13 @@
     <div class="column-container pt05r">
       <div class="column">
         <h3 class="w288 auto h40 line-h40 bg-gray2 text-center size-12 color-white"> ИНВЕСТИЦИОННАЯ АКТУАЛЬНОСТЬ СТРАТЕГИИ </h3>
-        <div class="pl05r pr05r">
+        <div class="line-offset">
           <div class="title-line-grey"></div>
         </div>
       </div>
       <div class="clearfix"></div>
       <div class="size-14 line-h20 color-grey1">
-        <div class="column-2 pt05r">
+        <div class="column-2 pt05r block-offset">
           <div class="column-offset pl05r pr05r">
             <p class="weight-300">
               <span class="bold">Д</span>ля реализации стратегии используются корпоративные облигации и акции с дивидендной доходностью. 
@@ -165,10 +165,10 @@
     <div class="clearfix"></div>
   <!--Text-->
   <!--Parallax-text -->
-    <div class="clearfix block-offset"></div>
+    <div class="clearfix pt05r block-offset"></div>
     <div
       id="bond-option-portfolio"
-      class="img-conservative-portfolio-2 w100r mt05r cover fixed"
+      class="img-conservative-portfolio-2 w100r cover fixed"
       style="background-attachment: fixed; background-position: center center;">
       <div class="w90r auto bg bg-yellow-label text-center">
           <div class="column-container pt40 size-12 color-white">
@@ -203,9 +203,9 @@
     <div class="clearfix"></div>
   <!--Parallax-text -->
   <!--Text-->
-  <div class="column-container size-14 line-h22">
-    <h3 class="text-center bold pt05r block-offset">Структура портфеля</h3>
-    <div class="column-2 pt05r">
+  <div class="column-container size-14 line-h22 pt05r block-offset">
+    <h3 class="text-center bold">Структура портфеля</h3>
+    <div class="column-2 pt05r block-offset">
       <div class="column-offset pl05r pr05r">
         <p class=" size-14 weight-300"><span class="bold">Ч</span>тобы облигация была отобрана в портфель, она должна обладать высоким кредитным рейтингом от Standard & Poor's, Moody's и Fitch для корпоративных облигаций. Целевой доходностью по облигациям служит отметка 6% годовых, а акции рассматриваются с дивидендной доходность свыше 5% годовых.</p>
       </div>
@@ -218,12 +218,12 @@
   </div>
   <div class="clearfix"></div>
    <div class="column-container">
-      <div class="pl05r pr05r">
-        <h3 class="text-center size-14 line-h26 bold pt05r  block-offset pb05r pb04r">Расчет доходности портфеля</h3>
+      <div class="">
+        <h3 class="text-center size-14 line-h26 bold pt05r block-offset">Расчет доходности портфеля</h3>
         <div class="clearfix"></div>
-        <div class="column-2 size-14 line-h28" style="float:right;">
-        <div>
-          <div class="border-lightgray bg-lightgray text-center mb5 line-h40 bold">расчет доходности портфеля | фиксированная часть</div>
+        <div class="column-2  pt05r block-offset size-14 line-h28" style="float:right;">
+          <div class="column-offset">
+            <div class="border-lightgray bg-lightgray text-center mb5 line-h40 bold">расчет доходности портфеля | фиксированная часть</div>
           <div class="border-lightgray bg-lightgray text-center mb5 line-h40">актив: корпоративные облигации</div>
           <div class="border-lightgray text-center weight-300 mb5">
             <span>объем </span><span class="color-yellow">•︎</span> 90% - $900 000 (сделка РЕПО на $1 800 000)<br/>
@@ -253,19 +253,25 @@
           </div>
         </div>
         <div id="graph-option-1" class="column-2 pt05r">
-          <div class="img-structured-bond-portfolio-2 h400 contain" style="background-size: contain; background-repeat: no-repeat; background-position: center center;"></div>
+          <div class="column-offset">
+            <div class="img-structured-bond-portfolio-2 h400 contain" style="background-size: contain; background-repeat: no-repeat; background-position: center center;"></div>
+          </div>
+        </div>
+      </div>
+      <div class="clearfix"></div>
+      <div class="size-14 line-h22">
+        <div class="column-2 pt05r block-offset">
+          <div class="column-offset">
+            <p class="weight-300"><span class="bold">П</span>ортфельная стратегия будет актуальна в периоды, когда монетарная политика международных регуляторов не изменяется в сторону ужесточения, что позволяет эффективно проводить сделки РЕПО, имея значительный спред между стоимостью заемного капитала и купонным доходом по облигациям. </p>
+          </div>
+        </div>
+        <div class="column-2 pt05r">
+          <div class="column-offset">
+            <p class="weight-300"><span class="bold">В</span>ажным фактором является и то, что дивидендная политика отбираемых в портфель эмитентов неизменна на протяжении многих лет, и, как правило, влиять на нее могут только серьезные изменения в финансовом состоянии компании. </p>
+          </div>
         </div>
       </div>
     </div>
-<div class="clearfix"></div>
-        <div class="column-container size-14 line-h26">
-          <div class="column-2 pt05r">
-            <p class="column-offset pl05r pr05r size-14 weight-300"><span class="bold">П</span>ортфельная стратегия будет актуальна в периоды, когда монетарная политика международных регуляторов не изменяется в сторону ужесточения, что позволяет эффективно проводить сделки РЕПО, имея значительный спред между стоимостью заемного капитала и купонным доходом по облигациям. </p>
-          </div>
-          <div class="column-2 pt05r">
-            <p class="column-offset pl05r pr05r size-14 weight-300"><span class="bold">В</span>ажным фактором является и то, что дивидендная политика отбираемых в портфель эмитентов неизменна на протяжении многих лет, и, как правило, влиять на нее могут только серьезные изменения в финансовом состоянии компании.</p>
-          </div>
-        </div>
     <!-- CONNECT -->
     <div class="clearfix"></div>
     <div class="column-container pt05r block-offset">
@@ -282,10 +288,10 @@
         </div>
       </div>
     </div>
-    <div class="clearfix block-offset"></div>
+    <div class="clearfix pt05r block-offset"></div>
     <!-- /CONNECT -->
 <!-- PORTFOLIO MENU -->
-    <div class="img-high-yield-strategy-2 w100r mt05r fixed" style="background-attachment: fixed;">
+    <div class="img-high-yield-strategy-2 w100r fixed" style="background-attachment: fixed;">
       <div class="portfolio-menu label pt02r w90r auto bg bg-yellow-label text-center color-white uppercase">
         <div class="">
           <h2 class="size-12 line-h22 uppercase">ВАРИАНТЫ КОНСЕРВАТИВНОЙ СТРАТЕГИИ</h2>

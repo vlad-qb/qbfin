@@ -139,7 +139,7 @@
 <div class="clearfix"></div>
 <!-- CONTENT -->
 <div id="content">
-<div class="column-container pt05r block-offset">
+<div class="column-container pt05r">
   <h3 class="text-center size-12 color-white"><div class="w288 h40 line-h40 auto bg-teal">США</div></h3>
   <div class="w90r auto title-line-teal"></div>
   <div class="column-2 pt05r">
@@ -161,9 +161,9 @@
       <p class="mt15">Без учета заказов на средства транспорта показатель вырос на 0,6% м/м, также превысив прогноз аналитиков. Основное влияние на увеличение индикатора оказал общий рост уверенности американских компаний относительно экономической ситуации в стране. </p>
     </div>
   </div>
-  <div class="clearfix"></div>
+  <div class="clearfix block-offset"></div>
   <!-- /ALERT -->
-  <div class="text-alert text-offset auto column-container w70r mt05r color-grey666 line-h20 size-12 uppercase">
+  <div class="text-alert text-offset auto column-container w70r mt05r color-grey666 line-h20 size-12 uppercase ">
     <div class="column">
       <div class="column-offset">
         <div class="ml15r mr15r border-left-teal">
@@ -175,7 +175,7 @@
         </div>
       </div>
     </div>
-    <div class="clearfix"></div>
+    <div class="clearfix block-offset"></div>
   </div>
   <!-- /ALERT -->
 </div>
@@ -206,9 +206,7 @@
       <h4 class="text-center size-14 line-h50">DJIA <span class="color-lightgray size-11"> •︎ </span><span class="weight-300">16,643.01</span> <span class="color-teal">▲ 1,1%</span></h4>
       <h4 class="text-center size-14 line-h50">S&P 500 <span class="color-lightgray size-11"> •︎ </span><span class="weight-300">1,988.87</span> <span class="color-teal">▲ 0,9%</span></h4>
       <h4 class="text-center size-14 line-h50">NASDAQ Composite <span class="color-lightgray size-11"> •︎ </span><span class="weight-300">4,828.33</span> <span class="color-yellow">▼ 3,5%</span></h4>
-      
-      <br/>
-      <p><span class="bold">О</span>сновные европейские фондовые индексы по итогам торговой недели оказались в зеленой зоне несмотря на значительный спад в "черный понедельник". Уверенности инвесторам придали решительные действия Народного Банка Китая по поддержанию экономики Поднебесной, а также выход положительной макроэкономической статистики в самом регионе.</p>
+      <p class="pt05r"><span class="bold">О</span>сновные европейские фондовые индексы по итогам торговой недели оказались в зеленой зоне несмотря на значительный спад в "черный понедельник". Уверенности инвесторам придали решительные действия Народного Банка Китая по поддержанию экономики Поднебесной, а также выход положительной макроэкономической статистики в самом регионе.</p>
       <p class="mt15">В начале недели Европейский Центральный Банк представил данные о темпах роста объемов выданных банковских кредитов в еврозоне в июле этого года.</p>
     </div>
   </div>
@@ -220,9 +218,9 @@
       <p class="mt15">Повышение темпов экономического роста Германии во II квартале 2015 года во многом связано с ростом объемов экспорта на 6,6% г/г на фоне ослабления европейской валюты, а также с улучшением ситуации на рынке труда.</p>
     </div>
   </div>
-  <div class="clearfix"></div>
+  <div class="clearfix block-offset"></div>
   <!-- /ALERT -->
-  <div class="text-alert text-offset auto column-container mt05r color-grey666 line-h20 size-12 uppercase ">
+  <div class="text-alert text-offset auto column-container w70r mt05r color-grey666 line-h20 size-12 uppercase ">
     <div class="column">
       <div class="column-offset">
         <div class="ml15r mr15r border-left-teal">
@@ -234,7 +232,7 @@
         </div>
       </div>
     </div>
-    <div class="clearfix"></div>
+    <div class="clearfix block-offset"></div>
   </div>
   <!-- /ALERT -->
 </div>
@@ -261,7 +259,7 @@
 </div>
 <!-- CONTENT -->
 <!-- CONTENT -->
-<div class="column-container pt05r">
+<div class="column-container pt05r block-offset">
   <h3 class="text-center size-12 color-white"><div class="w288 line-h40 auto bg-teal">РОССИЯ</div></h3>
   <div class="w90r auto title-line-teal"></div>
   <div class="column-2 pt05r">
@@ -269,9 +267,7 @@
       <h4 class="text-center size-14 line-h50">DJIA <span class="color-lightgray size-11"> •︎ </span><span class="weight-300">16,643.01</span> <span class="color-teal">▲ 1,1%</span></h4>
       <h4 class="text-center size-14 line-h50">S&P 500 <span class="color-lightgray size-11"> •︎ </span><span class="weight-300">1,988.87</span> <span class="color-teal">▲ 0,9%</span></h4>
       <h4 class="text-center size-14 line-h50">NASDAQ Composite <span class="color-lightgray size-11"> •︎ </span><span class="weight-300">4,828.33</span> <span class="color-yellow">▼ 3,5%</span></h4>
-      
-      <br/>
-      <p><span class="bold">Р</span>оссийские биржевые индексы по итогам недели показали уверенный рост. Главной причиной позитивных настроений на рынках стало увеличение нефтяных котировок, а также укрепление курса рубля. Прошедшая неделя не была богатой на выход важной макроэкономической статистики в России. Участники рынка продолжают следить за инфляцией в стране.</p>
+      <p class="pt05r"><span class="bold">Р</span>оссийские биржевые индексы по итогам недели показали уверенный рост. Главной причиной позитивных настроений на рынках стало увеличение нефтяных котировок, а также укрепление курса рубля. Прошедшая неделя не была богатой на выход важной макроэкономической статистики в России. Участники рынка продолжают следить за инфляцией в стране.</p>
     </div>
   </div>
   <div class="column-2 pt05r">
@@ -282,7 +278,7 @@
       <p class="mt15">Однако, по его мнению, с августа темпы спада ВВП РФ начнут сокращаться и к концу года составят 3,3% г/г (по сравнению с предыдущей оценкой спада на 2,8% г/г).</p>
     </div>
   </div>
-  <div class="clearfix"></div>
+  <div class="clearfix block-offset"></div>
   <!-- /ALERT -->
   <div class="text-alert text-offset auto column-container w70r mt05r color-grey666 line-h20 size-12 uppercase ">
     <div class="column">
@@ -296,7 +292,7 @@
         </div>
       </div>
     </div>
-    <div class="clearfix"></div>
+    <div class="clearfix block-offset"></div>
   </div>
   <!-- /ALERT -->
 </div>
@@ -323,17 +319,15 @@
 </div>
 <!-- CONTENT -->
 <!-- CONTENT -->
-<div class="column-container mt05r">
-  <h3 class="text-center size-12 color-white"><div class="w288 line-h40 auto bg-teal">АЗИАТСКО-ТИХООКЕАНСКИЙ РЕГИОН</div></h3>
+<div class="column-container pt05r block-offset">
+  <h3 class="text-center size-12 color-white"><div class="w288 h40 line-h40 auto bg-teal">АЗИАТСКО-ТИХООКЕАНСКИЙ РЕГИОН</div></h3>
   <div class="w90r auto title-line-teal"></div>
   <div class="column-2 pt05r">
     <div class="column-offset line-h24 size-14">
       <h4 class="text-center size-14 line-h50">DJIA <span class="color-lightgray size-11"> •︎ </span><span class="weight-300">16,643.01</span> <span class="color-teal">▲ 1,1%</span></h4>
       <h4 class="text-center size-14 line-h50">S&P 500 <span class="color-lightgray size-11"> •︎ </span><span class="weight-300">1,988.87</span> <span class="color-teal">▲ 0,9%</span></h4>
       <h4 class="text-center size-14 line-h50">NASDAQ Composite <span class="color-lightgray size-11"> •︎ </span><span class="weight-300">4,828.33</span> <span class="color-yellow">▼ 3,5%</span></h4>
-      
-      <br/>
-      <p><span class="bold">К</span>лючевые азиатские фондовые индексы под конец недели оказались в красной зоне. </p>
+      <p class="pt05r"><span class="bold">К</span>лючевые азиатские фондовые индексы под конец недели оказались в красной зоне. </p>
       
       <p class="mt15">Наибольший спад показал Shanghai Composite - инвесторы поспешно выводят средства с развивающихся рынков на фоне роста опасений относительно дальнейшего замедления экономики Китая.</p>
       <p class="mt15">Распродажа китайских активов на фондовых рынках в начале недели вынудила Народный Банк Китая пойти на введение дополнительных стимулирующих мер.</p>
@@ -347,7 +341,7 @@
       <p class="mt15">Общая сумма программ составила 440 млрд. юаней ($68,6 млрд.). Стоит отметить, что у НБК все еще остается некоторая свобода действий в вопросах смягчения кредитно-денежной политики, в частности, в вопросе снижения уровня обязательных резервов.</p>
     </div>
   </div>
-  <div class="clearfix"></div>
+  <div class="clearfix block-offset"></div>
   <!-- /ALERT -->
   <div class="text-alert text-offset auto column-container w70r mt05r color-grey666 line-h20 size-12 uppercase ">
     <div class="column">
@@ -361,7 +355,7 @@
         </div>
       </div>
     </div>
-    <div class="clearfix"></div>
+    <div class="clearfix block-offset"></div>
   </div>
   <!-- /ALERT -->
 </div>
@@ -384,7 +378,7 @@
 </div>
 <!-- CONTENT -->
 <!-- CONTENT -->
-<div class="column-container mt05r">
+<div class="column-container pt05r block-offset">
   <h3 class="text-center size-12 color-white"><div class="w288 h40 line-h40 auto bg-teal">СЫРЬЕВЫЕ РЫНКИ</div></h3>
   <div class="w90r auto title-line-teal"></div>
   <div class="column-2 pt05r">
@@ -410,7 +404,7 @@
 </div>
 <!-- CONTENT -->
 <!-- CONTENT -->
-<div class="column-container mt05r">
+<div class="column-container pt05r block-offset">
   <h3 class="text-center size-12 color-white"><div class="w288 h40 line-h40 auto bg-teal">ВАЛЮТНЫЕ РЫНКИ</div></h3>
   <div class="w90r auto title-line-teal"></div>
   <div class="column-2 pt05r">

@@ -141,9 +141,9 @@
       </div>
     </div>
   </div>
-  <div class="clearfix block-offset"></div>
+  <div class="clearfix pt05r block-offset"></div>
   <!-- Text-->
-  <div class="bg-dark-gray mt05r pt02r pb02r">
+  <div class="bg-dark-gray pt02r pb02r">
     <div class="column-container">
       <div class="column">
         <div class="column-offset">
@@ -315,9 +315,9 @@
       </div>
     </div>
   </div>
-  <div class="clearfix block-offset"></div>
+  <div class="clearfix pt05r block-offset"></div>
   <!-- Two colums portfolio -->
-  <div class="img-consulting-management-2 w100r mt05r" style="height:215px;background-position: center bottom; background-attachment: fixed;">
+  <div class="img-consulting-management-2 w100r" style="height:215px;background-position: center bottom; background-attachment: fixed;">
   </div>
   <div class="bg-dark-gray w100r pt02r pb02r">
     <div class="column-container">
@@ -340,9 +340,9 @@
   <!-- REC-->
   <div id="consulting-management">
     <div class="column-container">
-      <div class="gallery-offset w100r auto line-h20 size-14">
-        <div class="w33r l mt05r block-offset">
-          <div class="ml07r mr07r">
+      <div class="gallery-offset line-h20 size-14">
+        <div class="w33r l pt05r block-offset">
+          <div class="w33-offset">
             <div class="pt30 pb30 border-left-lightgray border-right-lightgray">
               <h4 class="text-center"><img class="icon w25r" src="img/bg/1_buy_rec.png"></h4>
               <h4 class="size-14 text-center uppercase line-h30 mt5 bold">AUO BUY REC</h4>
@@ -354,8 +354,8 @@
             </div>
           </div>
         </div>
-        <div class="w33r l mt05r block-offset">
-          <div class="ml07r mr07r">
+        <div class="w33r l pt05r block-offset">
+          <div class="w33-offset">
             <div class="pt30 pb30 border-left-lightgray border-right-lightgray">
               <h4 class="text-center"><img class="icon w25r" src="img/bg/2_buy_rec.png"></h4>
               <h4 class="size-14 text-center uppercase line-h30 mt5 bold">BABA BUY REC</h4>
@@ -367,8 +367,8 @@
             </div>
           </div>
         </div>
-        <div class="w33r l mt05r block-offset">
-          <div class="ml07r mr07r">
+        <div class="w33r l pt05r block-offset">
+          <div class="w33-offset">
             <div class="pt30 pb30 border-left-lightgray border-right-lightgray">
               <h4 class="text-center"><img class="icon w25r" src="img/bg/3_buy_rec.png"></h4>
               <h4 class="size-14 text-center uppercase line-h30 mt5 bold">BKS BUY REC</h4>
@@ -387,8 +387,8 @@
     <!-- REC-->
     <div class="column-container">
       <div class="gallery-offset w100r auto line-h20 size-14">
-        <div class="w33r l mt05r block-offset">
-          <div class="ml07r mr07r">
+        <div class="w33r l pt05r block-offset">
+          <div class="w33-offset">
             <div class="pt30 pb30 border-left-lightgray border-right-lightgray">
               <h4 class="text-center"><img class="icon w25r" src="img/bg/1_buy_rec.png"></h4>
               <h4 class="size-14 text-center uppercase line-h30 mt5 bold">CHA BUY REC</h4>
@@ -400,8 +400,8 @@
             </div>
           </div>
         </div>
-        <div class="w33r l mt05r">
-          <div class="ml07r mr07r block-offset">
+        <div class="w33r l pt05r block-offset">
+          <div class="w33-offset">
             <div class="pt30 pb30 border-left-lightgray border-right-lightgray">
               <h4 class="text-center"><img class="icon w25r" src="img/bg/2_buy_rec.png"></h4>
               <h4 class="size-14 text-center uppercase line-h30 mt5 bold">CRH BUY REC</h4>
@@ -413,8 +413,8 @@
             </div>
           </div>
         </div>
-        <div class="w33r l mt05r">
-          <div class="ml07r mr07r block-offset">
+        <div class="w33r l pt05r block-offset">
+          <div class="w33-offset">
             <div class="pt30 pb30 border-left-lightgray border-right-lightgray">
               <h4 class="text-center"><img class="icon w25r" src="img/bg/3_buy_rec.png"></h4>
               <h4 class="size-14 text-center uppercase line-h30 mt5 bold">FDX BUY REC</h4>
@@ -431,8 +431,8 @@
     <div class="clearfix"></div>
     <div class="column-container">
       <div class="gallery-offset w100r auto line-h20 size-14">
-        <div class="w33r l mt05r block-offset">
-          <div class="ml07r mr07r">
+        <div class="w33r l pt05r block-offset">
+          <div class="w33-offset">
             <div class="pt30 pb30 border-left-lightgray border-right-lightgray">
               <h4 class="text-center"><img class="icon w25r" src="img/bg/1_buy_rec.png"></h4>
               <h4 class="size-14 text-center uppercase line-h30 mt5 bold">GILD BUY REC</h4>
@@ -444,8 +444,8 @@
             </div>
           </div>
         </div>
-        <div class="w33r l mt05r block-offset">
-          <div class="ml07r mr07r">
+        <div class="w33r l pt05r block-offset">
+          <div class="w33-offset">
             <div class="pt30 pb30 border-left-lightgray border-right-lightgray">
               <h4 class="text-center"><img class="icon w25r" src="img/bg/2_buy_rec.png"></h4>
               <h4 class="size-14 text-center uppercase line-h30 mt5 bold">LXK BUY REC</h4>
@@ -457,8 +457,8 @@
             </div>
           </div>
         </div>
-        <div class="w33r l mt05r block-offset">
-          <div class="ml07r mr07r">
+        <div class="w33r l pt05r block-offset">
+          <div class="w33-offset">
             <div class="pt30 pb30 border-left-lightgray border-right-lightgray">
               <h4 class="text-center"><img class="icon w25r" src="img/bg/3_buy_rec.png"></h4>
               <h4 class="size-14 text-center uppercase line-h30 mt5 bold">NOK BUY REC</h4>
@@ -472,10 +472,10 @@
         </div>
       </div>
     </div>
-    <div class="clearfix block-offset"></div>
+    <div class="clearfix  pt05r block-offset"></div>
   </div>
   <!-- REC-->
-  <div class="img-consulting-management-3 w100r h200 mt05r" style="background-position: center bottom; background-attachment: fixed;">
+  <div class="img-consulting-management-3 w100r h200" style="background-position: center bottom; background-attachment: fixed;">
   </div>
   <div class="bg-dark-gray w100r pt02r pb02r">
     <div class="column-container">
@@ -484,7 +484,7 @@
           <div class="pt04r pb04r text-center size-14 weight-300 color-white border-darkgray2-bottom">
             <h3>ПЛАТФОРМА QB TRADER PRO</h3>
           </div>
-          <p class="mt40 pb05r line-h22 text-center size-14 weight-300 color-white">
+          <p class="pt05r pb05r line-h22 text-center size-14 weight-300 color-white">
             QBF ||| Investment в рамках консультационного управления предоставляет своим клиентам собственную платформу QB TRADER PRO<br/> для торговли на фондовом рынке США.
           </p>
         </div>
@@ -494,12 +494,12 @@
   </div>
   <!-- IMAGES-->
   <div class="column-container line-h20 size-14">
-    <div class="column-2 pt05r">
-      <div class="column-offset block-offset auto line-h20 size-14">
+    <div class="column-2 pt05r block-offset">
+      <div class="  auto line-h20 size-14">
         <div class="img-consulting-management-4 w100r h578 cover" style="background-position: center center;background-repeat:no-repeat;"></div>
       </div>
     </div>
-      <div class="column-2 pt05r">
+      <div class="column-2 pt05r block-offset">
         <div class="column-offset">
           <div class="bg-lightgray2">
             <div class="l w120 h120 bg-dark-gray mr20">

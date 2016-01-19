@@ -150,7 +150,7 @@
         
       </div>
     </div>
-    <div class="clearfix block-offset"></div>
+    <div class="clearfix pt05r block-offset"></div>
   </div>
   
   <!-- CONTENT -->
@@ -162,7 +162,7 @@
   </div>
   <div class="clearfix block-offset"></div>
   <div class="column-container">
-    <div class="column-2 mt05r">
+    <div class="column-2 pt05r block-offset">
       <div class="column-offset">
         <div class="">
           <h2 class="size-12 uppercase line-h30"><span class="color-teal">Обзоры</span>
@@ -170,7 +170,7 @@
          </div>
       </div>
     </div>
-    <div class="column-2 mt05r">
+    <div class="column-2 pt05r block-offset">
       <div class="column-offset">
         <div class="w100r">
           <h2 class="size-12 uppercase line-h30"><span class="color-teal">ЭКСПЕРТ</span>
@@ -179,7 +179,7 @@
       </div>
     </div>
     <div class="clearfix"></div>
-    <div class="column-2 mt02r">
+    <div class="column-2 pt02r block-offset">
       <div class="column-offset">
         <div class="">
           <h2 class="size-12 uppercase line-h30"><span class="color-teal">ПРЕССА О НАС</span>
@@ -187,7 +187,7 @@
         </div>
       </div>
     </div>
-    <div class="column-2 mt02r">
+    <div class="column-2 pt02r block-offset">
       <div class="column-offset">
         <div class="w100r">
           <h2 class="size-12 uppercase line-h30"><span class="color-teal">АКЦИИ</span>
@@ -197,7 +197,7 @@
     </div>
   </div>
   <div class="column-container">
-    <div class="column pt05r">
+    <div class="column pt05r block-offset">
       <div class="border-grey-top"></div>
     </div>
   </div>

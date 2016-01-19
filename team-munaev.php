@@ -173,7 +173,7 @@
     <div class="column-container">
       <div class="column pt05r block-offset">
         <h3 class="text-center size-12"><div class="w250 line-h40 auto bold bg-white">ПУБЛИКАЦИИ</div></h3>
-        <div class="pl05r pr05r">
+        <div class="line-offset">
           <div class="title-line-teal"></div>
         </div>
       </div>
@@ -184,7 +184,7 @@
               <div class="img-team-munaev-2 contain w120 h120 auto"></div>
             </div>
           </div>
-          <div class="column-30r pt05r">
+          <div class="column-30r pt05r block-offset">
             <div class="column-offset pl05r pr05r">
               <div class="text-center weight-300 size-14 line-h20">
                 <a href="/expert-1.php" class="size-12 bold gray-hover">ЧЕЛОВЕК С ОДНИМ МИЛЛИОНОМ ДОЛЛАРОВ</a>

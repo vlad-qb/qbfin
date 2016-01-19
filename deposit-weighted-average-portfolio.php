@@ -135,13 +135,13 @@
   <div class="column-container pt05r">
     <div class="column">
       <h3 class="text-center size-12 color-white"><div class="w288 line-h40 auto bg-gray2">ИНВЕСТИЦИОННАЯ АКТУАЛЬНОСТЬ СТРАТЕГИИ</div></h3>
-      <div class="pl05r pr05r">
+      <div class="line-offset">
         <div class="title-line-grey"></div>
       </div>
     </div>
   </div>
   <div class="column-container size-14 color-grey1 line-h26">
-    <div class="column-2 pt05r">
+    <div class="column-2 pt05r block-offset">
       <div class="column-offset">
         <p class="size-14 weight-300"><span class="bold">В</span> такой ситуации наиболее эффективным решением является депонирование денежных средств инвестора в рублях и открытие инвестиционной компанией долларового счета на американских фондовых рынках под обеспечение данных средств, что и осуществляется за счёт депозитного средневзвешенного портфеля в рамках стратегии хеджирования риска падения доллара к рублю.</p>
       </div>
@@ -156,10 +156,10 @@
   <!--Text-->
   <!--Parallax-text -->
   <div class="clearfix"></div>
-    <div class="clearfix block-offset"></div>
+    <div class="clearfix pt05r block-offset"></div>
     <div
       id="bond-option-portfolio"
-      class="img-deposit-weighted-average-portfolio-2 w100r mt05r cover fixed"
+      class="img-deposit-weighted-average-portfolio-2 w100r cover fixed"
       style="background-attachment: fixed; background-position: center center;">
       <div class="w90r auto bg bg-gray-label text-center">
         <div class="column-container pt40 size-12 color-white">
@@ -194,8 +194,8 @@
     <div class="clearfix"></div>
   <!--Parallax-text -->
   <!--Text-->
-  <div class="column-container size-14 line-h26 block-offset">
-    <h3 class="text-center bold mt05r">Структура портфеля</h3>
+  <div class="column-container size-14 line-h26">
+    <h3 class="text-center bold pt05r block-offset">Структура портфеля</h3>
     <div class="column-2 pt05r">
       <div class="column-offset">
         <p class="size-14 weight-300">RUB - российский рубль / USD - акции, облигации компаний входящих в STOXX Global 150, DJIA, S&P500, NASDAQ Composite, EURO STOXX 50, DAX, FTSE 100, CAC40 и ETF с содержанием 25% структуры указанных выше индексов.</p>

@@ -131,13 +131,13 @@
   <div class="column-container pt05r">
     <div class="column">
       <h3 class="w288 auto h40 line-h40 bg-gray2 text-center size-12 color-white"> ИНВЕСТИЦИОННАЯ АКТУАЛЬНОСТЬ СТРАТЕГИИ </h3>
-      <div class="pl05r pr05r">
+      <div class="line-offset">
         <div class="title-line-grey"></div>
       </div>
     </div>
   </div>
   <div class="column-container size-14 color-grey1 line-h26">
-    <div class="column-2 pt05r">
+    <div class="column-2 pt05r block-offset">
       <div class="column-offset pl05r pr05r">
         <p class="size-14 weight-300"><span class="bold">Т</span>ак, например, актив, номинированный в долларах США, будет защищен от падения курса американской валюты с помощью позиций "Евро против доллара". </p>
         <p class="mt20 size-14 weight-300">Значимую долю портфеля составляют корпоративные ценные бумаги, такие как акции и облигации. Монетарная политика крупнейших ЦБ мира уже претерпевает изменения.</p>
@@ -153,10 +153,10 @@
     <div class="clearfix"></div>
   </div>
   <!--Parallax-text -->
-    <div class="clearfix block-offset"></div>
+    <div class="clearfix pt05r block-offset"></div>
     <div
       id="bond-option-portfolio"
-      class="img-ipo-portfolio-2 w100r mt05r cover fixed"
+      class="img-ipo-portfolio-2 w100r  cover fixed"
       style="background-attachment: fixed; background-position: center center;">
       <div class="w90r auto bg bg-green-label text-center">
           <div class="column-container pt40 size-12 color-white">
@@ -191,9 +191,9 @@
     <div class="clearfix"></div>
   <!--Parallax-text -->
   <!--Text-->
-  <div class="column-container size-14 line-h26">
-    <h3 class="text-center bold pt05r block-offset">Структура портфеля</h3>
-    <div class="column-2 pt05r">
+  <div class="column-container size-14 pt05r block-offset">
+    <h3 class="text-center bold line-h22">Структура портфеля</h3>
+    <div class="column-2 pt05r block-offset">
       <div class="column-offset pl05r pr05r">
         <p class="size-14 weight-300"><span class="bold">Ч</span>тобы актив был отобран в портфель, он как минимум должен входить в один из крупнейших региональных фондовых индексов: STOXX Global 150, DJIA, S&P500, NASDAQ Composite, EURO STOXX 50, DAX, FTSE 100, CAC40</p>
       </div>
@@ -243,10 +243,10 @@
         </div>
       </div>
     </div>
-    <div class="clearfix block-offset"></div>
+    <div class="clearfix pt05r block-offset"></div>
     <!-- /CONNECT -->
 <!-- PORTFOLIO MENU -->
-    <div class="img-high-yield-strategy-2 w100r mt05r fixed" style="background-attachment: fixed;">
+    <div class="img-high-yield-strategy-2 w100r fixed" style="background-attachment: fixed;">
       <div class="portfolio-menu pt02r bg-green-label w90r auto bg bg-label text-center color-white uppercase">
         <div class="">
           <h2 class="size-12 line-h22 uppercase">ВАРИАНТЫ ВЫСОКОДОХОДНОЙ СТРАТЕГИИ</h2>

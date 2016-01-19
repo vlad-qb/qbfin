@@ -149,7 +149,7 @@
 	<div id="content">
     <div id="gallery" class="column-container">
       <div class="column-2 pt05r">
-        <div class="pl05r pr05r border-white">
+        <div class="column-offset-2 border-white">
           <div class="img-awards-2 w100r h200 cover bg-center">
             <div class="planet2 h60 w100">
               <img src="img/bg/big-earth-icon.png" class="h100 w100 icon icon-contacts">
@@ -174,7 +174,7 @@
         </div>
       </div>
       <div class="column-2 pt05r block-offset">
-        <div class="pl05r pr05r border-white">
+        <div class="column-offset-2 border-white">
           <div class="img-awards-3 w100r h200 cover bg-center">
             <div class="planet2 h60 w100">
               <img src="img/bg/big-earth-icon.png" class="h100 w100 icon icon-contacts">
@@ -200,7 +200,7 @@
       </div>
       <div class="clerfix"></div>
       <div class="column-2 pt05r block-offset">
-        <div class="pl05r pr05r border-white">
+        <div class="column-offset-2 border-white">
           <div class="img-awards-4 w100r h200 cover bg-center">
             <div class="planet2 h60 w100">
               <img src="img/bg/big-earth-icon.png" class="h100 w100 icon icon-contacts">
@@ -225,7 +225,7 @@
         </div>
       </div>
       <div class="column-2 pt05r block-offset">
-        <div class="pl05r pr05r border-white">
+        <div class="column-offset-2 border-white">
           <div class="img-awards-5 w100r h200 cover bg-center">
             <div class="planet2 h60 w100">
               <img src="img/bg/big-earth-icon.png" class="h100 w100 icon icon-contacts">
@@ -251,7 +251,7 @@
       </div>
       <div class="clerfix"></div>
       <div class="column-2 pt05r block-offset">
-        <div class="pl05r pr05r border-white">
+        <div class="column-offset-2 border-white">
           <div class="img-awards-6 w100r h200 cover bg-center">
             <div class="planet2 h60 w100">
               <img src="img/bg/big-earth-icon.png" class="h100 w100 icon icon-contacts">
@@ -276,7 +276,7 @@
         </div>
       </div>
       <div class="column-2 pt05r block-offset">
-        <div class="pl05r pr05r border-white">
+        <div class="column-offset-2 border-white">
           <div class="img-awards-7 w100r h200 cover bg-center">
             <div class="planet2 h60 w100">
               <img src="img/bg/big-earth-icon.png" class="h100 w100 icon icon-contacts">

@@ -146,12 +146,12 @@
   <div class="clearfix"></div>
   <div class="column-container line-h20 size-14">
     <div class="column-2 pt05r block-offset">
-      <div class="column-offset">
+      <div class="image-offset">
         <div class="img-real-estate-2 w100r h427 cover" style="background-position: top center;"></div>
       </div>
     </div>
     <div class="column-2 pt05r block-offset">
-      <div class="column-offset">
+      <div class="image-offset">
         <div class="bg-lightgray2 size-12 line-h22">
           <div class="l w120 h120 mr20 bg-dark-gray">
             <img src="img/icons/icon-reit-sentence.svg" class="icon icon-services w80 mt20 ml20">
@@ -162,25 +162,29 @@
           </div>
           <div class="clearfix"></div>
         </div>
-        <div class="bg-lightgray2 size-12 line-h22 mt30">
-          <div class="l w120 h120 mr20 bg-dark-gray">
-            <img src="img/icons/icon-cogwheel.svg" class="icon icon-services w80 mt20 ml20">
+        <div class="pt30 block-offset">
+          <div class="bg-lightgray2 size-12 line-h22">
+            <div class="l w120 h120 mr20 bg-dark-gray">
+              <img src="img/icons/icon-cogwheel.svg" class="icon icon-services w80 mt20 ml20">
+            </div>
+            <div class="pt05 ml140">
+              <span class="uppercase">ДЕВЕЛОПЕРСКИЕ ПРОЕКТЫ УПРАВЛЯЮЩЕЙ КОМПАНИИ:</span><br>
+              <a href="http://qbfam.ru" class=" circles text-left img-text-2 mt20 mr5 block color-teal gray-hover weight-300">QBF ||| asset management</a>
+            </div>
+            <div class="clearfix"></div>
           </div>
-          <div class="pt05 ml140">
-            <span class="uppercase">ДЕВЕЛОПЕРСКИЕ ПРОЕКТЫ УПРАВЛЯЮЩЕЙ КОМПАНИИ:</span><br>
-            <a href="http://qbfam.ru" class=" circles text-left img-text-2 mt20 mr5 block color-teal gray-hover weight-300">QBF ||| asset management</a>
-          </div>
-          <div class="clearfix"></div>
         </div>
-        <div class="bg-lightgray2 size-12 line-h22 mt30">
-          <div class="l w120 h120 mr20 bg-dark-gray">
-            <img src="img/icons/icon-marker.svg" class="icon icon-services w80 mt20 ml20">
+        <div class="pt30 block-offset">
+          <div class="bg-lightgray2 size-12 line-h22">
+            <div class="l w120 h120 mr20 bg-dark-gray">
+              <img src="img/icons/icon-marker.svg" class="icon icon-services w80 mt20 ml20">
+            </div>
+            <div class="pt05 ml140 ">
+              <span class="uppercase">ПРЕДЛОЖЕНИЕ ЗПИФ "КЬЮБИЭФ НЕДВИЖИМОСТЬ":</span><br>
+              <a href="/service.php" class="circles img-text-2 text-left mt20 mr5 color-teal gray-hover weight-300">Жилой комплекс комфорт-класса "Грибовский лес"</a>
+            </div>
+            <div class="clearfix"></div>
           </div>
-          <div class="pt05 ml140 ">
-            <span class="uppercase">ПРЕДЛОЖЕНИЕ ЗПИФ "КЬЮБИЭФ НЕДВИЖИМОСТЬ":</span><br>
-            <a href="/service.php" class="circles img-text-2 text-left mt20 mr5 color-teal gray-hover weight-300">Жилой комплекс комфорт-класса "Грибовский лес"</a>
-          </div>
-          <div class="clearfix"></div>
         </div>
       </div>
     </div>

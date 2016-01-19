@@ -137,37 +137,45 @@
   <div id="content">
   <div class="column-container">
     <div class="column-2 pt05r">
-      <div class="column-offset">
+      <div class="image-offset">
         <div class="img-press-company-2 h200 cover bg-center">
 
         </div>
+      </div>
+      <div class="text-offset-2">
         <h2 class="size-12 uppercase line-h26 ml02r mr02r pt01r pb01r"><a href="http://ge.mir24.tv/" target="_blank" class="gray-hover bold">РУБЛЬ В ПАНИКЕ. КОММЕНТАРИЙ ДМИТРИЯ ЛЕПЕШКИНА </a><span class="color-teal weight-300">></span></h2>
         <h4 class="size-12 line-h16 ml02r mr02r"><span class="color-teal weight-300">Телеканал «МИР24» <span class="color-lightgray size-11">•</span> 16.11.2014 </span><span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span><a href="/archive-news.php" class="gray-hover"> архив</a></h4>
       </div>
     </div>
     <div class="column-2 pt05r block-offset">
-      <div class="column-offset">
+      <div class="image-offset">
         <div class="img-press-company-3 h200 cover bg-center">
           
         </div>
+      </div>
+      <div class="text-offset-2">
         <h2 class="size-12 uppercase line-h26 ml02r mr02r pt01r pb01r"><a href="http://www.vedomosti.ru/business/articles/2015/07/09/599891-zakrilas-rossiiskaya-obuvnaya-set-primorosso-iz-90-magazinov-v-kotoruyu-investiroval-tatfondbank" target="_blank"class="gray-hover bold">ЗАКРЫВАЕТСЯ РОССИЙСКАЯ ОБУВНАЯ СЕТЬ PRIMOROSSO </a><span class="color-teal weight-300">></span></h2>
         <h4 class="size-12 line-h16 ml02r mr02r"><span class="color-teal weight-300">«Ведомости» <span class="color-lightgray size-11">•</span> 09.07.2015 </span><span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span><a href="/archive-news.php" class="gray-hover"> архив</a></h4>
       </div>
     </div>
     <div class="column-2 pt05r block-offset">
-      <div class="column-offset">
+      <div class="image-offset">
         <div class="img-press-company-4 h200 cover bg-center">
 
         </div>
+      </div>
+      <div class="text-offset-2">
         <h2 class="size-12 uppercase line-h26 ml02r mr02r pt01r pb01r"><a href="http://www.kommersant.ru/doc/2792106" target="_blank" class="gray-hover bold">В ЧЕРНОЗЕМЬЕ ЗАКОНЧИЛСЯ «ЯБЛОЧНЫЙ» СЕЗОН </a><span class="color-teal weight-300">></span></h2>
         <h4 class="size-12 line-h16 ml10 mr20"><span class="color-teal weight-300">«Коммерсант» <span class="color-lightgray size-11">•</span> 20.08.2015 </span><span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span><a href="/archive-news.php" class="gray-hover"> архив</a></h4>
       </div>
     </div>
     <div class="column-2 pt05r block-offset">
-      <div class="column-offset">
+      <div class="image-offset">
         <div class="img-press-company-5 h200 cover bg-center">
           
         </div>
+      </div>
+      <div class="text-offset-2">
         <h2 class="size-12 uppercase line-h26 ml02r mr02r pt01r pb01r"><a href="http://nn.rbc.ru/nn/17/08/2015/55d1b1b19a79474458c29afd" target="_blank" class="gray-hover bold">НИЖЕГОРОДСКАЯ ОБЛАСТЬ - ЖАЛОБЫ НА РОСТ ЦЕН В ФАС </a><span class="color-teal weight-300">></span></h2>
         <h4 class="size-12 line-h16 ml10 mr20"><span class="color-teal weight-300">«РБК» <span class="color-lightgray size-11">•</span> 17.08.2015 </span><span class="color-black">|</span><span class="color-gray">|</span><span class="color-teal">|</span><a href="/archive-news.php" class="gray-hover"> архив</a></h4>
       </div>
