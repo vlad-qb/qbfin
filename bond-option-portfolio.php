@@ -158,10 +158,10 @@
         </div>
       </div>
     </div>
-    <div class="clearfix block-offset"></div>
+    <div class="clearfix pt05r block-offset"></div>
     <div
       id="bond-option-portfolio"
-      class="img-conservative-portfolio-2 w100r mt05r cover fixed"
+      class="img-conservative-portfolio-2 w100r cover fixed"
       style="background-attachment: fixed; background-position: center center;">
       <div class="w90r auto bg bg-yellow-label text-center">
           <div class="column-container pt40 size-12 color-white">
@@ -249,14 +249,14 @@
           </div>
         </div>
       </div>
-      <div class="clearfix block-offset"></div>
+      <div class="clearfix"></div>
       <div class="size-14 line-h22">
-        <div class="column-2 pt05r pb05r">
+        <div class="column-2 pt05r block-offset">
           <div class="column-offset">
             <p class="weight-300"><span class="bold">П</span>ортфельная стратегия будет актуальна в периоды, когда монетарная политика международных регуляторов не изменяется в сторону ужесточения, что позволяет эффективно проводить сделки РЕПО, имея значительный спред между стоимостью заемного капитала и купонным доходом по облигациям. </p>
           </div>
         </div>
-        <div class="column-2 pt05r pb05r">
+        <div class="column-2 pt05r block-offset">
           <div class="column-offset">
             <p class="weight-300"><span class="bold">В</span>ажным фактором является и то, что дивидендная политика отбираемых в портфель эмитентов неизменна на протяжении многих лет, и, как правило, влиять на нее могут только серьезные изменения в финансовом состоянии компании. </p>
           </div>
@@ -264,9 +264,9 @@
       </div>
     </div>
     <!-- CONNECT -->
-    <div class="clearfix block-offset"></div>
+    <div class="clearfix"></div>
     <div class="column-container">
-      <div class="column pb05r">
+      <div class="column pt05r block-offset">
         <div class="border-gray-bottom"></div>
         <div class="pt05r pl05r pr05r text-center">
           <p class="size-12 color-teal uppercase line-h20 weight-300">
@@ -279,7 +279,7 @@
         </div>
       </div>
     </div>
-    <div class="clearfix block-offset"></div>
+    <div class="clearfix pt05r block-offset"></div>
     <!-- /CONNECT -->
   </div>
     <!-- PORTFOLIO MENU -->

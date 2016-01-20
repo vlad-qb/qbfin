@@ -35,27 +35,27 @@
     </div>
     <div class="text-center">
       <div class="column-offset line-h20 bg-white pt02r">
-        <h3 class="size-12 color-teal pt02r"> ТО ЧУВСТВО, КОГДА СДЕЛАЛ ПРАВИЛЬНЫЙ ВЫБОР </h3>
+        <h3 class="size-12 color-teal pt02r pl05r pr05r"> ТО ЧУВСТВО, КОГДА СДЕЛАЛ ПРАВИЛЬНЫЙ ВЫБОР </h3>
       </div>
       <div class="column-offset line-h20 mt50">
-        <h3 class="size-12"> ВАШЕ СООБЩЕНИЕ БЫЛО УСПЕШНО ОТПРАВЛЕНО! </h3>
+        <h3 class="size-12 pl05r pr05r"> ВАШЕ СООБЩЕНИЕ БЫЛО УСПЕШНО ОТПРАВЛЕНО! </h3>
       </div>
       <div class="column-offset line-h20 mt25">
-        <h3 class="size-12"> В БЛИЖАЙШЕЕ ВРЕМЯ НАШИ СПЕЦИАЛИСТЫ СВЯЖУТСЯ С ВАМИ. </h3>
+        <h3 class="size-12 pl05r pr05r"> В БЛИЖАЙШЕЕ ВРЕМЯ НАШИ СПЕЦИАЛИСТЫ СВЯЖУТСЯ С ВАМИ. </h3>
       </div>
       <div class="clearfix"></div>
     </div>
     <!-- /HEADBLOCK -->
   <!-- FOOTER BLOCK -->
-    <div class="clearfix mt50"></div>
+    <div class="clearfix block-offset"></div>
     <div class="w100r">
           <div class="text-center ">
             <img id="lighthouse" src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r"><br>
-            <span class="size-12 uppercase">ВЕРНУТЬСЯ НА СТРАНИЦУ:</span><a href="/connect.php" class="size-12 uppercase color-teal gray-hover">Контакты</a>
+            <span class="size-12 uppercase">ВЕРНУТЬСЯ НА СТРАНИЦУ:</span><a href="/connect.php" class="size-12 uppercase color-teal gray-hover"> Контакты</a>
           </div>    
     </div>    
     <!-- /FOOTER BLOCK -->
-    <?php include 'html/footer2.html';?>
+    <?php include 'html/footer.html';?>
     <script src="/js/jquery.min.js"></script>
     <script src="/js/main.js"></script>
   </body>

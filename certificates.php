@@ -164,8 +164,8 @@
           </div>
         </div>
       </div>
-      <div class="clearfix block-offset"></div>
-      <div class="column-2 pt05r">
+      <div class="clearfix"></div>
+      <div class="column-2 pt05r  block-offset">
         <div class="column-offset bg-light-gray pt05r pb05r">
           <div class="img-license-1 w280 h200 auto bg-center no-repeat"></div>
         </div>
@@ -179,8 +179,8 @@
           </div>
         </div>
       </div>
-      <div class="clearfix block-offset"></div>
-      <div class="column-2 pt05r">
+      <div class="clearfix"></div>
+      <div class="column-2 pt05r  block-offset">
         <div class="column-offset bg-light-gray pt05r pb05r">
           <div class="img-license-1 w280 h200 auto bg-center no-repeat"></div>
         </div>

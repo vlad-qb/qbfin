@@ -231,8 +231,8 @@
     </div>
   </div>
     <!-- CONNECT -->
-    <div class="clearfix block-offset"></div>
-    <div class="column-container mt05r">
+    <div class="clearfix pt05r block-offset"></div>
+    <div class="column-container ">
       <div class="column">
         <div class="border-gray-bottom"></div>
         <div class="pt05r pl05r pr05r text-center">
@@ -246,10 +246,10 @@
         </div>
       </div>
     </div>
-    <div class="clearfix block-offset"></div>
+    <div class="clearfix pt05r block-offset"></div>
     <!-- /CONNECT -->
 <!-- PORTFOLIO MENU -->
-    <div class="img-high-yield-strategy-2 w100r mt05r fixed" style="background-attachment: fixed;">
+    <div class="img-high-yield-strategy-2 w100r fixed" style="background-attachment: fixed;">
       <div class="portfolio-menu label pt02r w90r auto bg bg-gray-label text-center color-white uppercase">
         <div class="">
           <h2 class="size-12 line-h22 uppercase">ВАРИАНТЫ СТРАТЕГИИ ЗАЩИТЫ РУБЛЕВЫХ АКТИВОВ</h2>

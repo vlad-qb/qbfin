@@ -34,16 +34,16 @@
     </div>
     <div class="text-center">
       <div class="column-offset line-h20 bg-white pt02r">
-        <h3 class="size-12 color-teal pt02r"> ЧТО-ТО ПОШЛО НЕ ТАК! </h3>
+        <h3 class="size-12 color-teal pt02r pl05r pr05r"> ЧТО-ТО ПОШЛО НЕ ТАК! </h3>
       </div>
       <div class="column-offset line-h20 mt50">
-        <h3 class="size-12"> К СОЖАЛЕНИЮ, ВАШЕ СООБЩЕНИЕ НЕ БЫЛО ОТПРАВЛЕНО. </h3>
+        <h3 class="size-12 pl05r pr05r"> К СОЖАЛЕНИЮ, ВАШЕ СООБЩЕНИЕ НЕ БЫЛО ОТПРАВЛЕНО. </h3>
       </div>
       <div class="column-offset line-h20 mt25">
-        <h3 class="size-12"> ПОПРОБУЙТЕ ЕЩЕ РАЗ ИЛИ СВЯЖИТЕСЬ С НАМИ ПО ТЕЛЕФОНУ: </h3>
+        <h3 class="size-12 pl05r pr05r"> ПОПРОБУЙТЕ ЕЩЕ РАЗ ИЛИ СВЯЖИТЕСЬ С НАМИ ПО ТЕЛЕФОНУ: </h3>
       </div>
       <div class="column-offset line-h20 mt50">
-        <h3 class="size-12 color-teal"> +7 (495) 988 98 21 </h3>
+        <h3 class="size-12 color-teal pl05r pr05r"> +7 (495) 988 98 21 </h3>
       </div>
       <div class="clearfix"></div>
     </div>
@@ -53,11 +53,11 @@
     <div class="w100r">
           <div class="text-center ">
             <img id="lighthouse" src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r"><br>
-            <span class="size-12 uppercase">ВЕРНУТЬСЯ НА СТРАНИЦУ:</span><a href="/connect.php" class="size-12 uppercase color-teal gray-hover">Контакты</a>
+            <span class="size-12 uppercase">ВЕРНУТЬСЯ НА СТРАНИЦУ:</span><a href="/quality-control.php" class="size-12 uppercase color-teal gray-hover"> КОНТРОЛЬ КАЧЕСТВА</a>
           </div>    
     </div>    
     <!-- /FOOTER BLOCK -->
-    <?php include 'html/footer2.html';?>
+    <?php include 'html/footer.html';?>
     <script src="/js/jquery.min.js"></script>
     <script src="/js/main.js"></script>
   </body>

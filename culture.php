@@ -186,18 +186,18 @@
       </div>
     </div>  
     <div class="column-2 img-text line-h30 pt05r block-offset">
-      <div class="column-offset- pl04r pr04r">
-        <div class="">
+      <div class="column-offset pl05r pr05r">
+        <div class=" ">
           <div class="img-culture-4 w120 h120 cover l mr05r" style="background-position: center center;"></div>
           <div class="size-11 weight-300 ml140">МЫ СЛЕДУЕМ ВЫСОЧАЙШИМ СТАНДАРТАМ КАЧЕСТВА И КОМПЕТЕНТНОСТИ В СЕРВИСЕ УПРАВЛЕНИЯ КАПИТАЛОМ.</div>
         </div>
         <div class="clearfix"></div>
-        <div class="mt05r">
+        <div class=" pt05r block-offset">
           <div class="img-culture-5  w120 h120 cover l mr05r" style="background-position: center top;"></div>
-          <div class="mt33  size-11 weight-300 ml140">СОТРУДНИКИ - ДРАЙВЕР КОМПАНИИ. МЫ ИНВЕСТИРУЕМ В ЛЮДЕЙ И ВИДИМ КАК ПОВЫШАЕТСЯ НАША ЭФФЕКТИВНОСТЬ.</div>
+          <div class=" size-11 weight-300 ml140">СОТРУДНИКИ - ДРАЙВЕР КОМПАНИИ. МЫ ИНВЕСТИРУЕМ В ЛЮДЕЙ И ВИДИМ КАК ПОВЫШАЕТСЯ НАША ЭФФЕКТИВНОСТЬ.</div>
         </div>
         <div class="clearfix"></div>
-        <div class="mt05r">
+        <div class="pt05r block-offset">
           <div class="img-culture-6 w120 h120 cover l mr05r" style="background-position: center center;"></div>
           <div class="size-11 weight-300 ml140">МЫ СЛЕДУЕМ ВЫСОЧАЙШИМ СТАНДАРТАМ КАЧЕСТВА И КОМПЕТЕНТНОСТИ В СЕРВИСЕ УПРАВЛЕНИЯ КАПИТАЛОМ.</div>
         </div>

@@ -155,10 +155,10 @@
   </div>
   <!--Text-->
   <!--Parallax-text -->
-    <div class="clearfix block-offset"></div>
+    <div class="clearfix pt05r block-offset"></div>
     <div
       id="bond-option-portfolio"
-      class="img-conservative-portfolio-2 w100r mt05r cover fixed"
+      class="img-conservative-portfolio-2 w100r cover fixed"
       style="background-attachment: fixed; background-position: center center;">
       <div class="w90r auto bg bg-yellow-label text-center">
         <div class="column-container pt40 size-12 color-white">
@@ -190,12 +190,12 @@
         </div>
       </div>
     </div>
-    <div class="clearfix block-offset"></div>
+    <div class="clearfix"></div>
   <!--Parallax-text -->
   <!--Text-->
-  <div class="column-container size-14 line-h26 pt05r">
+  <div class="column-container size-14 line-h26 pt05r block-offset">
     <h3 class="text-center bold ">Структура портфеля</h3>
-    <div class="column-2 pt05r">
+    <div class="column-2 pt05r block-offset">
       <div class="column-offset">
         <p class="size-14 weight-300"><span class="bold">Ч</span>тобы актив был отобран в портфель, он как минимум должен входить в один из крупнейших региональных фондовых индексов: DJIA, S&P500, DAX, FTSE 100 - и обладать высоким кредитным рейтингом от ведущих рейтинговых агентств (S&P, Moody's, Fitch).</p>
       </div>
@@ -209,10 +209,10 @@
   <div class="clearfix"></div>
   <!--Text-->
   <!--Image-->
-  <div class="column-container">
+  <div class="column-container pt05r block-offset">
     <div class="column">
       <div class="column-offset">
-      <div id="img-conservative-portfolio-3" class="img-conservative-portfolio-3 h400 contain mt05r mb05r" style="background-size: contain; background-repeat: no-repeat; background-position: center center;"></div>
+      <div id="img-conservative-portfolio-3" class="img-conservative-portfolio-3 h400 contain" style="background-size: contain; background-repeat: no-repeat; background-position: center center;"></div>
       </div>
     </div>
     <div class="clearfix"></div>
@@ -220,20 +220,20 @@
   <!--Image-->
   <!--Text-->
   <div class="column-container size-14 line-h26">
-    <div class="column-2 pt05r">
+    <div class="column-2 pt05r block-offset">
       <div class="column-offset">
         <p class="size-14 weight-300"><span class="bold">В</span> 2014 году на глобальном рынке ожидается изменение тренда монетарной политики практически всех мировых центральных банков в сторону ужесточения. Этот процесс, связанный с постепенным переходом мировой экономики в фазу роста, вызовет рост ставок по инструментам с фиксированной доходностью на развитых рынках. </p>
       </div>
     </div>
-    <div class="column-2 pt05r">
+    <div class="column-2 pt05r block-offset">
       <div class="column-offset">
         <p class="size-14 weight-300"><span class="bold">В</span> результате приток капитала в такие активы усилится, что в перспективе 4 - 5 лет положительно скажется на капитализации консервативного портфеля.</p>
       </div>
     </div>
   </div>
     <!-- CONNECT -->
-    <div class="clearfix block-offset"></div>
-    <div class="column-container mt05r">
+    <div class="clearfix pt05r block-offset"></div>
+    <div class="column-container">
       <div class="column">
         <div class="border-gray-bottom"></div>
         <div class="pt05r pl05r pr05r text-center">
@@ -247,10 +247,10 @@
         </div>
       </div>
     </div>
-    <div class="clearfix block-offset"></div>
+    <div class="clearfix pt05r block-offset"></div>
     <!-- /CONNECT -->
 <!-- PORTFOLIO MENU -->
-    <div class="img-high-yield-strategy-2 w100r mt05r fixed" style="background-attachment: fixed;">
+    <div class="img-high-yield-strategy-2 w100r fixed" style="background-attachment: fixed;">
       <div class="portfolio-menu label pt02r w90r auto bg bg-yellow-label text-center color-white uppercase">
         <div class="">
           <h2 class="size-12 line-h22 uppercase">ВАРИАНТЫ КОНСЕРВАТИВНОЙ СТРАТЕГИИ</h2>

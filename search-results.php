@@ -137,37 +137,38 @@
       <div class="column-container pt05r">
         <div class="column">
           <div id="search-result" class="column-offset">
-            <div class="size-14 line-h20 ml05r mr05r pb04r border-grey-top border-grey-bottom">
-              <div class="ml05r mr05r pt04r">
-                <p class="bold mt15 weight-300"><a href="#" class="gray-hover">QBF Asset Management представляет Инвестиционный фонд недвижимости КьюБиЭф Недвижимость</a></p>
+            <div class="size-14 line-h20 ml05r mr05r border-grey-top border-grey-bottom">
+              <div class="ml05r mr05r pt05r block-offset">
+                <p class="bold weight-300"><a href="#" class="gray-hover">QBF Asset Management представляет Инвестиционный фонд недвижимости КьюБиЭф Недвижимость</a></p>
                 <p class="color-gray mt15 weight-300">Недвижимость с инвестиционной компанией QB Finance - Фонд недвижимости КьюБиЭф Недвижимость.</p>
                 <p class="color-teal mt15 weight-300">real-estate-gribovsky-les.html</p>
               </div>
-              <div class="ml05r mr05r pt04r mt30">
-                <p class="bold mt15 weight-300"><a href="#" class="gray-hover">QBF Asset Management представляет Инвестиционный фонд недвижимости КьюБиЭф Недвижимость</a></p>
+              <div class="ml05r mr05r pt07r block-offset">
+                <p class="bold weight-300"><a href="#" class="gray-hover">QBF Asset Management представляет Инвестиционный фонд недвижимости КьюБиЭф Недвижимость</a></p>
                 <p class="color-gray mt15 weight-300">Недвижимость с инвестиционной компанией QB Finance - Фонд недвижимости КьюБиЭф Недвижимость.</p>
                 <p class="color-teal mt15 weight-300">real-estate-gribovsky-les.html</p>
               </div>
-              <div class="ml05r mr05r pt04r mt30">
-                <p class="bold mt15 weight-300"><a href="#" class="gray-hover">История компании - QB Finance</a></p>
+              <div class="ml05r mr05r  pt07r block-offset">
+                <p class="bold weight-300"><a href="#" class="gray-hover">История компании - QB Finance</a></p>
                 <p class="color-gray mt15 weight-300">QB Finance - история компании. Работа на фондовых рынках США и Европы, консалтинговое управление активами.</p>
                 <p class="color-teal mt15 weight-300">history.html</p>
               </div>
-              <div class="ml05r mr05r pt04r mt30">
-                <p class="bold mt15 weight-300"><a href="#" class="gray-hover">QB Finance - события компании - 15</a></p>
+              <div class="ml05r mr05r pt07r block-offset">
+                <p class="bold weight-300"><a href="#" class="gray-hover">QB Finance - события компании - 15</a></p>
                 <p class="color-gray mt15 weight-300">QB Finance - обзор событий инвестиционной компании. Мероприятия компании.</p>
                 <p class="color-teal mt15 weight-300">qbfinance-sobyti.html</p>
               </div>
-              <div class="ml05r mr05r pt04r mt30">
-                <p class="bold mt15 weight-300"><a href="#" class="gray-hover">История компании - QB Finance</a></p>
+              <div class="ml05r mr05r pt07r block-offset">
+                <p class="bold weight-300"><a href="#" class="gray-hover">История компании - QB Finance</a></p>
                 <p class="color-gray mt15 weight-300">QB Finance - история компании. Работа на фондовых рынках США и Европы, консалтинговое управление активами.</p>
                 <p class="color-teal mt15 weight-300">history.html</p>
               </div>
-              <div class="ml05r mr05r pt04r mt30">
-                <p class="bold mt15 weight-300"><a href="#" class="gray-hover">Реквизиты компании - QB Finance</a></p>
+              <div class="ml05r mr05r pt07r block-offset">
+                <p class="bold weight-300"><a href="#" class="gray-hover">Реквизиты компании - QB Finance</a></p>
                 <p class="color-gray mt15 weight-300">QB Finance - ваше лучшее финансовое будущее. Реквизиты компании.</p>
                 <p class="color-teal mt15 weight-300">banking_information.html</p>
               </div>
+              <div class="pt05r block-offset"></div>
             </div>
           </div>
         </div>
@@ -197,15 +198,13 @@
       <div class="clearfix"></div>
     </div>
   <!-- FOOTER BLOCK -->
-    <div class="clearfix mt50"></div>
-    <div class="w100r">
-          <div class="text-center ">
+  <div class="clearfix"></div>
+  <div class="text-center ">
             <img id="lighthouse" src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r"><br>
-            <a href="/company.php" class="size-12 uppercase">Компания</a>
-          </div>    
-    </div>    
+    <a href="/company.php" class="size-12 uppercase">Компания</a>
+  </div> 
     <!-- /FOOTER BLOCK -->
-    <?php include 'html/footer2.html';?>
+    <?php include 'html/footer.html';?>
     <script src="/js/jquery.min.js"></script>
     <script src="/js/main.js"></script>
   </body>

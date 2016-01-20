@@ -32,35 +32,121 @@
         <div class="column-2 content-margin text-center size-8 line-h24 uppercase">
           <div class="column-offset bg-white pt35">
             <ul>
-              <li class="w15r ml025r mr025r l auto lightgray-block-hover3">
+              <style type="text/css">
+                .menu-zoom{
+                  cursor: pointer;
+                  display: block;
+                  width:40px;
+                  height:40px;
+                  margin:auto;
+                  background-size: 80%;
+                  background-repeat: no-repeat;
+                  background-position: center;
+                  opacity: 0.9;
+                }
+               
+                .menu-zoom:hover{
+                  opacity: 1;
+
+                   /*background-size: 86%; 
+                  -webkit-transition:all 0.2s ease-out;
+                  -moz-transition:all 0.2s ease-out;
+                  -o-transition:all 0.2s ease-out;
+                  transition:all 0.2s ease-out;*/
+                }
+                
+                .menu-icon-1-png{
+                  opacity: 1;
+                  background-image: url('/img/icons/menu-1.png');
+                }
+                .menu-icon-1-png:hover{
+                  opacity: 0.6;
+                                    -webkit-transition:all 0.2s ease-out;
+                  -moz-transition:all 0.2s ease-out;
+                  -o-transition:all 0.2s ease-out;
+                  transition:all 0.2s ease-out;
+                  /*background-image: url('/img/icons/menu-1-hover.png');*/
+                }
+                .menu-icon-2-png{
+                  opacity: 1;
+                  background-image: url('/img/icons/menu-2.png');
+                  background-size: 60%;
+                }
+                .menu-icon-2-png:hover{
+                  opacity: 0.6;
+                                    -webkit-transition:all 0.2s ease-out;
+                  -moz-transition:all 0.2s ease-out;
+                  -o-transition:all 0.2s ease-out;
+                  transition:all 0.2s ease-out;
+                  /*background-image: url('/img/icons/menu-2-hover.png');*/
+              
+                }
+                .menu-icon-3-png{
+                  opacity: 1;
+                  background-image: url('/img/icons/menu-3.png');
+                }
+                .menu-icon-3-png:hover{
+                  opacity: 0.6;
+                                    -webkit-transition:all 0.2s ease-out;
+                  -moz-transition:all 0.2s ease-out;
+                  -o-transition:all 0.2s ease-out;
+                  transition:all 0.2s ease-out;
+                  /*background-image: url('/img/icons/menu-3-hover.png');*/
+                }
+                .menu-icon-4-png{
+                  opacity: 1;
+                  background-image: url('/img/icons/menu-4.png');
+                }
+                .menu-icon-4-png:hover{
+                  opacity: 0.6;
+                                    -webkit-transition:all 0.2s ease-out;
+                  -moz-transition:all 0.2s ease-out;
+                  -o-transition:all 0.2s ease-out;
+                  transition:all 0.2s ease-out;
+                  /*background-image: url('/img/icons/menu-4-hover.png');*/
+                }
+                .menu-icon-5-png{
+                  opacity: 1;
+                  background-image: url('/img/icons/menu-5.png');
+                }
+                .menu-icon-5-png:hover{
+                  opacity: 0.6;
+                                    -webkit-transition:all 0.2s ease-out;
+                  -moz-transition:all 0.2s ease-out;
+                  -o-transition:all 0.2s ease-out;
+                  transition:all 0.2s ease-out;
+                  /*background-image: url('/img/icons/menu-5-hover.png');
+                }*/
+              </style>
+              <li class="w15r ml025r mr025r l auto">
                 <a href="/events.php">
-                  <img src="img/icons/icon-menu-processes.svg" class="icon icon-menu w100r"><br>
-                  <span> события </span>
+                  <div class="menu-zoom menu-icon-1-png"> </div>
                 </a>
+                <a class="text-center mt10 block" href="/events.php"> события </a>
               </li>
-              <li class="w15r ml025r mr025r l auto lightgray-block-hover3">
-                <a href="#">
-                  <img src="img/icons/icon-menu-call.svg" class="icon icon-menu w100r"><br>
-                  <span> звонок </span>
+              <li class="w15r ml025r mr025r l auto">
+                <a href="callto:+74959889821">
+                  <div class="menu-zoom menu-icon-2-png"> </div>
                 </a>
+                <a class="text-center mt10 block" href="callto:+74959889821"> звонок </a>
               </li>
-              <li class="w15r ml025r mr025r l auto lightgray-block-hover3">
+              <li class="w15r ml025r mr025r l auto">
                 <a href="/service.php">
-                  <img src="img/icons/icon-menu-services.svg" class="icon icon-menu w100r"><br>
-                  <span> услуги </span>
+                  <div class="menu-zoom menu-icon-3-png"> </div>
                 </a>
+                <a class="text-center mt10 block" href="/service.php"> услуги </a>
               </li>
-              <li class="w15r ml025r mr025r l auto lightgray-block-hover3">
+              <li class="w15r ml025r mr025r l auto">
                 <a href="/branch-office.php">
-                  <img src="img/icons/icon-menu-affiliates.svg" class="icon icon-menu w100r"><br>
-                  <span> филиалы </span>
+                  <div class="menu-zoom menu-icon-4-png"> </div>
                 </a>
+                <a class="text-center mt10 block" href="/branch-office.php"> филиалы </a>
               </li>
-              <li class="w15r ml025r mr025r l auto lightgray-block-hover3">
-                <a href="#">
-                  <img src="img/icons/icon-menu-mail.svg" class="icon icon-menu w100r"><br>
-                  <span> почта </span>
+              <li class="w15r ml025r mr025r l auto">
+                <a href="mailto:invest@qbfin.ru">
+                  <div class="menu-zoom menu-icon-5-png"> </div>
                 </a>
+                <a class="text-center mt10 block" href="mailto:invest@qbfin.ru"> почта </a>
               </li>
             </ul>
             <div class="clearfix"></div>
@@ -144,7 +230,7 @@
       </div>
     </div>
     <!-- /HEADBLOCK --> 
-	<div class="clearfix"></div> 
+  <div class="clearfix"></div> 
   <!-- CONTENT -->
   <div id="content">
   <div id="gallery" class="column-container mt60">

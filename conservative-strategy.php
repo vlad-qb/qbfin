@@ -179,9 +179,9 @@
     <div class="clearfix"></div>
   </div>
   <!-- /PORTFOLIO MENU -->
-    <div class="clearfix block-offset"></div>
+    <div class="clearfix"></div>
     <!-- /ALERT -->
-    <div class="conservative-strategy text-alert column-container pt05r w70r auto line-h20 size-14">
+    <div class="conservative-strategy text-alert column-container pt05r block-offset w70r auto line-h20 size-14">
       <div class="column">
         <div class="column-offset">
           <div class="ml15r mr15r border-left-lightgray border-right-lightgray">
@@ -206,12 +206,12 @@
           </div>
         </div>
       </div>
-      <div class="clearfix block-offset"></div>
+      <div class="clearfix pt05r block-offset"></div>
     </div>
     <!-- /ALERT -->
 
 <!-- PORTFOLIO MENU -->
-    <div class="img-high-yield-strategy-2 w100r mt05r fixed" style="background-attachment: fixed;">
+    <div class="img-high-yield-strategy-2 w100r fixed" style="background-attachment: fixed;">
       <div class="portfolio-menu label pt02r w90r auto bg bg-label text-center color-white uppercase">
         <div class="">
           <h2 class="size-12 line-h22 uppercase">ВСЕ СТРАТЕГИИ ДОВЕРИТЕЛЬНОГО УПРАВЛЕНИЯ</h2>

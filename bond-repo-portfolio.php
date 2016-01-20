@@ -130,7 +130,7 @@
   <div class="column-container pt05r">
     <div class="column">
       <h3 class="w288 auto h40 line-h40 bg-gray2 text-center size-12 color-white"> ИНВЕСТИЦИОННАЯ АКТУАЛЬНОСТЬ СТРАТЕГИИ </h3>
-      <div class="pl05r pr05r">
+      <div class="line-offset">
         <div class="title-line-grey"></div>
       </div>
     </div>
@@ -153,10 +153,10 @@
   </div>
 
   <!--Parallax-text -->
-    <div class="clearfix block-offset"></div>
+    <div class="clearfix pt05r block-offset"></div>
     <div
       id="bond-option-portfolio"
-      class="img-conservative-portfolio-2 w100r mt05r cover fixed"
+      class="img-conservative-portfolio-2 w100r cover fixed"
       style="background-attachment: fixed; background-position: center center;">
       <div class="w90r auto bg bg-yellow-label text-center">
         <div class="column-container pt40 size-12 color-white">
@@ -188,10 +188,10 @@
         </div>
       </div>
     </div>
-    <div class="clearfix block-offset"></div>
+    <div class="clearfix"></div>
   <!--Parallax-text -->
   <div class="column-container size-14 line-h26">
-    <h3 class="text-center bold mt05r">Структура портфеля</h3>
+    <h3 class="text-center bold pt05r block-offset">Структура портфеля</h3>
     <div class="column-2 pt05r block-offset">
       <div class="column-offset pl05r pr05r">
         <p class="size-14 weight-300"><span class="bold">Ч</span>тобы облигация была отобрана в портфель, она должна обладать высоким кредитным рейтингом от Standard & Poor's, Moody's и Fitch для корпоративных облигаций. </p>
@@ -251,10 +251,10 @@
      <div class="clearfix"></div>
   </div>
 </div>
- <div class="clearfix block-offset"></div>
+ <div class="clearfix pt05r block-offset"></div>
   <div class="column-container size-14 line-h26">
-    <h3 class="text-center bold mt05r">Структура портфеля</h3>
-    <div class="column-2 pt05r">
+    <h3 class="text-center bold ">Структура портфеля</h3>
+    <div class="column-2 pt05r block-offset">
       <div class="column-offset pl05r pr05r">
         <p class="size-14 weight-300"><span class="bold">С</span>ущественная разница между стоимостью заемного капитала и доходностью корпоративных долговых инструментов сохранится в мировой экономике еще на протяжении 2 - 3 лет. </p>
       </div>
@@ -268,8 +268,8 @@
     <div class="clearfix"></div>
   </div>
     <!-- CONNECT -->
-    <div class="clearfix block-offset"></div>
-    <div class="column-container mt05r">
+    <div class="clearfix pt05r block-offset"></div>
+    <div class="column-container">
       <div class="column">
         <div class="border-gray-bottom"></div>
         <div class="pt05r pl05r pr05r text-center">
@@ -283,10 +283,10 @@
         </div>
       </div>
     </div>
-    <div class="clearfix block-offset"></div>
+    <div class="clearfix pt05r block-offset"></div>
     <!-- /CONNECT -->
 <!-- PORTFOLIO MENU -->
-    <div class="img-high-yield-strategy-2 w100r mt05r fixed" style="background-attachment: fixed;">
+    <div class="img-high-yield-strategy-2 w100rx fixed" style="background-attachment: fixed;">
       <div class="portfolio-menu label pt02r w90r auto bg bg-yellow-label text-center color-white uppercase">
         <div class="">
           <h2 class="size-12 line-h22 uppercase">ВАРИАНТЫ КОНСЕРВАТИВНОЙ СТРАТЕГИИ</h2>

@@ -237,9 +237,9 @@
           <p class="weight-300 mt15">сайт: <a href="https://www.rjobrien.com/" class="color-gray">https://www.rjobrien.com/</a></p>
         </div>
       </div>
-      <div class="clearfix block-offset"></div>
+      <div class="clearfix pt05r block-offset"></div>
     </div>
-    <div class="img-clients-2 fixed mt05r pt05r pb05r" style="background-attachment: fixed;background-position:center;">
+    <div class="img-clients-2 fixed pt05r pb05r" style="background-attachment: fixed;background-position:center;">
       <div class="line-h26 color-white uppercase size-16 text-center pl05r pr05r">
         <h4 class="weight-500">ВЫСОКОКВАЛИФИЦИРОВАННАЯ КОМАНДА</h4>
         <h4 class="weight-500 pt20">МЕНЕДЖЕРОВ И ПОРТФЕЛЬНЫХ УПРАВЛЯЮЩИХ,</h4>

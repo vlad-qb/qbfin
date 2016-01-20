@@ -374,8 +374,8 @@
     margin-bottom: 1%;
 }
 .FOOTER-ARROW{
-    margin-top: 2%;
-    margin-bottom: ;
+    padding-top: 5%;
+    padding-bottom: 5%;
 }
 .line-offset{
     margin-left: 5%;
@@ -524,6 +524,7 @@
     .portfolio-menu .column-4 .button .h{height: 75px;}
     #search-result .ml05r{margin-left: 0;}
     #search-result .mr05r{margin-right: 0;}
+    #search-result.column-offset{margin-left: 2.5%;margin-right: 2.5%;}
 }
 
 @media screen and (max-width: 480px) {

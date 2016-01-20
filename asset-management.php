@@ -153,9 +153,9 @@
         </div>
       </div>
     </div>
-    <div class="clearfix block-offset"></div>
+    <div class="clearfix pt05r block-offset"></div>
     <!-- PORTFOLIO MENU -->
-    <div class="img-asset-management-2 w100r mt05r fixed" style="background-attachment: fixed;">
+    <div class="img-asset-management-2 w100r fixed" style="background-attachment: fixed;">
       <div class="portfolio-menu label pt02r w90r auto bg bg-label text-center color-white uppercase">
         <div class="pl02r pr02r pb02r">
           <div class="column-4">
@@ -209,7 +209,7 @@
     <!-- CONTENT-2 -->
     <div class="text-alert block-offset column-container pt05r line-h20 size-14">
       <div class="column">
-        <div class="column-offset pl05r pr05r">
+        <div class="text-offset-2 pl05r pr05r">
           <div class="border-left-lightgray border-right-lightgray">
             <div class="ml05r mr05r pt03r pb03r">
               <p class="ml025r">
