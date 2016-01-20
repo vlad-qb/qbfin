@@ -20,6 +20,12 @@
     <script src="js/html5shiv.min.js"></script>
     <script src="js/respond.min.js"></script>
     <![endif]-->
+    <!-- Insert to your webpage before the </head> -->
+    <script src="/slider/jquery.js"></script>
+    <script src="/slider/amazingslider.js"></script>
+    <link rel="stylesheet" type="text/css" href="/slider/amazingslider-1.css">
+    <script src="/slider/initslider-1.js"></script>
+    <!-- End of head section HTML codes -->
   </head>
   <body>
     <?php include 'html/header.html';?>
@@ -114,6 +120,7 @@
     <div class="clearfix"></div>
     <!-- CONTENT -->
 	<div id="content">
+    <!--
     <div class="column-container pt04r block-offset">
       <div class="column text-center">
         <div class="border-grey-top"></div>
@@ -121,8 +128,28 @@
         <div class="border-grey-bottom"></div>
       </div>
     </div>
+  -->
     <div class="clearfix"></div>
-    
+    <!-- Insert to your webpage where you want to display the slider -->
+    <div class="column-container mt04r mb04r block-offset">
+      <div class="column text-center">
+        <div class="border-grey-top"></div>
+        <div id="amazingslider-wrapper-1" style="display:block;position:relative;max-width:100%;margin:0 auto;">
+            <div id="amazingslider-1" style="display:block;position:relative;margin:0 auto;">
+                <ul class="amazingslider-slides" style="display:none;">
+                    <li><img src="slider/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202016-01-20%20%D0%B2%202.03.37.png" data-description="«ЛУЧШАЯ ИНВЕСТИЦИОННАЯ КОМПАНИЯ ГОДА» ~ SPEAR&apos;S RUSSIA AWARDS - 2014 ~ РЕЙТИНГ «А»" />
+                    </li>
+                    <li><img src="slider/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202016-01-20%20%D0%B2%202.03.37.png" data-description="«ЛУЧШАЯ ИНВЕСТИЦИОННАЯ КОМПАНИЯ ГОДА» ~ SPEAR&apos;S RUSSIA AWARDS - 2014 ~ РЕЙТИНГ «А»" />
+                    </li>
+                </ul>
+            <div class="amazingslider-engine"><a href="http://amazingslider.com" title="Responsive jQuery Slider">Responsive jQuery Slider</a></div>
+            </div>
+        </div>
+        <div class="border-grey-bottom"></div>
+      </div>
+    </div>
+    <div class="clearfix"></div>
+    <!-- End of body section HTML codes -->
     <div class="column-container pt05r block-offset">
       <div class="column-2">
         <div class="pr08r pb04r pl08r ">
@@ -179,7 +206,7 @@
     <!-- /CONTENT -->
    <!-- FOOTER BLOCK -->
     <?php include 'html/footer2.html';?>
-    <script src="/js/jquery.min.js"></script>
+    <!-- <script src="/js/jquery.min.js"></script>-->
     <script src="/js/main.js"></script>
   </body>
 </html>

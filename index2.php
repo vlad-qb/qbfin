@@ -20,6 +20,12 @@
     <script src="js/html5shiv.min.js"></script>
     <script src="js/respond.min.js"></script>
     <![endif]-->
+    <!-- Insert to your webpage before the </head> -->
+    <script src="/slider/jquery.js"></script>
+    <script src="carouselengine/amazingcarousel.js"></script>
+    <link rel="stylesheet" type="text/css" href="carouselengine/initcarousel-1.css">
+    <script src="carouselengine/initcarousel-1.js"></script>
+    <!-- End of head section HTML codes -->
   </head>
   <body>
     <?php include 'html/header.html';?>
@@ -29,24 +35,23 @@
       style="background-position: center bottom;">
     </div>
     <div id="headblock" class="column-container text-center">
-      <div class="column-3 content-margin pb02r">
+      <div class="column-3 content-margin-index pb02r">
         <div class="column-offset bg-white">
           <h3 class="size-18 color-teal pt05r pb05r"> СТРАТЕГИИ </h3>
           <div class="auto line-black" style="width:180px;"></div>
           <h3 class="pt05r">
-           <a href="/asset-management.php" class="size-14 dark-gray-hover"> УПРАВЛЕНИЕ АКТИВАМИ </a>
+          <a href="/asset-management.php" class="size-14 dark-gray-hover"> УПРАВЛЕНИЕ АКТИВАМИ </a>
           </h3>
         </div>
         <div class="column-offset bg-white pt05r">
           <div class="img-index-2 cover h300" style="background-position: center center;">
             <div class="h200">
-
             </div>
             <a href="/asset-management.php" class="color-white white-hover block">
               <div style="" class="h100">
                 <div class="bg-grey-label h100 animation-1 icon-arrow-right">
                   <p class="size-12 text-left uppercase line-h20 pt40 pl20">
-                    ЗАЩИТА РУБЛЕВЫХ АКТИВОВ И СТРАТЕГИИ<br> УПРАВЛЕНИЯ ДЕНЬГАМИ 
+                    ЗАЩИТА РУБЛЕВЫХ АКТИВОВ И СТРАТЕГИИ<br> УПРАВЛЕНИЯ ДЕНЬГАМИ
                   </p>
                 </div>
               </div>
@@ -54,20 +59,17 @@
           </div>
         </div>
       </div>
-
-      <div class="column-3 content-margin block-offset">
+      <div class="column-3 content-margin-index">
         <div class="column-offset bg-white">
-          <h3 class="size-18 color-teal pt05r"> КОНСУЛЬТАЦИИ </h3>
+          <h3 class="size-18 color-teal pt05r block-offset"> КОНСУЛЬТАЦИИ </h3>
           <div class="auto line-gray mt05r" style="width:180px;"></div>
           <h3 class="pt05r">
           <a href="/consulting-management.php" class="size-14 dark-gray-hover"> ИНВЕСТИЦИИ И СТРАТЕГИИ </a>
           </h3>
         </div>
-
         <div class="column-offset bg-white pt05r">
           <div class="img-index-3 cover h300" style="background-position: center center;">
             <div class="h200">
-
             </div>
             <a href="/consulting-management.php" class="color-white white-hover block">
               <div style="" class="h100">
@@ -80,21 +82,18 @@
             </a>
           </div>
         </div>
-
       </div>
-      <div class="column-3 content-margin block-offset">
+      <div class="column-3 content-margin-index">
         <div class="column-offset bg-white">
-          <h3 class="size-18 color-teal pt05r">НЕДВИЖИМОСТЬ</h3>
+          <h3 class="size-18 color-teal pt05r block-offset">НЕДВИЖИМОСТЬ</h3>
           <div class="auto line-teal mt05r" style="width:180px;"></div>
           <h3 class="pt05r">
-            <a href="/real-estate.php" class="size-14 dark-gray-hover">РЕАЛЬНЫЙ СЕКТОР</a>
+          <a href="/real-estate.php" class="size-14 dark-gray-hover">РЕАЛЬНЫЙ СЕКТОР</a>
           </h3>
         </div>
-
         <div class="column-offset bg-white pt05r">
           <div class="img-index-4 cover h300" style="background-position: center center;">
             <div class="h200">
-
             </div>
             <a href="/real-estate.php" class="color-white white-hover block">
               <div style="" class="h100">
@@ -111,75 +110,131 @@
       <div class="clearfix"></div>
     </div>
     <!-- /HEADBLOCK -->
-    <div class="clearfix block-offset"></div>
-    <!-- CONTENT -->
-  <div id="content">
-    <div class="column-container pt03r">
-      <div class="column mt20 mb20 text-center">
-        <div class="border-grey-top"></div>
-        <p class="size-14 uppercase line-h26 weight-300 pt03r pb03r">«ЛУЧШАЯ ИНВЕСТИЦИОННАЯ КОМПАНИЯ ГОДА» ~ SPEAR'S RUSSIA AWARDS - 2014 ~ РЕЙТИНГ «А»</p>
-        <div class="border-grey-bottom"></div>
-      </div>
-    </div>
     <div class="clearfix"></div>
-    
-    <div class="column-container pt03r">
-      <div class="column-2">
-        <div class="pt04r pr08r pb04r pl08r  block-offset">
-          <div class="img-index-5 l w120 h120 mr05r mb05r" style="background-size:contain;"></div>
-          <h1 class="size-14 color-teal uppercase">СОБЫТИЯ</h1>
-          <p class="mt20 ml140">
-            <a class="size-14 weight-300 gray-hover" href="markets-review-15-08-2015.php">
-              Finance специализируется на фондовых рынках США и Европы, работая с широким спектром... <span class="color-teal"> > </span>
-            </a>
-          </p>
-          <div class="clearfix"></div>
+    <!-- CONTENT -->
+    <div id="content">
+      <!--
+      <div class="column-container pt04r block-offset">
+        <div class="column text-center">
+          <div class="border-grey-top"></div>
+          <p class="size-14 uppercase line-h26 weight-300 pt03r pb03r">«ЛУЧШАЯ ИНВЕСТИЦИОННАЯ КОМПАНИЯ ГОДА» ~ SPEAR'S RUSSIA AWARDS - 2014 ~ РЕЙТИНГ «А»</p>
+          <div class="border-grey-bottom"></div>
         </div>
       </div>
-      <div class="column-2">
-        <div class="pt04r pr08r pb04r pl08r  block-offset">
-          <div class="img-index-6 l w120 h120 mr05r mb05r" style="background-size:contain;"></div>
-          <h1 class="size-14 color-teal uppercase">РЫНКИ</h1>
-          <p class="mt20 ml140">
-            <a class="size-14 weight-300 gray-hover" href="markets-review-15-08-2015.php">
-              Finance специализируется на фондовых рынках США и Европы, работая с широким спектром... <span class="color-teal"> > </span>
-            </a>
-          </p>
-          <div class="clearfix"></div>
+      -->
+      <div class="clearfix pt02r"></div>
+      <!-- Insert to your webpage where you want to display the slider -->
+      <div class="column-container block-offset">
+        <div class="column text-center">
+          <div class="border-grey-top"></div>
+          <!-- Insert to your webpage where you want to display the carousel -->
+          <div id="amazingcarousel-container-1">
+            <div id="amazingcarousel-1" style="display:none;position:relative;width:100%;max-width:720px;margin:0px auto 0px;">
+              <div class="amazingcarousel-list-container">
+                <ul class="amazingcarousel-list">
+                  <li class="amazingcarousel-item">
+                    <div class="amazingcarousel-item-container">
+                      <div class="amazingcarousel-text">
+                      <blockquote></blockquote>
+                      <cite><a class="hover-teal" href="/awards-and-ratings.php">«ЛУЧШАЯ ИНВЕСТИЦИОННАЯ КОМПАНИЯ ГОДА 2015» ~ SPEAR'S RUSSIA AWARDS</a></cite>
+                    </div>
+                    <div style="clear:both;"></div>                    </div>
+                  </li>
+                  <li class="amazingcarousel-item">
+                    <div class="amazingcarousel-item-container">
+                      <div class="amazingcarousel-text">
+                      <blockquote></blockquote>
+                      <cite><a class="hover-teal" href="/awards-and-ratings.php">«ЛУЧШАЯ ИНВЕСТИЦИОННАЯ СТРАТЕГИЯ 2014» ~ ПРЕМИЯ INVESTOR AWARDS</a></cite>
+                    </div>
+                    <div style="clear:both;"></div>                    </div>
+                  </li>
+                  <li class="amazingcarousel-item">
+                    <div class="amazingcarousel-item-container">
+                      <div class="amazingcarousel-text">
+                      <blockquote></blockquote>
+                      <cite><a class="hover-teal" href="/awards-and-ratings.php">«ЭКСПЕРТ РА 2015» ~ РЕЙТИНГ ПРИВЛЕКАТЕЛЬНОСТИ РАБОТОДАТЕЛЯ ~ A.HR</a></cite>
+                    </div>
+                    <div style="clear:both;"></div>                    </div>
+                  </li>
+                  <li class="amazingcarousel-item">
+                    <div class="amazingcarousel-item-container">
+                      <div class="amazingcarousel-text">
+                      <blockquote></blockquote>
+                      <cite><a class="hover-teal" href="/awards-and-ratings.php">ЛУЧШИЙ РАБОТОДАТЕЛЬ «ФИНАНСЫ И СТРАХОВАНИЕ 2014» ~ РЕЙТИНГ HEADHANTER.RU</a></cite>
+                    </div>
+                    <div style="clear:both;"></div>                    </div>
+                  </li>
+                </ul>
+                <div class="amazingcarousel-prev"></div>
+                <div class="amazingcarousel-next"></div>
+              </div>
+              <div class="amazingcarousel-nav"></div>
+              <div class="amazingcarousel-engine"><a href="http://amazingcarousel.com">JavaScript Carousel</a></div>
+            </div>
+          </div>
+          <!-- End of body section HTML codes -->
+          <div class="border-grey-bottom"></div>
         </div>
       </div>
       <div class="clearfix"></div>
-      <div class="column-2">
-        <div class="pt04r pr08r pb04r pl08r block-offset">
-          <div class="img-index-7 l w120 h120 mr05r mb05r" style="background-size:contain;"></div>
-          <h1 class="size-14 color-teal uppercase">ЭКСПЕРТ</h1>
-          <p class="mt20 ml140">
-            <a class="size-14 weight-300 gray-hover" href="markets-review-15-08-2015.php">
-              Finance специализируется на фондовых рынках США и Европы, работая с широким спектром... <span class="color-teal"> > </span>
-            </a>
-          </p>
-          <div class="clearfix"></div>
+      <!-- End of body section HTML codes -->
+      <div class="column-container pt05r block-offset">
+        <div class="column-2">
+          <div class="pr08r pb04r pl08r ">
+            <div class="img-index-5 l w120 h120 mr05r mb05r" style="background-size:contain;"></div>
+            <h1 class="size-14 color-teal uppercase">СОБЫТИЯ</h1>
+            <p class="mt20 ml140">
+              <a class="size-14 weight-300 gray-hover" href="markets-review-15-08-2015.php">
+                Finance специализируется на фондовых рынках США и Европы, работая с широким спектром... <span class="color-teal"> > </span>
+              </a>
+            </p>
+            <div class="clearfix"></div>
+          </div>
+        </div>
+        <div class="column-2">
+          <div class="pt04r pr08r pb04r pl08r  block-offset">
+            <div class="img-index-6 l w120 h120 mr05r mb05r" style="background-size:contain;"></div>
+            <h1 class="size-14 color-teal uppercase">РЫНКИ</h1>
+            <p class="mt20 ml140">
+              <a class="size-14 weight-300 gray-hover" href="markets-review-15-08-2015.php">
+                Finance специализируется на фондовых рынках США и Европы, работая с широким спектром... <span class="color-teal"> > </span>
+              </a>
+            </p>
+            <div class="clearfix"></div>
+          </div>
+        </div>
+        <div class="clearfix"></div>
+        <div class="column-2">
+          <div class="pt04r pr08r pb04r pl08r block-offset">
+            <div class="img-index-7 l w120 h120 mr05r mb05r" style="background-size:contain;"></div>
+            <h1 class="size-14 color-teal uppercase">ЭКСПЕРТ</h1>
+            <p class="mt20 ml140">
+              <a class="size-14 weight-300 gray-hover" href="markets-review-15-08-2015.php">
+                Finance специализируется на фондовых рынках США и Европы, работая с широким спектром... <span class="color-teal"> > </span>
+              </a>
+            </p>
+            <div class="clearfix"></div>
+          </div>
+        </div>
+        <div class="column-2">
+          <div class="pt04r pr08r pb04r pl08r block-offset">
+            <div class="img-index-8 l w120 h120 mr05r mb05r" style="background-size:contain;"></div>
+            <h1 class="size-14 color-teal uppercase">ОФИСЫ</h1>
+            <p class="mt20 ml140">
+              <a class="size-14 weight-300 gray-hover" href="markets-review-15-08-2015.php">
+                Finance специализируется на фондовых рынках США и Европы, работая с широким спектром... <span class="color-teal"> > </span>
+              </a>
+            </p>
+            <div class="clearfix"></div>
+          </div>
         </div>
       </div>
-      <div class="column-2">
-        <div class="pt04r pr08r pb04r pl08r block-offset">
-          <div class="img-index-8 l w120 h120 mr05r mb05r" style="background-size:contain;"></div>
-          <h1 class="size-14 color-teal uppercase">ОФИСЫ</h1>
-          <p class="mt20 ml140">
-            <a class="size-14 weight-300 gray-hover" href="markets-review-15-08-2015.php">
-              Finance специализируется на фондовых рынках США и Европы, работая с широким спектром... <span class="color-teal"> > </span>
-            </a>
-          </p>
-          <div class="clearfix"></div>
-        </div>
-      </div>
+      <div class="clearfix pt03r"></div>
     </div>
-    <div class="clearfix pt03r"></div>
-   </div>
     <!-- /CONTENT -->
-   <!-- FOOTER BLOCK -->
+    <!-- FOOTER BLOCK -->
     <?php include 'html/footer2.html';?>
-    <script src="/js/jquery.min.js"></script>
+    <!-- <script src="/js/jquery.min.js"></script>-->
     <script src="/js/main.js"></script>
   </body>
 </html>

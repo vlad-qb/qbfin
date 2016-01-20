@@ -32,92 +32,6 @@
         <div class="column-2 content-margin text-center size-8 line-h24 uppercase">
           <div class="column-offset bg-white pt35">
             <ul>
-              <style type="text/css">
-                .menu-zoom{
-                  cursor: pointer;
-                  display: block;
-                  width:40px;
-                  height:40px;
-                  margin:auto;
-                  background-size: 80%;
-                  background-repeat: no-repeat;
-                  background-position: center;
-                  opacity: 0.9;
-                }
-               
-                .menu-zoom:hover{
-                  opacity: 1;
-
-                   /*background-size: 86%; 
-                  -webkit-transition:all 0.2s ease-out;
-                  -moz-transition:all 0.2s ease-out;
-                  -o-transition:all 0.2s ease-out;
-                  transition:all 0.2s ease-out;*/
-                }
-                
-                .menu-icon-1-png{
-                  opacity: 1;
-                  background-image: url('/img/icons/menu-1.png');
-                }
-                .menu-icon-1-png:hover{
-                  opacity: 0.6;
-                                    -webkit-transition:all 0.2s ease-out;
-                  -moz-transition:all 0.2s ease-out;
-                  -o-transition:all 0.2s ease-out;
-                  transition:all 0.2s ease-out;
-                  /*background-image: url('/img/icons/menu-1-hover.png');*/
-                }
-                .menu-icon-2-png{
-                  opacity: 1;
-                  background-image: url('/img/icons/menu-2.png');
-                  background-size: 60%;
-                }
-                .menu-icon-2-png:hover{
-                  opacity: 0.6;
-                                    -webkit-transition:all 0.2s ease-out;
-                  -moz-transition:all 0.2s ease-out;
-                  -o-transition:all 0.2s ease-out;
-                  transition:all 0.2s ease-out;
-                  /*background-image: url('/img/icons/menu-2-hover.png');*/
-              
-                }
-                .menu-icon-3-png{
-                  opacity: 1;
-                  background-image: url('/img/icons/menu-3.png');
-                }
-                .menu-icon-3-png:hover{
-                  opacity: 0.6;
-                                    -webkit-transition:all 0.2s ease-out;
-                  -moz-transition:all 0.2s ease-out;
-                  -o-transition:all 0.2s ease-out;
-                  transition:all 0.2s ease-out;
-                  /*background-image: url('/img/icons/menu-3-hover.png');*/
-                }
-                .menu-icon-4-png{
-                  opacity: 1;
-                  background-image: url('/img/icons/menu-4.png');
-                }
-                .menu-icon-4-png:hover{
-                  opacity: 0.6;
-                                    -webkit-transition:all 0.2s ease-out;
-                  -moz-transition:all 0.2s ease-out;
-                  -o-transition:all 0.2s ease-out;
-                  transition:all 0.2s ease-out;
-                  /*background-image: url('/img/icons/menu-4-hover.png');*/
-                }
-                .menu-icon-5-png{
-                  opacity: 1;
-                  background-image: url('/img/icons/menu-5.png');
-                }
-                .menu-icon-5-png:hover{
-                  opacity: 0.6;
-                                    -webkit-transition:all 0.2s ease-out;
-                  -moz-transition:all 0.2s ease-out;
-                  -o-transition:all 0.2s ease-out;
-                  transition:all 0.2s ease-out;
-                  /*background-image: url('/img/icons/menu-5-hover.png');
-                }*/
-              </style>
               <li class="w15r ml025r mr025r l auto">
                 <a href="/events.php">
                   <div class="menu-zoom menu-icon-1-png"> </div>
@@ -126,13 +40,13 @@
               </li>
               <li class="w15r ml025r mr025r l auto">
                 <a href="callto:+74959889821">
-                  <div class="menu-zoom menu-icon-2-png"> </div>
+                  <div class="menu-zoom menu-icon-2-png" style="background-size: 55%;"> </div>
                 </a>
                 <a class="text-center mt10 block" href="callto:+74959889821"> звонок </a>
               </li>
               <li class="w15r ml025r mr025r l auto">
                 <a href="/service.php">
-                  <div class="menu-zoom menu-icon-3-png"> </div>
+                  <div class="menu-zoom menu-icon-3-png" style="background-size: 85%;"> </div>
                 </a>
                 <a class="text-center mt10 block" href="/service.php"> услуги </a>
               </li>

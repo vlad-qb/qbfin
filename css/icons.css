@@ -1,8 +1,42 @@
+.menu-icon-1-png{
+  background-image: url('/img/icons/menu-1.png');
+}
+.menu-icon-2-png{
+  background-image: url('/img/icons/menu-2.png');
+  background-size: 60%;
+}
+.menu-icon-3-png{
+  background-image: url('/img/icons/menu-3.png');
+}
+.menu-icon-4-png{
+  background-image: url('/img/icons/menu-4.png');
+}
+.menu-icon-5-png{
+  background-image: url('/img/icons/menu-5.png');
+}
+.menu-zoom{
+  cursor: pointer;
+  display: block;
+  width:40px;
+  height:40px;
+  margin:auto;
+  background-size: 80%;
+  background-repeat: no-repeat;
+  background-position: center;
+  opacity: 1;
+}
+
+.menu-zoom:hover{
+  opacity: 0.6;
+  -webkit-transition:all 0.2s ease-out;
+  -moz-transition:all 0.2s ease-out;
+  -o-transition:all 0.2s ease-out;
+  transition:all 0.2s ease-out;
+}
 .icon-mini{
     width:25px;
     height:25px;
 }
-
 .icon-social{
     width:37px;
     height:37px;

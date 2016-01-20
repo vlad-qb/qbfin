@@ -1,0 +1,88 @@
+/* content */
+
+#amazingcarousel-1 .amazingcarousel-image {	
+	position: relative;
+	padding: 0px;
+	margin: 0 auto;
+}
+
+#amazingcarousel-1 .amazingcarousel-image img {
+	display: block;
+	width: 720px;
+      margin: 0 auto;
+	border: 0;
+	padding: 0;
+	-moz-border-radius: 60px;
+	-webkit-border-radius: 60px;
+	border-radius: 60px;
+}
+
+#amazingcarousel-1 .amazingcarousel-text {
+}
+
+#amazingcarousel-1 blockquote {
+	font: italic 14px Georgia, serif;
+	position: relative;
+	color: #333;
+	text-align: center;
+	margin: 0;
+}
+
+#amazingcarousel-1  cite {
+font:14px "Lato","HelveticaLight",sans-serif;color: #333333; line-height:24px;text-transform: uppercase;font-weight: 300;text-align:center;
+}
+
+/* carousel */
+
+#amazingcarousel-container-1 {
+	padding: 1%;
+}
+
+#amazingcarousel-1 .amazingcarousel-list-container { 
+	padding:4% 4% 6% 4%;
+}
+@media screen and (max-width: 768px) {
+	#amazingcarousel-1 .amazingcarousel-list-container { 
+		padding:4% 4% 12% 4%;
+	}
+}
+
+/* item */
+
+#amazingcarousel-1 .amazingcarousel-item-container {
+	text-align: center;
+	padding: 6px;
+}
+
+/* arrows */
+
+#amazingcarousel-1 .amazingcarousel-prev {
+	left: 0%;
+	top: 50%;
+	margin-left: -16px;
+	margin-top: -16px;
+}
+
+#amazingcarousel-1 .amazingcarousel-next {
+	right: 0%;
+	top: 50%;
+	margin-right: -16px;
+	margin-top: -16px;
+}
+
+/* navigation bullets */
+
+#amazingcarousel-1 .amazingcarousel-nav {
+	position: absolute;
+	width: 100%;
+	top: 100%;
+}
+#amazingcarousel-1 .amazingcarousel-bullet-wrapper {
+	margin: -2% auto;
+}
+@media screen and (max-width: 768px) {
+	#amazingcarousel-1 .amazingcarousel-bullet-wrapper {
+		margin: -6% auto;
+	}
+}
+

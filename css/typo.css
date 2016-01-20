@@ -90,6 +90,7 @@ a.active{color:#008080;}
 .light-gray-hover:hover{color:#ccc;}
 .gray-hover:hover{color:#999;}
 .dark-gray-hover:hover{color:#7f7f7f;}
+.hover-teal:hover{color:#008080;}
 
 @media screen and (min-width: 1200px) {
     .text-offset{
