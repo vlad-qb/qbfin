@@ -491,6 +491,22 @@
 .img-archive-news-1{
     background: url(/img/bg/archive-news-1.jpeg);
 }
+.img-archive-news-2 {
+    background-image: url("/img/bg/icon-archive-house.svg");
+    background-repeat: no-repeat;
+}
+.img-archive-news-3 {
+    background-image: url("/img/bg/icon-archive-shares.svg");
+    background-repeat: no-repeat;
+}
+.img-archive-news-4 {
+    background-image: url("/img/bg/icon-archive-wheel.svg");
+    background-repeat: no-repeat;
+}
+.img-archive-news-5 {
+    background-image: url("/img/bg/icon-archive-expert.svg");
+    background-repeat: no-repeat;
+}
 
 /* career.html */
 .img-career-1{
