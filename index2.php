@@ -178,9 +178,9 @@
       </div>
       <div class="clearfix"></div>
       <!-- End of body section HTML codes -->
-      <div class="column-container pt05r block-offset">
-        <div class="column-2">
-          <div class="pr08r pb04r pl08r ">
+      <div class="column-container">
+        <div class="column-2 pt05r block-offset">
+          <div class="pr08r pb04r pl08r">
             <div class="img-index-5 l w120 h120 mr05r mb05r" style="background-size:contain;"></div>
             <h1 class="size-14 color-teal uppercase">СОБЫТИЯ</h1>
             <p class="mt20 ml140">
@@ -191,8 +191,8 @@
             <div class="clearfix"></div>
           </div>
         </div>
-        <div class="column-2">
-          <div class="pt04r pr08r pb04r pl08r  block-offset">
+        <div class="column-2 pt05r block-offset">
+          <div class="pr08r pb04r pl08r">
             <div class="img-index-6 l w120 h120 mr05r mb05r" style="background-size:contain;"></div>
             <h1 class="size-14 color-teal uppercase">РЫНКИ</h1>
             <p class="mt20 ml140">
@@ -204,8 +204,8 @@
           </div>
         </div>
         <div class="clearfix"></div>
-        <div class="column-2">
-          <div class="pt04r pr08r pb04r pl08r block-offset">
+        <div class="column-2 pt05r block-offset">
+          <div class="pr08r pb04r pl08r">
             <div class="img-index-7 l w120 h120 mr05r mb05r" style="background-size:contain;"></div>
             <h1 class="size-14 color-teal uppercase">ЭКСПЕРТ</h1>
             <p class="mt20 ml140">
@@ -216,8 +216,8 @@
             <div class="clearfix"></div>
           </div>
         </div>
-        <div class="column-2">
-          <div class="pt04r pr08r pb04r pl08r block-offset">
+        <div class="column-2 pt05r block-offset">
+          <div class="pr08r pb04r pl08r">
             <div class="img-index-8 l w120 h120 mr05r mb05r" style="background-size:contain;"></div>
             <h1 class="size-14 color-teal uppercase">ОФИСЫ</h1>
             <p class="mt20 ml140">
