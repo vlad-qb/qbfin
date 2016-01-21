@@ -5,6 +5,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>QBF ||| investment - доверительное управление</title>
+    <link rel="stylesheet" type="text/css" href="/css/animate.css" />
+    <link rel="stylesheet" type="text/css" href="/css/flavr.css" />
     <link href="/css/reset.css" rel="stylesheet">
     <link href="/css/grid.css" rel="stylesheet">
     <link href="/css/typo.css" rel="stylesheet">
@@ -32,35 +34,35 @@
         <div class="column-2 content-margin text-center size-8 line-h24 uppercase">
           <div class="column-offset bg-white pt35">
             <ul>
-              <li class="w15r ml025r mr025r l auto lightgray-block-hover3">
+              <li class="w15r ml025r mr025r l auto">
                 <a href="/events.php">
-                  <img src="img/icons/icon-menu-processes.svg" class="icon icon-menu w100r"><br>
-                  <span> события </span>
+                  <div class="menu-zoom menu-icon-1-png"> </div>
                 </a>
+                <a class="text-center mt10 block" href="/events.php"> события </a>
               </li>
-              <li class="w15r ml025r mr025r l auto lightgray-block-hover3">
-                <a href="#">
-                  <img src="img/icons/icon-menu-call.svg" class="icon icon-menu w100r"><br>
-                  <span> звонок </span>
+              <li class="w15r ml025r mr025r l auto">
+                <a href="callto:+74959889821">
+                  <div class="menu-zoom menu-icon-2-png" style="background-size: 55%;"> </div>
                 </a>
+                <a class="text-center mt10 block" href="callto:+74959889821"> звонок </a>
               </li>
-              <li class="w15r ml025r mr025r l auto lightgray-block-hover3">
+              <li class="w15r ml025r mr025r l auto">
                 <a href="/service.php">
-                  <img src="img/icons/icon-menu-services.svg" class="icon icon-menu w100r"><br>
-                  <span> услуги </span>
+                  <div class="menu-zoom menu-icon-3-png" style="background-size: 85%;"> </div>
                 </a>
+                <a class="text-center mt10 block" href="/service.php"> услуги </a>
               </li>
-              <li class="w15r ml025r mr025r l auto lightgray-block-hover3">
+              <li class="w15r ml025r mr025r l auto">
                 <a href="/branch-office.php">
-                  <img src="img/icons/icon-menu-affiliates.svg" class="icon icon-menu w100r"><br>
-                  <span> филиалы </span>
+                  <div class="menu-zoom menu-icon-4-png"> </div>
                 </a>
+                <a class="text-center mt10 block" href="/branch-office.php"> филиалы </a>
               </li>
-              <li class="w15r ml025r mr025r l auto lightgray-block-hover3">
-                <a href="#">
-                  <img src="img/icons/icon-menu-mail.svg" class="icon icon-menu w100r"><br>
-                  <span> почта </span>
+              <li class="w15r ml025r mr025r l auto">
+                <a href="mailto:invest@qbfin.ru">
+                  <div class="menu-zoom menu-icon-5-png"> </div>
                 </a>
+                <a class="text-center mt10 block" href="mailto:invest@qbfin.ru"> почта </a>
               </li>
             </ul>
             <div class="clearfix"></div>
@@ -146,7 +148,7 @@
                 В ЗАВИСИМОСТИ ОТ ПОСТАВЛЕННЫХ ЗАДАЧ, НАШИ СПЕЦИАЛИСТЫ ПОМОГУТ ВЫБРАТЬ НАИБОЛЕЕ ПОДХОДЯЩУЮ ДЛЯ ВАС СТРАТЕГИЮ
               </p>
               <p class="ml025r mr025r mt20 line-h16 size-14 text-center">
-                <a href="/connect.php" class="light-gray-hover">задать вопрос специалисту </a><span class="color-teal weight-300">></span>
+                <a onclick="popup();" class="circles light-gray-hover cursor-pointer">задать вопрос специалисту </a><span onclick="popup();" class="color-teal weight-300 cursor-pointer">></span>
               </p>
             </div>
           </div>
@@ -230,7 +232,7 @@
     <div class="clearfix"></div>
     <div class="w100r">
       <div class="text-center ">
-            <img id="lighthouse" src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r"><br>
+        <img id="lighthouse" src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r"><br>
         <a href="/services.php" class="size-12 uppercase">УСЛУГИ</a>
       </div>	  
     </div>		
@@ -238,6 +240,41 @@
     <div class="clearfix"></div>
     <?php include 'html/footer-service.html';?>
     <script src="/js/jquery.min.js"></script>
-    <script src="/js/main.js"></script>
+    <script src="/js/main.js"></script>        
+    <script type="text/javascript" src="js/flavr.js"></script>
+    <script type="text/javascript">
+    function popup(){
+      var html =  
+      '   <div class="form-row">' +
+      '       <input id="name" type="text" name="name" ' +
+      '       placeholder="Имя" />' +
+      '   </div>' +
+      '   <div id="phone" class="form-row">' +
+      '       <input type="text" name="phone" ' +
+      '       placeholder="Телефон" />' +
+      '   </div>'+
+      '   <div id="time" class="form-row">' +
+      '       <input type="text" name="time" ' +
+      '       placeholder="Время звонка" />' +
+      '   </div>';
+      new $.flavr({                
+          title       : 'Отправить заявку',
+          content     : 'на консультацию по стратегиям управления активами',
+          dialog      : 'form',
+          buttons     : {
+              submit  : { text: 'Отправить', style: 'danger', 
+                action: function($container,$form){
+                  $.get( "success.php", $form.serialize() ,function(data){
+                    //alert(data);
+                    location.href = "success.php"
+                  } );
+                  return false;
+                }},
+              cancel : { text: 'Отмена' }      
+          },
+          form        : { content: html, method: 'post' }
+      });
+    }
+    </script>
   </body>
 </html>

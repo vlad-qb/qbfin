@@ -32,35 +32,35 @@
         <div class="column-2 content-margin text-center size-8 line-h24 uppercase">
           <div class="column-offset bg-white pt35">
             <ul>
-              <li class="w15r ml025r mr025r l auto lightgray-block-hover3">
+              <li class="w15r ml025r mr025r l auto">
                 <a href="/events.php">
-                  <img src="img/icons/icon-menu-processes.svg" class="icon icon-menu w100r"><br>
-                  <span> события </span>
+                  <div class="menu-zoom menu-icon-1-png"> </div>
                 </a>
+                <a class="text-center mt10 block" href="/events.php"> события </a>
               </li>
-              <li class="w15r ml025r mr025r l auto lightgray-block-hover3">
-                <a href="#">
-                  <img src="img/icons/icon-menu-call.svg" class="icon icon-menu w100r"><br>
-                  <span> звонок </span>
+              <li class="w15r ml025r mr025r l auto">
+                <a href="callto:+74959889821">
+                  <div class="menu-zoom menu-icon-2-png" style="background-size: 55%;"> </div>
                 </a>
+                <a class="text-center mt10 block" href="callto:+74959889821"> звонок </a>
               </li>
-              <li class="w15r ml025r mr025r l auto lightgray-block-hover3">
+              <li class="w15r ml025r mr025r l auto">
                 <a href="/service.php">
-                  <img src="img/icons/icon-menu-services.svg" class="icon icon-menu w100r"><br>
-                  <span> услуги </span>
+                  <div class="menu-zoom menu-icon-3-png" style="background-size: 85%;"> </div>
                 </a>
+                <a class="text-center mt10 block" href="/service.php"> услуги </a>
               </li>
-              <li class="w15r ml025r mr025r l auto lightgray-block-hover3">
+              <li class="w15r ml025r mr025r l auto">
                 <a href="/branch-office.php">
-                  <img src="img/icons/icon-menu-affiliates.svg" class="icon icon-menu w100r"><br>
-                  <span> филиалы </span>
+                  <div class="menu-zoom menu-icon-4-png"> </div>
                 </a>
+                <a class="text-center mt10 block" href="/branch-office.php"> филиалы </a>
               </li>
-              <li class="w15r ml025r mr025r l auto lightgray-block-hover3">
-                <a href="#">
-                  <img src="img/icons/icon-menu-mail.svg" class="icon icon-menu w100r"><br>
-                  <span> почта </span>
+              <li class="w15r ml025r mr025r l auto">
+                <a href="mailto:invest@qbfin.ru">
+                  <div class="menu-zoom menu-icon-5-png"> </div>
                 </a>
+                <a class="text-center mt10 block" href="mailto:invest@qbfin.ru"> почта </a>
               </li>
             </ul>
             <div class="clearfix"></div>
