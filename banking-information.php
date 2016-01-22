@@ -175,8 +175,8 @@
         <a class="color-white light-gray-hover" href="/connect.php">
           ПО ВСЕМ ВОПРОСАМ ВЫ МОЖЕТЕ<br/>
           ОБРАТИТЬСЯ К ПРЕДСТАВИТЕЛЯМ<br/>
-          КЛИЕНТСКОГО ОФИСА QB FINANCE ИЛИ<br/>
-          ПО ПОЧТЕ КОМПАНИИ: INVEST@QBFIN.RU
+          КЛИЕНТСКОГО ОФИСА QBF ИЛИ<br/>
+          ПО ПОЧТЕ: INVEST@QBFIN.RU
         </a>
       </h4>
     </div>

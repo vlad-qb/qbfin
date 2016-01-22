@@ -89,7 +89,7 @@
         <div class="column-offset bg-white text-center pt50">
           <h2 class="title">КОНТРОЛЬ КАЧЕСТВА</h2>
           <p class="description">
-			     <span class="bold l">  ФИЛИАЛЫ И ПРЕДСТАВИТЕЛЬСТВА </span><span class="company pl05 pr05"> QBF ||| investment</span> <span class="bold">РАСПОЛОЖЕНЫ В ГОРОДАХ РОССИИ: МОСКВА, САНКТ-ПЕТЕРБУРГ, БЕЛГОРОД, ЕКАТЕРИНБУРГ, А ТАКЖЕ НА ТЕРРИТОРИИ УКРАИНЫ - КИЕВ. </span>
+			     <span class="bold"> ФИЛИАЛЫ И ПРЕДСТАВИТЕЛЬСТВА QBF РАСПОЛОЖЕНЫ В ГОРОДАХ РОССИИ: МОСКВА, САНКТ-ПЕТЕРБУРГ, БЕЛГОРОД, ЕКАТЕРИНБУРГ, А ТАКЖЕ НА ТЕРРИТОРИИ УКРАИНЫ - КИЕВ. </span>
           </p>
           <div class="w100r mt05r text-center">
             <ul class="social-offset auto hi-icon-wrap hi-icon-effect-8">
@@ -120,9 +120,11 @@
     <div class="column-2 pt05r">
       <div class="column-offset pl05r pr05r line-h24 size-14">
         
-        <h4 class="mt15 size-14 line-h20"><span class="bold">В</span>оспользуйтесь формой обратной связи, чтобы задать интересующий Вас вопрос по инвестиционному бизнесу или свяжитесь с нашими специалистами в конкренном офисе по телефону или электронной почте. </h4>
+        <h4 class="mt15 size-14 line-h20"><span class="bold">У</span>важаемый посетитель - если у вас появились идеи, как сделать наш бизнес еще лучше или же есть претензии к обслуживанию клиентов нашими сотрудниками, пожалуйста, сообщите нам, воспользовавшись формой обратной связи. </h4>
         <div class="text-center pt10r block-offset"><img class="icon icon-contacts" src="/img/icons/icon-earth.svg"></div>
-        
+        <p class="size-14 line-h20 pt10r block-offset">
+          Отдел Контроля качества круглосуточно готов прийти вам на помощь в решении возникших вопросов. Клиенты компании всегда в приоритете решения всех спорных ситуаций!
+        </p>    
       </div>
     </div>
     

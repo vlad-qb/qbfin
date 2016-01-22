@@ -105,7 +105,7 @@
         <div class="column-offset bg-white text-center pt50">
           <h2 class="title"> ВАКАНСИИ </h2>
           <p class="description">
-            <span class="bold"> ВЫСОКОКВАЛИФИЦИРОВАННАЯ КОМАНДА МЕНЕДЖЕРОВ И ПОРТФЕЛЬНЫХ УПРАВЛЯЮЩИХ, ИМЕЮЩАЯ ЗНАЧИТЕЛЬНЫЙ ОПЫТ РАБОТЫ НА РЫНКЕ ЦЕННЫХ БУМАГ. </span>
+            <span class="bold"> КОМПАНИЯ QBF ЗАИНТЕРЕСОВАНА В ПРИВЛЕЧЕНИИ ПРОФЕССИОНАЛЬНЫХ И ТАЛАНТЛИВЫХ СПЕЦИАЛИСТОВ. МЫ РАССМАТРИВАЕМ СВОИХ СОТРУДНИКОВ КАК ПАРТНЕРОВ ПО ОБЩЕМУ ДЕЛУ, КОМАНДУ ЕДИНОМЫШЛЕННИКОВ, ОРИЕНТИРОВАННЫХ НА РЕАЛИЗАЦИЮ ОБЩЕЙ ЗАДАЧИ. </span>
           </p>
           <div class="w100r mt05r text-center">
             <ul class="social-offset auto hi-icon-wrap hi-icon-effect-8">

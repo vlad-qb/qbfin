@@ -110,7 +110,7 @@
         <div class="column-offset bg-white text-center pt50">
           <h2 class="title"> АКЦИИ </h2>
           <p class="description">
-            <span class="bold"> ВЫСОКОКВАЛИФИЦИРОВАННАЯ КОМАНДА МЕНЕДЖЕРОВ И ПОРТФЕЛЬНЫХ УПРАВЛЯЮЩИХ, ИМЕЮЩАЯ ЗНАЧИТЕЛЬНЫЙ ОПЫТ РАБОТЫ НА РЫНКЕ ЦЕННЫХ БУМАГ.</span>
+            <span class="bold"> АНАЛИТИЧЕСКИЙ ДЕПАРТАМЕНТ КОМПАНИИ QBF ПРЕДЛАГАЮТ ВАШЕМУ ВНИМАНИЮ ОБЗОРЫ АКЦИЙ КРУПНЕЙШИХ И НАИБОЛЕЕ ПЕРСПЕКТИВНЫХ ДЛЯ ИНВЕСТИРОВАНИЯ КОМПАНИЙ. </span>
           </p>
           <div class="w100r mt05r text-center">
             <ul class="social-offset auto hi-icon-wrap hi-icon-effect-8">

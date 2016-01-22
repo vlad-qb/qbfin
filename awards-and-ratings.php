@@ -195,6 +195,7 @@
           </p>
           <p class="pt05r weight-300"> 
             <a class="color-teal light-gray-hover" href="http://rating.hrbrand.ru/rating2014/">http://rating.hrbrand.ru/rating2014/</a>
+            <a class="color-teal light-gray-hover" href="http://www.kommersant.ru/doc/2683824">http://www.kommersant.ru/doc/2683824</a>
           </p>
         </div>
       </div>
@@ -242,7 +243,7 @@
         </div>
         <div class="pl05r pr05r line-h20 size-14">
           <p class="pt05r weight-300">
-            <span class="bold">О премии:</span> SPEAR'S Russia Wealth Management Awards - ежегодная gремия для лучших представителей индустрии частного банковского обслуживания, управления большими капиталами и смежных индустрий. Организатором выступает первый в России специализированный портал тематики private banking & wealth management, наиболее авторитетный и влиятельный журнал для богатейших людей планеты.
+            <span class="bold">О премии:</span>  SPEAR'S Russia Wealth Management Awards - ежегодная gремия для лучших представителей индустрии частного банковского обслуживания, управления большими капиталами и смежных индустрий. Организатором выступает первый в России специализированный портал тематики private banking & wealth management, наиболее авторитетный и влиятельный журнал для богатейших людей планеты.
           </p>
           <p class="pt05r weight-300"> 
             <a class="color-teal light-gray-hover" href="http://awards2013.pbwm.ru/awards/winners">http://awards2013.pbwm.ru/awards/winners</a>

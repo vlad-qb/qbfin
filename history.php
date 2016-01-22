@@ -121,7 +121,7 @@
         <div class="column-offset bg-white text-center pt50">
           <h2 class="title"> ИСТОРИЯ </h2>
           <p class="description">
-            <span class="company"> QBF ||| investment </span> <span class="sep"> - </span> ВЫСОКОКВАЛИФИЦИРОВАННАЯ КОМАНДА МЕНЕДЖЕРОВ И ПОРТФЕЛЬНЫХ УПРАВЛЯЮЩИХ, ИМЕЮЩАЯ ЗНАЧИТЕЛЬНЫЙ ОПЫТ РАБОТЫ НА РЫНКЕ ЦЕННЫХ БУМАГ. НАША КОМПАНИЯ ПОЛЬЗУЕТСЯ УСТОЙЧИВОЙ РЕПУТАЦИЕЙ СРЕДИ КЛИЕНТОВ - КАК ИНСТИТУЦИОНАЛЬНЫХ ИНВЕСТОРОВ, ТАК И ЧАСТНЫХ - И СВОИХ ПАРТНЕРОВ: БАНКОВ, РЕГИСТРАТОРОВ, ДЕПОЗИТАРИЕВ.
+            <span class="company"> QBF ||| investment </span> <span class="sep"> - </span> КОМАНДА МЕНЕДЖЕРОВ, АНАЛИТИКОВ И ПОРТФЕЛЬНЫХ УПРАВЛЯЮЩИХ, ИМЕЮЩАЯ ЗНАЧИТЕЛЬНЫЙ ОПЫТ РАБОТЫ НА РЫНКЕ ЦЕННЫХ БУМАГ. НАША КОМПАНИЯ ПОЛЬЗУЕТСЯ УСТОЙЧИВОЙ РЕПУТАЦИЕЙ СРЕДИ КЛИЕНТОВ - КАК ИНСТИТУЦИОНАЛЬНЫХ, ТАК И ЧАСТНЫХ ИНВЕСТОРОВ, А ТАКЖЕ СВОИХ ПАРТНЕРОВ: БАНКОВ, РЕГИСТРАТОРОВ, ДЕПОЗИТАРИЕВ.
           </p>
           <div class="w100r mt05r text-center">
             <ul class="social-offset auto hi-icon-wrap hi-icon-effect-8">
@@ -255,10 +255,11 @@
   </div>
   <div class="clearfix pt05r block-offset"></div>
   <div class="img-history-2 w100r cover" style="background-attachment: fixed;">
-    <h4 class="line-h40 color-white uppercase size-16 text-center weight-500 pt05r pb05r pl05r pr05r">ВЫСОКОКВАЛИФИЦИРОВАННАЯ КОМАНДА<br/>
-    МЕНЕДЖЕРОВ И ПОРТФЕЛЬНЫХ УПРАВЛЯЮЩИХ,<br/>
-    ИМЕЮЩАЯ ЗНАЧИТЕЛЬНЫЙ ОПЫТ РАБОТЫ<br/>
-    НА РЫНКЕ ЦЕННЫХ БУМАГ.
+    <h4 class="line-h40 color-white uppercase size-16 text-center weight-500 pt05r pb05r pl05r pr05r">
+      ВЫСОКОКВАЛИФИЦИРОВАННАЯ КОМАНДА<br/>
+      МЕНЕДЖЕРОВ, АНАЛИТИКОВ И ПОРТФЕЛЬНЫХ УПРАВЛЯЮЩИХ,<br/>
+      ИМЕЮЩАЯ ЗНАЧИТЕЛЬНЫЙ ОПЫТ РАБОТЫ<br/>
+      НА РЫНКЕ ЦЕННЫХ БУМАГ.
     </h4>
   </div>
   </div>

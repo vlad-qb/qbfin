@@ -194,14 +194,12 @@
     <h3 class="text-center bold pt05r block-offset">Структура портфеля</h3>
     <div class="column-2 pt05r block-offset">
       <div class="column-offset pl05r pr05r">
-        <p class="size-14 weight-300"><span class="bold">Ч</span>тобы облигация была отобрана в портфель, она должна обладать высоким кредитным рейтингом от Standard & Poor's, Moody's и Fitch для корпоративных облигаций. </p>
-        <p class="mt20 size-14 weight-300">Целевой доходностью по облигациям служит отметка 6% годовых.</p>
+        <p class="size-14 weight-300"><span class="bold">Ч</span>ттобы облигация была отобрана в портфель, она должна обладать высоким кредитным рейтингом от Standard & Poor's, Moody's и Fitch для корпоративных облигаций. Целевой доходностью по облигациям служит отметка 6% годовых. </p>
       </div>
     </div>
     <div class="column-2 pt05r">
       <div class="column-offset pl05r pr05r">
-        <p class="size-14 weight-300"><span class="bold">К</span>роме того, эмитент должен входить в индекс S&P500 или в основные региональные индексы (для неамериканских эмитентов). Показатели TDB/EBITDA и TDB/Assets эмитента не выше средних значений по отрасли. </p>
-        <p class="mt20 size-14 weight-300">Во время управления портфелем в его структуру могут быть включены аналогичные активы других эмитентов.</p>
+        <p class="size-14 weight-300"><span class="bold">К</span>роме того, эмитент должен входить в индекс S&P500 или в основные региональные индексы (для неамериканских эмитентов). Показатели TDB/EBITDA и TDB/Assets эмитента не выше средних значений по отрасли.  </p>
       </div>
       <div class="clearfix"></div>
     </div>

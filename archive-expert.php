@@ -109,7 +109,7 @@
       <div class="column-offset bg-white pt50">
         <h2 class="title"> АРХИВ : Эксперт </h2>
         <p class="description">
-          ВЫСОКОКВАЛИФИЦИРОВАННАЯ КОМАНДА МЕНЕДЖЕРОВ И ПОРТФЕЛЬНЫХ УПРАВЛЯЮЩИХ, ИМЕЮЩАЯ ЗНАЧИТЕЛЬНЫЙ ОПЫТ РАБОТЫ НА РЫНКЕ ЦЕННЫХ БУМАГ.
+          ЭКСПЕРТЫ ИНВЕСТИЦИОННОЙ КОМПАНИИ QBF АНАЛИЗИРУЮТ И КОММЕНТИРУЮТ КЛЮЧЕВЫЕ СОБЫТИЯ В РОССИЙСКОЙ И МИРОВОЙ ЭКОНОМИКЕ.
         </p>
         <div class="w100r mt05r text-center">
             <ul class="social-offset auto hi-icon-wrap hi-icon-effect-8">

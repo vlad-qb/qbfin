@@ -108,11 +108,10 @@
       <div class="column-2 content-margin">
         <div class="column-offset bg-white text-center pt50">
           <h2 class="title">СОБЫТИЯ</h2>
-          <p class="description" style="text-align:center;">
-            <span class="date" style="float:none;">15.06.2015</span> <span class="color-whitesmoke pl05 pr05">•</span> ЛИКВИДНАЯ НЕДВИЖИМОСТЬ
-          </p>
-          <p class="description-2">
-            В условиях геополитической нестабильности недвижимость становится одним из самых надежных способов сохранения капитала, уверены Николай Михаилов и Дмитрий Лепешкин...<span class="color-black"> &gt;</span>
+          <p class="description" >
+            <span class="bold">
+              ОБЗОР СОБЫТИЙ КОМПАНИИ QBF И МИРА ИНВЕСТИЦИОННОГО БИЗНЕСА, А ТАКЖЕ ЗАМЕТНЫЕ МЕРОПРИЯТИЯ И ЭВЕНТЫ С УЧАСТИЕМ НАШЕЙ КОМПАНИИ.
+            </span>
           </p>
           <div class="w100r mt05r text-center">
             <ul class="social-offset auto hi-icon-wrap hi-icon-effect-8">

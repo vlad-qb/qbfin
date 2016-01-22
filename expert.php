@@ -108,11 +108,8 @@
       <div class="column-2 content-margin">
         <div class="column-offset bg-white text-center pt50">
           <h2 class="title">ЭКСПЕРТ</h2>
-		      <p class="description" style="text-align:center;">
-            <span class="date" style="float:none;">12.07.2015</span> <span class="color-whitesmoke pl05 pr05">•</span> СТРАТЕГИЯ В ПЕРИОД НЕОПРЕДЕЛЕННОСТИ
-          </p>
-          <p class="description-2">
-    		    В условиях геополитической нестабильности недвижимость становится одним из самых надежных способов сохранения капитала, уверены Николай Михайлов и Дмитрий Лепешкин...
+		      <p class="description">
+            <span class="bold">ЭКСПЕРТНОЕ МНЕНИЕ И КОММЕНТАРИИ АНАЛИТИКОВ КОМПАНИИ НА ТЕКУЩИЕ СОБЫТИЯ РОССИЙСКОЙ И МЕЖДУНАРОДНОЙ ЭКОНОМИКИ И ТЕНДЕНЦИЙ ИНВЕСТИЦИОННОГО БИЗНЕСА.</span>
           </p>
           <div class="w100r mt05r text-center">
             <ul class="social-offset auto hi-icon-wrap hi-icon-effect-8">

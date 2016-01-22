@@ -109,7 +109,7 @@
       <div class="column-offset bg-white pt50">
         <h2 class="title"> АРХИВ : РЫНКИ ЗА НЕДЕЛЮ </h2>
         <p class="description">
-          ВЫСОКОКВАЛИФИЦИРОВАННАЯ КОМАНДА МЕНЕДЖЕРОВ И ПОРТФЕЛЬНЫХ УПРАВЛЯЮЩИХ, ИМЕЮЩАЯ ЗНАЧИТЕЛЬНЫЙ ОПЫТ РАБОТЫ НА РЫНКЕ ЦЕННЫХ БУМАГ.
+          ЭКСПЕРТЫ АНАЛИТИЧЕСКОГО ДЕПАРТАМЕНТА КОМПАНИИ QBF ПРЕДЛАГАЮТ ВАШЕМУ ВНИМАНИЮ ОБЗОРЫ МИРОВЫХ РЫНКОВ ЗА НЕДЕЛЮ.
         </p>
         <div class="w100r mt05r text-center">
             <ul class="social-offset auto hi-icon-wrap hi-icon-effect-8">

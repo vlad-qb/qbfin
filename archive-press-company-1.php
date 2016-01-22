@@ -111,7 +111,7 @@
           <p class="description">
 		        <span class="l">ЭКСПЕРТЫ И АНАЛИТИКИ</span>
             <span class="company pl05 pr05"> QBF ||| investment </span>
-            КОММЕНТИРУЮТ В СМИ ТЕКУЩИЕ СОБЫТИЯ РОССИЙСКОЙ И МЕЖДУНАРОДНОЙ ЭКОНОМИКИ.
+            ЭКСПЕРТЫ И АНАЛИТИКИ ИНВЕСТИЦИОННОЙ КОМПАНИИ QBF КОММЕНТИРУЮТ В СМИ ТЕКУЩИЕ СОБЫТИЯ РОССИЙСКОЙ И МЕЖДУНАРОДНОЙ ЭКОНОМИКИ.
           </p>
           <div class="w100r mt05r text-center">
             <ul class="social-offset auto hi-icon-wrap hi-icon-effect-8">

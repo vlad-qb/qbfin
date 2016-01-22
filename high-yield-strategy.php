@@ -130,7 +130,12 @@
 <!-- PORTFOLIO MENU -->
     <div class="img-high-yield-strategy-3 w100r mt05r fixed" style="background-attachment: fixed;">
       <div class="portfolio-menu bg-blue-label w90r auto bg bg-label text-center color-white uppercase">
-        <div class="pl02r pr02r pt02r pb02r">
+        <div class="pt01r pb01r">
+          <div class="border-blue-bottom bold text-center size-12 line-h50 color-white uppercase">
+            <div class="pl02r pr02r">
+              варианты высокодоходной стратегии
+            </div>
+          </div>
           <div class="column-3">
             <div class="column-offset">
               <a class="button color-white white-hover block" href="/ipo-portfolio.php">
@@ -180,17 +185,17 @@
         <div class="column-offset">
           <div class="ml15r mr15r border-left-lightgray border-right-lightgray">
             <div class="ml05r mr05r pt03r pb03r">
-              <h3 class="ml025r color-teal size-12 mb20">IPO ПОРТФЕЛЬ </h3>
-              <p class="ml025r mb20">
-                Стратегия в рамках портфеля позволяет извлекать прибыль из роста капитализации компаний, проводящих первичное публичное размещение (IPO) на фондовом рынке. Стратегия реализуется через покупку акций компаний, выходящих на IPO, по цене размещения, что позволяет заложить максимальный потенциал роста в короткий период.
+              <h3 class="color-teal size-12 mb20">IPO ПОРТФЕЛЬ </h3>
+              <p class="mb20">
+                Стратегия в рамках портфеля позволяет извлекать прибыль из роста капитализации компаний, проводящих первичное публичное размещение (IPO) на фондовом рынке. Стратегия реализуется через покупку акций компаний, выходящих на IPO, по цене размещения, что позволяет заложить максимальный потенциал роста в короткий период. <a href="/ipo-portfolio.php" class="color-teal gray-hover">...подробнее ></a>
               </p>
-              <h3 class="ml025r color-teal size-12 mb20">ВЫСОКОДОХОДНЫЙ ВАЛЮТНЫЙ ПОРТФЕЛЬ </h3>
-              <p class="ml025r mb20 weight-300">
-                Основная задача портфеля - принести инвестору максимум дохода при 50-процентной защите капитала. Портфель обладает значительной волатильностью и коррелирует с динамикой валютного рынка. Прибыль для инвестора генерируют пять алгоритмов, каждый из которых ориентирован на отдельную валютную пару: EUR/USD, USD/JPY, GBP/USD, EUR/GBP и EUR/CAD.
+              <h3 class="color-teal size-12 mb20">ВЫСОКОДОХОДНЫЙ ВАЛЮТНЫЙ ПОРТФЕЛЬ </h3>
+              <p class="mb20 weight-300">
+                Основная задача портфеля - принести инвестору максимум дохода при 50-процентной защите капитала. Портфель обладает значительной волатильностью и коррелирует с динамикой валютного рынка. Прибыль для инвестора генерируют пять алгоритмов, каждый из которых ориентирован на отдельную валютную пару: EUR/USD, USD/JPY, GBP/USD, EUR/GBP и EUR/CAD. <a href="/high-yielding-currency-portfolio.php" class="color-teal gray-hover">...подробнее ></a>
               </p>
-              <h3 class="ml025r color-teal size-12 mb20">ВЫСОКОДОХОДНЫЙ ПОРТФЕЛЬ </h3>
-              <p class="ml025r mb20 weight-300">
-                Стратегия предполагает географическую диверсификацию и широкий выбор финансовых инструментов. Основным инструментом в портфеле выступают акции эмитентов со всего мира и биржевые фонды, нацеленные на различные регионы и секторы экономики.
+              <h3 class="color-teal size-12 mb20">ВЫСОКОДОХОДНЫЙ ПОРТФЕЛЬ </h3>
+              <p class="mb20 weight-300">
+                Стратегия предполагает географическую диверсификацию и широкий выбор финансовых инструментов. Основным инструментом в портфеле выступают акции эмитентов со всего мира и биржевые фонды, нацеленные на различные регионы и секторы экономики. <a href="/high-yielding-portfolio.php" class="color-teal gray-hover">...подробнее ></a>
               </p>
             </div>
           </div>
@@ -211,7 +216,7 @@
             <div class="ml05r mr05r">
               <a class="button color-white white-hover block" href="/high-yield-strategy.php">
                 <img src="img/icons/icon-marker.svg" class="icon icon-services w50 h50">
-                <div class="mt10 h border-darkgray-top border-darkgray-bottom blue-block-hover">
+                <div class="mt10 h border-darkgray-top border-darkgray-bottom bg-blue-label">
                   <div class="size-11 line-h18 mt25 mb20 ml25r mr25r">Высокодоходная стратегия</div>
                 </div>
               </a>

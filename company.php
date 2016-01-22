@@ -121,7 +121,7 @@
         <div class="column-offset bg-white text-center pt50">
           <h2 class="title"> КОМПАНИЯ </h2>
           <p class="description">
-            <span class="company"> QBF ||| investment </span> <span class="sep"> - </span> МЕЖДУНАРОДНАЯ ИНВЕСТИЦИОННАЯ КОМПАНИЯ, ПРЕДОСТАВЛЯЮЩАЯ УСЛУГИ ПО УПРАВЛЕНИЮ АКТИВАМИ НА ФИНАНСОВЫХ РЫНКАХ СЕВЕРНОЙ АМЕРИКИ, ЕВРОПЫ И РОССИИ. 
+            <span class="company"> QBF ||| investment </span> <span class="sep"> - </span> ИНВЕСТИЦИОННАЯ КОМПАНИЯ, ПРЕДОСТАВЛЯЮЩАЯ УСЛУГИ ПО УПРАВЛЕНИЮ АКТИВАМИ НА ФИНАНСОВЫХ РЫНКАХ СЕВЕРНОЙ АМЕРИКИ, ЕВРОПЫ И РОССИИ.
           </p>
           <div class="w100r mt05r text-center">
             <ul class="social-offset auto hi-icon-wrap hi-icon-effect-8">

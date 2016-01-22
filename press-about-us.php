@@ -109,7 +109,7 @@
         <div class="column-offset bg-white text-center pt50">
           <h2 class="title"> ПРЕССА О НАС </h2>
           <p class="description">
-		        <span class="bold"> ВЫСОКОКВАЛИФИЦИРОВАННАЯ КОМАНДА МЕНЕДЖЕРОВ И ПОРТФЕЛЬНЫХ УПРАВЛЯЮЩИХ, ИМЕЮЩАЯ ЗНАЧИТЕЛЬНЫЙ ОПЫТ РАБОТЫ НА РЫНКЕ ЦЕННЫХ БУМАГ. </span>
+		        <span class="bold"> ОБЗОРЫ И КОММЕНТАРИИ В СРЕДСТВАХ МАССОВОЙ ИНФОРМАЦИИ ИНВЕСТИЦИОННОЙ КОМПАНИИ QBF. </span>
           </p>
           <div class="w100r mt05r text-center">
             <ul class="social-offset auto hi-icon-wrap hi-icon-effect-8">

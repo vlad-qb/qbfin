@@ -109,7 +109,7 @@
         <div class="column-offset bg-white text-center pt50">
           <h2 class="title"> КОМПАНИЯ В СМИ </h2>
           <p class="description">
-		        <span class="bold l"> ЭКСПЕРТЫ И АНАЛИТИКИ</span> <span class="company pl05 pr05">QBF ||| investment</span><span class="bold"> КОММЕНТИРУЮТ В СМИ ТЕКУЩИЕ СОБЫТИЯ РОССИЙСКОЙ И МЕЖДУНАРОДНОЙ ЭКОНОМИКИ. </span>
+		        <span class="bold">ЭКСПЕРТЫ И АНАЛИТИКИ ИНВЕСТИЦИОННОЙ КОМПАНИИ QBF КОММЕНТИРУЮТ В СМИ ТЕКУЩИЕ СОБЫТИЯ РОССИЙСКОЙ И МЕЖДУНАРОДНОЙ ЭКОНОМИКИ.</span>
           </p>
           <div class="w100r mt05r text-center">
             <ul class="social-offset auto hi-icon-wrap hi-icon-effect-8">
