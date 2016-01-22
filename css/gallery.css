@@ -833,7 +833,8 @@
 
 /* team-frolov.html */
 .img-team-frolov-1{
-    background: url(/img/bg/team-frolov-1.jpeg);
+    background: url(/img/bg/team-frolov-desk.jpg);
+    background-position: right bottom;
 }
 
 /* team-shpakov.html */
@@ -918,6 +919,13 @@
 /* search-results.html */
 .img-search-1{
     background: url(/img/bg/search.jpg);
+}
+/* consulting-management.html */
+.consulting-management-1{
+    background: url(/img/bg/consulting-management.jpg);
+}
+.consulting-management-2{
+    background: url(/img/bg/consulting-management-2.jpg);
 }
 @media screen and (max-width: 1200px) {
 			/* company.html */
@@ -1412,7 +1420,8 @@
 
 			/* team-frolov.html */
 			.img-team-frolov-1{
-				background: url(/img/bg/1536/team-frolov-1.jpg);
+				background: url(/img/bg/team-frolov-mob.jpg);
+                background-position: center bottom;
 			}
 
 			/* team-shpakov.html */

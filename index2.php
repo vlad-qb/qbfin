@@ -136,7 +136,7 @@
                     <div class="amazingcarousel-item-container">
                       <div class="amazingcarousel-text">
                       <blockquote></blockquote>
-                      <cite><a class="hover-teal" href="/awards-and-ratings.php">«ЛУЧШАЯ ИНВЕСТИЦИОННАЯ КОМПАНИЯ ГОДА 2015» ~ SPEAR'S RUSSIA AWARDS</a></cite>
+                      <cite><a class="hover-teal" href="/company.php">«ЛУЧШАЯ ИНВЕСТИЦИОННАЯ КОМПАНИЯ ГОДА 2015» ~ SPEAR'S RUSSIA AWARDS</a></cite>
                     </div>
                     <div style="clear:both;"></div>                    </div>
                   </li>
@@ -144,7 +144,7 @@
                     <div class="amazingcarousel-item-container">
                       <div class="amazingcarousel-text">
                       <blockquote></blockquote>
-                      <cite><a class="hover-teal" href="/awards-and-ratings.php">«ЛУЧШАЯ ИНВЕСТИЦИОННАЯ СТРАТЕГИЯ 2014» ~ ПРЕМИЯ INVESTOR AWARDS</a></cite>
+                      <cite><a class="hover-teal" href="/asset-management.php">«ЛУЧШАЯ ИНВЕСТИЦИОННАЯ СТРАТЕГИЯ 2014» ~ ПРЕМИЯ INVESTOR AWARDS</a></cite>
                     </div>
                     <div style="clear:both;"></div>                    </div>
                   </li>
@@ -152,7 +152,7 @@
                     <div class="amazingcarousel-item-container">
                       <div class="amazingcarousel-text">
                       <blockquote></blockquote>
-                      <cite><a class="hover-teal" href="/awards-and-ratings.php">«ЭКСПЕРТ РА 2015» ~ РЕЙТИНГ ПРИВЛЕКАТЕЛЬНОСТИ РАБОТОДАТЕЛЯ ~ A.HR</a></cite>
+                      <cite><a class="hover-teal" href="/certificates.php">«ЭКСПЕРТ РА 2015» ~ РЕЙТИНГ ПРИВЛЕКАТЕЛЬНОСТИ РАБОТОДАТЕЛЯ ~ A.HR</a></cite>
                     </div>
                     <div style="clear:both;"></div>                    </div>
                   </li>
@@ -160,7 +160,7 @@
                     <div class="amazingcarousel-item-container">
                       <div class="amazingcarousel-text">
                       <blockquote></blockquote>
-                      <cite><a class="hover-teal" href="/awards-and-ratings.php">ЛУЧШИЙ РАБОТОДАТЕЛЬ «ФИНАНСЫ И СТРАХОВАНИЕ 2014» ~ РЕЙТИНГ HEADHANTER.RU</a></cite>
+                      <cite><a class="hover-teal" href="/career.php">ЛУЧШИЙ РАБОТОДАТЕЛЬ «ФИНАНСЫ И СТРАХОВАНИЕ 2014» ~ РЕЙТИНГ HEADHANTER.RU</a></cite>
                     </div>
                     <div style="clear:both;"></div>                    </div>
                   </li>
@@ -183,7 +183,7 @@
           <div class="pr08r pb04r pl08r">
             <div class="img-index-5 l w120 h120 mr05r mb05r" style="background-size:contain;"></div>
             <h1 class="size-14 color-teal uppercase">СОБЫТИЯ</h1>
-            <p class="mt20 ml140">
+            <p class="mt20 ml150">
               <a class="size-14 weight-300 gray-hover" href="markets-review-15-08-2015.php">
                 Finance специализируется на фондовых рынках США и Европы, работая с широким спектром... <span class="color-teal"> > </span>
               </a>
@@ -195,7 +195,7 @@
           <div class="pr08r pb04r pl08r">
             <div class="img-index-6 l w120 h120 mr05r mb05r" style="background-size:contain;"></div>
             <h1 class="size-14 color-teal uppercase">РЫНКИ</h1>
-            <p class="mt20 ml140">
+            <p class="mt20 ml150">
               <a class="size-14 weight-300 gray-hover" href="markets-review-15-08-2015.php">
                 Finance специализируется на фондовых рынках США и Европы, работая с широким спектром... <span class="color-teal"> > </span>
               </a>
@@ -208,7 +208,7 @@
           <div class="pr08r pb04r pl08r">
             <div class="img-index-7 l w120 h120 mr05r mb05r" style="background-size:contain;"></div>
             <h1 class="size-14 color-teal uppercase">ЭКСПЕРТ</h1>
-            <p class="mt20 ml140">
+            <p class="mt20 ml150">
               <a class="size-14 weight-300 gray-hover" href="markets-review-15-08-2015.php">
                 Finance специализируется на фондовых рынках США и Европы, работая с широким спектром... <span class="color-teal"> > </span>
               </a>
@@ -220,7 +220,7 @@
           <div class="pr08r pb04r pl08r">
             <div class="img-index-8 l w120 h120 mr05r mb05r" style="background-size:contain;"></div>
             <h1 class="size-14 color-teal uppercase">ОФИСЫ</h1>
-            <p class="mt20 ml140">
+            <p class="mt20 ml150">
               <a class="size-14 weight-300 gray-hover" href="markets-review-15-08-2015.php">
                 Finance специализируется на фондовых рынках США и Европы, работая с широким спектром... <span class="color-teal"> > </span>
               </a>

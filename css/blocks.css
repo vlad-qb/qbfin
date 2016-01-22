@@ -368,6 +368,7 @@
     .shpakov-desktop{display: block;}
     .shpakov-moblile{display: none;}
 .portfolio-menu .button .h{height: 90px;}
+.portfolio-menu .button .h2{height: 65px;}
 .portfolio-menu .column-2 .button .h{height: 65px;}
 #lighthouse{
     margin-top: 4%;
@@ -450,7 +451,7 @@
     */
     .block-offset{
         padding-top:40px; 
-    }
+    } 
     .block-offset-2{
         padding-top:20px; 
     }

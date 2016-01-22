@@ -101,7 +101,7 @@
       </div>
       <div class="column-2 content-margin">
         <div class="column-offset bg-white text-center pt50">
-          <h2 class="title"> КОНСУЛЬТАЦИОННОЕ УПРАВЛЕНИЕ </h2>
+          <h2 class="title"> QB TRADER PRO </h2>
           <p class="description">
             <span class="bold"> УПРАВЛЕНИЕ АКТИВАМИ - ЭТО ИСКУССТВО. В СОВРЕМЕННЫХ РЕАЛИЯХ НЕ КАЖДЫЙ МОЖЕТ НАЙТИ ВРЕМЯ ДЛЯ ОТТАЧИВАНИЯ СОБСТВЕННОЙ СИСТЕМЫ УПРАВЛЕНИЯ АКТИВАМИ И НЕ КАЖДЫЙ ГОТОВ ПОЛНОСТЬЮ ПОЛОЖИТСЯ В ДАННОМ ВОПРОСЕ НА ДРУГОГО ЧЕЛОВЕКА. </span>
           </p>
@@ -126,26 +126,117 @@
       </div>
     </div>
     <!-- /HEADBLOCK --> 
-	<div class="clearfix"></div> 
+    <div class="clearfix"></div> 
   <!-- Text-->
   <div id="content">
   <div class="column-container pt05r">
     <div class="column-2">
       <div class="column-offset pl05r pr05r auto line-h20 size-14">
-        <p class="size-14 weight-300"><span class="bold">К</span>омпания предлагает своим клиентам услугу Консультационного Управления, в рамках которой компания предоставляет каждому клиенту личного финансового советника.  </p>
-        <p class="mt20 size-14 weight-300">Вы получаете возможность управления своими активами, опираясь на рекомендации и помощь команды профессионалов.</p>
+        <p class="size-14 weight-300"><span class="bold">Н</span>аша компания в рамках Консультационного управления финансами предоставляет своим клиентам собственную уникальную платформу QB TRADER PRO для торговли на фондовом рынке США. </p>
       </div>
     </div>
     <div class="column-2">
       <div class="column-offset pl05r pr05r auto line-h20 size-14">
-        <p class="size-14 weight-300"><span class="bold">К</span>онсультационное управление - это услуга, которая в одинаковой мере востребована как у начинающих, так и у опытных управляющих. </p>
-        <p class="mt20 size-14 weight-300">QBF Investment предоставляет каждому клиенту персонального финансового советника, для того чтобы Вы могли опираться на команду профессионалов в процессе управления своими активами.</p>
+        <p class="size-14 weight-300"> QBF ||| investment также предоставляет каждому клиенту персонального финансового советника, для того чтобы Вы могли опираться на команду профессионалов в процессе управления своими активами. </p>
       </div>
     </div>
   </div>
   <div class="clearfix pt05r block-offset"></div>
-  <!-- Text-->
-<!-- PORTFOLIO MENU -->
+
+  <!-- IMAGES-->
+  <div class="column-container line-h20 size-14">
+    <div class="column-2 pt05r block-offset">
+      <div class="  auto line-h20 size-14">
+        <div class="img-consulting-management-4 w100r h578 cover" style="background-position: center center;background-repeat:no-repeat;"></div>
+      </div>
+    </div>
+      <div class="column-2 pt05r block-offset">
+        <div class="column-offset">
+          <div class="bg-lightgray2">
+            <div class="l w120 h120 bg-dark-gray mr20">
+              <div class="w80 auto pt20">
+                <img src="img/icons/icon-strongbox.svg" class="icon icon-services w80">
+              </div>
+            </div>
+            <div class="size-12 uppercase line-h26 mb02r color-teal ml140 weight-300">
+              СУММА ИНВЕСТИЦИЙ - QB TRADER PRO
+            </div>
+            <div class="size-12 uppercase line-h26 mb33 weight-300 ml140">ОТ $50.000
+              <div class="clearfix"></div>
+            </div>
+          </div>
+          
+          <div class="bg-lightgray2">
+            <div class="l w120 h120 bg-dark-gray mr20">
+              <div class="w80 auto pt20">
+                <img src="img/icons/icon-calendar.svg" class="icon icon-services w80">
+              </div>
+            </div>
+            <div class="size-12 uppercase line-h26 mb02r color-teal ml140">
+              АБОНЕНТСКАЯ ПЛАТА
+            </div>
+            <div class="size-12 uppercase line-h26 mb33 weight-300 ml140">$150 / МЕСЯЦ
+              <div class="clearfix"></div>
+            </div>
+          </div>
+          
+          <div class="bg-lightgray2">
+            <div class="l w120 h120 bg-dark-gray mr20">
+              <div class="w80 auto pt20">
+                <img src="img/icons/icon-hammer.svg" class="icon icon-services w80">
+              </div>
+            </div>
+            <div class="size-12 uppercase line-h26 mb02r color-teal ml140">
+              ФУНКЦИОНАЛ ПЛАТФОРМЫ
+            </div>
+            <div class="size-12 uppercase line-h26 mb33 weight-300 ml140">ДОСТУП К БИРЖАМ - NYSE, AMEX, NASDAQ
+              <div class="clearfix"></div>
+            </div>
+          </div>
+          
+          <div class="bg-lightgray2">
+            <div class="l w120 h120 bg-dark-gray mr20">
+              <div class="w80 auto pt20">
+                <img src="img/icons/icon-calculator.svg" class="icon icon-services w80">
+              </div>
+            </div>
+            <div class="size-12 uppercase line-h26 mb02r color-teal ml140">
+              ВОЗМОЖНОСТИ ПЛАТФОРМЫ
+            </div>
+            <div class="size-12 uppercase line-h26 mb33 weight-300 ml140">УДАЛЕННАЯ ТОРГОВЛЯ / АНАЛИЗ КОТИРОВОК / ЭКСПОРТ ДАННЫХ
+              <div class="clearfix"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="clearfix"></div>
+    <div class="column-container">
+      <div class="column-2 line-h20 size-14 block-offset-2 pt05r">
+        <div class="column-offset">
+          <p class="pt05r block-offset-2 size-14 bold text-justify">
+            Аналитический департамент предоставляет свои рекомендации и уже комплексные и проверенные временем решения для управления активами.
+          </p>
+        </div>
+      </div>
+      <div class="column-2 pt05r block-offset">
+        <div class="column-offset">
+          <div class="pt05r  pb04r border-left-lightgray border-right-lightgray">
+            <div class="">
+              <p class="ml05r mr05r line-h24 size-12 color-teal weight-300">
+                В ЗАВИСИМОСТИ ОТ ПОСТАВЛЕННЫХ ЗАДАЧ, НАШИ СПЕЦИАЛИСТЫ ПОМОГУТ ВЫБРАТЬ НАИБОЛЕЕ ПОДХОДЯЩУЮ ДЛЯ ВАС СТРАТЕГИЮ
+              </p>
+              <p class="ml025r mr025r mt20 line-h16 size-14 text-center">
+                <a onclick="popup();" class="circles a-default cursor-pointer">задать вопрос специалисту </a><span onclick="popup();" class="color-teal weight-300 cursor-pointer">></span>
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="clearfix"></div>
+    </div>
+  <div class="clearfix pt03r block-offset" ></div>
     <div class="consulting-management-1 w100r fixed" style="background-attachment: fixed;">
       <div class="w90r auto bg-label-3 text-center text-center size-12 line-h50 color-white uppercase">
         <div class="pl02r pr02r pt01r pb01r border-grey-bottom-2 bold">
@@ -182,7 +273,7 @@
             <div class="column-offset">
               <a class="button color-white white-hover block" href="/qb-trader-pro.php">
                 <img class="icon icon-services pt03r pb03r" src="img/icons/icon-strongbox.svg">
-                <div class="mt10 h2 border-grey-top-3 border-grey-bottom-3 grey-block-hover-2">
+                <div class="mt10 h2 border-grey-top-3 border-grey-bottom-3 bg-label-3">
                   <div class="size-12 line-h18 mt25 mb20 ml25r mr25r">
                     qb trader pro
                   </div>
@@ -196,63 +287,22 @@
     </div>
     <div class="clearfix"></div>
   </div>
-  <!-- /PORTFOLIO MENU -->
-      <div class="text-alert column-container line-h20 size-14">
-      <div class="column">
-        <div class="text-offset-2 pl10r pr10r">
-          <div class="border-bottom-lightgray">
-            <div class="ml05r mr05r pt05r block-offset">
-              <p class="ml025r size-12 color-teal uppercase text-center">
-                МЫ СТРЕМИМСЯ К ТОМУ, ЧТОБЫ ПРОЦЕСС ИНВЕСТИРОВАНИЯ БЫЛ ПРОЩЕ И ПОНЯТНЕЕ
-              </p>
-              <div class="pt04r "></div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="clearfix"></div>
-    </div>
-  <div class="clearfix"></div>
-  </div>
-    <div class="column-container">
-      <div class="column-2 pt02r block-offset-2 line-h20 size-14">
-        <div class="column-offset">
-          <p class="size-14 weight-300 pt03r block-offset-2">
-            <span class="bold">К</span>омпания предоставляет свои рекомендации по акциям или уже комплексные и проверенные временем решения для управления активами. Также наши специалисты дают рекомендации для инвестирования средств «здесь и сейчас». Дополнительная услуга QBF - предоставление клиентам собственной платформы QB TRADER PRO для торговли на фондовом рынке США.
-          </p>
-        </div>
-      </div>
-      <div class="column-2 pt02r block-offset">
-        <div class="column-offset">
-          <div class="border-left-lightgray border-right-lightgray">
-            <div class="ml05r mr05r pt05r pb05r">
-              <p class="ml025r mr025r line-h24 size-12 color-teal weight-300">
-                В ЗАВИСИМОСТИ ОТ ПОСТАВЛЕННЫХ ЗАДАЧ, НАШИ СПЕЦИАЛИСТЫ ПОМОГУТ ВЫБРАТЬ НАИБОЛЕЕ ПОДХОДЯЩУЮ ДЛЯ ВАС СТРАТЕГИЮ
-              </p>
-              <p class="ml025r mr025r mt20 line-h16 size-14 text-center">
-                <a onclick="popup();" class="circles a-default cursor-pointer">задать вопрос специалисту </a><span onclick="popup();" class="color-teal weight-300 cursor-pointer">></span>
-              </p>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="clearfix"></div>
-    </div>
-    <div class="clearfix pt05r block-offset"></div>
+  <!-- IMAGES-->
   <!-- FOOTER BLOCK -->
     <div class="clearfix"></div>
     <div class="w100r">
           <div class="text-center ">
             <img id="lighthouse" src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r"><br>
-            <a href="/service.php" class="size-12 line-h40 uppercase">УСЛУГИ</a>
-          </div>	  
-    </div>		
+            <a href="/service.php" class="size-12 line-h40 uppercase">УСЛУГИ</a><span class="color-teal size-10">•︎</span> 
+    <a href="/consulting-management.php" class="size-12 uppercase">КОНСУЛЬТАЦИОННОЕ УПРАВЛЕНИЕ</a>
+          </div>      
+    </div>      
     <!-- /FOOTER BLOCK -->
   <div class="clearfix"></div>
   <?php include 'html/footer-service.html';?>
   <script src="/js/jquery.min.js"></script>
   <script src="/js/main.js"></script>
-    <script type="text/javascript" src="js/flavr.js"></script>
+  <script type="text/javascript" src="js/flavr.js"></script>
     <script type="text/javascript">
     function popup(){
       var html =  
