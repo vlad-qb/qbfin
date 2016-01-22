@@ -120,9 +120,9 @@
       <div class="column-2 content-margin">
         <div class="column-offset bg-white text-center pt50">
           <h2 class="title"> РАСКРЫТИЕ ИНФОРМАЦИИ </h2>
-          <p class="description" style="text-align:center;">
-		        <a href="#"> Перечень инсайдерской информации </a><span class="color-teal">></span><br/>
-		        <a href="#"> Критерии отнесения клиентов к категории иностранных налогоплательщиков </a><span class="color-teal">></span>
+          <p class="description" style="text-align:center;font-family: 'Lato', sans-serif;">
+		        <a href="/docs/disclosures-2.pdf" class="size-14 line-h32 a-default weight-200">Перечень инсайдерской информации </a><span class="color-teal">></span><br/>
+		        <a href="/docs/disclosures-1.pdf" class="size-14 line-h32 a-default weight-200"> Критерии отнесения клиентов к категории иностранных налогоплательщиков </a><span class="color-teal">></span>
           </p>
           <div class="w100r mt05r text-center">
             <ul class="social-offset auto hi-icon-wrap hi-icon-effect-8">
@@ -159,26 +159,32 @@
         <div class="clearfix"></div>
         <div class="column-2 pt03r">
           <div class="column-offset line-h26 text-center">
-            <h4 class="size-14 weight-300 text-center"><a href="/markets-review-15-08-2015.php">Расчет размера собственных средств на 28.02.2015 г. ></a></h4>
-            <h4 class="size-12 weight-300 text-center color-gray">дата размещения: 31.01.2015</h4>
-            <h4 class="size-14 weight-300 text-center"><a href="/markets-review-15-08-2015.php">Расчет размера собственных средств на 28.02.2015 г. ></a></h4>
-            <h4 class="size-12 weight-300 text-center color-gray">дата размещения: 31.01.2015</h4>
-            <h4 class="size-14 weight-300 text-center"><a href="/markets-review-15-08-2015.php">Расчет размера собственных средств на 28.02.2015 г. ></a></h4>
-            <h4 class="size-12 weight-300 text-center color-gray">дата размещения: 31.01.2015</h4>
-            <h4 class="size-14 weight-300 text-center"><a href="/markets-review-15-08-2015.php">Расчет размера собственных средств на 28.02.2015 г. ></a></h4>
-            <h4 class="size-12 weight-300 text-center color-gray">дата размещения: 31.01.2015</h4>
+            <h4 class="size-14 weight-300 text-center"><a href="/docs/2015-01-31.pdf">Расчет размера собственных средств на 31.01.2015 г. ></a></h4>
+            <h4 class="size-12 weight-300 text-center color-gray">дата размещения: 27.02.2015</h4>
+            <h4 class="size-14 weight-300 text-center"><a href="/docs/2015-02-28.pdf">Расчет размера собственных средств на 28.02.2015 г. ></a></h4>
+            <h4 class="size-12 weight-300 text-center color-gray">дата размещения: 31.03.2015</h4>
+            <h4 class="size-14 weight-300 text-center"><a href="/docs/2015-03-31.pdf">Расчет размера собственных средств на 31.03.2015 г. ></a></h4>
+            <h4 class="size-12 weight-300 text-center color-gray">дата размещения: 29.04.2015</h4>
+            <h4 class="size-14 weight-300 text-center"><a href="/docs/2015-04-30.pdf">Расчет размера собственных средств на 30.04.2015 г. ></a></h4>
+            <h4 class="size-12 weight-300 text-center color-gray">дата размещения: 29.05.2015</h4>
+            <h4 class="size-14 weight-300 text-center"><a href="/docs/2015-05-31.pdf">Расчет размера собственных средств на 31.05.2015 г. ></a></h4>
+            <h4 class="size-12 weight-300 text-center color-gray">дата размещения: 30.06.2015</h4>
+            <h4 class="size-14 weight-300 text-center"><a href="/docs/2015-06-30.pdf">Расчет размера собственных средств на 30.06.2015 г. ></a></h4>
+            <h4 class="size-12 weight-300 text-center color-gray">дата размещения: 31.07.2015</h4>
           </div>
         </div>
         <div class="column-2 pt03r">
           <div class="column-offset line-h26 text-center">
-            <h4 class="size-14 weight-300 text-center"><a href="/markets-review-15-08-2015.php">Расчет размера собственных средств на 28.02.2015 г. ></a></h4>
-            <h4 class="size-12 weight-300 text-center color-gray">дата размещения: 31.01.2015</h4>
-            <h4 class="size-14 weight-300 text-center"><a href="/markets-review-15-08-2015.php">Расчет размера собственных средств на 28.02.2015 г. ></a></h4>
-            <h4 class="size-12 weight-300 text-center color-gray">дата размещения: 31.01.2015</h4>
-            <h4 class="size-14 weight-300 text-center"><a href="/markets-review-15-08-2015.php">Расчет размера собственных средств на 28.02.2015 г. ></a></h4>
-            <h4 class="size-12 weight-300 text-center color-gray">дата размещения: 31.01.2015</h4>
-            <h4 class="size-14 weight-300 text-center"><a href="/markets-review-15-08-2015.php">Расчет размера собственных средств на 28.02.2015 г. ></a></h4>
-            <h4 class="size-12 weight-300 text-center color-gray">дата размещения: 31.01.2015</h4>
+            <h4 class="size-14 weight-300 text-center"><a href="/docs/2015-07-31.pdf">Расчет размера собственных средств на 31.07.2015 г. ></a></h4>
+            <h4 class="size-12 weight-300 text-center color-gray">дата размещения: 31.08.2015</h4>
+            <h4 class="size-14 weight-300 text-center"><a href="/docs/2015-08-31.pdf">Расчет размера собственных средств на 31.08.2015 г. ></a></h4>
+            <h4 class="size-12 weight-300 text-center color-gray">дата размещения: 29.09.2015</h4>
+            <h4 class="size-14 weight-300 text-center"><a href="/docs/2015-09-30.pdf">Расчет размера собственных средств на 30.09.2015 г. ></a></h4>
+            <h4 class="size-12 weight-300 text-center color-gray">дата размещения: 30.10.2015</h4>
+            <h4 class="size-14 weight-300 text-center"><a href="/docs/2015-10-31.pdf">Расчет размера собственных средств на 31.10.2015 г. ></a></h4>
+            <h4 class="size-12 weight-300 text-center color-gray">дата размещения: 30.11.2015</h4>
+            <h4 class="size-14 weight-300 text-center"><a href="/docs/2015-11-30.pdf">Расчет размера собственных средств на 30.11.2015 г. ></a></h4>
+            <h4 class="size-12 weight-300 text-center color-gray">дата размещения: 28.12.2015</h4>
           </div>
         </div>
         <div class="clearfix"></div>
@@ -191,34 +197,34 @@
         <div class="clearfix"></div>
         <div class="column-2 pt03r">
           <div class="column-offset line-h26 text-center">
-            <h4 class="size-14 weight-300"><a href="/markets-review-15-08-2015.php">Расчет размера собственных средств на 28.02.2015 г. ></a></h4>
-            <h4 class="size-12 weight-300 color-gray">дата размещения: 31.01.2015</h4>
-            <h4 class="size-14 weight-300"><a href="/markets-review-15-08-2015.php">Расчет размера собственных средств на 28.02.2015 г. ></a></h4>
-            <h4 class="size-12 weight-300 color-gray">дата размещения: 31.01.2015</h4>
-            <h4 class="size-14 weight-300"><a href="/markets-review-15-08-2015.php">Расчет размера собственных средств на 28.02.2015 г. ></a></h4>
-            <h4 class="size-12 weight-300 color-gray">дата размещения: 31.01.2015</h4>
-            <h4 class="size-14 weight-300"><a href="/markets-review-15-08-2015.php">Расчет размера собственных средств на 28.02.2015 г. ></a></h4>
-            <h4 class="size-12 weight-300 color-gray">дата размещения: 31.01.2015</h4>
-            <h4 class="size-14 weight-300"><a href="/markets-review-15-08-2015.php">Расчет размера собственных средств на 28.02.2015 г. ></a></h4>
-            <h4 class="size-12 weight-300 color-gray">дата размещения: 31.01.2015</h4>
-            <h4 class="size-14 weight-300"><a href="/markets-review-15-08-2015.php">Расчет размера собственных средств на 28.02.2015 г. ></a></h4>
-            <h4 class="size-12 weight-300 color-gray">дата размещения: 31.01.2015</h4>
+            <h4 class="size-14 weight-300"><a href="/docs/2014-01-31.pdf">Расчет размера собственных средств на 31.01.2014 г. ></a></h4>
+            <h4 class="size-12 weight-300 color-gray">дата размещения: 28.02.2014</h4>
+            <h4 class="size-14 weight-300"><a href="/docs/2014-02-28.pdf">Расчет размера собственных средств на 28.02.2014 г. ></a></h4>
+            <h4 class="size-12 weight-300 color-gray">дата размещения: 31.03.2014</h4>
+            <h4 class="size-14 weight-300"><a href="/docs/2014-03-31.pdf">Расчет размера собственных средств на 31.03.2014 г. ></a></h4>
+            <h4 class="size-12 weight-300 color-gray">дата размещения: 21.04.2014</h4>
+            <h4 class="size-14 weight-300"><a href="/docs/2014-04-30.pdf">Расчет размера собственных средств на 30.04.2014 г. ></a></h4>
+            <h4 class="size-12 weight-300 color-gray">дата размещения: 30.05.2014</h4>
+            <h4 class="size-14 weight-300"><a href="/docs/2014-05-31.pdf">Расчет размера собственных средств на 31.05.2014 г. ></a></h4>
+            <h4 class="size-12 weight-300 color-gray">дата размещения: 30.06.2014</h4>
+            <h4 class="size-14 weight-300"><a href="/docs/2014-06-30.pdf">Расчет размера собственных средств на 30.06.2014 г. ></a></h4>
+            <h4 class="size-12 weight-300 color-gray">дата размещения: 31.07.2014</h4>
           </div>
         </div>
         <div class="column-2 pt03r">
           <div class="column-offset line-h26 text-center">
-            <h4 class="size-14 weight-300"><a href="/markets-review-15-08-2015.php">Расчет размера собственных средств на 28.02.2015 г. ></a></h4>
-            <h4 class="size-12 weight-300 color-gray">дата размещения: 31.01.2015</h4>
-            <h4 class="size-14 weight-300"><a href="/markets-review-15-08-2015.php">Расчет размера собственных средств на 28.02.2015 г. ></a></h4>
-            <h4 class="size-12 weight-300 color-gray">дата размещения: 31.01.2015</h4>
-            <h4 class="size-14 weight-300"><a href="/markets-review-15-08-2015.php">Расчет размера собственных средств на 28.02.2015 г. ></a></h4>
-            <h4 class="size-12 weight-300 color-gray">дата размещения: 31.01.2015</h4>
-            <h4 class="size-14 weight-300"><a href="/markets-review-15-08-2015.php">Расчет размера собственных средств на 28.02.2015 г. ></a></h4>
-            <h4 class="size-12 weight-300 color-gray">дата размещения: 31.01.2015</h4>
-            <h4 class="size-14 weight-300"><a href="/markets-review-15-08-2015.php">Расчет размера собственных средств на 28.02.2015 г. ></a></h4>
-            <h4 class="size-12 weight-300 color-gray">дата размещения: 31.01.2015</h4>
-            <h4 class="size-14 weight-300"><a href="/markets-review-15-08-2015.php">Расчет размера собственных средств на 28.02.2015 г. ></a></h4>
-            <h4 class="size-12 weight-300 color-gray">дата размещения: 31.01.2015</h4>
+            <h4 class="size-14 weight-300"><a href="/docs/2014-07-31.pdf">Расчет размера собственных средств на 31.07.2014 г. ></a></h4>
+            <h4 class="size-12 weight-300 color-gray">дата размещения: 29.08.2014</h4>
+            <h4 class="size-14 weight-300"><a href="/docs/2014-08-31.pdf">Расчет размера собственных средств на 31.08.2014 г. ></a></h4>
+            <h4 class="size-12 weight-300 color-gray">дата размещения: 30.09.2014</h4>
+            <h4 class="size-14 weight-300"><a href="/docs/2014-09-30.pdf">Расчет размера собственных средств на 30.09.2014 г. ></a></h4>
+            <h4 class="size-12 weight-300 color-gray">дата размещения: 31.10.2014</h4>
+            <h4 class="size-14 weight-300"><a href="/docs/2014-10-31.pdf">Расчет размера собственных средств на 31.10.2014 г. ></a></h4>
+            <h4 class="size-12 weight-300 color-gray">дата размещения: 28.11.2014</h4>
+            <h4 class="size-14 weight-300"><a href="/docs/2014-11-30.pdf">Расчет размера собственных средств на 30.11.2014 г. ></a></h4>
+            <h4 class="size-12 weight-300 color-gray">дата размещения: 25.12.2014</h4>
+            <h4 class="size-14 weight-300"><a href="/docs/2014-12-31.pdf">Расчет размера собственных средств на 31.12.2014 г. ></a></h4>
+            <h4 class="size-12 weight-300 color-gray">дата размещения: 30.01.2015</h4>
           </div>
         </div>
         <div class="clearfix"></div>
@@ -231,26 +237,26 @@
         <div class="clearfix"></div>
         <div class="column-2 pt03r">
           <div class="column-offset line-h26 text-center">
-            <h4 class="size-14 weight-300"><a href="/markets-review-15-08-2015.php">Расчет размера собственных средств на 28.02.2015 г. ></a></h4>
-            <h4 class="size-12 weight-300 color-gray">дата размещения: 31.01.2015</h4>
-            <h4 class="size-14 weight-300"><a href="/markets-review-15-08-2015.php">Расчет размера собственных средств на 28.02.2015 г. ></a></h4>
-            <h4 class="size-12 weight-300 color-gray">дата размещения: 31.01.2015</h4>
-            <h4 class="size-14 weight-300"><a href="/markets-review-15-08-2015.php">Расчет размера собственных средств на 28.02.2015 г. ></a></h4>
-            <h4 class="size-12 weight-300 color-gray">дата размещения: 31.01.2015</h4>
-            <h4 class="size-14 weight-300"><a href="/markets-review-15-08-2015.php">Расчет размера собственных средств на 28.02.2015 г. ></a></h4>
-            <h4 class="size-12 weight-300 color-gray">дата размещения: 31.01.2015</h4>
+            <h4 class="size-14 weight-300"><a href="/docs/2013-05-31.pdf">Расчет размера собственных средств на 31.05.2013 г. ></a></h4>
+            <h4 class="size-12 weight-300 color-gray">дата размещения: 28.06.2013</h4>
+            <h4 class="size-14 weight-300"><a href="/docs/2013-06-30.pdf">Расчет размера собственных средств на 30.06.2013 г. ></a></h4>
+            <h4 class="size-12 weight-300 color-gray">дата размещения: 31.07.2013</h4>
+            <h4 class="size-14 weight-300"><a href="/docs/2013-07-31.pdf">Расчет размера собственных средств на 31.07.2013 г. ></a></h4>
+            <h4 class="size-12 weight-300 color-gray">дата размещения: 30.08.2013</h4>
+            <h4 class="size-14 weight-300"><a href="/docs/2013-08-31.pdf">Расчет размера собственных средств на 31.08.2013 г. ></a></h4>
+            <h4 class="size-12 weight-300 color-gray">дата размещения: 30.09.2015</h4>
           </div>
         </div>
         <div class="column-2 pt03r">
           <div class="column-offset line-h26 text-center">
-            <h4 class="size-14 weight-300"><a href="/markets-review-15-08-2015.php">Расчет размера собственных средств на 28.02.2015 г. ></a></h4>
-            <h4 class="size-12 weight-300 color-gray">дата размещения: 31.01.2015</h4>
-            <h4 class="size-14 weight-300"><a href="/markets-review-15-08-2015.php">Расчет размера собственных средств на 28.02.2015 г. ></a></h4>
-            <h4 class="size-12 weight-300 color-gray">дата размещения: 31.01.2015</h4>
-            <h4 class="size-14 weight-300"><a href="/markets-review-15-08-2015.php">Расчет размера собственных средств на 28.02.2015 г. ></a></h4>
-            <h4 class="size-12 weight-300 color-gray">дата размещения: 31.01.2015</h4>
-            <h4 class="size-14 weight-300"><a href="/markets-review-15-08-2015.php">Расчет размера собственных средств на 28.02.2015 г. ></a></h4>
-            <h4 class="size-12 weight-300 color-gray">дата размещения: 31.01.2015</h4>
+            <h4 class="size-14 weight-300"><a href="/docs/2013-09-30.pdf">Расчет размера собственных средств на 30.09.2013 г. ></a></h4>
+            <h4 class="size-12 weight-300 color-gray">дата размещения: 31.10.2013</h4>
+            <h4 class="size-14 weight-300"><a href="/docs/2013-10-31.pdf">Расчет размера собственных средств на 31.10.2013 г. ></a></h4>
+            <h4 class="size-12 weight-300 color-gray">дата размещения: 29.11.2013</h4>
+            <h4 class="size-14 weight-300"><a href="/docs/2013-11-30.pdf">Расчет размера собственных средств на 30.11.2013 г. ></a></h4>
+            <h4 class="size-12 weight-300 color-gray">дата размещения: 30.12.2013</h4>
+            <h4 class="size-14 weight-300"><a href="/docs/2013-12-31.pdf">Расчет размера собственных средств на 31.12.2013 г. ></a></h4>
+            <h4 class="size-12 weight-300 color-gray">дата размещения: 31.01.2014</h4>
           </div>
         </div>
         <div class="clearfix"></div>
