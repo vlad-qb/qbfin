@@ -246,11 +246,11 @@
     </div>
     <div class="clearfix pt05r block-offset"></div>
     <!-- /CONNECT -->
-    <!-- PORTFOLIO MENU -->
+    <!-- PORTFOLIO MENU  -->
     <div class="img-high-yield-strategy-2 w100r fixed" style="background-attachment: fixed;">
       <div class="portfolio-menu pt02r bg-green-label w90r auto bg bg-label text-center color-white uppercase">
-        <div class="">
-          <h2 class="size-12 line-h22 uppercase">ВАРИАНТЫ ВЫСОКОДОХОДНОЙ СТРАТЕГИИ</h2>
+        <div class="border-green-bottom pb02r">
+          <h2 class="size-12 line-h22 uppercase bold">ВАРИАНТЫ ВЫСОКОДОХОДНОЙ СТРАТЕГИИ</h2>
         </div>
         <div class="pl02r pr02r pt02r pb02r">
           <div class="column-3">
@@ -293,8 +293,8 @@
         </div>
       </div>
       <div class="portfolio-menu label pt02r w90r auto bg bg-label text-center color-white uppercase">
-        <div class="">
-          <h2 class="size-12 line-h22 uppercase">ВСЕ СТРАТЕГИИ ДОВЕРИТЕЛЬНОГО УПРАВЛЕНИЯ</h2>
+        <div class="border-darkgray-bottom pb02r">
+          <h2 class="size-12 line-h22 uppercase bold">ВСЕ СТРАТЕГИИ ДОВЕРИТЕЛЬНОГО УПРАВЛЕНИЯ</h2>
         </div>
         <div class="pl02r pr02r pt02r pb02r">
           <div class="column-4">
@@ -311,7 +311,7 @@
             <div class="ml05r mr05r">
               <a class="button color-white white-hover block" href="/weighted-average-strategy.php">
                 <img src="img/icons/icon-marker.svg" class="icon icon-services w50 h50">
-                <div class="mt10 h border-darkgray-top border-darkgray-bottom green-block-hover">
+                <div class="mt10 h border-darkgray-top border-darkgray-bottom bg-green-label">
                   <div class="size-11 line-h18 mt25 mb20 ml25r mr25r">Средневзвешенная стратегия</div>
                 </div>
               </a>
@@ -343,7 +343,7 @@
     </div>
     <div class="clearfix"></div>
   </div>
-  <!-- /PORTFOLIO MENU -->
+  <!-- /PORTFOLIO MENU  -->
   <!-- FOOTER BLOCK -->
 		<div class="clearfix"></div>
 		<div class="text-center">

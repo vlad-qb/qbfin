@@ -129,10 +129,13 @@
     <div class="clearfix"></div>
 	<!-- CONTENT -->
 	<div id="content">
-<!-- PORTFOLIO MENU -->
+<!-- PORTFOLIO MENU  -->
     <div class="img-weighted-average-strategy-2 w100r mt05r fixed" style="background-attachment: fixed;">
       <div class="portfolio-menu bg-green-label w90r auto bg bg-label text-center color-white uppercase">
-        <div class="pl02r pr02r pt02r pb02r">
+        <div class="border-green-bottom pt02r pb02r">
+          <h2 class="size-12 line-h22 uppercase bold">ВАРИАНТЫ СРЕДНЕВЗВЕШЕННОЙ СТРАТЕГИИ</h2>
+        </div>
+        <div class="pl02r pr02r pb02r">
           <div class="column-3">
             <div class="column-offset">
               <a class="button color-white white-hover block" href="/index-portfolio.php">
@@ -175,7 +178,7 @@
     </div>
     <div class="clearfix pt05r block-offset"></div>
   </div>
-  <!-- /PORTFOLIO MENU -->
+  <!-- /PORTFOLIO MENU  -->
     <!-- /ALERT -->
     <div class="text-alert text-offset column-container w70r auto line-h20 size-14">
       <div class="column">
@@ -201,11 +204,11 @@
       <div class="clearfix pt05r block-offset"></div>
     </div>
     <!-- /ALERT -->
-<!-- PORTFOLIO MENU -->
+<!-- PORTFOLIO MENU  -->
     <div class="img-high-yield-strategy-2 w100r fixed" style="background-attachment: fixed;">
       <div class="portfolio-menu label pt02r w90r auto bg bg-label text-center color-white uppercase">
-        <div class="">
-          <h2 class="size-12 line-h22 uppercase">ВСЕ СТРАТЕГИИ ДОВЕРИТЕЛЬНОГО УПРАВЛЕНИЯ</h2>
+        <div class="border-darkgray-bottom pb02r">
+          <h2 class="size-12 line-h22 uppercase bold">ВСЕ СТРАТЕГИИ ДОВЕРИТЕЛЬНОГО УПРАВЛЕНИЯ</h2>
         </div>
         <div class="pl02r pr02r pt02r pb02r">
           <div class="column-4">
@@ -254,7 +257,7 @@
     </div>
     <div class="clearfix"></div>
   </div>
-  <!-- /PORTFOLIO MENU -->
+  <!-- /PORTFOLIO MENU  -->
     </div>
 	<!-- CONTENT -->
 	<!-- FOOTER BLOCK -->
