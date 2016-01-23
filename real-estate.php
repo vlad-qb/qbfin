@@ -14,6 +14,8 @@
     <link href="/css/blocks.css" rel="stylesheet">
     <link href="/css/forms.css" rel="stylesheet">
     <link href="/css/theme.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="/css/animate.css" />
+    <link rel="stylesheet" type="text/css" href="/css/flavr.css" />
     <!-- HTML5 for IE8 -->
     <!--[if lt IE 9]>
     <script src="js/html5shiv.min.js"></script>
@@ -152,8 +154,8 @@
               <p class="ml025r size-12 color-teal uppercase text-center">
                 В ЗАВИСИМОСТИ ОТ ПОСТАВЛЕННЫХ ЗАДАЧ, НАШИ СПЕЦИАЛИСТЫ ПОМОГУТ ВЫБРАТЬ НАИБОЛЕЕ ПОДХОДЯЩЕЕ ДЛЯ ВАС РЕШЕНИЕ
               </p>
-              <p class="text-center pt02r"><a href="" class="a-default circles">задать вопрос специалисту ></a></p>
-            </div>
+<a onclick="popup();" class="circles a-default cursor-pointer">задать вопрос специалисту </a><span onclick="popup();" class="color-teal weight-300 cursor-pointer">></span>           
+ </div>
           </div>
         </div>
       </div>
@@ -255,5 +257,7 @@
 <?php include 'html/footer-service.html';?>
 <script src="/js/jquery.min.js"></script>
 <script src="/js/main.js"></script>
+<script type="text/javascript" src="js/flavr.js"></script>
+<script type="text/javascript" src="js/popup.js"></script>
 </body>
 </html>

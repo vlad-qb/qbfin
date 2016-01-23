@@ -16,6 +16,8 @@
     <link href="/css/blocks.css" rel="stylesheet">
     <link href="/css/forms.css" rel="stylesheet">
     <link href="/css/theme.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="/css/animate.css" />
+    <link rel="stylesheet" type="text/css" href="/css/flavr.css" />
     <!-- HTML5 for IE8 -->
     <!--[if lt IE 9]>
     <script src="js/html5shiv.min.js"></script>
@@ -148,8 +150,8 @@
                 В ЗАВИСИМОСТИ ОТ ПОСТАВЛЕННЫХ ЗАДАЧ, НАШИ СПЕЦИАЛИСТЫ ПОМОГУТ ВЫБРАТЬ НАИБОЛЕЕ ПОДХОДЯЩУЮ ДЛЯ ВАС СТРАТЕГИЮ
               </p>
               <p class="ml025r mr025r mt20 line-h16 size-14 text-center">
-                <a onclick="popup();" class="circles light-gray-hover cursor-pointer">задать вопрос специалисту </a><span onclick="popup();" class="color-teal weight-300 cursor-pointer">></span>
-              </p>
+<a onclick="popup();" class="circles a-default cursor-pointer">задать вопрос специалисту </a><span onclick="popup();" class="color-teal weight-300 cursor-pointer">></span> 
+             </p>
             </div>
           </div>
         </div>
@@ -242,39 +244,7 @@
     <script src="/js/jquery.min.js"></script>
     <script src="/js/main.js"></script>        
     <script type="text/javascript" src="js/flavr.js"></script>
-    <script type="text/javascript">
-    function popup(){
-      var html =  
-      '   <div class="form-row">' +
-      '       <input id="name" type="text" name="name" ' +
-      '       placeholder="Имя" />' +
-      '   </div>' +
-      '   <div id="phone" class="form-row">' +
-      '       <input type="text" name="phone" ' +
-      '       placeholder="Телефон" />' +
-      '   </div>'+
-      '   <div id="time" class="form-row">' +
-      '       <input type="text" name="time" ' +
-      '       placeholder="Время звонка" />' +
-      '   </div>';
-      new $.flavr({                
-          title       : 'Отправить заявку',
-          content     : 'на консультацию по стратегиям управления активами',
-          dialog      : 'form',
-          buttons     : {
-              submit  : { text: 'Отправить', style: 'danger', 
-                action: function($container,$form){
-                  $.get( "success.php", $form.serialize() ,function(data){
-                    //alert(data);
-                    location.href = "success.php"
-                  } );
-                  return false;
-                }},
-              cancel : { text: 'Отмена' }      
-          },
-          form        : { content: html, method: 'post' }
-      });
-    }
-    </script>
+    <script type="text/javascript" src="js/popup.js"></script>
+      <script type="text/javascript" src="js/popup.js"></script>
   </body>
 </html>

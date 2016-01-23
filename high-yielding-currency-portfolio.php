@@ -14,6 +14,8 @@
     <link href="/css/blocks.css" rel="stylesheet">
     <link href="/css/forms.css" rel="stylesheet">
     <link href="/css/theme.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="/css/animate.css" />
+    <link rel="stylesheet" type="text/css" href="/css/flavr.css" />
     <!-- HTML5 for IE8 -->
     <!--[if lt IE 9]>
     <script src="js/html5shiv.min.js"></script>
@@ -235,8 +237,7 @@
             В ЗАВИСИМОСТИ ОТ ПОСТАВЛЕННЫХ ЗАДАЧ, НАШИ СПЕЦИАЛИСТЫ ПОМОГУТ ВЫБРАТЬ НАИБОЛЕЕ ПОДХОДЯЩУЮ ДЛЯ ВАС СТРАТЕГИЮ
           </p>
           <p class="mt20">
-            <a href="/connect.php" class="size-14 weight-300">задать вопрос специалисту </a>
-            <span class="color-teal weight-300">&gt;</span>
+<a onclick="popup();" class="circles a-default cursor-pointer">задать вопрос специалисту </a><span onclick="popup();" class="color-teal weight-300 cursor-pointer">></span>
           </p>
         </div>
       </div>
@@ -355,5 +356,7 @@
   <?php include 'html/footer-service.html';?>
   <script src="/js/jquery.min.js"></script>
   <script src="/js/main.js"></script>
+  <script type="text/javascript" src="js/flavr.js"></script>
+  <script type="text/javascript" src="js/popup.js"></script>
 </body>
 </html>

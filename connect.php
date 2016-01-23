@@ -181,7 +181,7 @@
     <div class="column-2 mt50">
       <div class="text-center"><img class="icon icon-contacts" src="/img/icons/icon-earth.svg"></div>
       <h4 class="text-center size-14 line-h30 color-teal uppercase">ОБРАТНАЯ СВЯЗЬ</h4>
-      <div id="form-1" class="mr10r mt50">
+      <form id="form-1" class="mr10r mt50">
         <div class="text-center mb20">
           <p>имя</p>
           <p><input id="Name2" class="form-item" name="Name2" placeholder="Full Name" required="required" type="text" style="border-radius:0;"></p>
@@ -203,10 +203,10 @@
           <p><textarea id="Message2" class="form-item" rows="9" name="Message2" placeholder="Please enter your message!" required="required" style="border-radius:0;"></textarea></p>
         </div>
         <div class="text-center">
-            <input id="Send2" class="form-item r" value="отправить" type="submit" style="border-radius:0;">
+            <input id="Send2" class="form-item r cursor-pointer lightgray-block-hover2" value="отправить" type="button" onclick="formHandler.send('#form-1');return false;" style="border-radius:0;">
             <div class="clearfix"></div>
         </div>
-      </div>
+      </form>
     </div>
     
   </div>
@@ -215,5 +215,6 @@
   <?php include 'html/footer-connect.html';?>
   <script src="/js/jquery.min.js"></script>
   <script src="/js/main.js"></script>
+  <script src="/js/form.js"></script>
 </body>
 </html>

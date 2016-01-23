@@ -131,31 +131,32 @@
     
     <div class="column-2 pt05r block-offset">
       <div class="column-offset pl05r pr05r line-h26 size-12">
-        <div class="text-center mb20">
-          <p>имя</p>
-          <p><input id="Name2" class="form-item text-center" name="Name2" placeholder="Full Name" required="required" type="text"></p>
-        </div>
-        <div class="text-center mb20">
-          <p>mail</p>
-          <p><input id="Email2" class="form-item text-center" name="Email2" placeholder="address@domain.com" required="required" type="email"></p>
-        </div>
-        <div class="text-center mb20">
-          <p>телефон</p>
-          <p><input id="Telephone2" class="form-item text-center" name="Telephone2" placeholder="01234 567890" required="required" type="tel"></p>
-        </div>
-        <div class="text-center mb20">
-          <p>тема сообщения</p>
-          <p><input id="Subject2" class="form-item text-center" name="Subject2" placeholder="Email subject" required="required" type="text"></p>
-        </div>
-        <div class="text-center mb15">
-          <p>сообщение</p>
-          <p><textarea id="Message2" class="form-item" rows="9" name="Message2" placeholder="Please enter your message!" required="required"></textarea></p>
-        </div>
-        <div class="text-center">
-          <input id="Send2" class="form-item r" value="отправить" type="submit">
-          <div class="clearfix"></div>
-        </div>
-        
+        <form id="form-quality-control">
+          <div class="text-center mb20">
+            <p>имя</p>
+            <p><input id="Name2" class="form-item text-center" name="Name2" placeholder="Full Name" required="required" type="text"></p>
+          </div>
+          <div class="text-center mb20">
+            <p>mail</p>
+            <p><input id="Email2" class="form-item text-center" name="Email2" placeholder="address@domain.com" required="required" type="email"></p>
+          </div>
+          <div class="text-center mb20">
+            <p>телефон</p>
+            <p><input id="Telephone2" class="form-item text-center" name="Telephone2" placeholder="01234 567890" required="required" type="tel"></p>
+          </div>
+          <div class="text-center mb20">
+            <p>тема сообщения</p>
+            <p><input id="Subject2" class="form-item text-center" name="Subject2" placeholder="Email subject" required="required" type="text"></p>
+          </div>
+          <div class="text-center mb15">
+            <p>сообщение</p>
+            <p><textarea id="Message2" class="form-item" rows="9" name="Message2" placeholder="Please enter your message!" required="required"></textarea></p>
+          </div>
+          <div class="text-center">
+            <input id="Send2" class="form-item r lightgray-block-hover2" value="отправить" type="button" onclick="formHandler.send('#form-quality-control')">
+            <div class="clearfix"></div>
+          </div>
+        </form>
       </div>
     </div>
     
@@ -170,5 +171,6 @@
   <?php include 'html/footer-connect.html';?>
   <script src="/js/jquery.min.js"></script>
   <script src="/js/main.js"></script>
+  <script src="/js/form.js"></script>
 </body>
 </html>
