@@ -173,7 +173,7 @@
           </p>
         </div>
         <div class="h20"></div>
-        <a href="#" class="size-12 uppercase color-teal weight-300">ПОСМОТРЕТЬ ПРЕДЛОЖЕНИЕ &gt;</a>
+        <a href="/docs-2/ipo.pdf" class="circles size-12 uppercase color-teal weight-300">ПОСМОТРЕТЬ ПРЕДЛОЖЕНИЕ &gt;</a>
         <div class="clearfix"></div>
       </div>
     </div>
@@ -196,7 +196,7 @@
           </p>
         </div>
         <div class="h20"></div>
-        <a href="#" class="size-12 uppercase color-teal weight-300">ПОСМОТРЕТЬ ПРЕДЛОЖЕНИЕ &gt;</a>
+        <a href="/docs-2/reit.pdf" class="circles size-12 uppercase color-teal weight-300">ПОСМОТРЕТЬ ПРЕДЛОЖЕНИЕ &gt;</a>
         <div class="clearfix"></div>
       </div>
     </div>
@@ -224,7 +224,7 @@
           </p>
         </div>
         <div class="h20"></div>
-        <a href="#" class="size-12 uppercase color-teal weight-300">ПОСМОТРЕТЬ ПРЕДЛОЖЕНИЕ &gt;</a>
+        <a href="/docs-2/issue.pdf" class="circles size-12 uppercase color-teal weight-300">ПОСМОТРЕТЬ ПРЕДЛОЖЕНИЕ &gt;</a>
         <div class="clearfix"></div>
       </div>
     </div>
@@ -247,7 +247,7 @@
           </p>
         </div>
         <div class="h20"></div>
-        <a href="#" class="size-12 uppercase color-teal weight-300">ПОСМОТРЕТЬ ПРЕДЛОЖЕНИЕ &gt;</a>
+        <a href="/docs-2/discount.pdf" class="circles size-12 uppercase color-teal weight-300">ПОСМОТРЕТЬ ПРЕДЛОЖЕНИЕ &gt;</a>
         <div class="clearfix"></div>
       </div>
     </div>
@@ -275,7 +275,7 @@
           </p>
         </div>
         <div class="h20"></div>
-        <a href="#" class="size-12 uppercase color-teal weight-300">ПОСМОТРЕТЬ ПРЕДЛОЖЕНИЕ &gt;</a>
+        <a href="/docs-2/etf.pdf" class="circles size-12 uppercase color-teal weight-300">ПОСМОТРЕТЬ ПРЕДЛОЖЕНИЕ &gt;</a>
         <div class="clearfix"></div>
       </div>
     </div>
@@ -298,7 +298,7 @@
           </p>
         </div>
         <div class="h20"></div>
-        <a href="#" class="size-12 uppercase color-teal weight-300">ПОСМОТРЕТЬ ПРЕДЛОЖЕНИЕ &gt;</a>
+        <a href="/docs-2/bonded.pdf" class="circles size-12 uppercase color-teal weight-300">ПОСМОТРЕТЬ ПРЕДЛОЖЕНИЕ &gt;</a>
         <div class="clearfix"></div>
       </div>
     </div>

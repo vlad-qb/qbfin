@@ -145,7 +145,7 @@
   </div>
   <div class="clearfix pt05r block-offset"></div>
   <!-- Text-->
-<!-- PORTFOLIO MENU -->
+<!-- PORTFOLIO MENU  -->
     <div class="consulting-management-1 w100r fixed" style="background-attachment: fixed;">
       <div class="w90r auto bg-label-3 text-center text-center size-12 line-h50 color-white uppercase">
         <div class="pl02r pr02r pt01r pb01r border-grey-bottom-2 bold">
@@ -196,7 +196,7 @@
     </div>
     <div class="clearfix"></div>
   </div>
-  <!-- /PORTFOLIO MENU -->
+  <!-- /PORTFOLIO MENU  -->
       <div class="text-alert column-container line-h20 size-14">
       <div class="column">
         <div class="text-offset-2 pl10r pr10r">
