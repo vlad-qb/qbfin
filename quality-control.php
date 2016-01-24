@@ -137,7 +137,7 @@
             <p><input id="Name2" class="form-item text-center" name="Name2" placeholder="Full Name" required="required" type="text"></p>
           </div>
           <div class="text-center mb20">
-            <p>mail</p>
+            <p>почта</p>
             <p><input id="Email2" class="form-item text-center" name="Email2" placeholder="address@domain.com" required="required" type="email"></p>
           </div>
           <div class="text-center mb20">

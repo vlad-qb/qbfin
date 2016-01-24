@@ -141,7 +141,7 @@
       </div>
     </div>
   </div>
-  <div class="clearfix pt05r block-offset"></div>
+  <div class="clearfix"></div>
 
   <!-- IMAGES-->
   <div class="column-container line-h20 size-14">
@@ -213,9 +213,9 @@
   </div>
   <div class="clearfix"></div>
     <div class="column-container">
-      <div class="column-2 line-h20 size-14 block-offset-2 pt05r">
+      <div class="column-2 line-h20 size-14 block-offset-2 pt08r">
         <div class="column-offset">
-          <p class="pt05r block-offset-2 size-14 bold text-justify">
+          <p class=" size-14 bold text-justify">
             Аналитический департамент предоставляет свои рекомендации и уже комплексные и проверенные временем решения для управления активами.
           </p>
         </div>

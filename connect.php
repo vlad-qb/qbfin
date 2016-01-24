@@ -157,23 +157,23 @@
         
         <h4 class="text-center size-12 line-h40 mt50 bold uppercase">МОСКВА</h4>
         <h4 class="text-center size-14 line-h30">Пресненская набережная, д. 8, стр.1</h4>
-        <h4 class="text-center size-14 line-h30 weight-300">+7 (495) 988 98 21 •︎ e-mail: invest@qbfin.ru</h4>
+        <h4 class="text-center size-14 line-h30 weight-300">+7 (495) 988 98 21 •︎ почта: <span class="color-teal gray-hover cursor-pointer">invest@qbfin.ru</span></h4>
         
         <h4 class="text-center size-12 line-h40 mt10 bold uppercase">САНКТ-ПЕТЕРБУРГ</h4>
         <h4 class="text-center size-14 line-h30">Малоохтинский проспект, д. 64, литера Б </h4>
-        <h4 class="text-center size-14 line-h30 weight-300">+7 (812) 644 01 44 •︎ e-mail: invest@qbfin.ru</h4>
+        <h4 class="text-center size-14 line-h30 weight-300">+7 (812) 644 01 44 •︎ почта: <span class="color-teal gray-hover cursor-pointer">invest@qbfin.ru</span></h4>
         
         <h4 class="text-center size-12 line-h40 mt10 bold uppercase">БЕЛГОРОД</h4>
         <h4 class="text-center size-14 line-h30">ул. Преображенская, д. 42 </h4>
-        <h4 class="text-center size-14 line-h30 weight-300">+7 (961) 179 63 07 •︎ e-mail: at@qbfin.ru</h4>
+        <h4 class="text-center size-14 line-h30 weight-300">+7 (961) 179 63 07 •︎ почта: <span class="color-teal gray-hover cursor-pointer">at@qbfin.ru</span></h4>
         
         <h4 class="text-center size-12 line-h40 mt10 bold uppercase">ЕКАТЕРИНБУРГ</h4>
         <h4 class="text-center size-14 line-h30">ул. Бориса Ельцина, 1а</h4>
-        <h4 class="text-center size-14 line-h30 weight-300">+7 (343) 312 22 00 •︎ e-mail: invest@qbfin.ru</h4>
+        <h4 class="text-center size-14 line-h30 weight-300">+7 (343) 312 22 00 •︎ почта: <span class="color-teal gray-hover cursor-pointer">invest@qbfin.ru</span></h4>
         
         <h4 class="text-center size-12 line-h40 mt10 bold uppercase">КИЕВ</h4>
         <h4 class="text-center size-14 line-h30">ул. Мечникова, д. 2</h4>
-        <h4 class="text-center size-14 line-h30 weight-300">+380 (44) 390 22 22 •︎ e-mail: invest@qbfin.ru</h4>
+        <h4 class="text-center size-14 line-h30 weight-300">+380 (44) 390 22 22 •︎ почта: <span class="color-teal gray-hover cursor-pointer">invest@qbfin.ru</span></h4>
       </div>
     </div>
     
@@ -187,7 +187,7 @@
           <p><input id="Name2" class="form-item" name="Name2" placeholder="Full Name" required="required" type="text" style="border-radius:0;"></p>
         </div>
         <div class="text-center mb20">
-          <p>mail</p>
+          <p>почта</p>
           <p><input id="Email2" class="form-item" name="Email2" placeholder="address@domain.com" required="required" type="email" style="border-radius:0;"></p>
         </div>
         <div class="text-center mb20">

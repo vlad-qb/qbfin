@@ -133,19 +133,19 @@
     <div class="column-2">
       <div class="column-offset pl05r pr05r auto line-h20 size-14">
         <p class="size-14 weight-300"><span class="bold">А</span>налитический департамент предоставляет свои рекомендации и уже комплексные и проверенные временем решения для управления активами. </p>
-        <p class="mt20 size-14 weight-300">Вы сможете выбрать себе стратегию, которая будет удовлетворять именно вашим запросам. </p>
+        <p class="pt05r block-offset-2 size-14 weight-300">Вы сможете выбрать себе стратегию, которая будет удовлетворять именно вашим запросам. </p>
       </div>
     </div>
     <div class="column-2">
-      <div class="column-offset pl05r pr05r auto line-h20 size-14">
+      <div class="column-offset block-offset-2 pl05r pr05r auto line-h20 size-14">
         <p class="size-14 weight-300"><span class="bold">В</span>ы получаете возможность управления своими активами, опираясь на рекомендации и помощь команды профессионалов. </p>
-        <p class="mt20 size-14 weight-300">QBF Investment предоставляет каждому клиенту персонального финансового советника, для того чтобы Вы могли опираться на команду профессионалов в процессе управления своими активами.</p>
+        <p class="pt05r block-offset-2 size-14 weight-300">QBF Investment предоставляет каждому клиенту персонального финансового советника, для того чтобы Вы могли опираться на команду профессионалов в процессе управления своими активами.</p>
       </div>
     </div>
   </div>
   <div class="clearfix pt05r block-offset"></div>
   <!-- Text-->
-    <div class="consulting-management-2 w100r fixed" style="background-attachment: fixed;background-position: center top;">
+    <div id="reit" class="consulting-management-2 w100r fixed" style="background-attachment: fixed;background-position: center top;">
       <div class="w90r auto bg-label-4 text-center text-center size-18 line-h50 color-white uppercase">
         <div class="pl02r pr02r pt08r pb08r">
           АКТУАЛЬНЫЕ ПРЕДЛОЖЕНИЯ
@@ -161,11 +161,11 @@
             <img src="img/icons/icon-ipo-portfolio.svg" class="icon icon-services w80">
           </div>
         </div>
-        <div class="size-18 color-teal line-h26 mb10 weight-300">
+        <div class="size-18 color-teal line-h26 mb20 weight-300">
           IPO Portfolio
         </div>
         <div>
-          <p class="mt15 size-14 line-h22 weight-300 pl">
+          <p class="pt10 size-14 line-h22 weight-300 pl">
             В рамках данного портфеля Вы можете получить прибыль от роста капитализации компаний, проводящих первичное публичное размещение (IPO) на фондовом рынке. Стратегия реализуется через покупку акций компаний, выходящих на фондовый рынок, по цене размещения, что позволяет заложить максимальный потенциал роста в короткий период. Позиции по выбранному активу могут быть закрыты в первые дни торгов, если за это время будет достигнута целевая доходность.
           </p>
           <p class="mt15 size-14 line-h22 weight-300">
@@ -173,7 +173,7 @@
           </p>
         </div>
         <div class="h20"></div>
-        <a href="/docs-2/ipo.pdf" class="circles size-12 uppercase color-teal weight-300">ПОСМОТРЕТЬ ПРЕДЛОЖЕНИЕ &gt;</a>
+        <a href="/docs-2/ipo.pdf" target="_blank" class="circles size-12 uppercase color-teal weight-300">ПОСМОТРЕТЬ ПРЕДЛОЖЕНИЕ &gt;</a>
         <div class="clearfix"></div>
       </div>
     </div>
@@ -188,7 +188,7 @@
           REIT Portfolio
         </div>
         <div>
-          <p class="mt20 size-14 line-h22 weight-300">
+          <p class="pt10 size-14 line-h22 weight-300">
             Фонды REIT или инвестиционные фонды недвижимости - это популярный и очень надежный инструмент инвестирования, поскольку в США не было зарегистрировано ни одного случая банкротства REIT. Большую часть своих доходов, формирующихся в результате управления недвижимостью, фонды выплачивают в виде дивидендов. Помимо дивидендного дохода инвесторы зарабатывают на росте стоимости акций фондов.
           </p>
           <p class="mt20 size-14 line-h22 weight-300">
@@ -196,7 +196,7 @@
           </p>
         </div>
         <div class="h20"></div>
-        <a href="/docs-2/reit.pdf" class="circles size-12 uppercase color-teal weight-300">ПОСМОТРЕТЬ ПРЕДЛОЖЕНИЕ &gt;</a>
+        <a href="/docs-2/reit.pdf" target="_blank" class="circles size-12 uppercase color-teal weight-300">ПОСМОТРЕТЬ ПРЕДЛОЖЕНИЕ &gt;</a>
         <div class="clearfix"></div>
       </div>
     </div>
@@ -216,7 +216,7 @@
           Bond Issue Portfolio
         </div>
         <div>
-          <p class="mt15 size-14 line-h22 weight-300 pl">
+          <p class="pt10 size-14 line-h22 weight-300 pl">
             Учитывая нестабильную мировую конъюнктуру, многие инвесторы предпочитают использовать консервативные инструменты, такие как корпоративные облигации. Покупка долговых ценных бумаг крупных американских компаний с высоким кредитным рейтингом дает инвесторам стабильный купонный доход на уровне 3-6% годовых с минимальным уровнем риска.
           </p>
           <p class="mt15 size-14 line-h22 weight-300">
@@ -224,7 +224,7 @@
           </p>
         </div>
         <div class="h20"></div>
-        <a href="/docs-2/issue.pdf" class="circles size-12 uppercase color-teal weight-300">ПОСМОТРЕТЬ ПРЕДЛОЖЕНИЕ &gt;</a>
+        <a href="/docs-2/issue.pdf" target="_blank" class="circles size-12 uppercase color-teal weight-300">ПОСМОТРЕТЬ ПРЕДЛОЖЕНИЕ &gt;</a>
         <div class="clearfix"></div>
       </div>
     </div>
@@ -239,7 +239,7 @@
           Discount Bonds Portfolio
         </div>
         <div>
-          <p class="mt20 size-14 line-h22 weight-300">
+          <p class="pt10 size-14 line-h22 weight-300">
             Украинский кризис и стремительная девальвация рубля привели к значительному падению цен облигаций российских компаний. Многие долговые бумаги высококачественных эмитентов подешевели на этом фоне на 20-30% от номинала. Теперь, благодаря стабилизации ситуации и улучшению экономической конъюнктуры в стране, стоимость многих облигаций вернулась к номиналу, но некоторые бумаги до сих пор торгуются с дисконтом.
           </p>
           <p class="mt20 size-14 line-h22 weight-300">
@@ -247,7 +247,7 @@
           </p>
         </div>
         <div class="h20"></div>
-        <a href="/docs-2/discount.pdf" class="circles size-12 uppercase color-teal weight-300">ПОСМОТРЕТЬ ПРЕДЛОЖЕНИЕ &gt;</a>
+        <a href="/docs-2/discount.pdf" target="_blank" class="circles size-12 uppercase color-teal weight-300">ПОСМОТРЕТЬ ПРЕДЛОЖЕНИЕ &gt;</a>
         <div class="clearfix"></div>
       </div>
     </div>
@@ -267,7 +267,7 @@
           Bonded ETF Portfolio
         </div>
         <div>
-          <p class="mt15 size-14 line-h22 weight-300 pl">
+          <p class="pt10 size-14 line-h22 weight-300 pl">
             В условиях нестабильной макроэкономической конъюнктуры многие инвесторы предпочитают размещать часть своих средств в низкорисковые инструменты с фиксированной доходностью, такие как облигации. Однако недостатком является то, что рынок таких финансовых инструментов доступен только инвесторам с большим первоначальным капиталом.
           </p>
           <p class="mt15 size-14 line-h22 weight-300">
@@ -275,7 +275,7 @@
           </p>
         </div>
         <div class="h20"></div>
-        <a href="/docs-2/etf.pdf" class="circles size-12 uppercase color-teal weight-300">ПОСМОТРЕТЬ ПРЕДЛОЖЕНИЕ &gt;</a>
+        <a href="/docs-2/etf.pdf" target="_blank" class="circles size-12 uppercase color-teal weight-300">ПОСМОТРЕТЬ ПРЕДЛОЖЕНИЕ &gt;</a>
         <div class="clearfix"></div>
       </div>
     </div>
@@ -290,7 +290,7 @@
           Bonded Portfolio
         </div>
         <div>
-          <p class="mt20 size-14 line-h22 weight-300">
+          <p class="pt10 size-14 line-h22 weight-300">
             Владельцы крупного капитала выбирают инструменты с фиксированной доходностью из-за низкого риска и стабильного финансового потока. Покупка долговых ценных бумаг корпораций дает инвесторам купонный доход на уровне 2-10% годовых в зависимости от эмитента.
           </p>
           <p class="mt20 size-14 line-h22 weight-300">
@@ -298,7 +298,7 @@
           </p>
         </div>
         <div class="h20"></div>
-        <a href="/docs-2/bonded.pdf" class="circles size-12 uppercase color-teal weight-300">ПОСМОТРЕТЬ ПРЕДЛОЖЕНИЕ &gt;</a>
+        <a href="/docs-2/bonded.pdf" target="_blank" class="circles size-12 uppercase color-teal weight-300">ПОСМОТРЕТЬ ПРЕДЛОЖЕНИЕ &gt;</a>
         <div class="clearfix"></div>
       </div>
     </div>

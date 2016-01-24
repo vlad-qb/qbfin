@@ -10,7 +10,7 @@
   pointer-events: none;
   display: none;
   z-index: 999;
-  margin: 0 -30px 0 0;
+  margin: 0 0 0 0;
   -webkit-transform: translateZ(0);
   -moz-transform: translateZ(0);
   -ms-transform: translateZ(0);
@@ -167,6 +167,13 @@
   outline: none;
   height: 35px;
 }
+/*
+@media screen and (max-width: 400px) {
+  .flavr-container .flavr-fixer .flavr-outer .flavr-content .flavr-message form input {
+    margin-left:-5%;
+  }
+}
+*/
 .flavr-container .flavr-fixer .flavr-outer .flavr-content .flavr-message form input[type=checkbox],
 .flavr-container .flavr-fixer .flavr-outer .flavr-content .flavr-message form input[type=radio] {
   display: inline;
@@ -245,6 +252,8 @@
   background-color: #3e4b5d;
 }
 .flavr-container .flavr-fixer .flavr-outer .flavr-toolbar {
+  position:relative;
+  top:-2px;
   white-space: nowrap;
   padding: 0 30px 20px;
 }

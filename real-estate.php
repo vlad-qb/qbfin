@@ -145,23 +145,25 @@
       </div>
     </div>
   </div>
-  <div class="clearfix"></div>
-      <div class="text-alert column-container line-h20 size-14">
+    <!-- CONNECT -->
+    <div class="clearfix"></div>
+    <div class="column-container">
       <div class="column pt05r block-offset">
-        <div class="text-offset-2 pl05r pr05r">
-          <div class="border-top-lightgray">
-            <div class="ml05r mr05r pt05r block-offset">
-              <p class="ml025r size-12 color-teal uppercase text-center">
-                В ЗАВИСИМОСТИ ОТ ПОСТАВЛЕННЫХ ЗАДАЧ, НАШИ СПЕЦИАЛИСТЫ ПОМОГУТ ВЫБРАТЬ НАИБОЛЕЕ ПОДХОДЯЩЕЕ ДЛЯ ВАС РЕШЕНИЕ
-              </p>
-<a onclick="popup();" class="circles a-default cursor-pointer">задать вопрос специалисту </a><span onclick="popup();" class="color-teal weight-300 cursor-pointer">></span>           
- </div>
-          </div>
+        <div class="line-offset">
+          <div class="border-gray-bottom"></div>
+        </div>
+        <div class="pt05r block-offset pl05r pr05r text-center">
+          <p class="size-12 color-teal uppercase line-h20 weight-300">
+            В ЗАВИСИМОСТИ ОТ ПОСТАВЛЕННЫХ ЗАДАЧ, НАШИ СПЕЦИАЛИСТЫ ПОМОГУТ ВЫБРАТЬ НАИБОЛЕЕ ПОДХОДЯЩУЮ ДЛЯ ВАС СТРАТЕГИЮ
+          </p>
+          <p class="mt20">
+            <a onclick="popup();" class="circles a-default cursor-pointer">задать вопрос специалисту </a><span onclick="popup();" class="color-teal weight-300 cursor-pointer">></span>  
+          </p>
         </div>
       </div>
-      <div class="clearfix"></div>
     </div>
-  <div class="clearfix"></div>
+    <div class="clearfix"></div>
+    <!-- /CONNECT -->
   <div class="column-container line-h20 size-14">
     <div class="column-2 pt05r block-offset">
       <div class="image-offset">
@@ -176,7 +178,7 @@
           </div>
           <div class="pt05 ml140">
             <span class="uppercase">КОНСУЛЬТАЦИОННОЕ УПРАВЛЕНИЕ: </span><br>
-            <a href="/service.php" class="circles text-left img-text-2 mt20 mr5 block color-teal gray-hover weight-300">REIT портфель</a>
+            <a href="/complex-solution.php#reit" class="circles text-left img-text-2 pt05r mr5 size-14 block color-teal gray-hover weight-300">REIT портфель</a>
           </div>
           <div class="clearfix"></div>
         </div>
@@ -187,7 +189,7 @@
             </div>
             <div class="pt05 ml140">
               <span class="uppercase">ДЕВЕЛОПЕРСКИЕ ПРОЕКТЫ:</span><br>
-              <a href="http://qbfam.ru" class=" circles text-left img-text-2 mt20 mr5 block color-teal gray-hover weight-300">QBF ||| asset management</a>
+              <a target="_blank" href="http://qbfam.ru" class=" circles text-left img-text-2 pt05r mr5 size-14 block color-teal gray-hover weight-300">QBF ||| asset management</a>
             </div>
             <div class="clearfix"></div>
           </div>
@@ -199,7 +201,7 @@
             </div>
             <div class="pt05 ml140 ">
               <span class="uppercase">ПРЕДЛОЖЕНИЕ ЗПИФ:</span><br>
-              <a href="/service.php" class="circles img-text-2 text-left mt20 mr5 color-teal gray-hover weight-300">Жилой комплекс комфорт-класса "Грибовский лес"</a>
+              <a target="_blank" href="http://qbfam.ru" class="circles img-text-2 text-left pt05r mr5 size-14 color-teal gray-hover weight-300">Жилой комплекс "Грибовский лес"</a>
             </div>
             <div class="clearfix"></div>
           </div>

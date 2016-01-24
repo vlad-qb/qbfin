@@ -129,17 +129,17 @@
 	<div class="clearfix"></div> 
   <!-- Text-->
   <div id="content">
-  <div class="column-container pt05r">
+  <div class="column-container">
     <div class="column-2">
-      <div class="column-offset pl05r pr05r auto line-h20 size-14">
+      <div class="column-offset pt05r block-offset-2 pl05r pr05r auto line-h20 size-14">
         <p class="size-14 weight-300"><span class="bold">К</span>омпания предлагает своим клиентам услугу Консультационного Управления, в рамках которой компания предоставляет каждому клиенту личного финансового советника.  </p>
-        <p class="mt20 size-14 weight-300">Вы получаете возможность управления своими активами, опираясь на рекомендации и помощь команды профессионалов.</p>
+        <p class=" pt05r block-offset-2 size-14 weight-300">Вы получаете возможность управления своими активами, опираясь на рекомендации и помощь команды профессионалов.</p>
       </div>
     </div>
     <div class="column-2">
-      <div class="column-offset pl05r pr05r auto line-h20 size-14">
+      <div class="column-offset pt05r block-offset-2 pl05r pr05r auto line-h20 size-14">
         <p class="size-14 weight-300"><span class="bold">К</span>онсультационное управление - это услуга, которая в одинаковой мере востребована как у начинающих, так и у опытных управляющих. </p>
-        <p class="mt20 size-14 weight-300">QBF Investment предоставляет каждому клиенту персонального финансового советника, для того чтобы Вы могли опираться на команду профессионалов в процессе управления своими активами.</p>
+        <p class=" pt05r block-offset-2 size-14 weight-300">QBF Investment предоставляет каждому клиенту персонального финансового советника, для того чтобы Вы могли опираться на команду профессионалов в процессе управления своими активами.</p>
       </div>
     </div>
   </div>
@@ -244,8 +244,13 @@
     <div class="w100r">
           <div class="text-center ">
             <img id="lighthouse" src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r"><br>
-            <a href="/service.php" class="size-12 line-h40 uppercase">УСЛУГИ</a>
-          </div>	  
+          </div>	 
+    <div class="text-center pb02r">
+ 
+      <a href="/service.php" class="size-12 uppercase">УСЛУГИ</a> <span class="color-teal size-10">•︎</span> 
+      <a href="/asset-management.php" class="size-12 uppercase">КОНСУЛЬТАЦИОННОЕ УПРАВЛЕНИЕ</a>
+ 
+    </div> 
     </div>		
     <!-- /FOOTER BLOCK -->
   <div class="clearfix"></div>

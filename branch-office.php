@@ -149,148 +149,158 @@
 	<div id="content">
     <div class="clearfix"></div>
     
-    <div id="offices" class="CUSTOM-1 column-container">  
-        <div class="column pt05r">
-          <div class="column-offset-2">
-            <h3 class="text-center size-14"><div class="w250 h40 line-h40 auto bg-white uppercase">Москва</div></h3>
-            
-            <div class="title-line-lightgray"></div>
-          </div>
+    <div>  
+      <div class="column pt05r">
+        <div class="column-offset-2">
+          <h3 id="msk" class="text-center size-14"><div class="w250 h40 line-h40 auto bg-white uppercase">Москва</div></h3>  
+          <div class="title-line-lightgray"></div>
         </div>
-          <div class="column-20r pt05r block-offset">
-            <div class="column-offset">
-              <div class="img-branch-office-2 contain w200 auto h200"></div>
-            </div>
-          </div>
-          <div class="column-30r pt05r">
-            <div class="column-offset pl05r pr05r">
-                <div class="address text-center weight-300 size-14 line-h40 pl20r pr20r">
+      </div>
+
+      <div class="clearfix"></div>
+      <div class="column-container">
+        <div class="column-4 pt05r block-offset">
+          <div class="column-offset">
+              <div class="img-branch-office-2 w200 auto h200" style="background-size:contain;background-repeat:no-repeat;"></div>
+          </div>    
+        </div>
+        <div class="column-4 pt05r block-offset">
+          <div class="column-offset pl10r pr10r">
+              <div class="text-center weight-300 size-14 line-h26">
                   123317, Москва<br>
                   Пресненская набережная, д.8, стр1<br>
                   ММДЦ «Москва-Сити»<br>
                   тел: +7 (495) 988 98 21<br>
-                  e-mail:<a href="mailto:invest@qbfin.ru" class="color-teal">invest@qbfin.ru</a><br>
-                  <a href="https://maps.yandex.ru/-/CVvQNJ37" class="color-teal">маршрут на Яндекс.Картах</a>
-                </div>
-              <div class="clearfix"></div>
-            </div>
-          </div>
-          <div class="column-50r pt05r block-offset-2">
-            <div class="column-offset">
-              <div class="size-14 line-h20 pl05r pr05r">
-                <p class="weight-300"><span class="bold">Ш</span>таб-квартира QBF расположена в эпицентре деловой России - Московском Международном Деловом Центре «Москва-Сити», в башне «Город Столиц</p>
-                <p class="mt20 weight-300">Именно здесь сосредоточены основные кадровые ресурсы и стратегические направления бизнеса. Московский офис всегда рад видеть в гостях клиентов и партнеров QBF.</p>
+                  e-mail: <a href="mailto:invest@qbfin.ru" class="color-teal gray-hover">invest@qbfin.ru</a><br>
+                  <a href="https://maps.yandex.ru/-/CVvQNJ37" class="color-teal gray-hover">маршрут на Яндекс.Картах</a>
               </div>
+              <div class="clearfix block-offset-2"></div>
+          </div>    
+        </div>
+        <div class="column-2 pt05r block-offset">
+          <div class="column-offset pl05r pr05r">
+            <div class="size-14 line-h20">
+              <p class="weight-300"><span class="bold">Ш</span>таб-квартира QBF расположена в эпицентре деловой России - Московском Международном Деловом Центре «Москва-Сити», в башне «Город Столиц</p>
+              <p class="mt20 weight-300">Именно здесь сосредоточены основные кадровые ресурсы и стратегические направления бизнеса. Московский офис всегда рад видеть в гостях клиентов и партнеров QBF.</p>
             </div>
-          </div>
-    </div>
-    <div class="clearfix"></div>
-    <div id="offices" class="CUSTOM-1 column-container">  
-        <div class="column pt05r block-offset">
-          <div class="column-offset-2">
-            <h3 class="text-center size-14"><div class="w250 h40 line-h40 auto bg-white uppercase">САНКТ-ПЕТЕРБУРГ</div></h3>
-            
-            <div class="title-line-lightgray"></div>
           </div>
         </div>
-          <div class="column-20r pt05r block-offset">
-            <div class="column-offset">
-              <div class="img-branch-office-3 contain w200 auto h200"></div>
-            </div>
-          </div>
-          <div class="column-30r pt05r">
-            <div class="column-offset pl05r pr05r">
-                <div class="address text-center weight-300 size-14 line-h40 pl20r pr20r">
+      </div>
+      <div class="clearfix"></div>
+
+      <div class="column pt05r block-offset">
+        <div class="column-offset-2">
+          <h3 id="spb" class="text-center size-14"><div class="w250 h40 line-h40 auto bg-white uppercase">САНКТ-ПЕТЕРБУРГ</div></h3>  
+          <div class="title-line-lightgray"></div>
+        </div>
+      </div>
+      <div class="clearfix"></div>
+      <div class="column-container">
+        <div class="column-4 pt05r block-offset">
+          <div class="column-offset">
+              <div class="img-branch-office-3 w200 auto h200" style="background-size:contain;background-repeat:no-repeat;"></div>
+          </div>    
+        </div>
+        <div class="column-4 pt05r block-offset">
+          <div class="column-offset pl10r pr10r">
+              <div class="text-center weight-300 size-14 line-h26">
                   195112, Санкт-Петербург<br>
                   Малоохтинский проспект, д.64, литера Б<br>
                   БЦ «Санкт-Петербург Плаза»<br>
                   тел: +7 (812) 644 01 44<br>
-                  e-mail:<a href="mailto:invest@qbfin.ru" class="color-teal">invest@qbfin.ru</a><br>
-                  <a href="https://maps.yandex.ru/-/CVvQNJ37" class="color-teal">маршрут на Яндекс.Картах</a>
-                </div>
-              <div class="clearfix"></div>
-            </div>
-          </div>
-          <div class="column-50r pt05r block-offset-2">
-            <div class="column-offset">
-              <div class="size-14 line-h20 pl05r pr05r" >
-                <p class="weight-300"><span class="bold">Р</span>ынок Северной Столицы всегда рассматривался нашей компанией как перспективное место для открытия филиала: низкая насыщенность инвестиционными компаниями позволила QBF занять заметную нишу Санкт-Петербурга в сфере управления капиталом на зарубежных рынках.</p>
-                <p class="mt20 weight-300">Филиал расположен в бизнес-центре «Санкт-Петербург Плаза» на Малоохотинском проспекте.</p>
+                  e-mail: <a href="mailto:invest@qbfin.ru" class="color-teal gray-hover">invest@qbfin.ru</a><br>
+                  <a href="https://maps.yandex.ru/-/CVvQNJ37" class="color-teal gray-hover">маршрут на Яндекс.Картах</a>
               </div>
+              <div class="clearfix block-offset-2"></div>
+          </div>    
+        </div>
+        <div class="column-2 pt05r block-offset">
+          <div class="column-offset pl05r pr05r">
+            <div class="size-14 line-h20">
+              <p class="weight-300"><span class="bold">Ш</span>таб-квартира QBF расположена в эпицентре деловой России - Московском Международном Деловом Центре «Москва-Сити», в башне «Город Столиц</p>
+              <p class="mt20 weight-300">Именно здесь сосредоточены основные кадровые ресурсы и стратегические направления бизнеса. Московский офис всегда рад видеть в гостях клиентов и партнеров QBF.</p>
             </div>
-          </div>
-    </div>
-    <div class="clearfix"></div>
-    <div id="offices" class="CUSTOM-1 column-container">  
-        <div class="column pt05r block-offset">
-          <div class="column-offset-2">
-            <h3 class="text-center size-14"><div class="w250 h40 line-h40 auto bg-white uppercase">ЕКАТЕРИНБУРГ</div></h3>
-            
-            <div class="title-line-lightgray"></div>
           </div>
         </div>
-          <div class="column-20r pt05r block-offset">
-            <div class="column-offset">
-              <div class="img-branch-office-4 contain w200 auto h200"></div>
-            </div>
-          </div>
-          <div class="column-30r pt05r">
-            <div class="column-offset pl05r pr05r">
-                <div class="address text-center weight-300 size-14 line-h40 pl20r pr20r">
+      </div>
+      <div class="clearfix"></div>
+
+      <div class="column pt05r block-offset">
+        <div class="column-offset-2">
+          <h3 id="ekb" class="text-center size-14"><div class="w250 h40 line-h40 auto bg-white uppercase">ЕКАТЕРИНБУРГ</div></h3>  
+          <div class="title-line-lightgray"></div>
+        </div>
+      </div>
+      <div class="clearfix"></div>
+      <div class="column-container">
+        <div class="column-4 pt05r block-offset">
+          <div class="column-offset">
+              <div class="img-branch-office-4 w200 auto h200" style="background-size:contain;background-repeat:no-repeat;"></div>
+          </div>    
+        </div>
+        <div class="column-4 pt05r block-offset">
+          <div class="column-offset pl10r pr10r">
+              <div class="text-center weight-300 size-14 line-h26">
                   620014, Екатеринбург<br>
                   ул. Бориса Ельцина, 1а<br>
                   БЦ «Президент»<br>
                   тел: +7 (903) 100 60 27<br>
-                  e-mail:<a href="mailto:invest@qbfin.ru" class="color-teal">invest@qbfin.ru</a><br>
-                  <a href="https://maps.yandex.ru/-/CVvQNJ37" class="color-teal">маршрут на Яндекс.Картах</a>
-                </div>
-              <div class="clearfix"></div>
-            </div>
-          </div>
-          <div class="column-50r pt05r block-offset-2">
-            <div class="column-offset">
-              <div class="size-14 line-h20 pl05r pr05r">
+                  e-mail: <a href="mailto:invest@qbfin.ru" class="color-teal gray-hover">invest@qbfin.ru</a><br>
+                  <a href="https://maps.yandex.ru/-/CVvQNJ37" class="color-teal gray-hover">маршрут на Яндекс.Картах</a>
+              </div>
+              <div class="clearfix block-offset-2"></div>
+          </div>    
+        </div>
+        <div class="column-2 pt05r block-offset">
+          <div class="column-offset pl05r pr05r">
+            <div class="size-14 line-h20">
                 <p class="weight-300"><span class="bold">Е</span>катеринбург стал одной из стратегических точек в развитии бизнеса QBF в 2015 году. В мае компания открыла представительский офис в одном из самых престижных бизнес-центров города - БЦ «Президент». Зная предпочтения и традиции состоятельной аудитории региона, cовет директоров QBF принял решение предоставить клиентам Урала сервис в соответствии с самыми высокими требованиями.</p>
                 <p class="mt20 weight-300">Премиальные инвестиционные услуги для многих консервативных инвесторов сейчас как никогда актуальны. Перенасыщение квадратных метров жилой и торговой недвижимости в Екатеринбурге, непростая экономическая ситуации в стране внесли коррективы во взгляды инвесторов.</p>
                 <p class="mt20 weight-300">«...Поэтому ключевым моментом для нас стало - познакомить состоятельных жителей Екатеринбурга с возможностью высокой защиты инвестиций, к которой они привыкли, и вместе с этим обеспечить стабильный доход и гарантированную ликвидность», - отмечает директор филиальной сети Владимир Пахомов.</p>
-              </div>
             </div>
-          </div>
-    </div>
-    <div class="clearfix"></div>
-    <div id="offices" class="CUSTOM-1 column-container">  
-        <div class="column pt05r block-offset">
-          <div class="column-offset-2">
-            <h3 class="text-center size-14"><div class="w250 h40 line-h40 auto bg-white uppercase">КИЕВ</div></h3>
-            
-            <div class="title-line-lightgray"></div>
           </div>
         </div>
-          <div class="column-20r pt05r block-offset">
-            <div class="column-offset">
-              <div class="img-branch-office-5 contain w200 auto h200"></div>
-            </div>
-          </div>
-          <div class="column-30r pt05r">
-                <div class="address text-center weight-300 size-14 line-h40 pl20r pr20r">
-                  01601, Киев<br>
-                  ул. Мечникова, д.2<br>
-                  БЦ «Парус»<br>
-                  тел: +380 (44) 390 22 22<br>
-                  e-mail:<a href="mailto:invest@qbfin.ru" class="color-teal">invest@qbfin.ru</a><br>
-                  <a href="https://maps.yandex.ru/-/CVvQNJ37" class="color-teal">маршрут на Яндекс.Картах</a>
-                </div>
-          </div>
-          <div class="column-50r pt05r block-offset-2">
-            <div class="column-offset">
-              <div class="size-14 line-h20 pl05r pr05r">
-                <p class="weight-300"><span class="bold">О</span>крытие клиентского офиса в Киеве стало решающим шагом для компании QBF при выходе на международный уровень. Инвестиционный рынок Украины на момент открытия офиса был сопоставим с российским рынком 2000-х, в связи с чем совет директоров спрогнозировал весьма динамичный рост в сегменте профессионального управления частным капиталом в последующие несколько лет.</p>
-                <p class="mt20 weight-300">Украинский филиал QBF расположен в самом центре культурной, социальной и экономической жизни столицы - в престижном бизнес-центре «Парус». Бизнес-центр «Парус» относится к классу «А» и представляет собой очаг бизнес элиты Украины. В нем расположены офисы самых престижных компаний в сфере финансов, строительства, рекламы, IT, а так же локации известных политиков и меценатов.</p>
+      </div>
+      <div class="clearfix"></div>
+
+
+      <div class="column pt05r block-offset">
+        <div class="column-offset-2">
+          <h3 id="kv" class="text-center size-14"><div class="w250 h40 line-h40 auto bg-white uppercase">КИЕВ</div></h3>  
+          <div class="title-line-lightgray"></div>
+        </div>
+      </div>
+      <div class="clearfix"></div>
+      <div class="column-container">
+        <div class="column-4 pt05r block-offset">
+          <div class="column-offset">
+              <div class="img-branch-office-5 w200 auto h200" style="background-size:contain;background-repeat:no-repeat;"></div>
+          </div>    
+        </div>
+        <div class="column-4 pt05r block-offset">
+          <div class="column-offset pl10r pr10r">
+              <div class="text-center weight-300 size-14 line-h26">
+                01601, Киев<br>
+                ул. Мечникова, д.2<br>
+                БЦ «Парус»<br>
+                тел: +380 (44) 390 22 22<br>
+                e-mail: <a href="mailto:invest@qbfin.ru" class="color-teal gray-hover">invest@qbfin.ru</a><br>
+                <a href="https://maps.yandex.ru/-/CVvQNJ37" class="color-teal gray-hover">маршрут на Яндекс.Картах</a>
               </div>
+              <div class="clearfix block-offset-2"></div>
+          </div>    
+        </div>
+        <div class="column-2 pt05r block-offset">
+          <div class="column-offset pl05r pr05r">
+            <div class="size-14 line-h20">
+              <p class="weight-300"><span class="bold">О</span>крытие клиентского офиса в Киеве стало решающим шагом для компании QBF при выходе на международный уровень. Инвестиционный рынок Украины на момент открытия офиса был сопоставим с российским рынком 2000-х, в связи с чем совет директоров спрогнозировал весьма динамичный рост в сегменте профессионального управления частным капиталом в последующие несколько лет.</p>
+              <p class="mt20 weight-300">Украинский филиал QBF расположен в самом центре культурной, социальной и экономической жизни столицы - в престижном бизнес-центре «Парус». Бизнес-центр «Парус» относится к классу «А» и представляет собой очаг бизнес элиты Украины. В нем расположены офисы самых престижных компаний в сфере финансов, строительства, рекламы, IT, а так же локации известных политиков и меценатов.</p>
             </div>
           </div>
+        </div>
+      </div>
+      <div class="clearfix"></div>            
     </div>
-    <div class="clearfix"></div>
 	</div>
     <!-- CONTENT -->
     <!-- FOOTER BLOCK -->

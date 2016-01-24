@@ -135,10 +135,10 @@
       <div class="column-2 pt05r line-h20 size-14">
         <div class="column-offset">
           <p class=" mt20 size-14 weight-300">
-            <span class="bold">И</span>нвестиционная компания QBF ||| investment предлагает три стратегии доверительного управления финансовыми активами: <a href="/high-yield-strategy.php" class="color-gray light-gray-hover italic">высокодоходная,</a> <a href="/weighted-average-strategy.php" class="color-gray light-gray-hover italic">средневзвешенная и</a> <a href="/conservative-strategy.php" class="color-gray light-gray-hover italic">консервативная стратегия.</a>
+            <span class="bold">И</span>нвестиционная компания QBF ||| investment предлагает три стратегии доверительного управления финансовыми активами: <a href="/high-yield-strategy.php" class="color-gray light-gray-hover bold">высокодоходная,</a> <a href="/weighted-average-strategy.php" class="color-gray light-gray-hover bold">средневзвешенная и</a> <a href="/conservative-strategy.php" class="color-gray light-gray-hover bold">консервативная стратегия.</a>
           </p>
           <p class="mt20 size-14 weight-300">
-            Мы также предоставляем клиентам два варианта стратегии защиты рублевых активов: <a href="/strategy-for-the-protection-of-ruble-assets.php" class="color-gray light-gray-hover italic">депозитный средневзвешенный портфель и хеджирование рублевых рисков.</a>
+            Мы также предоставляем клиентам два варианта стратегии защиты рублевых активов: <a href="/strategy-for-the-protection-of-ruble-assets.php" class="color-gray light-gray-hover bold">депозитный средневзвешенный портфель и хеджирование рублевых рисков.</a>
           </p>
         </div>
       </div>
@@ -213,7 +213,7 @@
     <!-- CONTENT-2 -->
     <div class="text-alert block-offset column-container pt05r line-h20 size-14">
       <div class="column">
-        <div class="text-offset-2 pl05r pr05r">
+        <div class="text-offset-2 pl10r pr10r">
           <div class="border-left-lightgray border-right-lightgray">
             <div class="ml05r mr05r pt03r pb03r">
               <p class="ml025r">
@@ -235,8 +235,13 @@
     <div class="w100r">
       <div class="text-center ">
         <img id="lighthouse" src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r"><br>
-        <a href="/services.php" class="size-12 uppercase">УСЛУГИ</a>
-      </div>	  
+      </div>
+    <div class="text-center pb02r">
+ 
+      <a href="/service.php" class="size-12 uppercase">УСЛУГИ</a> <span class="color-teal size-10">•︎</span> 
+      <a href="/asset-management.php" class="size-12 uppercase">ДОВЕРИТЕЛЬНОЕ УПРАВЛЕНИЕ</a>
+ 
+    </div> 
     </div>		
     <!-- /FOOTER BLOCK -->
     <div class="clearfix"></div>
