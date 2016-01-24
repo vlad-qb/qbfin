@@ -148,31 +148,55 @@
 
 /* team.html */
 .img-team-1{
-    background: url(/img/bg/team-1.jpg);
+    background: url(/img/bg/team-banner.jpg);
 }
 .img-team-2{
-    background: url(/img/bg/team-2.png);
+    background: url(/img/bg/team-frolov-b-w.jpg);
 }
 .img-team-3{
-    background: url(/img/bg/team-3.png);
+    background: url(/img/bg/team-shpakov-b-w.jpg);
 }
 .img-team-4{
-    background: url(/img/bg/team-4.png);
+    background: url(/img/bg/team-pahomov-b-w.jpg);
 }
 .img-team-5{
-    background: url(/img/bg/team-5.png);
+    background: url(/img/bg/team-munaev-b-w.jpg);
 }
 .img-team-6{
-    background: url(/img/bg/team-6.png);
+    background: url(/img/bg/team-gorsheneva-b-w.jpg);
 }
 .img-team-7{
-    background: url(/img/bg/team-7.png);
+    background: url(/img/bg/team-mihailov-b-w.jpg);
 }
 .img-team-8{
-    background: url(/img/bg/team-8.png);
+    background: url(/img/bg/team-selivanov-b-w.jpg);
 }
 .img-team-9{
-    background: url(/img/bg/team-9.png);
+    background: url(/img/bg/team-kipa-b-w.jpg);
+}
+.img-team-2c{
+    background: url(/img/bg/team-frolov-color.jpg);
+}
+.img-team-3c{
+    background: url(/img/bg/team-shpakov-color.jpg);
+}
+.img-team-4c{
+    background: url(/img/bg/team-pahomov-color.jpg);
+}
+.img-team-5c{
+    background: url(/img/bg/team-munaev-color.jpg);
+}
+.img-team-6c{
+    background: url(/img/bg/team-gorsheneva-color.jpg);
+}
+.img-team-7c{
+    background: url(/img/bg/team-mihailov-color.jpg);
+}
+.img-team-8c{
+    background: url(/img/bg/team-selivanov-color.jpg);
+}
+.img-team-9c{
+    background: url(/img/bg/team-kipa-color.jpg);
 }
 
 /* clients-and-partners.html */

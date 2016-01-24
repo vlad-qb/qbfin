@@ -156,7 +156,9 @@
       <div class="pt05r block-offset">
         <a href="/team-frolov.php">
           <div class="img-team-2 w200 h200 auto cover bg-center" style="background-size:cover;backgroun-position:center;">
-          
+            <div class="animation-colorization img-team-2c w200 h200 auto cover bg-center" style="background-size:cover;backgroun-position:center;">
+            
+            </div>
           </div>
         </a>
         <h4 class="size-12 text-center uppercase line-h26 mt15 color-teal">Владимир Фролов</h4>
@@ -171,7 +173,9 @@
       <div class="pt05r block-offset">
         <a href="/team-shpakov.php">
           <div class="img-team-3 w200 h200 auto cover bg-center" style="background-size:cover;backgroun-position:center;">
-
+            <div class="animation-colorization img-team-3c w200 h200 auto cover bg-center" style="background-size:cover;backgroun-position:center;">
+            
+            </div>
           </div>
         </a>
         <h4 class="size-12 text-center uppercase line-h26 mt15 color-teal">РОМАН ШПАКОВ</h4>
@@ -186,7 +190,9 @@
       <div class="pt05r block-offset">
         <a href="/team-pahomov.php">
           <div class="img-team-4 w200 h200 auto cover bg-center" style="background-size:cover;backgroun-position:center;">
-          
+            <div class="animation-colorization img-team-4c w200 h200 auto cover bg-center" style="background-size:cover;backgroun-position:center;">
+            
+            </div>
           </div>
         </a>
         <h4 class="size-12 text-center uppercase line-h26 mt15 color-teal">ВЛАДИМИР ПАХОМОВ</h4>
@@ -201,7 +207,9 @@
       <div class="pt05r block-offset">
         <a href="/team-munaev.php">
           <div class="img-team-5 w200 h200 auto cover bg-center" style="background-size:cover;backgroun-position:center;">
-          
+            <div class="animation-colorization img-team-5c w200 h200 auto cover bg-center" style="background-size:cover;backgroun-position:center;">
+            
+            </div>
           </div>
         </a>
         <h4 class="size-12 text-center uppercase line-h26 mt15 color-teal">ЗЕЛИМХАН МУНАЕВ</h4>
@@ -216,7 +224,9 @@
       <div class="pt05r block-offset">
         <a href="/team-gorsheneva.php">
           <div class="img-team-6 w200 h200 auto cover bg-center" style="background-size:cover;backgroun-position:center;">
-
+            <div class="animation-colorization img-team-6c w200 h200 auto cover bg-center" style="background-size:cover;backgroun-position:center;">
+            
+            </div>
           </div>
         </a>
         <h4 class="size-12 text-center uppercase line-h26 mt15 color-teal">МАРГО ГОРШЕНЕВА</h4>
@@ -231,7 +241,9 @@
       <div class="pt05r block-offset">
         <a href="/team-michailov.php">
           <div class="img-team-7 w200 h200 auto cover bg-center" style="background-size:cover;backgroun-position:center;">
-          
+            <div class="animation-colorization img-team-7c w200 h200 auto cover bg-center" style="background-size:cover;backgroun-position:center;">
+            
+            </div>
           </div>
         </a>
         <h4 class="size-12 text-center uppercase line-h26 mt15 color-teal">НИКОЛАЙ МИХАЙЛОВ</h4>
@@ -246,7 +258,9 @@
       <div class="pt05r block-offset">
         <a href="/team-selivanov.php">
           <div class="img-team-8 w200 h200 auto cover bg-center" style="background-size:cover;backgroun-position:center;">
-
+            <div class="animation-colorization img-team-8c w200 h200 auto cover bg-center" style="background-size:cover;backgroun-position:center;">
+            
+            </div>
           </div>
         </a>
         <h4 class="size-12 text-center uppercase line-h26 mt15 color-teal">НИКИТА СЕЛИВАНОВ</h4>
@@ -261,7 +275,9 @@
       <div class="pt05r block-offset">
         <a href="/team-kipa.php">
           <div class="img-team-9 w200 h200 auto cover bg-center" style="background-size:cover;backgroun-position:center;">
-          
+            <div class="animation-colorization img-team-9c w200 h200 auto cover bg-center" style="background-size:cover;backgroun-position:center;">
+            
+            </div>
           </div>
         </a>
         <h4 class="size-12 text-center uppercase line-h26 mt15 color-teal">ДМИТРИЙ КИПА</h4>
