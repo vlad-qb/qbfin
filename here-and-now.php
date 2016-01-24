@@ -161,7 +161,7 @@
       <div class="gallery-offset line-h20 size-14">
         <div class="w33r l pt05r block-offset">
           <div class="w33-offset">
-            <div class="pt30 pb30 border-left-lightgray border-right-lightgray">
+            <div class="pt10 pb10 border-left-lightgray border-right-lightgray">
               <h4 class="text-center"><img class="icon w25r" src="img/bg/1_buy_rec.png"></h4>
               <h4 class="size-14 text-center uppercase line-h30 mt5 bold">AUO BUY REC</h4>
               <p class="mt25 size-14 ml07r mr07r mb15 weight-300">AU Optronics Corp. - тайваньская корпорация, ведущий производитель дисплейных панелей LCD и OLED, используемых в потребительской электронике. Крупнейшими клиентами компании являются такие корпорации, как Samsung, Apple, Panasonic и Toshiba.</p>
@@ -174,7 +174,7 @@
         </div>
         <div class="w33r l pt05r block-offset">
           <div class="w33-offset">
-            <div class="pt30 pb30 border-left-lightgray border-right-lightgray">
+            <div class="pt10 pb10 border-left-lightgray border-right-lightgray">
               <h4 class="text-center"><img class="icon w25r" src="img/bg/2_buy_rec.png"></h4>
               <h4 class="size-14 text-center uppercase line-h30 mt5 bold">BABA BUY REC</h4>
               <p class="mt25 size-14 ml07r mr07r mb15 weight-300">Alibaba Group Holding Ltd. - крупнейшая в Китае компания, которая специализируется на интернет-торговле. В 2015 финансовом году корпорация реализовала заказы на $394 млрд., а число ее активных клиентов достигло 350 млн. человек.</p>
@@ -187,7 +187,7 @@
         </div>
         <div class="w33r l pt05r block-offset">
           <div class="w33-offset">
-            <div class="pt30 pb30 border-left-lightgray border-right-lightgray">
+            <div class="pt10 pb10 border-left-lightgray border-right-lightgray">
               <h4 class="text-center"><img class="icon w25r" src="img/bg/3_buy_rec.png"></h4>
               <h4 class="size-14 text-center uppercase line-h30 mt5 bold">BKS BUY REC</h4>
               <p class="mt25 size-14 ml07r mr07r mb15 weight-300">Barnes & Noble Inc. - это американская корпорация, которая занимается продажей книг, журналов, газет и канцелярских товаров. Компании принадлежат 1,4 тыс. розничных точек, расположенных в США, и онлайн-магазин. Также корпорация имеет подразделение по производству электронных книг NOOK.</p>
@@ -207,7 +207,7 @@
       <div class="gallery-offset w100r auto line-h20 size-14">
         <div class="w33r l pt05r block-offset">
           <div class="w33-offset">
-            <div class="pt30 pb30 border-left-lightgray border-right-lightgray">
+            <div class="pt10 pb10 border-left-lightgray border-right-lightgray">
               <h4 class="text-center"><img class="icon w25r" src="img/bg/1_buy_rec.png"></h4>
               <h4 class="size-14 text-center uppercase line-h30 mt5 bold">CHA BUY REC</h4>
               <p class="mt25 size-14 ml07r mr07r mb15 weight-300">China Telecom Corporation Ltd. - китайская государственная корпорация, третья по количеству абонентов телекоммуникационная компания в КНР. На конец 2014 года абонентская база корпорации составила 186 млн. человек, больше половины из которых пользовались услугами 3G и 4G связи.</p>
@@ -220,7 +220,7 @@
         </div>
         <div class="w33r l pt05r block-offset">
           <div class="w33-offset">
-            <div class="pt30 pb30 border-left-lightgray border-right-lightgray">
+            <div class="pt10 pb10 border-left-lightgray border-right-lightgray">
               <h4 class="text-center"><img class="icon w25r" src="img/bg/2_buy_rec.png"></h4>
               <h4 class="size-14 text-center uppercase line-h30 mt5 bold">CRH BUY REC</h4>
               <p class="mt25 size-14 ml07r mr07r mb15 weight-300">CRH plc - это европейская корпорация, которая специализируется на производстве широкой линейки строительных материалов, ее основное направление деятельности - это изготовление цемента. Компания была образована в 1970 году, штаб - квартира находится в Дублине, Ирландия.</p>
@@ -233,7 +233,7 @@
         </div>
         <div class="w33r l pt05r block-offset">
           <div class="w33-offset">
-            <div class="pt30 pb30 border-left-lightgray border-right-lightgray">
+            <div class="pt10 pb10 border-left-lightgray border-right-lightgray">
               <h4 class="text-center"><img class="icon w25r" src="img/bg/3_buy_rec.png"></h4>
               <h4 class="size-14 text-center uppercase line-h30 mt5 bold">FDX BUY REC</h4>
               <p class="mt25 size-14 ml07r mr07r mb15 weight-300">FedEx Corporation - американская компания, которая занимается предоставлением почтовых, курьерских и логистических услуг по всему миру. Корпорация была образована в 1973 году и сегодня ведет свой бизнес в более чем 220 странах и является лидером в отрасли.</p>
@@ -251,7 +251,7 @@
       <div class="gallery-offset w100r auto line-h20 size-14">
         <div class="w33r l pt05r block-offset">
           <div class="w33-offset">
-            <div class="pt30 pb30 border-left-lightgray border-right-lightgray">
+            <div class="pt10 pb10 border-left-lightgray border-right-lightgray">
               <h4 class="text-center"><img class="icon w25r" src="img/bg/1_buy_rec.png"></h4>
               <h4 class="size-14 text-center uppercase line-h30 mt5 bold">GILD BUY REC</h4>
               <p class="mt25 size-14 ml07r mr07r mb15 weight-300">Gilead Sciences, Inc. - это американская биофармацевтическая компания, которая специализируется на разработке инновационных препаратов, направленных на лечение таких заболеваний, как вирус иммунодефицита человека (ВИЧ), гепатит В и С.</p>
@@ -264,7 +264,7 @@
         </div>
         <div class="w33r l pt05r block-offset">
           <div class="w33-offset">
-            <div class="pt30 pb30 border-left-lightgray border-right-lightgray">
+            <div class="pt10 pb10 border-left-lightgray border-right-lightgray">
               <h4 class="text-center"><img class="icon w25r" src="img/bg/2_buy_rec.png"></h4>
               <h4 class="size-14 text-center uppercase line-h30 mt5 bold">LXK BUY REC</h4>
               <p class="mt25 size-14 ml07r mr07r mb15 weight-300">Lexmark International Inc. - американская корпорация, которая специализируется на производстве устройств для печати и обработки изображений, помимо этого компания также занимается разработкой программного обеспечения для оптимизации работы печатного оборудования в офисах и других программ для бизнеса.</p>
@@ -277,7 +277,7 @@
         </div>
         <div class="w33r l pt05r block-offset">
           <div class="w33-offset">
-            <div class="pt30 pb30 border-left-lightgray border-right-lightgray">
+            <div class="pt10 pb10 border-left-lightgray border-right-lightgray">
               <h4 class="text-center"><img class="icon w25r" src="img/bg/3_buy_rec.png"></h4>
               <h4 class="size-14 text-center uppercase line-h30 mt5 bold">NOK BUY REC</h4>
               <p class="mt25 size-14 ml07r mr07r mb15 weight-300">Nokia Corporation - финская корпорация, специализирующаяся на производстве телекоммуникационного оборудования. Штаб-квартира компании находится в городе Эспоо, Финляндия.</p>

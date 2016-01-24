@@ -135,10 +135,10 @@
       <div class="column-2 pt05r line-h20 size-14">
         <div class="column-offset">
           <p class=" mt20 size-14 weight-300">
-            <span class="bold">И</span>нвестиционная компания QBF ||| investment предлагает три стратегии доверительного управления финансовыми активами: <a href="/high-yield-strategy.php" class="color-gray light-gray-hover bold">высокодоходная,</a> <a href="/weighted-average-strategy.php" class="color-gray light-gray-hover bold">средневзвешенная и</a> <a href="/conservative-strategy.php" class="color-gray light-gray-hover bold">консервативная стратегия.</a>
+            <span class="bold">И</span>нвестиционная компания QBF ||| investment предлагает три стратегии доверительного управления финансовыми активами: <a href="/high-yield-strategy.php" class="color-grey666 light-gray-hover bold">высокодоходная,</a> <a href="/weighted-average-strategy.php" class="color-grey666 light-gray-hover bold">средневзвешенная и</a> <a href="/conservative-strategy.php" class="color-grey666 light-gray-hover bold">консервативная стратегия.</a>
           </p>
           <p class="mt20 size-14 weight-300">
-            Мы также предоставляем клиентам два варианта стратегии защиты рублевых активов: <a href="/strategy-for-the-protection-of-ruble-assets.php" class="color-gray light-gray-hover bold">депозитный средневзвешенный портфель и хеджирование рублевых рисков.</a>
+            Мы также предоставляем клиентам два варианта стратегии защиты рублевых активов: <a href="/strategy-for-the-protection-of-ruble-assets.php" class="color-grey666 light-gray-hover bold">депозитный средневзвешенный портфель и хеджирование рублевых рисков.</a>
           </p>
         </div>
       </div>
