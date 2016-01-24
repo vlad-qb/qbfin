@@ -101,7 +101,7 @@
         <div class="column-offset bg-white text-center pt50">
           <h2 class="title">ВЫСОКОДОХОДНАЯ СТРАТЕГИЯ</h2>
           <p class="description">
-            <span class="l">ИНВЕСТИЦИОННАЯ КОМПАНИЯ </span><span class="company pl05 pr05">QBF ||| investment</span>  ПРЕДЛАГАЕТ 3 ВЫСОКОДОХОДНЫЕ СТРАТЕГИИ ДОВЕРИТЕЛЬНОГО УПРАВЛЕНИЯ ФИНАНСОВЫМИ АКТИВАМИ: IPO ПОРТФЕЛЬ, ВЫСОКОДОХОДНЫЙ ВАЛЮТНЫЙ ПОРТФЕЛЬ И ВЫСОКОДОХОДНЫЙ ПОРТФЕЛЬ.
+            КОМПАНИЯ <span class="color-teal weight-300">QBF</span> ПРЕДЛАГАЕТ 3 ВЫСОКОДОХОДНЫЕ СТРАТЕГИИ ДОВЕРИТЕЛЬНОГО УПРАВЛЕНИЯ ФИНАНСОВЫМИ АКТИВАМИ: IPO ПОРТФЕЛЬ, ВЫСОКОДОХОДНЫЙ ВАЛЮТНЫЙ ПОРТФЕЛЬ И ВЫСОКОДОХОДНЫЙ ПОРТФЕЛЬ.
           </p>
           <div class="w100r mt05r text-center">
             <ul class="social-offset auto hi-icon-wrap hi-icon-effect-8">

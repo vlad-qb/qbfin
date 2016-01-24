@@ -109,8 +109,6 @@
         <div class="column-offset bg-white text-center pt50">
           <h2 class="title"> АРХИВ : КОМПАНИЯ В СМИ </h2>
           <p class="description">
-		        <span class="l"> ЭКСПЕРТЫ И АНАЛИТИКИ </span>
-            <span class="company pl05 pr05"> QBF ||| investment </span> 
             ЭКСПЕРТЫ И АНАЛИТИКИ ИНВЕСТИЦИОННОЙ КОМПАНИИ QBF КОММЕНТИРУЮТ В СМИ ТЕКУЩИЕ СОБЫТИЯ РОССИЙСКОЙ И МЕЖДУНАРОДНОЙ ЭКОНОМИКИ.
           </p>
           <div class="w100r mt05r text-center">

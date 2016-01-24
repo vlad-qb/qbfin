@@ -120,8 +120,8 @@
       <div class="column-2 content-margin">
         <div class="column-offset bg-white text-center pt50">
           <h2 class="title"> КЛИЕНТЫ И ПАРТНЕРЫ </h2>
-          <p class="description">
-            <span class="company"> QBF ||| investment </span><span class="sep"> - </span> ВЫСОКОКВАЛИФИЦИРОВАННАЯ КОМАНДА МЕНЕДЖЕРОВ И ПОРТФЕЛЬНЫХ УПРАВЛЯЮЩИХ, ИМЕЮЩАЯ ЗНАЧИТЕЛЬНЫЙ ОПЫТ РАБОТЫ НА РЫНКЕ ЦЕННЫХ БУМАГ. 
+          <p class="description bold">
+            КОМПАНИЯ QBF ПОЛЬЗУЕТСЯ УСТОЙЧИВОЙ РЕПУТАЦИЕЙ СРЕДИ КЛИЕНТОВ - КАК ИНСТИТУЦИОНАЛЬНЫХ, ТАК И ЧАСТНЫХ ИНВЕСТОРОВ, А ТАКЖЕ СВОИХ ПАРТНЕРОВ: БАНКОВ, РЕГИСТРАТОРОВ, ДЕПОЗИТАРИЕВ.
           </p>
           <div class="w100r mt05r text-center">
             <ul class="social-offset auto hi-icon-wrap hi-icon-effect-8">

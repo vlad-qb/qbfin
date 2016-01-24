@@ -120,8 +120,8 @@
       <div class="column-2 content-margin">
         <div class="column-offset bg-white text-center pt50">
           <h2 class="title"> НАГРАДЫ И РЕЙТИНГИ </h2>
-          <p class="description">
-		        <span class="company pr05">QBF ||| investment</span><span class="sep"> - </span> ВЫСОКОКВАЛИФИЦИРОВАННАЯ КОМАНДА МЕНЕДЖЕРОВ И ПОРТФЕЛЬНЫХ УПРАВЛЯЮЩИХ, ИМЕЮЩАЯ ЗНАЧИТЕЛЬНЫЙ ОПЫТ РАБОТЫ НА РЫНКЕ ЦЕННЫХ БУМАГ. 
+          <p class="description bold">
+		        КОМПАНИЯ QBF - ЭТО КВАЛИФИЦИРОВАННАЯ КОМАНДА МЕНЕДЖЕРОВ И ПОРТФЕЛЬНЫХ УПРАВЛЯЮЩИХ, ИМЕЮЩАЯ ЗНАЧИТЕЛЬНЫЙ ОПЫТ РАБОТЫ НА РЫНКЕ ЦЕННЫХ БУМАГ. НАША РАБОТА БЫЛА НЕОДНОКРАТНО ОТМЕЧЕНА НАГРАДАМИ СРЕДИ ПРОФЕССИОНАЛЬНОГО СООБЩЕСТВА.
           </p>
           <div class="w100r mt05r text-center">
             <ul class="social-offset auto hi-icon-wrap hi-icon-effect-8">
