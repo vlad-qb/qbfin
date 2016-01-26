@@ -20,6 +20,8 @@
               submit  : { text: 'Отправить', style: 'danger', 
                 action: function($container,$form){
                   $.post( "/receive/index.php", $form.serialize() ,function(data){
+                	  
+                	return false;
                     if(data.response == 'success')
                       location.href = "success.php"
                     else
