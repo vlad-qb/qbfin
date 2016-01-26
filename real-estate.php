@@ -132,14 +132,14 @@
   <!-- Text-->
   <div id="content">
   <div class="column-container line-h20 size-14">
-    <div class="column-2 pt05r">
-      <div class="column-offset">
+    <div class="column-2">
+      <div class="column-offset pt05r block-offset-2">
         <p class="size-14 weight-300"><span class="bold">И</span>нвестициями в недвижимость закладывается возможность получения прибыли либо от инвестирования в строительство объекта и его дальнейшей реализации либо от приобретения и последующей сдачи площадей в аренду.</p>
         <p class="mt20 size-14 weight-300">В данном вопросе большинство инвесторов полагается на услуги профессионалов рынка недвижимости, понимая, что для самостоятельной оценки всего того изобилия предложений на рынке потребуются колоссальные ресурсы.</p>
       </div>
     </div>
-    <div class="column-2 pt05r">
-      <div class="column-offset">
+    <div class="column-2">
+      <div class="column-offset pt05r">
         <p class="size-14 weight-300"><span class="bold">В</span> зависимости от интереса клиента QBF ||| investment может предложить различные варианты эффективного вложения средств. </p>
         <p class="mt20 size-14 weight-300">Это могут быть как инвестиции в девелоперские проекты, ориентированные на получение существенной единоразовой прибыли от инвестиций, так и инвестиции в фонды недвижимости с целью получения ежемесячного дохода.</p>
       </div>
@@ -157,7 +157,7 @@
             В ЗАВИСИМОСТИ ОТ ПОСТАВЛЕННЫХ ЗАДАЧ, НАШИ СПЕЦИАЛИСТЫ ПОМОГУТ ВЫБРАТЬ НАИБОЛЕЕ ПОДХОДЯЩЕЕ ДЛЯ ВАС РЕШЕНИЕ
           </p>
           <p class="mt20">
-            <a onclick="popup();" class="circles a-default cursor-pointer size-14">задать вопрос специалисту </a><span onclick="popup();" class="color-teal weight-300 cursor-pointer">></span>  
+            <a onclick="popup();" class="circles a-default cursor-pointer size-14 size-14">задать вопрос специалисту </a><span onclick="popup();" class="color-teal weight-300 cursor-pointer">></span>  
           </p>
         </div>
       </div>

@@ -240,7 +240,7 @@
             В ЗАВИСИМОСТИ ОТ ПОСТАВЛЕННЫХ ЗАДАЧ, НАШИ СПЕЦИАЛИСТЫ ПОМОГУТ ВЫБРАТЬ НАИБОЛЕЕ ПОДХОДЯЩУЮ ДЛЯ ВАС СТРАТЕГИЮ
           </p>
           <p class="mt20">
-<a onclick="popup();" class="circles a-default cursor-pointer">задать вопрос специалисту </a><span onclick="popup();" class="color-teal weight-300 cursor-pointer">></span>  
+<a onclick="popup();" class="circles a-default cursor-pointer size-14">задать вопрос специалисту </a><span onclick="popup();" class="color-teal weight-300 cursor-pointer">></span>  
           </p>
         </div>
       </div>

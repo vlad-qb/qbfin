@@ -24,8 +24,8 @@
     <?php include 'html/header.html';?>
     <!-- HEADBLOCK -->
       <div id="cover" 
-            class="img-privacy-policy-1 cover w100r h400 mt-80" 
-            style="background-position: center bottom;">
+            class="img-privacy-1 cover w100r h400 mt-80" 
+            style="background-position: center center;">
         
       </div>
       <div id="headblock" class="column-container">

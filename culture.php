@@ -147,8 +147,10 @@
   <!-- Text-->
   <!-- image-->
   <div class="column-container pt05r block-offset">
-    <div class="column-offset line-h20 size-14">
-      <div class="img-culture-2 w100r h400 cover" style="background-position: center center;"></div>
+    <div class="column">
+      <div class="image-offset line-h20 size-14">
+        <div class="img-culture-2 w100r h400 cover" style="background-position: center center;"></div>
+      </div>
     </div>
   </div>
   <div class="clearfix"></div>
@@ -177,11 +179,11 @@
   <div class="column-container size-14">
     <div class="column-2 line-h20 pt05r block-offset">
       <div class="p-1 line-h20 size-14">
-        <div class="img-culture-3 w100r h427 cover" style="background-position: top left;"></div>
+        <div class="img-culture-3 w100r h427"></div>
       </div>
     </div>  
     <div class="column-2 img-text line-h30 pt05r block-offset">
-      <div class="column-offset pl05r pr05r">
+      <div class="column-offset-2 pl05r- pr05r-">
         <div class=" ">
           <div class="img-culture-4 w120 h120 cover l mr05r" style="background-position: center center;"></div>
           <div class="size-11 weight-300 ml140">МЫ СЛЕДУЕМ ВЫСОЧАЙШИМ СТАНДАРТАМ КАЧЕСТВА И КОМПЕТЕНТНОСТИ В СФЕРЕ УПРАВЛЕНИЯ КАПИТАЛОМ </div>

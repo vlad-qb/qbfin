@@ -24,8 +24,7 @@
     <?php include 'html/header.html';?>
     <!-- HEADBLOCK -->
       <div id="cover" 
-            class="img-team-kipa-1 cover w100r h400 mt-80" 
-            style="background-position: right bottom;">
+            class="img-team-kipa-1 cover w100r h400 mt-80" >
         
       </div>
       <div id="headblock" class="column-container">

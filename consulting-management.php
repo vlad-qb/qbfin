@@ -145,7 +145,7 @@
   </div>
   <div class="clearfix pt05r block-offset"></div>
   <!-- Text-->
-<!-- PORTFOLIO MENU  -->
+    <!-- PORTFOLIO MENU  -->
     <div class="consulting-management-1 w100r fixed" style="background-attachment: fixed;">
       <div class="w90r auto bg-label-3 text-center text-center size-12 line-h50 color-white uppercase">
         <div class="pl02r pr02r pt01r pb01r border-grey-bottom-2 bold">
@@ -230,7 +230,7 @@
                 В ЗАВИСИМОСТИ ОТ ПОСТАВЛЕННЫХ ЗАДАЧ, НАШИ СПЕЦИАЛИСТЫ ПОМОГУТ ВЫБРАТЬ НАИБОЛЕЕ ПОДХОДЯЩУЮ ДЛЯ ВАС СТРАТЕГИЮ
               </p>
               <p class="ml025r mr025r mt20 line-h16 size-14 text-center">
-                <a onclick="popup();" class="circles a-default cursor-pointer">задать вопрос специалисту </a><span onclick="popup();" class="color-teal weight-300 cursor-pointer">></span>
+                <a onclick="popup();" class="circles a-default cursor-pointer size-14">задать вопрос специалисту </a><span onclick="popup();" class="color-teal weight-300 cursor-pointer">></span>
               </p>
             </div>
           </div>

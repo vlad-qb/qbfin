@@ -132,9 +132,9 @@
     <!-- CONTENT -->
 	<div id="content">
     <div class="column-container">
-      <div class="column-2 pt05r line-h20 size-14">
-        <div class="column-offset">
-          <p class=" mt20 size-14 weight-300">
+      <div class="column-2 line-h20 size-14">
+        <div class="column-offset pt05r block-offset-2">
+          <p class="size-14 weight-300">
             <span class="bold">И</span>нвестиционная компания QBF ||| investment предлагает три стратегии доверительного управления финансовыми активами: <a href="/high-yield-strategy.php" class="color-grey666 light-gray-hover bold">высокодоходная,</a> <a href="/weighted-average-strategy.php" class="color-grey666 light-gray-hover bold">средневзвешенная и</a> <a href="/conservative-strategy.php" class="color-grey666 light-gray-hover bold">консервативная стратегия.</a>
           </p>
           <p class="mt20 size-14 weight-300">
@@ -146,11 +146,11 @@
         <div class="column-offset">
           <div class="border-left-lightgray border-right-lightgray">
             <div class="ml05r mr05r pt05r pb05r">
-              <p class="ml025r mr025r mt20 line-h24 size-12 color-teal weight-300">
+              <p class="ml025r mr025r line-h24 size-12 color-teal weight-300">
                 В ЗАВИСИМОСТИ ОТ ПОСТАВЛЕННЫХ ЗАДАЧ, НАШИ СПЕЦИАЛИСТЫ ПОМОГУТ ВЫБРАТЬ НАИБОЛЕЕ ПОДХОДЯЩУЮ ДЛЯ ВАС СТРАТЕГИЮ
               </p>
               <p class="ml025r mr025r mt20 line-h16 size-14 text-center">
-<a onclick="popup();" class="circles a-default cursor-pointer">задать вопрос специалисту </a><span onclick="popup();" class="color-teal weight-300 cursor-pointer">></span> 
+<a onclick="popup();" class="circles a-default cursor-pointer size-14">задать вопрос специалисту </a><span onclick="popup();" class="color-teal weight-300 cursor-pointer">></span> 
              </p>
             </div>
           </div>

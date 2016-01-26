@@ -132,7 +132,7 @@
         </div>
       </div>
       <div class="image-offset">
-        <div class="img-offices-2 h500 mt05r cover" style="background-position: center center;"></div>
+        <div class="img-offices-2 h500 mt05r"></div>
       </div>
     </div>
     <div class="column-2 pt05r block-offset">
@@ -149,7 +149,7 @@
         </div>
       </div>
       <div class="image-offset">
-        <div class="img-offices-3 h500 mt05r cover" style="background-position: center center;"></div>
+        <div class="img-offices-3 h500 mt05r" style="background-position: center center;"></div>
       </div>
     </div>
     <div class="column-2 pt05r block-offset">
@@ -166,7 +166,7 @@
         </div>
       </div>
       <div class="image-offset">
-        <div class="img-offices-4 h500 mt05r cover" style="background-position: center center;"></div>
+        <div class="img-offices-4 h500 mt05r" style="background-position: center center;"></div>
       </div>
     </div>
     <div class="column-2 pt05r block-offset">
@@ -183,7 +183,7 @@
         </div>
       </div>
       <div class="image-offset">
-        <div class="img-offices-5 h500 mt05r cover" style="background-position: center center;"></div>
+        <div class="img-offices-5 h500 mt05r" style="background-position: center center;"></div>
       </div>
     </div>
     <div class="clearfix"></div>

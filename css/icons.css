@@ -33,6 +33,10 @@
   -o-transition:all 0.2s ease-out;
   transition:all 0.2s ease-out;
 }
+.icon-flag{
+    width:25px;
+    height:25px;
+}
 .icon-mini{
     width:25px;
     height:25px;

@@ -154,9 +154,9 @@
           <div class="img-documents-2 w100r h200 cover bg-center">
             <a href="/banking-information.php">
               <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60" style="position:absolute;z-index:1;">РЕКВИЗИТЫ</h2>
-              <div class="bg-grey-label w80r h200">
-                <div class="w100r h200 animation-3 icon-arrow-right">
-                  
+              <div class="label-animation w60r h200">
+                <div class="w100r h200 ">
+
                 </div>
               </div>
             </a>
@@ -168,9 +168,9 @@
           <div class="img-documents-3 w100r h200 cover bg-center">
             <a href="/license.php">
               <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60" style="position:absolute;z-index:1;">ЛИЦЕНЗИИ</h2>
-              <div class="bg-grey-label w80r h200">
-                <div class="w100r h200 animation-3 icon-arrow-right">
-                  
+              <div class="label-animation w60r h200">
+                <div class="w100r h200 ">
+
                 </div>
               </div>
             </a>
@@ -182,9 +182,9 @@
           <div class="img-documents-4 w100r h200 cover bg-center">
             <a href="/calculation.php">
               <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60" style="position:absolute;z-index:1;">РАСКРЫТИЕ ИНФОРМАЦИИ</h2>
-              <div class="bg-grey-label w80r h200">
-                <div class="w100r h200 animation-3 icon-arrow-right">
-                  
+              <div class="label-animation w60r h200">
+                <div class="w100r h200 ">
+
                 </div>
               </div>
             </a>
@@ -196,9 +196,9 @@
           <div class="img-documents-5 w100r h200 cover bg-center">
             <a href="/notification.php">
               <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60" style="position:absolute;z-index:1;">УВЕДОМЛЕНИЯ</h2>
-              <div class="bg-grey-label w80r h200">
-                <div class="w100r h200 animation-3 icon-arrow-right">
-                  
+              <div class="label-animation w60r h200">
+                <div class="w100r h200 ">
+
                 </div>
               </div>
             </a>
@@ -210,9 +210,9 @@
           <div class="img-documents-6 w100r h200 cover bg-center">
             <a href="/certificates.php">
               <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60" style="position:absolute;z-index:1;">СВИДЕТЕЛЬСТВА</h2>
-              <div class="bg-grey-label w80r h200">
-                <div class="w100r h200 animation-3 icon-arrow-right">
-                  
+              <div class="label-animation w60r h200">
+                <div class="w100r h200 ">
+
                 </div>
               </div>
             </a>
@@ -223,10 +223,10 @@
         <div class="border-white">
           <div class="img-documents-7 w100r h200 cover bg-center">
             <a href="/privacy-policy.php">
-              <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60" style="position:absolute;z-index:1;">ПОЛИТИКА КОНФИДЕНЦИАЛЬНОСТИ</h2>
-              <div class="bg-grey-label w80r h200">
-                <div class="w100r h200 animation-3 icon-arrow-right">
-                  
+              <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60" style="position:absolute;z-index:1;">КОНФИДЕНЦИАЛЬНОСТЬ</h2>
+              <div class="label-animation w60r h200">
+                <div class="w100r h200 ">
+
                 </div>
               </div>
             </a>

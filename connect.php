@@ -121,9 +121,9 @@
         <div class="img-connect-2 w100r h200 cover bg-center">
           <a href="/offices.php">
             <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60" style="position:absolute;z-index:1;">ОФИСЫ</h2>
-              <div class="bg-grey-label w50r h200">
-                <div class="w100r h200 animation-3 icon-arrow-right">
-                  
+              <div class="label-animation w50r h200">
+                <div class="w100r h200 ">
+
                 </div>
               </div>
           </a>
@@ -135,9 +135,9 @@
         <div class="img-connect-3 w100r h200 cover bg-center">
           <a href="/quality-control.php">
             <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60" style="position:absolute;z-index:1;">КОНТРОЛЬ КАЧЕСТВА</h2>
-              <div class="bg-grey-label w50r h200">
-                <div class="w100r h200 animation-3 icon-arrow-right">
-                  
+              <div class="label-animation w50r h200">
+                <div class="w100r h200 ">
+
                 </div>
               </div>
           </a>

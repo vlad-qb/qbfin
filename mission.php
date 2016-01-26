@@ -147,34 +147,28 @@
 	<div class="clearfix"></div>
   <!-- Content-->
   <div id="content">
-    <div class="column-container">
-      <div id="gallery" class="column-2 pt05r">
-        <div class="image-offset border-white">
-          <div class="img-mission-2 w100r h300 cover bg-center">
-            <div class="planet h50 w100">
-              <img src="img/bg/big-earth-icon.png" class="h100 w100 icon icon-contacts">
-            </div>
-          </div>
-          <div class="mt5 bg-grey3">
-            <div class="text-center color-white size-12 line-h26 pt20 pb20 uppercase">
-              <div class="w90r auto">
-                БЛАГОДАРЯ НАМ ЛЮДИ ПРИОБРЕТАЮТ УВЕРЕННОСТЬ В СВОЕМ БУДУЩЕМ
-              </div>
-            </div>
-          </div>
+    <div class="column-container size-14 color-grey1 line-h26">
+      <div class="column-2 pt05r block-offset">
+        <div class="column-offset">
+          <p class=" size-14 weight-300"><span class="bold">QBF</span> ||| Investment - инвестиционная компания, последовательно укрепляющая свои позиции на финансовых рынках России, Европы, Америки и стран АТР.</p>
+        
+          <p class="mt20 size-14 weight-300">Начав с инвестиционных проектов для небольшого круга частных инвесторов, сейчас мы представляем собой инвестиционную компанию, предоставляющую сервис высочайшего уровня в вопросах управления частным капиталом и предоставления решений для бизнеса.</p>
         </div>
       </div>
       <div class="column-2 pt05r block-offset">
-        <div class="column-offset line-h20 size-14">
-          <p class="weight-300">QBF ||| Investment - инвестиционная компания, последовательно укрепляющая свои позиции на финансовых рынках России, Европы, Америки и стран АТР. </p>
-          
-          <p class="mt15">Начав с инвестиционных проектов для небольшого круга частных инвесторов, сейчас мы представляем собой инвестиционную компанию, предоставляющую сервис высочайшего уровня в вопросах управления частным капиталом и предоставления решений для бизнеса.</p>
-          
-          <p class="mt15">Компания не собирается останавливаться на достигнутом - нас ждут новые рынки, новые возможности и сердца новых клиентов.</p>
-          
-          <p class="mt15">Мы даем людям возможность улучшить качество их жизни, сохранить и увеличить накопления, развить собственный бизнес, обеспечить будущее детям. </p>
-          
-          <p class="mt15 weight-300">QBF ||| investment принимает на себя разумные риски и дает возможность бизнесу любого масштаба расти и развиваться.</p>
+        <div class="column-offset">
+          <p class=" size-14 weight-300"><span class="bold">К</span>омпания не собирается останавливаться на достигнутом - нас ждут новые рынки, новые возможности и сердца новых клиентов. </p>
+          <p class="mt20 size-14 weight-300">Мы даем людям возможность улучшить качество их жизни, сохранить и увеличить накопления, развить собственный бизнес, обеспечить будущее детям. </p>
+          <p class="mt20 size-14 weight-300">QBF ||| investment принимает на себя разумные риски и дает возможность бизнесу любого масштаба расти и развиваться. </p>
+        </div>
+      </div>
+      <div class="clearfix"></div>
+    </div>
+    <div class="column-container pt05r block-offset">
+      <div class="column">
+        <h3 class="text-center size-12 color-white"><div class="w70r line-h26 pt10 pb10  pl10 pr10 auto bg-gray2">БЛАГОДАРЯ НАМ ЛЮДИ ПРИОБРЕТАЮТ УВЕРЕННОСТЬ В СВОЕМ БУДУЩЕМ</div></h3>
+        <div class="line-offset">
+          <div class="title-line-grey"></div>
         </div>
       </div>
     </div>
@@ -216,33 +210,24 @@
     </div>
     <!-- Image-->
     <!-- Content-->
-    <div class="column-container">
-      <div class="column-2 pt05r block-offset">
-        <div class="column-offset line-h20 size-14">
-          <h4 class="size-14 text-center uppercase line-h20 color-teal">УВЕРЕННОСТЬ В СВОЕМ БУДУЩЕМ</h4>
-          <h4 class="text-center"><img class="icon icon-mission mt30" src="img/icons/icon-mount.svg" ></h4>
-          <p class="pt05r block-offset"><span class="bold">М</span>ы расширяем свое присутствие в регионах России, а также за рубежом в стратегически значимых для нас странах.</p>
-          
-          <p class="mt15">Люди сотрудничают с нами и доверяют нам потому, что наша компания известна как надежный партнер, а наш профессионализм и наши технологии позволяют предоставлять полный спектр финансовых услуг.</p>
-          
-          <p class="mt15">Наша миссия - создание лучшего финансового будущего для клиентов и обеспечение их стабильности в завтрашнем дне. Для нас важно реализовать самые амбициозные идеи независимо от экономической ситуации.</p>
+    <div class="column-container size-14 color-grey1 line-h26">
+      <div class="column-2 pt07r block-offset">
+        <div class="column-offset">
+          <p class=" size-14 weight-300"><span class="bold">Л</span>юди сотрудничают с нами и доверяют нам потому, что наша компания известна как надежный партнер, а наш профессионализм и наши технологии позволяют предоставлять полный спектр финансовых услуг. </p>
         </div>
       </div>
-    </div>
-    <div id="gallery" class="column-2 pt05r block-offset">
-      <div class="column-offset border-white">
-        <div class="img-mission-4 w100r h300 cover bg-center">
-          <div class="planet h50 w100">
-            <img src="img/bg/big-earth-icon.png" class="h100 w100 icon icon-contacts">
-          </div>
+      <div class="column-2 pt07r block-offset">
+        <div class="column-offset">
+          <p class=" size-14 weight-300"><span class="bold">Н</span>аша миссия - создание лучшего финансового будущего для клиентов и обеспечение их стабильности в завтрашнем дне. Для нас важно реализовать самые амбициозные идеи независимо от экономической ситуации. </p>
         </div>
-        <div class="mt5 bg-grey3">
-          <div class="text-center color-white size-12 line-h26 pt10 pb20 h40 uppercase">
-            <div class="w90r auto">
-              «ЛУЧШАЯ ИНВЕСТИЦИОННАЯ СТРАТЕГИЯ 2014»<br/>
-              ПРЕМИЯ INVESTOR AWARDS
-            </div>
-          </div>
+      </div>
+      <div class="clearfix"></div>
+    </div>
+    <div class="column-container pt05r block-offset">
+      <div class="column">
+        <h3 class="text-center size-12 color-white"><div class="w70r line-h26 pt10 pb10  pl10 pr10 auto bg-gray2">«ЛУЧШАЯ ИНВЕСТИЦИОННАЯ СТРАТЕГИЯ 2014» - ПРЕМИЯ INVESTOR AWARDS</div></h3>
+        <div class="line-offset">
+          <div class="title-line-grey"></div>
         </div>
       </div>
     </div>

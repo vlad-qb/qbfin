@@ -284,7 +284,7 @@
             В ЗАВИСИМОСТИ ОТ ПОСТАВЛЕННЫХ ЗАДАЧ, НАШИ СПЕЦИАЛИСТЫ ПОМОГУТ ВЫБРАТЬ НАИБОЛЕЕ ПОДХОДЯЩУЮ ДЛЯ ВАС СТРАТЕГИЮ
           </p>
           <p class="mt20">
-<a onclick="popup();" class="circles a-default cursor-pointer">задать вопрос специалисту </a><span onclick="popup();" class="color-teal weight-300 cursor-pointer">></span>   
+<a onclick="popup();" class="circles a-default cursor-pointer size-14">задать вопрос специалисту </a><span onclick="popup();" class="color-teal weight-300 cursor-pointer">></span>   
           </p>
         </div>
       </div>
@@ -380,7 +380,7 @@
             <div class="ml05r mr05r">
               <a class="button color-white white-hover block" href="/strategy-for-the-protection-of-ruble-assets.php">
                 <img src="img/icons/icon-marker.svg" class="icon icon-services w50 h50">
-                <div class="mt10 h border-darkgray-top border-darkgray-bottom orange-block-hover">
+                <div class="mt10 h border-darkgray-top border-darkgray-bottom grey-block-hover">
                   <div class="size-11 line-h18 mt25 mb20 ml25r mr25r">Стратегия защиты активов</div>
                 </div>
               </a>

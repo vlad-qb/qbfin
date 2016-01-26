@@ -137,9 +137,9 @@
           <div class="img-career-2 w100r h200 cover bg-center">
             <a href="/culture.php">
               <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60" style="position:absolute;z-index:1;">КУЛЬТУРА</h2>
-              <div class="bg-grey-label w50r h200">
-                <div class="w100r h200 animation-3 icon-arrow-right">
-                  
+              <div class="label-animation w50r h200">
+                <div class="w100r h200 ">
+
                 </div>
               </div>
             </a>
@@ -151,9 +151,9 @@
           <div class="img-career-3 w100r h200 cover bg-center">
             <a href="/colleague.php">
               <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60" style="position:absolute;z-index:1;">СОТРУДНИКИ</h2>
-              <div class="bg-grey-label w50r h200">
-                <div class="w100r h200 animation-3 icon-arrow-right">
-                  
+              <div class="label-animation w50r h200">
+                <div class="w100r h200 ">
+
                 </div>
               </div>
             </a>
@@ -165,9 +165,9 @@
           <div class="img-career-4 w100r h200 cover bg-center">
             <a href="/departments.php">
               <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60" style="position:absolute;z-index:1;">ДЕПАРТАМЕНТЫ</h2>
-              <div class="bg-grey-label w50r h200">
-                <div class="w100r h200 animation-3 icon-arrow-right">
-                  
+              <div class="label-animation w50r h200">
+                <div class="w100r h200 ">
+
                 </div>
               </div>
             </a>
@@ -179,9 +179,9 @@
           <div class="img-career-5 w100r h200 cover bg-center">
             <a href="/vacancies.php">
               <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60" style="position:absolute;z-index:1;">ВАКАНСИИ</h2>
-              <div class="bg-grey-label w50r h200">
-                <div class="w100r h200 animation-3 icon-arrow-right">
-                  
+              <div class="label-animation w50r h200">
+                <div class="w100r h200 ">
+
                 </div>
               </div>
             </a>

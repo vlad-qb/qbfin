@@ -19,10 +19,10 @@
     border-bottom:1px solid #4c4c4c;
 }
 .border-gray-top{
-    border-top:1px solid #ccc;
+    border-top:1px solid #aaa;
 }
 .border-gray-bottom{
-    border-bottom:1px solid #ccc;
+    border-bottom:1px solid #aaa;
 }
 .border-grey-top-2{
     border-top: 1px solid #808080;
@@ -49,10 +49,10 @@
     border-bottom:1px solid #70BF40;
 }
 .border-yellow-top{
-    border-top:1px solid #F5CD22;
+    border-top: 1px solid #e3be1e;
 }
 .border-yellow-bottom{
-    border-bottom:1px solid #F5CD22;
+    border-bottom: 1px solid #e3be1e;
 }
 .border-white{
     border:2px solid #fff;
@@ -244,16 +244,21 @@ background-image: url(/img/bg/label-b.png);
 }	
 .grey-block-hover-2:hover{
     background-color: #454548;
-    opacity: 0.9;
     cursor:pointer;
     -webkit-transition:all 0.4s ease-out;
     -moz-transition:all 0.4s ease-out;
     -o-transition:all 0.4s ease-out;
     transition:all 0.4s ease-out
 }
+
 .bg-light-gray{background-color: #f9fafa;}
 .bg-lightgray2{background:#e7e7e7;}
 
 .border-darkgray2-bottom{
     border-bottom:1px solid #7f7f7f;
+}
+@media screen and (max-width: 768px) {
+    .title-line-grey{
+        top:-40px;
+    }
 }

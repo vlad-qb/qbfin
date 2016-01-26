@@ -24,13 +24,8 @@
     <?php include 'html/header.html';?>
     <!-- HEADBLOCK -->
       <div id="cover" 
-            class="img-team-shpakov-1 shpakov-desktop cover w100r h400 mt-80" 
-            style="background-position: right bottom;">
-        
-      </div>
-      <div id="cover" 
-            class="img-team-shpakov-1 shpakov-moblile cover w100r h400 mt-80" 
-            style="background-position: 500px bottom;">
+            class="img-team-shpakov-1 w100r h400 mt-80" 
+            >
         
       </div>
       <div id="headblock" class="column-container">

@@ -134,9 +134,9 @@
   <div id="content">
   <div class="column-container">
     <div class="column pt05r">
-        <h3 class="text-center size-12 color-white"><div class="w288 line-h40 auto bg-teal">ДЕПАРТАМЕНТ ИНВЕСТИЦИОННЫХ УСЛУГ</div></h3>
+        <h3 class="text-center size-12 color-white"><div class="w288 line-h40 auto bg-gray2">ДЕПАРТАМЕНТ ИНВЕСТИЦИОННЫХ УСЛУГ</div></h3>
         <div class="line-offset">
-        <div class="title-line-teal"></div>
+        <div class="title-line-grey3"></div>
         <h3 class="text-center size-12 line-h26 pt05r bold color-teal">ФИНАНСОВЫЙ СОВЕТНИК</h3>
       </div>
     </div>
@@ -145,15 +145,15 @@
     <div class="column-2 pt05r block-offset">
       <div class="column-offset pl05r pr05r">
         <div class="line-h20 bold">требования:</div>
-        <div class="line-h20 pt05r weight-300">высшее образование экономических и финансовых вузов <span class="color-teal size-11">•︎</span> аналитический склад ума <span class="color-teal size-11">•︎</span> английский язык <span class="color-teal size-11">•︎</span> презентабельная внешность <span class="color-teal size-11">•︎</span> дисциплина <span class="color-teal size-11">•︎</span> стрессоустойчивость <span class="color-teal size-11">•︎</span> коммуникабельность</div>
+        <div class="line-h20 pt10 weight-300">высшее образование экономических и финансовых вузов <span class="color-teal size-11">•︎</span> аналитический склад ума <span class="color-teal size-11">•︎</span> английский язык <span class="color-teal size-11">•︎</span> презентабельная внешность <span class="color-teal size-11">•︎</span> дисциплина <span class="color-teal size-11">•︎</span> стрессоустойчивость <span class="color-teal size-11">•︎</span> коммуникабельность</div>
         <div class="line-h20 pt05r bold">приветствуется:</div>
-        <div class="line-h20 pt05r weight-300">опыт работы в банковской и инвестиционной сфере <span class="color-teal size-11">•︎</span> сертификаты и дипломы о повышении квалификации</div>
+        <div class="line-h20 pt10 weight-300">опыт работы в банковской и инвестиционной сфере <span class="color-teal size-11">•︎</span> сертификаты и дипломы о повышении квалификации</div>
       </div>
     </div>
     <div class="column-2 pt05r">
       <div class="column-offset pl05r pr05r">
         <div class="line-h20 bold">обязанности:</div>
-        <div class="line-h20 weight-300 pt05r">подбор инвестиционных и финансовых программ в соответсвии с потребностями инвестора <span class="color-teal size-11">•︎</span> профессиональная консультация при формировании инвестиционного портфеля <span class="color-teal size-11">•︎</span> предоставление рекомендаций и аналитических справок по запросу инвестора <span class="color-teal size-11">•︎</span> сопровождение и контроль предоставляемых инвестору привилегированных услуг</div>
+        <div class="line-h20 weight-300 pt10">подбор инвестиционных и финансовых программ в соответсвии с потребностями инвестора <span class="color-teal size-11">•︎</span> профессиональная консультация при формировании инвестиционного портфеля <span class="color-teal size-11">•︎</span> предоставление рекомендаций и аналитических справок по запросу инвестора <span class="color-teal size-11">•︎</span> сопровождение и контроль предоставляемых инвестору привилегированных услуг</div>
         <div class="pt05r block-offset">
           <a href="mailto:invest@qbfin.ru">
             <div class="h60 pt15 bg-lightgray text-center size-12 lightgray-block-hover2">
@@ -168,9 +168,9 @@
 
   <div class="column-container">
     <div class="column pt05r block-offset">
-        <h3 class="text-center size-12 color-white"><div class="w288 line-h40 auto bg-teal">ДЕПАРТАМЕНТ МЕЖДУНАРОДНОГО ТРЕЙДИНГА</div></h3>
+        <h3 class="text-center size-12 color-white"><div class="w288 line-h40 auto bg-gray2">ДЕПАРТАМЕНТ МЕЖДУНАРОДНОГО ТРЕЙДИНГА</div></h3>
         <div class="line-offset">
-        <div class="title-line-teal"></div>
+        <div class="title-line-grey3"></div>
         <h3 class="text-center size-12 line-h26 pt05r bold color-teal">PORTFOLIO MANAGER</h3>
       </div>
     </div>
@@ -179,19 +179,19 @@
     <div class="column-2 pt05r">
       <div class="column-offset pl05r pr05r">
         <div class="line-h20 pt05r bold">qualifications:</div>
-        <div class="line-h20 pt05r weight-300">meaningful investment experience in investment management and/or portfolio management experience managing sizable portfolios for total return</div>
-        <div class="line-h20 pt05r weight-300">direct experience in managing investment portfolios, using a quantitative and qualitative investment process <span class="color-teal size-11">•︎</span>  extensive knowledge of portfolio construction and investment risk management approaches</div>
-        <div class="line-h20 pt05r weight-300">experience with optimizers and risk models <span class="color-teal size-11">•︎</span> strong research, quantitative and analytical skills <span class="color-teal size-11">•︎</span> ability to improve portfolio management with a strong process orientation</div>
-        <div class="line-h20 pt05r weight-300">knowledge of financial markets, portfolio management concepts, investment strategies and economics <span class="color-teal size-11">•︎</span> ability to work well in a team oriented environment</div>
-        <div class="line-h20 pt05r weight-300">an advanced degree from a top-tier institution, preferably in business, financial economics, engineering, mathematics, physics, statistics or a related field <span class="color-teal size-11">•︎</span> good statement</div>
+        <div class="line-h20 pt10 weight-300">meaningful investment experience in investment management and/or portfolio management experience managing sizable portfolios for total return</div>
+        <div class="line-h20 pt10 weight-300">direct experience in managing investment portfolios, using a quantitative and qualitative investment process <span class="color-teal size-11">•︎</span>  extensive knowledge of portfolio construction and investment risk management approaches</div>
+        <div class="line-h20 pt10 weight-300">experience with optimizers and risk models <span class="color-teal size-11">•︎</span> strong research, quantitative and analytical skills <span class="color-teal size-11">•︎</span> ability to improve portfolio management with a strong process orientation</div>
+        <div class="line-h20 pt10 weight-300">knowledge of financial markets, portfolio management concepts, investment strategies and economics <span class="color-teal size-11">•︎</span> ability to work well in a team oriented environment</div>
+        <div class="line-h20 pt10 weight-300">an advanced degree from a top-tier institution, preferably in business, financial economics, engineering, mathematics, physics, statistics or a related field <span class="color-teal size-11">•︎</span> good statement</div>
       </div>
     </div>
     <div class="column-2 pt05r">
       <div class="column-offset pl05r pr05r">
         <div class="line-h20 pt05r bold">responsibilities:</div>
-        <div class="line-h20 weight-300 pt05r">regularly meeting with investment analysts and company managers to discuss financial matters <span class="color-teal size-11">•︎</span> raise orders to implement and maintain securitized assets positions <span class="color-teal size-11">•︎</span> work with trading to monitor execution</div>
-        <div class="line-h20 weight-300 pt05r">experience with optimizers and risk models <span class="color-teal size-11">•︎</span> strong research, quantitative and analytical skills <span class="color-teal size-11">•︎</span> ability to improve portfolio management with a strong process orientation</div>
-        <div class="line-h20 weight-300 pt05r">knowledge of financial markets, portfolio management concepts, investment strategies and economics <span class="color-teal size-11">•︎</span> ability to work well in a team oriented environment</div>
+        <div class="line-h20 weight-300 pt10">regularly meeting with investment analysts and company managers to discuss financial matters <span class="color-teal size-11">•︎</span> raise orders to implement and maintain securitized assets positions <span class="color-teal size-11">•︎</span> work with trading to monitor execution</div>
+        <div class="line-h20 weight-300 pt10">experience with optimizers and risk models <span class="color-teal size-11">•︎</span> strong research, quantitative and analytical skills <span class="color-teal size-11">•︎</span> ability to improve portfolio management with a strong process orientation</div>
+        <div class="line-h20 weight-300 pt10">knowledge of financial markets, portfolio management concepts, investment strategies and economics <span class="color-teal size-11">•︎</span> ability to work well in a team oriented environment</div>
         <div class="pt05r block-offset">
           <a href="mailto:tradesk@qbfin.ru">
             <div class="h60 pt15 bg-lightgray text-center size-12 lightgray-block-hover2">
@@ -214,15 +214,15 @@
     <div class="column-2 pt05r">
       <div class="column-offset pl05r pr05r">
         <div class="line-h20 pt05r bold">требования:</div>
-        <div class="line-h20 pt05r weight-300">высшее или неоконченное высшее (4-5 курс) образование экономических и технических вузов <span class="color-teal size-11">•︎</span> опыт работы трейдером на рынке деривативов <span class="color-teal size-11">•︎</span> понимание международных рынков <span class="color-teal size-11">•︎</span> собственные эффективные торговые стратегии</div>
+        <div class="line-h20 pt10 weight-300">высшее или неоконченное высшее (4-5 курс) образование экономических и технических вузов <span class="color-teal size-11">•︎</span> опыт работы трейдером на рынке деривативов <span class="color-teal size-11">•︎</span> понимание международных рынков <span class="color-teal size-11">•︎</span> собственные эффективные торговые стратегии</div>
         <div class="line-h20 pt05r bold">приветствуется:</div>
-        <div class="line-h20 pt05r weight-300">наличие сертификатов о прохождении специализированного обучениия <span class="color-teal size-11">•︎</span> наличие успешного торгового опыта на рынке деривативов</div>
+        <div class="line-h20 pt10 weight-300">наличие сертификатов о прохождении специализированного обучениия <span class="color-teal size-11">•︎</span> наличие успешного торгового опыта на рынке деривативов</div>
       </div>
     </div>
     <div class="column-2 pt05r">
       <div class="column-offset pl05r pr05r">
         <div class="line-h20 pt05r bold">обязанности:</div>
-        <div class="line-h20 weight-300 pt05r">построение эффективных инвестиционных стратегий <span class="color-teal size-11">•︎</span> анализ рынка производных инструментов <span class="color-teal size-11">•︎</span> торговля на международных финансовых площадках</div>
+        <div class="line-h20 weight-300 pt10">построение эффективных инвестиционных стратегий <span class="color-teal size-11">•︎</span> анализ рынка производных инструментов <span class="color-teal size-11">•︎</span> торговля на международных финансовых площадках</div>
         <div class="pt05r block-offset">
           <a href="mailto:tradesk@qbfin.ru">
             <div class="h60 pt15 bg-lightgray text-center size-12 lightgray-block-hover2">
@@ -237,9 +237,9 @@
 
   <div class="column-container">
     <div class="column pt05r block-offset">
-        <h3 class="text-center size-12 color-white"><div class="w288 line-h40 auto bg-teal">ДЕПАРТАМЕНТ АЛГОРИТМИЧЕСКОГО ТРЕЙДИНГА</div></h3>
+        <h3 class="text-center size-12 color-white"><div class="w288 line-h40 auto bg-gray2">ДЕПАРТАМЕНТ АЛГОРИТМИЧЕСКОГО ТРЕЙДИНГА</div></h3>
         <div class="line-offset">
-        <div class="title-line-teal"></div>
+        <div class="title-line-grey3"></div>
         <h3 class="text-center size-12 line-h26 pt05r bold color-teal">РАЗРАБОТЧИК В ОТДЕЛ АЛГОРИТМИЧЕСКОГО ТРЕЙДИНГА</h3>
       </div>
     </div>
@@ -248,17 +248,17 @@
     <div class="column-2 pt05r">
       <div class="column-offset pl05r pr05r">
         <div class="line-h20 pt05r bold">требования:</div>
-        <div class="line-h20 pt05r weight-300">высшее техническое образование или студенты старших курсов <span class="color-teal size-11">•︎</span> математическая подготовка <span class="color-teal size-11">•︎</span> знание основ теории вероятностей и математической статистики <span class="color-teal size-11">•︎</span> навыки программирования на С - подобных языках <span class="color-teal size-11">•︎</span> базовый уровень знаний в области финансовых рынков <span class="color-teal size-11">•︎</span> аналитический склад ума и ориентированность на результат</div>
+        <div class="line-h20 pt10 weight-300">высшее техническое образование или студенты старших курсов <span class="color-teal size-11">•︎</span> математическая подготовка <span class="color-teal size-11">•︎</span> знание основ теории вероятностей и математической статистики <span class="color-teal size-11">•︎</span> навыки программирования на С - подобных языках <span class="color-teal size-11">•︎</span> базовый уровень знаний в области финансовых рынков <span class="color-teal size-11">•︎</span> аналитический склад ума и ориентированность на результат</div>
         <div class="line-h20 pt05r bold">приветствуется:</div>
-        <div class="line-h20 pt05r weight-300">дипломы олимпиад по математике и программированию <span class="color-teal size-11">•︎</span> знания и практические навыки в области систем искусственного интеллекта</div>
+        <div class="line-h20 pt10 weight-300">дипломы олимпиад по математике и программированию <span class="color-teal size-11">•︎</span> знания и практические навыки в области систем искусственного интеллекта</div>
         <div class="line-h20 pt05r bold">обязанности:</div>
-        <div class="line-h20 weight-300 pt05r">разработка торговых алгоритмов и написание на их основе автоматических торговых систем на финансовых рынках <span class="color-teal size-11">•︎</span> доработка и совершенствование разработанных систем, интеграция конкретных решений в существующие системы компании</div>
+        <div class="line-h20 weight-300 pt10">разработка торговых алгоритмов и написание на их основе автоматических торговых систем на финансовых рынках <span class="color-teal size-11">•︎</span> доработка и совершенствование разработанных систем, интеграция конкретных решений в существующие системы компании</div>
       </div>
     </div>
     <div class="column-2 pt05r">
       <div class="column-offset pl05r pr05r">
         <div class="line-h20 pt05r bold">мы предлагаем:</div>
-        <div class="line-h20 weight-300 pt05r">работу в развивающейся компании, с людьми, знающими и любящими свое дело <span class="color-teal size-11">•︎</span> гибкий график работы (не менее 20 часов в неделю) <span class="color-teal size-11">•︎</span> трудоустройство, согласно тк рф <span class="color-teal size-11">•︎</span> оплачиваемый испытательный срок - до 3 месяцев <span class="color-teal size-11">•︎</span> з/п по итогам испытательного срока (оклад + %)</div>
+        <div class="line-h20 weight-300 pt10">работу в развивающейся компании, с людьми, знающими и любящими свое дело <span class="color-teal size-11">•︎</span> гибкий график работы (не менее 20 часов в неделю) <span class="color-teal size-11">•︎</span> трудоустройство, согласно тк рф <span class="color-teal size-11">•︎</span> оплачиваемый испытательный срок - до 3 месяцев <span class="color-teal size-11">•︎</span> з/п по итогам испытательного срока (оклад + %)</div>
         <div class="pt05r block-offset">
           <a href="mailto:at@qbfin.ru">
             <div class="h60 pt15 bg-lightgray text-center size-12 lightgray-block-hover2">
@@ -281,15 +281,15 @@
     <div class="column-2 pt05r">
       <div class="column-offset pl05r pr05r">
         <div class="line-h20 pt05r bold">требования:</div>
-        <div class="line-h20 pt05r weight-300">студенты технических вузов 2-5 курс <span class="color-teal size-11">•︎</span> высокая математическая подготовка (рекомендации преподавателей) <span class="color-teal size-11">•︎</span> опыт программирования</div>
+        <div class="line-h20 pt10 weight-300">студенты технических вузов 2-5 курс <span class="color-teal size-11">•︎</span> высокая математическая подготовка (рекомендации преподавателей) <span class="color-teal size-11">•︎</span> опыт программирования</div>
         <div class="line-h20 pt05r bold">приветствуется:</div>
-        <div class="line-h20 pt05r weight-300">дипломы олимпиад по математике и программированию <span class="color-teal size-11">•︎</span> знания и практические навыки в области систем искусственного интеллекта</div>
+        <div class="line-h20 pt10 weight-300">дипломы олимпиад по математике и программированию <span class="color-teal size-11">•︎</span> знания и практические навыки в области систем искусственного интеллекта</div>
       </div>
     </div>
     <div class="column-2 pt05r">
       <div class="column-offset pl05r pr05r">
         <div class="line-h20 pt05r bold">обязанности:</div>
-        <div class="line-h20 weight-300 pt05r">разработка алгоритмических торговых систем на финансовых рынках <span class="color-teal size-11">•︎</span> интеграция алгоритмов в существующие программы компании</div>
+        <div class="line-h20 weight-300 pt10">разработка алгоритмических торговых систем на финансовых рынках <span class="color-teal size-11">•︎</span> интеграция алгоритмов в существующие программы компании</div>
         <div class="pt05r block-offset">
           <a href="mailto:tradesk@qbfin.ru">
             <div class="h60 pt15 bg-lightgray text-center size-12 lightgray-block-hover2">

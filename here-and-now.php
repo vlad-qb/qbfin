@@ -315,7 +315,7 @@
                 В ЗАВИСИМОСТИ ОТ ПОСТАВЛЕННЫХ ЗАДАЧ, НАШИ СПЕЦИАЛИСТЫ ПОМОГУТ ВЫБРАТЬ НАИБОЛЕЕ ПОДХОДЯЩУЮ ДЛЯ ВАС СТРАТЕГИЮ
               </p>
               <p class="ml025r mr025r mt20 line-h16 size-14 text-center">
-                <a onclick="popup();" class="circles a-default cursor-pointer">задать вопрос специалисту </a><span onclick="popup();" class="color-teal weight-300 cursor-pointer">></span>
+                <a onclick="popup();" class="circles a-default cursor-pointer size-14">задать вопрос специалисту </a><span onclick="popup();" class="color-teal weight-300 cursor-pointer">></span>
               </p>
             </div>
           </div>
@@ -380,7 +380,7 @@
     <div class="w100r">
           <div class="text-center ">
             <img id="lighthouse" src="img/icons/icon-lighthouse.svg" class="icon icon-main mt02r"><br>
-            <a href="/service.php" class="size-12 line-h40 uppercase">УСЛУГИ</a><span class="color-teal size-10">•︎</span> 
+            <a href="/service.php" class="size-12 line-h40 uppercase">УСЛУГИ</a> <span class="color-teal size-10">•︎</span> 
     <a href="/consulting-management.php" class="size-12 uppercase">КОНСУЛЬТАЦИОННОЕ УПРАВЛЕНИЕ</a>
           </div>      
     </div>      
