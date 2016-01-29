@@ -142,8 +142,8 @@
           </p>
         </div>
       </div>
-      <div class="column-2 pt05r block-offset">
-        <div class="column-offset">
+      <div class="column-2 block-offset">
+        <div class="column-offset pt05r">
           <div class="border-left-lightgray border-right-lightgray">
             <div class="ml05r mr05r pt05r pb05r">
               <p class="ml025r mr025r line-h24 size-12 color-teal weight-300">

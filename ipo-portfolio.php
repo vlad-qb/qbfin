@@ -249,7 +249,7 @@
     <div class="clearfix pt05r block-offset"></div>
     <!-- /CONNECT -->
   <!-- PORTFOLIO MENU  -->
-    <div class="img-high-yield-strategy-2 w100r fixed" style="background-attachment: fixed;">
+    <div class="img-high-yield-strategy-2 w100r">
       <div class="portfolio-menu pt02r bg-blue-label w90r auto bg bg-label text-center color-white uppercase">
         <div class="border-blue-bottom pb02r">
           <h2 class="size-12 line-h22 uppercase bold">варианты высокодоходной стратегии</h2>

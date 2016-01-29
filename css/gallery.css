@@ -334,7 +334,7 @@
 
 /* analytics.html */
 .img-analytics-1{
-    background: url(/img/bg/analytics-1.jpeg);
+    background: url(/img/banners/qbf-expert-img-002-d.jpg);
 }
 .img-analytics-2{
     background: url(/img/bg/analytics-2.jpeg);
@@ -351,7 +351,7 @@
 
 /* markets.html */
 .img-markets-1{
-    background: url(/img/bg/markets-1.jpeg);
+    background: url(/img/banners/qbf-expert-img-004-d.jpg);
 }
 .img-markets-2{
     background: url(/img/bg/markets-2.jpeg);
@@ -368,7 +368,7 @@
 
 /* shares.html */
 .img-shares-1{
-    background: url(/img/bg/shares-1.jpeg);
+    background: url(/img/banners/qbf-expert-img-003-d.jpg);
 }
 .img-shares-2{
     background: url(/img/bg/shares-2.jpeg);
@@ -391,7 +391,7 @@
 
 /* reviews.html */
 .img-reviews-1{
-    background: url(/img/bg/reviews-1.jpeg);
+    background: url(/img/banners/qbf-expert-img-009-d.jpg);
 }
 .img-reviews-2{
     background: url(/img/bg/reviews-2.jpg);
@@ -414,7 +414,7 @@
 
 /* expert.html */
 .img-expert-1{
-    background: url(/img/bg/expert-1.jpeg);
+    background: url(/img/banners/qbf-expert-img-005-d.jpg);
 }
 .img-expert-2{
     background: url(/img/bg/expert-2.jpeg);
@@ -443,7 +443,7 @@
 
 /* archive-analytics.html */
 .img-archive-analytics-1{
-    background: url(/img/bg/archive-analytics-1.jpeg);
+    background: url(/img/banners/qbf-expert-img-001-d.jpg);
 }
 .img-archive-analytics-2{
     background-image: url(/img/bg/icon-archive-house.svg);
@@ -464,7 +464,7 @@
 
 /* news.html */
 .img-news-1{
-    background: url(/img/bg/news-1.jpeg);
+    background: url(/img/banners/qbf-news-0006-d.jpg);
 }
 .img-news-2{
     background: url(/img/bg/news-2.jpeg);
@@ -481,7 +481,7 @@
 
 /* events.html */
 .img-events-1{
-    background: url(/img/bg/events-1.jpeg);
+    background: url(/img/banners/qbf-news-0002-d.jpg);
 }
 .img-events-2{
     background: url(/img/bg/events-2.jpg);
@@ -504,17 +504,17 @@
 
 /* laws.html */
 .img-laws-1{
-    background: url(/img/bg/laws-1.jpeg);
+    background: url(/img/banners/qbf-news-0003-d.jpg);
 }
 
 /* press-about-us.html */
-.img-press-1{
-    background: url(/img/bg/press-1.jpeg);
+.img-press-about-us-1{
+    background: url(/img/banners/qbf-news-0005-d.jpg);
 }
 
 /* press-company.html */
 .img-press-company-1{
-    background: url(/img/bg/press-company-1.jpeg);
+    background: url(/img/banners/qbf-news-0004-d.jpg);
 }
 .img-press-company-2{
     background: url(/img/bg/press-company-2.jpeg);
@@ -531,7 +531,8 @@
 
 /* archive-news.html */
 .img-archive-news-1{
-    background: url(/img/bg/archive-news-1.jpeg);
+    background: url(/img/banners/qbf-news-0007-d.jpg);
+    background-position: center;
 }
 .img-archive-news-2 {
     background-image: url("/img/bg/icon-archive-house.svg");
@@ -549,7 +550,25 @@
     background-image: url("/img/bg/icon-archive-expert.svg");
     background-repeat: no-repeat;
 }
-
+/* archive-events.html */
+.img-archive-events-1{
+    background: url(/img/banners/qbf-news-0007-d.jpg);
+    background-position: center center;
+}
+/* archive-press.html */
+.img-archive-press-1{
+    background: url(/img/banners/qbf-news-0007-d.jpg);
+    background-position: center;
+}
+.img-archive-press-about-us-1{
+    background: url(/img/banners/qbf-news-0007-d.jpg);
+    background-position: center;
+}
+/* archive-press-company.html */
+.img-archive-press-company-1{
+    background: url(/img/banners/qbf-news-0007-d.jpg);
+    background-position: center;
+}
 /* career.html */
 .img-career-1{
     background: url(/img/banners/qbf-carier-0001-d.jpg);
@@ -739,7 +758,7 @@
 
 /* archive-markets.html */
 .img-archive-markets{
-    background: url(/img/bg/archive-markets.jpeg);
+    background: url(/img/banners/qbf-expert-img-001-d.jpg);
 }
 
 /* events-1.html */
@@ -786,7 +805,9 @@
     background: url(/img/bg/high-yield-strategy-1.jpeg);
 }
 .img-high-yield-strategy-2{
-    background: url(/img/bg/high-yield-strategy-2.jpeg);
+    background: url(/img/banners/qbf-service-0010-d.jpg);
+    background-attachment: fixed;
+    background-position: center;
 }
 .img-high-yield-strategy-3{
     background: url(/img/bg/high-yield-strategy-3.jpeg);
@@ -1034,126 +1055,6 @@
 .consulting-management-2{
     background: url(/img/bg/consulting-management-2.jpg);
 }
-@media screen and (max-width: 1200px) {
-	/* company.html */
-	.img-company-1{
-		background: url(/img/bg/2400/company-1.jpg);
-	}
-
-	/* mission.html */
-	.img-mission-1{
-		background: url(/img/bg/2400/mission-1.jpg);
-	}
-
-	/* history.html */
-	.img-history-1{
-		background: url(/img/bg/2400/history-1.jpg);
-	}
-	.img-history-2{
-		background: url(/img/bg/2400/history-2.jpg);
-	}
-
-	/* branch-office.html */
-	.img-branch-office-1{
-		background: url(/img/bg/2400/branch-office-1.jpg);
-	}
-
-	/* documents.html */
-	.img-documents-1{
-		background: url(/img/bg/2400/documents-1.jpg);
-	}
-
-	/* service.html */
-	.img-service-1{
-		background: url(/img/bg/2400/service-1.jpg);
-	}
-
-	/* asset-management.html */
-	.img-asset-management-1{
-		background: url(/img/bg/2400/asset-management-1.jpg);
-	}
-	.img-asset-management-2{
-		background: url(/img/bg/2400/asset-management-2.jpg);
-	}
-
-	/* consulting-management.html */
-	.img-consulting-management-2{
-		background: url(/img/bg/2400/consulting-management-2.jpg);
-	}
-
-	/* analytics.html */
-	.img-analytics-1{
-		background: url(/img/bg/2400/analytics-1.jpg);
-	}
-
-	/* vacancies.html */
-	.img-vacancies-2{
-		background: url(/img/bg/2400/vacancies-2.jpg);
-	}
-
-
-	/* banking-information.html */
-	.img-banking-information-1{
-		background: url(/img/bg/2400/banking-information-1.jpg);
-	}
-
-	/* calculation.html */
-	.img-calculation-1{
-		background: url(/img/bg/2400/calculation-1.jpg);
-	}
-
-	/* notification.html */
-	.img-notification-1{
-		background: url(/img/bg/2400/notification-1.jpg);
-	}
-
-	/* privacy-policy.html */
-	.img-privacy-policy-1{
-		background: url(/img/bg/2400/privacy-policy-1.jpg);
-	}
-
-	/* high-yield-strategy.html */
-	.img-high-yield-strategy-3{
-		background: url(/img/bg/2400/high-yield-strategy-3.jpg);
-	}
-
-	/* weighted-average-strategy.html */
-	.img-weighted-average-strategy-2{
-		background: url(/img/bg/2400/weighted-average-strategy-2.jpg);
-	}
-
-	/* conservative-strategy.html */
-	.img-conservative-strategy-2{
-		background: url(/img/bg/2400/conservative-strategy-2.jpg);
-	}
-
-	/* strategy-for-the-protection-of-ruble-assets.html */
-	.img-strategy-protection-2{
-		background: url(/img/bg/2400/strategy-protection-2.jpg);
-	}
-
-	/* ipo-portfolio.html */
-	.img-ipo-portfolio-2{
-		background: url(/img/bg/2400/ipo-portfolio-2.jpg);
-	}
-
-
-	/* deposit-weighted-average-portfolio.html */
-	.img-deposit-weighted-average-portfolio-2{
-		background: url(/img/bg/2400/deposit-weighted-average-portfolio-2.jpg);
-	}
-
-	/* index-portfolio.html */
-	.img-index-portfolio-2{
-		background: url(/img/bg/2400/index-portfolio-2.jpg);
-	}
-
-	/* conservative-portfolio.html */
-	.img-conservative-portfolio-2{
-		background: url(/img/bg/2400/conservative-portfolio-2.jpg);
-	}
-
-}
 @media screen and (max-width: 768px) {
 		/* index.html */
 		.img-index-1{
@@ -1254,7 +1155,7 @@
 
 		/* analytics.html */
 		.img-analytics-1{
-			background: url(/img/bg/1536/analytics-1.jpg);
+			background: url(/img/banners/qbf-expert-img-002-m.jpg);
 		}
 		.img-analytics-2{
 			background: url(/img/bg/1536/analytics-2.jpg);
@@ -1271,59 +1172,68 @@
 
 		/* markets.html */
 		.img-markets-1{
-			background: url(/img/bg/1536/markets-1.jpg);
+			background: url(/img/banners/qbf-expert-img-004-m.jpg);
 		}
 
 		/* shares.html */
 		.img-shares-1{
-			background: url(/img/bg/1536/shares-1.jpg);
+			background: url(/img/banners/qbf-expert-img-003-m.jpg);
 		}
 
 		/* reviews.html */
 		.img-reviews-1{
-			background: url(/img/bg/1536/reviews-1.jpg);
+			background: url(/img/banners/qbf-expert-img-009-m.jpg);
 		}
 
 		/* expert.html */
 		.img-expert-1{
-			background: url(/img/bg/1536/expert-1.jpg);
+			background: url(/img/banners/qbf-expert-img-005-m.jpg);
 		}
 
 		/* archive-analytics.html */
 		.img-archive-analytics-1{
-			background: url(/img/bg/1536/archive-analytics-1.jpg);
+			background: url(/img/banners/qbf-expert-img-001-m.jpg);
 		}
-
 		/* news.html */
 		.img-news-1{
-			background: url(/img/bg/1536/news-1.jpg);
+			background: url(/img/banners/qbf-news-0006-m.jpg);
 		}
-
 		/* events.html */
 		.img-events-1{
-			background: url(/img/bg/1536/events-1.jpg);
+			background: url(/img/banners/qbf-news-0002-m.jpg);
 		}
 
 		/* laws.html */
 		.img-laws-1{
-			background: url(/img/bg/1536/laws-1.jpg);
+			background: url(/img/banners/qbf-news-0003-m.jpg);
 		}
 
 		/* press-about-us.html */
-		.img-press-1{
-			background: url(/img/bg/1536/press-1.jpg);
+		.img-press-about-us-1{
+			background: url(/img/banners/qbf-news-0005-m.jpg);
 		}
 
 		/* press-company.html */
 		.img-press-company-1{
-			background: url(/img/bg/1536/press-company-1.jpg);
+			background: url(/img/banners/qbf-news-0004-m.jpg);
 		}
 
 		/* archive-news.html */
 		.img-archive-news-1{
-			background: url(/img/bg/1536/archive-news-1.jpg);
+			background: url(/img/banners/qbf-news-0007-m.jpg);
 		}
-
+        /* archive-events.html */
+        .img-archive-events-1{
+            background: url(/img/banners/qbf-news-0007-m.jpg);
+        }
+        /* archive-press.html */
+        .img-archive-press-about-us-1{
+            background: url(/img/banners/qbf-news-0007-m.jpg);
+        }
+        /* archive-press-company.html */
+        .img-archive-press-company-1{
+            background: url(/img/banners/qbf-news-0007-m.jpg);
+        }
 		/* career.html */
 		.img-career-1{
 			background: url(/img/banners/qbf-carier-0001-m.jpg);
@@ -1415,7 +1325,7 @@
 
 		/* archive-markets.html */
 		.img-archive-markets{
-			background: url(/img/bg/1536/archive-markets.jpg);
+			background: url(/img/banners/qbf-expert-img-009-d.jpg);
 		}
 
 		/* events-1.html */
@@ -1454,7 +1364,10 @@
 			background: url(/img/bg/1536/high-yield-strategy-1.jpg);
 		}
 		.img-high-yield-strategy-2{
-			background: url(/img/bg/1536/high-yield-strategy-2.jpg);
+			background: url(/img/banners/qbf-service-0010-m.jpg);
+            background-position: center bottom;
+            background-size: auto;
+            /*background-size: cover;*/
 		}
 		.img-high-yield-strategy-3{
 			background: url(/img/bg/1536/high-yield-strategy-3.jpg);

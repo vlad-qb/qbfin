@@ -87,7 +87,7 @@
                   <span class="color-teal"> • </span>
                 </li>
                 <li class="inline">
-                  <a href="/laws.php"> ЗАКОНОДАТЕЛЬСТВО </a>
+                  <a class="active" href="/laws.php"> ЗАКОНОДАТЕЛЬСТВО </a>
                   <span class="color-teal"> • </span>
                 </li>
                 <li class="inline">
@@ -99,7 +99,7 @@
                   <span class="color-teal"> • </span>
                 </li>
                 <li class="inline">
-                  <a class="active" href="/archive-news.php"> АРХИВ </a>
+                  <a href="/archive-news.php"> АРХИВ </a>
                 </li>
               </ul>
             </div> 

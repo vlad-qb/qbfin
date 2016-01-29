@@ -259,6 +259,6 @@ background-image: url(/img/bg/label-b.png);
 }
 @media screen and (max-width: 768px) {
     .title-line-grey{
-        top:-40px;
+        top:-20px;
     }
 }

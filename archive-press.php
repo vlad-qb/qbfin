@@ -24,8 +24,7 @@
     <?php include 'html/header-news.html';?>
     <!-- HEADBLOCK -->
       <div id="cover" 
-            class="img-archive-markets cover w100r h400 mt-80" 
-            style="background-position: center bottom;">
+            class="img-archive-press-1 cover w100r h400 mt-80">
         
       </div>
       <div id="headblock" class="column-container">

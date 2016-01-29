@@ -24,8 +24,7 @@
     <?php include 'html/header-analytics.html';?>
     <!-- HEADBLOCK -->
     <div id="cover"
-      class="img-archive-analytics-1 cover w100r h400 mt-80"
-      style="background-position: center bottom;">
+      class="img-archive-analytics-1 cover w100r h400 mt-80">
       
     </div>
     <div id="headblock" class="column-container">
@@ -136,59 +135,59 @@
     <div class="clearfix"></div>
     <!-- CONTENT -->
    <div id="content">
-    <div id="gallery" class="column-container pt05r">
-      <div class="column-2">
-        <div class="gallery-offset-left border-white bg-gray">
-          <div class="w100r h200">
-            <div class="img-archive-analytics-2 contain h200 bg-center">
-              <div class="bg-label-2 w50r h200">
-                <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60"><a href="/archive-markets-weekly-1.php" class="color-whitesmoke light-gray-hover">АРХИВ:</a></h2>
-                <h2 class="size-14 color-whitesmoke uppercase line-h16 ml20 mr20 h40"><a href="/archive-markets-weekly-1.php" class="color-whitesmoke light-gray-hover">РЫНКИ</a></h2>
-                <a href="/archive-markets-weekly-1.php"><img class="icon arrow" src="/img/icons/arrow-right-white.svg"></a>
-              </div>
+    <div id="gallery" class="column-container pt05r block-offset">
+<div class="column-2">
+      <div class="gallery-offset-left border-white bg-gray">
+        <div class="w100r h200">
+          <div class="img-archive-analytics-2 contain h200 bg-center">
+            <div class="bg-label-2 w50r h200">
+              <h2 class="size-14 color-whitesmoke uppercase line-h200 ml20 mr20 h120">
+                <a href="/archive-markets-weekly-1.php" class="color-whitesmoke light-gray-hover"> РЫНКИ </a>
+              </h2>
             </div>
           </div>
         </div>
       </div>
-      <div class="column-2">
-        <div class="gallery-offset-right border-white bg-gray">
-          <div class="w100r h200">
-            <div class="img-archive-analytics-3 contain h200 bg-center">
-              <div class="bg-label-2 w50r h200">
-                <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60"><a href="/archive-shares.php" class="color-whitesmoke light-gray-hover">АРХИВ:</a></h2>
-                <h2 class="size-14 color-whitesmoke uppercase line-h16 ml20 mr20 h40"><a href="/archive-shares.php" class="color-whitesmoke light-gray-hover">АКЦИИ</a></h2>
-                <a href="/archive-shares.php"><img class="icon arrow" src="/img/icons/arrow-right-white.svg"></a>
-              </div>
+    </div>
+    <div class="column-2">
+      <div class="gallery-offset-right border-white bg-gray">
+        <div class="w100r h200">
+          <div class="img-archive-analytics-3 contain h200 bg-center">
+            <div class="bg-label-2 w50r h200">
+              <h2 class="size-14 color-whitesmoke uppercase line-h200 ml20 mr20 h60">
+                <a href="/archive-shares.php" class="color-whitesmoke light-gray-hover"> АКЦИИ </a>
+              </h2>
             </div>
           </div>
         </div>
       </div>
-      <div class="column-2">
-        <div class="gallery-offset-left border-white bg-gray">
-          <div class="w100r h200">
-            <div class="img-archive-analytics-4 contain h200 bg-center">
-              <div class="bg-label-2 w50r h200">
-                <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60"><a href="/archive-reviews-2015.php" class="color-whitesmoke light-gray-hover">АРХИВ:</a></h2>
-                <h2 class="size-14 color-whitesmoke uppercase line-h16 ml20 mr20 h40"><a href="/archive-reviews-2015.php" class="color-whitesmoke light-gray-hover">ОБЗОРЫ</a></h2>
-                <a href="/archive-reviews-2015.php"><img class="icon arrow" src="/img/icons/arrow-right-white.svg"></a>
-              </div>
+    </div>
+    <div class="column-2">
+      <div class="gallery-offset-left border-white bg-gray">
+        <div class="w100r h200">
+          <div class="img-archive-analytics-4 contain h200 bg-center">
+            <div class="bg-label-2 w50r h200">
+              <h2 class="size-14 color-whitesmoke uppercase line-h200 ml20 mr20 h60">
+                <a href="/archive-reviews-2015.php" class="color-whitesmoke light-gray-hover"> ОБЗОРЫ </a>
+              </h2>
             </div>
           </div>
         </div>
       </div>
-      <div class="column-2">
-        <div class="gallery-offset-right border-white bg-gray">
-          <div class="w100r h200">
-            <div class="img-archive-analytics-5 contain h200 bg-center">
-              <div class="bg-label-2 w50r h200">
-                <h2 class="size-14 color-whitesmoke uppercase line-h60 ml20 mr20 h60"><a href="/archive-expert.php" class="color-whitesmoke light-gray-hover">АРХИВ:</a></h2>
-                <h2 class="size-14 color-whitesmoke uppercase line-h16 ml20 mr20 h40"><a href="/archive-expert.php" class="color-whitesmoke light-gray-hover">ЭКСПЕРТ</a></h2>
-                <a href="/archive-expert.php"><img class="icon arrow" src="/img/icons/arrow-right-white.svg"></a>
-              </div>
+    </div>
+    <div class="column-2">
+      <div class="gallery-offset-right border-white bg-gray">
+        <div class="w100r h200">
+          <div class="img-archive-analytics-5 contain h200 bg-center">
+            <div class="bg-label-2 w50r h200">
+              <h2 class="size-14 color-whitesmoke uppercase line-h200 ml20 mr20 h60">
+                <a href="/archive-expert.php" class="color-whitesmoke light-gray-hover"> ЭКСПЕРТ </a>
+              </h2>
             </div>
           </div>
         </div>
       </div>
+    </div>
     </div>
 	</div>
     <!-- /CONTENT -->

@@ -25,15 +25,46 @@
     <script src="carouselengine/amazingcarousel.js"></script>
     <link rel="stylesheet" type="text/css" href="carouselengine/initcarousel-1.css">
     <script src="carouselengine/initcarousel-1.js"></script>
+    <script src="sliderengine/amazingslider.js"></script>
+    <link rel="stylesheet" type="text/css" href="sliderengine/amazingslider-1.css">
+    <script src="sliderengine/initslider-1.js"></script>
     <!-- End of head section HTML codes -->
   </head>
   <body>
     <?php include 'html/header.html';?>
     <!-- HEADBLOCK -->
+    <!--
     <div id="cover"
       class="img-index-1 cover w100r h480 mt-80"
       style="background-position: center bottom;">
     </div>
+    -->
+    <!-- Insert to your webpage where you want to display the slider -->
+    <style type="text/css">
+    .amazingslider-img-box-1{
+      z-index: 99999999;
+    }
+    .amazingslider-img-box-2{
+      z-index: 99999999;
+    }
+    .amazingslider-img-box-3{
+      z-index: 99999999;
+    }
+    </style>
+    <div id="amazingslider-wrapper-1" style="z-index:-999;">
+        <div id="amazingslider-1" style="z-index:-999;">
+            <ul class="amazingslider-slides" style="display:none;">
+                <li><img src="/img/slider/qbf-carier-0001-d.jpg" />
+                </li>
+                <li><img src="/img/slider/qbf-contact-0003-d.jpg" />
+                </li>
+                <li><img src="/img/slider/qbf-contact-0004-d.jpg" />
+                </li>
+            </ul>
+        <div class="amazingslider-engine"><a href="http://amazingslider.com" title="Responsive JavaScript Image Slideshow">Responsive JavaScript Image Slideshow</a></div>
+        </div>
+    </div>
+    <!-- End of body section HTML codes -->
     <div id="headblock" class="column-container text-center">
       <div class="column-3 content-margin-index pb02r">
         <div class="column-offset bg-white">

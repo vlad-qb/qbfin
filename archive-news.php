@@ -24,8 +24,7 @@
     <?php include 'html/header-news.html';?>
     <!-- HEADBLOCK -->
       <div id="cover" 
-            class="img-archive-news-1 cover w100r h400 mt-80" 
-            style="background-position: center bottom;">
+            class="img-archive-news-1 cover w100r h400 mt-80">
         
       </div>
       <div id="headblock" class="column-container">
@@ -135,7 +134,7 @@
 	<div class="clearfix"></div> 
   <!-- CONTENT -->
   <div id="content">
-  <div id="gallery" class="column-container mt60">
+  <div id="gallery" class="column-container pt05r block-offset">
     <div class="column-2">
       <div class="gallery-offset-left border-white bg-gray">
         <div class="w100r h200">

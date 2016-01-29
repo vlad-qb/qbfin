@@ -24,7 +24,7 @@
     <?php include 'html/header-news.html';?>
     <!-- HEADBLOCK -->
       <div id="cover" 
-            class="img-press-1 cover w100r h400 mt-80" 
+            class="img-press-about-us-1 cover w100r h400 mt-80" 
             style="background-position: center bottom;">
         
       </div>
